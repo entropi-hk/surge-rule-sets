@@ -1,0 +1,36 @@
+{
+  "name": "@entropi/surge-domain-sets",
+  "version": "1.0.0",
+  "description": "Popular ad-blocking / track / malware / security blocklists ported to a format compatible with Surge DOMAIN-SET",
+  "main": "index.js",
+  "sideEffects": false,
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/entropi-hk/surge-domain-sets.git"
+  },
+  "keywords": [
+    "Surge",
+    "DOMAIN-SET",
+    "ad-block",
+    "dns",
+    "nsfw",
+    "tracker",
+    "security",
+    "oisd",
+    "hagezi"
+  ],
+  "author": "Ainsley <ainsley@entropi.hk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/entropi-hk/surge-domain-sets/issues"
+  },
+  "homepage": "https://github.com/entropi-hk/surge-domain-sets#readme"
+}
