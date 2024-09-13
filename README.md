@@ -12,73 +12,73 @@ In the meantime, check out hagezi's repo and OISD website for more info for more
 
 The following files are available:
 
-[hagezi-light.txt](domain-sets/hagezi-light.txt)
+[hagezi-light.txt](domain-sets/hagezi-light.txt?raw=1)
 
-[hagezi-multi.txt](domain-sets/hagezi-multi.txt)
+[hagezi-multi.txt](domain-sets/hagezi-multi.txt?raw=1)
 
-[hagezi-pro.txt](domain-sets/hagezi-pro.txt)
+[hagezi-pro.txt](domain-sets/hagezi-pro.txt?raw=1)
 
-[hagezi-pro-mini.txt](domain-sets/hagezi-pro-mini.txt)
+[hagezi-pro-mini.txt](domain-sets/hagezi-pro-mini.txt?raw=1)
 
-[hagezi-pro-plus.txt](domain-sets/hagezi-pro-plus.txt)
+[hagezi-pro-plus.txt](domain-sets/hagezi-pro-plus.txt?raw=1)
 
-[hagezi-pro-plus-mini.txt](domain-sets/hagezi-pro-plus-mini.txt)
+[hagezi-pro-plus-mini.txt](domain-sets/hagezi-pro-plus-mini.txt?raw=1)
 
-[hagezi-ultimate.txt](domain-sets/hagezi-ultimate.txt)
+[hagezi-ultimate.txt](domain-sets/hagezi-ultimate.txt?raw=1)
 
-[hagezi-ultimate-mini.txt](domain-sets/hagezi-ultimate-mini.txt)
+[hagezi-ultimate-mini.txt](domain-sets/hagezi-ultimate-mini.txt?raw=1)
 
-[hagezi-fake.txt](domain-sets/hagezi-fake.txt)
+[hagezi-fake.txt](domain-sets/hagezi-fake.txt?raw=1)
 
-[hagezi-pop-up-ads.txt](domain-sets/hagezi-pop-up-ads.txt)
+[hagezi-pop-up-ads.txt](domain-sets/hagezi-pop-up-ads.txt?raw=1)
 
-[hagezi-tif.txt](domain-sets/hagezi-tif.txt)
+[hagezi-tif.txt](domain-sets/hagezi-tif.txt?raw=1)
 
-[hagezi-tif-medium.txt](domain-sets/hagezi-tif-medium.txt)
+[hagezi-tif-medium.txt](domain-sets/hagezi-tif-medium.txt?raw=1)
 
-[hagezi-tif-mini.txt](domain-sets/hagezi-tif-mini.txt)
+[hagezi-tif-mini.txt](domain-sets/hagezi-tif-mini.txt?raw=1)
 
-[hagezi-doh-vpn-proxy-bypass.txt](domain-sets/hagezi-doh-vpn-proxy-bypass.txt)
+[hagezi-doh-vpn-proxy-bypass.txt](domain-sets/hagezi-doh-vpn-proxy-bypass.txt?raw=1)
 
-[hagezi-doh.txt](domain-sets/hagezi-doh.txt)
+[hagezi-doh.txt](domain-sets/hagezi-doh.txt?raw=1)
 
-[hagezi-no-safe-search.txt](domain-sets/hagezi-no-safe-search.txt)
+[hagezi-no-safe-search.txt](domain-sets/hagezi-no-safe-search.txt?raw=1)
 
-[hagezi-dynamic-dns.txt](domain-sets/hagezi-dynamic-dns.txt)
+[hagezi-dynamic-dns.txt](domain-sets/hagezi-dynamic-dns.txt?raw=1)
 
-[hagezi-badware-hosters.txt](domain-sets/hagezi-badware-hosters.txt)
+[hagezi-badware-hosters.txt](domain-sets/hagezi-badware-hosters.txt?raw=1)
 
-[hagezi-anti-piracy.txt](domain-sets/hagezi-anti-piracy.txt)
+[hagezi-anti-piracy.txt](domain-sets/hagezi-anti-piracy.txt?raw=1)
 
-[hagezi-gambling.txt](domain-sets/hagezi-gambling.txt)
+[hagezi-gambling.txt](domain-sets/hagezi-gambling.txt?raw=1)
 
-[hagezi-gambling-medium.txt](domain-sets/hagezi-gambling-medium.txt)
+[hagezi-gambling-medium.txt](domain-sets/hagezi-gambling-medium.txt?raw=1)
 
-[hagezi-gambling-mini.txt](domain-sets/hagezi-gambling-mini.txt)
+[hagezi-gambling-mini.txt](domain-sets/hagezi-gambling-mini.txt?raw=1)
 
-[hagezi-native-trackers-amazon.txt](domain-sets/hagezi-native-trackers-amazon.txt)
+[hagezi-native-trackers-amazon.txt](domain-sets/hagezi-native-trackers-amazon.txt?raw=1)
 
-[hagezi-native-trackers-apple.txt](domain-sets/hagezi-native-trackers-apple.txt)
+[hagezi-native-trackers-apple.txt](domain-sets/hagezi-native-trackers-apple.txt?raw=1)
 
-[hagezi-native-trackers-huawei.txt](domain-sets/hagezi-native-trackers-huawei.txt)
+[hagezi-native-trackers-huawei.txt](domain-sets/hagezi-native-trackers-huawei.txt?raw=1)
 
-[hagezi-native-trackers-microsoft.txt](domain-sets/hagezi-native-trackers-microsoft.txt)
+[hagezi-native-trackers-microsoft.txt](domain-sets/hagezi-native-trackers-microsoft.txt?raw=1)
 
-[hagezi-native-trackers-tiktok.txt](domain-sets/hagezi-native-trackers-tiktok.txt)
+[hagezi-native-trackers-tiktok.txt](domain-sets/hagezi-native-trackers-tiktok.txt?raw=1)
 
-[hagezi-native-trackers-tiktok-aggressive.txt](domain-sets/hagezi-native-trackers-tiktok-aggressive.txt)
+[hagezi-native-trackers-tiktok-aggressive.txt](domain-sets/hagezi-native-trackers-tiktok-aggressive.txt?raw=1)
 
-[hagezi-native-trackers-lg-web-os.txt](domain-sets/hagezi-native-trackers-lg-web-os.txt)
+[hagezi-native-trackers-lg-web-os.txt](domain-sets/hagezi-native-trackers-lg-web-os.txt?raw=1)
 
-[hagezi-native-trackers-vivo.txt](domain-sets/hagezi-native-trackers-vivo.txt)
+[hagezi-native-trackers-vivo.txt](domain-sets/hagezi-native-trackers-vivo.txt?raw=1)
 
-[hagezi-native-trackers-oppo-realme.txt](domain-sets/hagezi-native-trackers-oppo-realme.txt)
+[hagezi-native-trackers-oppo-realme.txt](domain-sets/hagezi-native-trackers-oppo-realme.txt?raw=1)
 
-[hagezi-native-trackers-oppo-xiaomi.txt](domain-sets/hagezi-native-trackers-oppo-xiaomi.txt)
+[hagezi-native-trackers-oppo-xiaomi.txt](domain-sets/hagezi-native-trackers-oppo-xiaomi.txt?raw=1)
 
-[oisd-small.txt](domain-sets/oisd-small.txt)
+[oisd-small.txt](domain-sets/oisd-small.txt?raw=1)
 
-[oisd-big.txt](domain-sets/oisd-big.txt)
+[oisd-big.txt](domain-sets/oisd-big.txt?raw=1)
 
-[oisd-nsfw.txt](domain-sets/oisd-nsfw.txt)
+[oisd-nsfw.txt](domain-sets/oisd-nsfw.txt?raw=1)
 
