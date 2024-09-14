@@ -458,12 +458,15 @@
 .agh.dshubham.xyz
 .home27.duckdns.org
 .jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .easyhandshake.com
@@ -530,6 +533,7 @@
 .dns.flymc.cc
 .biying.flymlc.com
 .gateway.fomichev.cloud
+.hkname.freecdn.one
 .dns.freopc.fr
 .dns.freyja.pw
 .dns.froth.zone
@@ -805,7 +809,6 @@
 .zrh1-ns01.monzoon.net
 .dns.moonssif.com
 .morbitzer.de
-.doh.morizt.id
 .dns.moulticast.net
 .dns.mrkaran.dev
 .msr177.com

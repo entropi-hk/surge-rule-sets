@@ -896,7 +896,9 @@
 .duba.net
 .home27.duckdns.org
 .jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .vpschito.duckdns.org
@@ -904,6 +906,7 @@
 .dutchproxy.nl
 .dns.dyn1.de
 .ueni.dyndns.org
+.gustamadh.dynv6.net
 .vpn.dzarlax.dev
 .dzhot.us
 .dnscache.e-utp.net
@@ -1067,6 +1070,7 @@
 .freebypassproxy.com
 .freecanadavpn.com
 .freecavpn.com
+.hkname.freecdn.one
 .freecloudvpn.com
 .freeconnect.link
 .freedevpn.com
@@ -1690,7 +1694,6 @@
 .dns.moonssif.com
 .morbitzer.de
 .morevpn.com
-.doh.morizt.id
 .dns.moulticast.net
 .movieproxy.com
 .vpn.mozilla.org
