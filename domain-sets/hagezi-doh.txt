@@ -547,6 +547,7 @@
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
+.adguard.gambini.org
 .dns.beta.gandi.net
 .gclouddns.com
 .adg.geili.me
@@ -565,7 +566,6 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
-.dns.glorydns.com
 .dns.gnb09.id
 .privacydns.go6lab.si
 .dns.goldplate.org
@@ -1325,7 +1325,6 @@
 .xn--durhre-yxa.de
 .dns.xuming.studio
 .dns.xusqui.com
-.dns.xwdmw.xyz
 .v2.xx3210766.live
 .dns.yameenassotally.com
 .2.dnscrypt-cert.browser.yandex.net
