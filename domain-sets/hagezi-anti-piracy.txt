@@ -4538,7 +4538,7 @@
 .instant-stresser.com
 .intermedio.ro
 .internetowa.tv
-.tracker.internetwarriors.net
+.internetwarriors.net
 .internetzonebd.com
 .interviewfor.red
 .intilo.com
@@ -4578,6 +4578,7 @@
 .iptvonly.tv
 .iptvprova.com
 .iptvsource.com
+.api.ipv4online.uk
 .tracker.ipv6tracker.org
 .tracker.ipv6tracker.ru
 .iraniantorrents.com
@@ -4926,9 +4927,8 @@
 .kmn-music.de
 .kmnbd.net
 .kmsautoplus.su
-.tracker.kmzs123.cn
 .tracker.kmzs123.com
-.tracker.kmzs123.tk
+.tracker.kmzs123.top
 .knaben.eu
 .knaben.org
 .knaben.ru
@@ -6558,7 +6558,7 @@
 .62-210-114-129.rev.poneytelecom.eu
 .popcorn-time.ch
 .popcorn-time.io
-.public.popcorn-tracker.org
+.popcorn-tracker.org
 .popcornflix.com
 .popcornflix.run
 .popcornflix.site
@@ -8628,7 +8628,7 @@
 .sukebei.tracker.wf
 .tracker810.xyz
 .trackerfix.com
-.open.trackerlist.xyz
+.trackerlist.xyz
 .trackermx.com
 .trackers.run
 .tk1.trackerservers.com
@@ -9394,7 +9394,7 @@
 .wsboard.pw
 .wsc-scriptz.org
 .wtfnzb.pw
-.omg.wtftrackr.pw
+.wtftrackr.pw
 .wunza.ws
 .wushare.com
 .wwatchseries.com
