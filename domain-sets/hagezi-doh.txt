@@ -456,7 +456,6 @@
 .dns.dotnet.win
 .doh.dscloud.me
 .agh.dshubham.xyz
-.home27.duckdns.org
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
