@@ -115,6 +115,7 @@
 .mwmbl.org
 .searx.mxchange.org
 .myprivatesrx.us
+.librex.myroware.eu
 .searx.nakhan.net
 .searx.namejeff.xyz
 .search.nebulacentre.net

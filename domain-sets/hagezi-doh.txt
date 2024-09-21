@@ -456,10 +456,13 @@
 .dns.dotnet.win
 .doh.dscloud.me
 .agh.dshubham.xyz
+.home27.duckdns.org
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
 .tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
@@ -1043,7 +1046,6 @@
 .dns.propheci.xyz
 .dns.psociety.de
 .publicdnsserver.com
-.pukanuragan.ru
 .dns.pumpkinvrar.com
 .puredns.org
 .dns-privacy.puregeni.us

@@ -426,6 +426,7 @@
 .dynnamn.ru
 .dynns.com
 .dyns.be
+.dyns.cx
 .dyns.net
 .dynserv.org
 .dynssl.com
@@ -467,6 +468,7 @@
 .entrydns.org
 .eolicatalinay.cl
 .epac.to
+.epicgamer.org
 .epicmilk.com
 .eptechguys.com
 .escape.to
@@ -1132,6 +1134,7 @@
 .portfwd.com
 .portmap.host
 .portrelay.com
+.possessed.us
 .pp.ua
 .prettyweak.com
 .priamaakcia.sk
@@ -1315,6 +1318,7 @@
 .stuns.org
 .sumibi.org
 .sundby.com
+.surak.kz
 .surfnet.ca
 .suroot.com
 .swtest.ru
