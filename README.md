@@ -19,7 +19,7 @@ Make sure to check out hagezi's repo and OISD website for more info for more det
 
 ## Rulesets
 
-**These RULE-SETs contain Apple's APN server IPs v4 & v6, we recommend using the DIRECT policy. macOS and iOS versions available. Ensure you select 'No Resolve' for iOS version to prevent DNS resolution.**
+**These RULE-SETs contain Apple's APN server IPs v4 & v6, we recommend using the DIRECT policy. macOS and iOS versions available. Rule's already have 'No Resolve' set for the IPs.**
 - [apple-apns-ios.txt](rule-sets/apple-apns-ios.txt?raw=1)
 - [apple-apns-macos.txt](rule-sets/apple-apns-macos.txt?raw=1)
 
