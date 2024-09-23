@@ -1,7 +1,7 @@
 {
   "name": "@entropi/surge-domain-sets",
   "version": "1.0.0",
-  "description": "Popular ad-blocking / track / malware / security blocklists ported to a format compatible with Surge DOMAIN-SET",
+  "description": "Surge RULE-SETs and DOMAIN-SETs for improving Surge functionality. Extends the built-in 'SYSTEM' RULE-SET which isn't very comprehensive, and also provides DOMAIN-SETS for blocking ads / trackers / malware, sourced from existing popular sources and ported to a format compatible with Surge",
   "main": "index.js",
   "sideEffects": false,
   "type": "module",
@@ -18,8 +18,12 @@
   },
   "keywords": [
     "Surge",
+    "RULE-SET",
     "DOMAIN-SET",
-    "ad-block",
+    "apple",
+    "APNs",
+    "malware",
+    "adblock",
     "dns",
     "nsfw",
     "tracker",
