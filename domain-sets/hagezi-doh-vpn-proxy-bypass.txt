@@ -292,7 +292,6 @@
 .beepassvpn.com
 .beetvpn.com
 .beevpn.com
-.adguard.beliefanx.cn
 .dns.belnet.be
 .dns.benpro.fr
 .dns.bermeitinger.eu
@@ -1518,7 +1517,6 @@
 .pihole.aws.ketan.dev
 .dns.keviland.com
 .dns.keweon.center
-.keyvpn.io
 .adg.khon.dev
 .adguard.kiboko.it
 .kickassproxy.com
@@ -1590,7 +1588,6 @@
 .linkmefree.net
 .linkmetube.com
 .dns.linkr.ninja
-.doh.linngde.com
 .lionssh.com
 .quickvpn.lipisoft.com
 .africadns1.liquidtelecom.net
@@ -1990,7 +1987,6 @@
 .ns4.opennameserver.org
 .openproxy.space
 .opentunnel.net
-.openvpn.cc
 .openvpn.com
 .openvpn.net
 .openvpn-ssh.com
@@ -2311,6 +2307,7 @@
 .dns.psociety.de
 .ptoserver.com
 .publicdnsserver.com
+.pukanuragan.ru
 .dns.pumpkinvrar.com
 .pupilproxy.com
 .puredns.org
@@ -2868,7 +2865,6 @@
 .dns.trust404.win
 .trustedproxies.com
 .truta.org
-.dns.tryk.app
 .doh.ibr.cs.tu-bs.de
 .tubeprox.com
 .tubeunblock.me
@@ -3256,7 +3252,6 @@
 .dns.warpnine.de
 .warpproxy.com
 .waselpro.com
-.watchproxy.com
 .watchunblocked.com
 .dns.engineer.web.id
 .doh.this.web.id
@@ -3272,7 +3267,6 @@
 .webproxyagent.com
 .webproxyfree.net
 .webproxyinc.com
-.webproxyusa.com
 .webrunnerproxy.com
 .webshare.io
 .janvet.website.pl

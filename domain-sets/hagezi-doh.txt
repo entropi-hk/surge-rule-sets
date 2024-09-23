@@ -133,7 +133,6 @@
 .dns.bebasid.com
 .internetsehat.bebasid.com
 .justhost.bedro.cloud
-.adguard.beliefanx.cn
 .dns.belnet.be
 .dns.benpro.fr
 .dns.bermeitinger.eu
@@ -745,7 +744,6 @@
 .dns.lihj.me
 .sby-doh.limotelu.org
 .dns.linkr.ninja
-.doh.linngde.com
 .africadns1.liquidtelecom.net
 .africadns2.liquidtelecom.net
 .dns.listo.click
@@ -1046,6 +1044,7 @@
 .dns.propheci.xyz
 .dns.psociety.de
 .publicdnsserver.com
+.pukanuragan.ru
 .dns.pumpkinvrar.com
 .puredns.org
 .dns-privacy.puregeni.us
@@ -1252,7 +1251,6 @@
 .tributh.net
 .dns.trust404.win
 .truta.org
-.dns.tryk.app
 .doh.ibr.cs.tu-bs.de
 .tuskythehusky.tech
 .nat64.tuxis.nl

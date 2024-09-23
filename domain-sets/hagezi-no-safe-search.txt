@@ -88,7 +88,6 @@
 .search.laksith.dev
 .searx.lavatech.top
 .search.leptons.xyz
-.search.lgbtq.cool
 .librex.me
 .searx.linux.pizza
 .searx.louifox.house
