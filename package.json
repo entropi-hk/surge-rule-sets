@@ -1,5 +1,5 @@
 {
-  "name": "@entropi/surge-domain-sets",
+  "name": "@entropi/surge-rule-sets",
   "version": "1.0.0",
   "description": "Surge RULE-SETs and DOMAIN-SETs for improving Surge functionality. Extends the built-in 'SYSTEM' RULE-SET which isn't very comprehensive, and also provides DOMAIN-SETS for blocking ads / trackers / malware, sourced from existing popular sources and ported to a format compatible with Surge",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/entropi-hk/surge-domain-sets.git"
+    "url": "https://github.com/entropi-hk/surge-rule-sets.git"
   },
   "keywords": [
     "Surge",
@@ -34,7 +34,7 @@
   "author": "Ainsley <ainsley@entropi.hk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/entropi-hk/surge-domain-sets/issues"
+    "url": "https://github.com/entropi-hk/surge-rule-sets/issues"
   },
-  "homepage": "https://github.com/entropi-hk/surge-domain-sets#readme"
+  "homepage": "https://github.com/entropi-hk/surge-rule-sets#readme"
 }

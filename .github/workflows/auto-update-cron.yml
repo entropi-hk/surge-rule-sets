@@ -21,8 +21,8 @@ jobs:
     - name: Add & Commit
       uses: EndBug/add-and-commit@v9.1.4
       with:
-        add: './domain-sets'
+        add: './blocklist-domain-sets'
         author_name: ainsly
         author_email: ainsley@entropi.hk
-        message: 'chore: auto update domain-sets'
+        message: 'chore: auto update blocklist-domain-sets'
         github_token: ${{ github.token }}

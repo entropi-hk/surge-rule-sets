@@ -1,6 +1,6 @@
 import { mkdir, rm, writeFile } from 'node:fs/promises';
 
-const outDir = new URL('./domain-sets/', import.meta.url);
+const outDir = new URL('./blocklist-domain-sets/', import.meta.url);
 const lists = [
   ['hagezi-light', 'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/light.txt'],
   ['hagezi-multi', 'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/multi.txt'],
