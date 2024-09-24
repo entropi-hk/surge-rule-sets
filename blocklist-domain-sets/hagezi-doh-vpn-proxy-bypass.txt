@@ -1722,6 +1722,7 @@
 .dns.iki.my.id
 .dns.lista.my.id
 .dns.mikrotikrumahan.my.id
+.dns.pnh.my.id
 .dns.repinger.my.id
 .dns1.server.my.id
 .id.terra.my.id
@@ -3241,7 +3242,6 @@
 .megumin.is.my.waifu.cz
 .yunyun.is.my.waifu.cz
 .waitfree.us
-.dns.wakgood.net
 .walln.com
 .dns.wang.art
 .wantaquddin.com
