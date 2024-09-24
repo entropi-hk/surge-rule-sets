@@ -19,13 +19,12 @@ Make sure to check out hagezi's repo and OISD website for more info for more det
 
 ## Rulesets
 
-**These RULE-SETs contain Apple's APN server IPs v4 & v6, we recommend using the DIRECT policy. macOS and iOS versions available. Rule's already have 'No Resolve' set for the IPs.**
-- [apple-apns-ios.txt](rule-sets/apple-apns-ios.txt?raw=1)
-- [apple-apns-macos.txt](rule-sets/apple-apns-macos.txt?raw=1)
+**These RULE-SETs contain Apple's APN server IPs v4 & v6, we recommend using the DIRECT policy or any proxy that is NOT Cloudflare Warp. 'No Resolve' is set for the IPs.**
+- [apple-apns.txt](rule-sets/apple-apns.txt?raw=1)
 
 ## Blocklists
 
-**The following blocklists are converted from above mentioned sources, REJECT these DOMAIN-SETs**:
+**The following blocklists are converted from above-mentioned sources, REJECT these DOMAIN-SETs**:
 
 - [hagezi-light.txt](blocklist-domain-sets/hagezi-light.txt?raw=1)
 - [hagezi-multi.txt](blocklist-domain-sets/hagezi-multi.txt?raw=1)
