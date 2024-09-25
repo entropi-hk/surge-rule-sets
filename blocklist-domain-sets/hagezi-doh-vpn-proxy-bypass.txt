@@ -619,6 +619,7 @@
 .dns.joaofidelix.com.br
 .dns.netraptor.com.au
 .new-proxy.com.de
+.dns.opnsource.com.au
 .proxy.com.de
 .proxy-service.com.de
 .proxy-site.com.de
@@ -896,7 +897,6 @@
 .duapps.com
 .duba.net
 .home27.duckdns.org
-.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
@@ -1132,7 +1132,6 @@
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
-.adguard.gambini.org
 .proxy.gamecove.net
 .gamers-nor.com
 .gamingssh.com
@@ -1719,6 +1718,7 @@
 .muxyuji.ru
 .d.apemlegit.my.id
 .vpnto.bhadrikais.my.id
+.please.dontsteal.my.id
 .dns.iki.my.id
 .dns.lista.my.id
 .dns.mikrotikrumahan.my.id
