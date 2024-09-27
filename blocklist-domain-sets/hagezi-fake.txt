@@ -1546,7 +1546,6 @@
 .bjorkcoffee.com
 .bk-tool.com
 .bl-group.net
-.black-stop.de
 .blackdiamondsalestore.shop
 .blackdiamondwien.at
 .blackforestathletics-apparel.com
@@ -2576,7 +2575,6 @@
 .cotovip.com
 .cotsrabatt.de
 .cotswoldluxde.shop
-.cotswoshop.com
 .cottline.com
 .cottonwears.com
 .mars-c.counterstrike.care
@@ -2697,6 +2695,7 @@
 .custodian-tech.de
 .custom-real-estate.com
 .cutcy.com
+.cutehandtool.com
 .cutesnowboard.com
 .cutlerymarkets.com
 .cutleryspyderco.com
@@ -2739,7 +2738,6 @@
 .dacoyo.com
 .daddeln.net
 .dadofthree.com
-.dafloxx.de
 .dagle.de
 .dagobert-unternehmensberatung.de
 .dailog.de
@@ -4894,6 +4892,7 @@
 .giftwarehome.com
 .gigachains.com
 .gigadealtjes.com
+.gigant-agencyjny.com
 .gilbert-onlinehandel.com
 .gileng.com
 .gilltry.com
@@ -5022,6 +5021,7 @@
 .goodlzflow.life
 .goodmarketshop.com
 .goodmedsshops.com
+.goodoutfitcheap.com
 .goodpricedrugs.com
 .goodqualitypot.com
 .goodsmellshop.com
@@ -10643,7 +10643,6 @@
 .schuhheld.com
 .schuhschritte.com
 .schuhschritte.de
-.schulbedarfsales.com
 .schuler-autoreifen.com
 .schultheissundroth.de
 .schultz-autoreifen.shop
@@ -10859,7 +10858,6 @@
 .shop-pecuni.at
 .shop-pharmacie-fr.com
 .shop-pharmacie-france.com
-.shop-rccar.com
 .shop-retailer.com
 .shop-rezeptfrei.de
 .shop-tableware.com
@@ -11378,14 +11376,12 @@
 .statehills.com
 .stationeryopt.com
 .stationerythe.com
-.stationsparty.de
 .staubsauger-deals.com
 .staubsauger-spar-deals.com
 .staubsaugerhaus.de
 .staubsaugerrabatt.de
 .staubzon.de
 .stclik.com
-.steamtoy-store.com
 .stefaniparfumerie.shop
 .stehaufe.de
 .stehaufes.shop
@@ -12474,7 +12470,6 @@
 .trendy-swimsuit.com
 .trendycarparts.de
 .trendychaussure.com
-.trendyhutnew.com
 .trendyintima.com
 .trendymenstock.com
 .trendymunich.de
@@ -12777,7 +12772,6 @@
 .usknifeoutlet.com
 .usladyluxury.com
 .uslightover.com
-.uslightshop.com
 .uslimithousehold.com
 .usmakeupspace.com
 .usmedsget.com
@@ -12932,7 +12926,6 @@
 .vejaschweiz.com
 .vejashoes.cz
 .vejashoesuk.com
-.vejashop.at
 .vejaslovenia.com
 .vejasneakeroutlet.de
 .vejasneakerswien.at
@@ -13134,7 +13127,6 @@
 .vogueretailus.com
 .vogueshoppopular.com
 .voguestorepro.com
-.voguestyleowner.com
 .vogueurb.com
 .vogueusshoes.com
 .vogueussupplier.com
@@ -13263,7 +13255,6 @@
 .wearaquatics.com
 .wearbreeze.de
 .weareturbo.io
-.wearowner.com
 .wearphilliplim.com
 .weatherwear.de
 .ledgerliveapps.web.app
