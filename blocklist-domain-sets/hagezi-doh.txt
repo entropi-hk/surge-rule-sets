@@ -258,7 +258,6 @@
 .adguard.frutuozo.com.br
 .dns.joaofidelix.com.br
 .dns.netraptor.com.au
-.dns.opnsource.com.au
 .dns.weixin.qq.com.cn
 .dns.redhosting.com.ar
 .doh.viatech.com.tw
@@ -457,7 +456,6 @@
 .doh.dscloud.me
 .agh.dshubham.xyz
 .home27.duckdns.org
-.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org

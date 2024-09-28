@@ -26849,7 +26849,6 @@
 .365ok2.com
 .365ok20.com
 .365ok21.com
-.365ok25.com
 .365ok4.com
 .365ok5.com
 .365ok55.com
@@ -136109,6 +136108,7 @@
 .pinbo07.com
 .pinbo08.com
 .pinbo09.com
+.pinbo10.com
 .pinbo12.com
 .pinbo13.com
 .pinbo15.com

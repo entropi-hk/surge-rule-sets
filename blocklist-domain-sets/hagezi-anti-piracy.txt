@@ -365,6 +365,7 @@
 .aaa.army
 .t1.aag.moe
 .tr.aag.moe
+.tr1.aag.moe
 .aarsen.me
 .abandon5000.com
 .abandonhouse.com

@@ -619,7 +619,6 @@
 .dns.joaofidelix.com.br
 .dns.netraptor.com.au
 .new-proxy.com.de
-.dns.opnsource.com.au
 .proxy.com.de
 .proxy-service.com.de
 .proxy-site.com.de
@@ -897,7 +896,6 @@
 .duapps.com
 .duba.net
 .home27.duckdns.org
-.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
