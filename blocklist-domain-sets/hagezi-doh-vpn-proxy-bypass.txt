@@ -896,6 +896,7 @@
 .duapps.com
 .duba.net
 .home27.duckdns.org
+.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
@@ -2395,7 +2396,6 @@
 .ringvpn.com
 .riseup.net
 .dns.roedel.cloud
-.adg.rokh.biz
 .dns.ronc.ru
 .roodel.com
 .roogen.com
@@ -2865,6 +2865,7 @@
 .dns.trust404.win
 .trustedproxies.com
 .truta.org
+.adg.tshost.no
 .doh.ibr.cs.tu-bs.de
 .tubeprox.com
 .tubeunblock.me

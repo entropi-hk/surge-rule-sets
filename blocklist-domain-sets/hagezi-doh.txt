@@ -456,6 +456,7 @@
 .doh.dscloud.me
 .agh.dshubham.xyz
 .home27.duckdns.org
+.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
@@ -1097,7 +1098,6 @@
 .ricko.is
 .dns.rin.sh
 .dns.roedel.cloud
-.adg.rokh.biz
 .dns.ronc.ru
 .dns.rootlab.top
 .dns.rotunneling.net
@@ -1251,6 +1251,7 @@
 .tributh.net
 .dns.trust404.win
 .truta.org
+.adg.tshost.no
 .doh.ibr.cs.tu-bs.de
 .tuskythehusky.tech
 .nat64.tuxis.nl

@@ -130,7 +130,6 @@
 .musk.actws.best
 .acy.com
 .ad-property.com
-.adadream.com
 .adamlio.de
 .adamsens.de
 .adaptabletool.com
@@ -198,7 +197,6 @@
 .aftermarket-part.com
 .aftermarkethobby.com
 .agbois.com
-.agbrennholzs.de
 .agc-agentur.de
 .agdenimshop.com
 .agf-placement.com
@@ -2940,7 +2938,6 @@
 .demoniaonlineshop.com
 .demoniaportugal.com
 .demoniaromania.com
-.demoniaschuhe.de
 .demoniashoesnorge.com
 .demoniastiefel.de
 .demoniasuomi.com
@@ -4610,6 +4607,7 @@
 .galeme.com
 .galeriasale.de
 .galeriasale.shop
+.galileofx.com
 .galleyonline.com
 .gambotmaschinen.com
 .game.toys
@@ -4862,6 +4860,7 @@
 .getsportsgo.com
 .getusmotorcycle.com
 .getvoltbox.com
+.getvoltplug.com
 .getvoltsemi.com
 .getyourmedshere.com
 .getyourpillshere.com
@@ -4993,6 +4992,7 @@
 .goldhandel-degussa.de
 .goldhandel-heute.de
 .goldhandel-kauf.de
+.goldhandel-testsieger.de
 .goldhandelkontor-testsieger1972.de
 .goldhealthwise.com
 .goldman-capital.com
@@ -6324,6 +6324,7 @@
 .jomaloneuk.com
 .jonathantruchon.com
 .jookostakookosta.com
+.jordan1suomi.com
 .jorgebiosca.com
 .josef-schneider.shop
 .joseherreras.com
@@ -6395,7 +6396,6 @@
 .kaffeetassen-sales.com
 .kaffeetime.de
 .kaffeevollautomat-kaufen.com
-.kaffeevollautomaten-angebote.com
 .kaffeewelt.store
 .kaffixx.de
 .kaftlatelitastore.com
@@ -6896,6 +6896,7 @@
 .lampstore-online.com
 .lanaeyamiller.com
 .landcutlery.com
+.landkaffee.com
 .landluftde.shop
 .landoverprtcanada.shop
 .laneberg.de
@@ -9456,7 +9457,6 @@
 .plus-appliance.com
 .plus-tennis.com
 .plusairsoft.com
-.pluscurtain.com
 .plusev.shop
 .plusfootwearus.com
 .plusforski.com
@@ -10078,7 +10078,6 @@
 .reli-lex.de
 .reliablebrandtool.com
 .reliablecourtyard.com
-.reliabledomestic.com
 .reliablehandtools.com
 .relyapparel.com
 .relyrugs.com
@@ -10397,7 +10396,6 @@
 .sale-homedecor.com
 .sale-jewellery.com
 .sale-living.com
-.sale-locomotive.com
 .sale-pils.com
 .sale-toolsstore.com
 .sale-toy.com
@@ -10429,7 +10427,6 @@
 .salegolfonline.com
 .salehandmade.com
 .salehome-items.com
-.salehome-kit.com
 .salehomegoods.com
 .salehomeus.com
 .saleiceclimbing.com
@@ -11141,6 +11138,7 @@
 .snovwalla.com
 .snowboard-usa.com
 .snowboardbrillende.com
+.snowboardcute.com
 .snowboardk2.de
 .snowboardlowsp.com
 .snowboundskier.com
@@ -11343,6 +11341,7 @@
 .spotdiamonds.com
 .spotyfx.com
 .spowo.at
+.spozer.de
 .sprayitonyou.com
 .springergarde.shop
 .springstepshoesde.shop
@@ -11392,6 +11391,7 @@
 .statehills.com
 .stationeryopt.com
 .stationerythe.com
+.stationsparty.de
 .staubsauger-deals.com
 .staubsauger-spar-deals.com
 .staubsaugerhaus.de
@@ -12102,7 +12102,6 @@
 .theshopcenter.store
 .thesignaturehardware.com
 .thesissystore.com
-.theskiingafford.com
 .thesport-outlet.com
 .thesportcategory.com
 .thesportsua.com
