@@ -1194,7 +1194,6 @@
 .bingewatch.to
 .binimoynet.com
 .binnews.in
-.binnews.me
 .binnewsgroup.com
 .binodonmela.net
 .binsearch.info
@@ -1235,7 +1234,6 @@
 .bitmetv.org
 .bitmovie.org
 .bitnation.com
-.bitnetbd.com
 .bitnova.info
 .bitoogle.com
 .bitport.io
@@ -1555,7 +1553,6 @@
 .cafehulu.com
 .calcio.la
 .calcio.ws
-.calibrecompanion.co
 .caly-film.pl
 .cambro.tv
 .cambros.tv
@@ -1688,7 +1685,6 @@
 .cb01.love
 .cb01.marketing
 .cb01.me
-.cb01.media
 .cb01.motorcycles
 .cb01.net
 .cb01.nl
@@ -1722,8 +1718,6 @@
 .cb01.taxi
 .cb01.tienda
 .cb01.tips
-.cb01.today
-.cb01.tools
 .cb01.tours
 .cb01.training
 .cb01.uno
@@ -1813,7 +1807,6 @@
 .cineblog01.casa
 .cineblog01.cc
 .cineblog01.cloud
-.cineblog01.club
 .cineblog01.co
 .cineblog01.com
 .cineblog01.cool
@@ -1854,7 +1847,6 @@
 .cineblog01.sh
 .cineblog01.space
 .cineblog01.taxi
-.cineblog01.today
 .cineblog01.top
 .cineblog01.tv
 .cineblog01.vet
@@ -2358,7 +2350,6 @@
 .ddl-warez.cc
 .ddl-warez.org
 .ddl-world.ws
-.ddl2.com
 .ddl2.ws
 .ddlbase.net
 .ddlcenter.com
@@ -2384,7 +2375,6 @@
 .tracker.ddunlimited.net
 .ddwarez.com
 .deadfrog.us
-.tracker.deadorbit.nl
 .fe.dealclub.de
 .deamonbytes.net
 .deathlord.eu
@@ -2833,7 +2823,6 @@
 .empresstorrents.com
 .emtrek.org
 .torrents.emu-russia.net
-.emulator.games
 .emule-box.com
 .emule-island.ru
 .bt.emuparadise.org
@@ -2990,7 +2979,6 @@
 .eurostreaming.sale
 .eurostreaming.sbs
 .eurostreaming.show
-.eurostreaming.site
 .eurostreaming.social
 .eurostreaming.soy
 .eurostreaming.space
@@ -9076,6 +9064,7 @@
 .vidclouds.icu
 .vidembed.net
 .videobin.co
+.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info
