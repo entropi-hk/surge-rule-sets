@@ -456,10 +456,12 @@
 .doh.dscloud.me
 .agh.dshubham.xyz
 .home27.duckdns.org
+.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
@@ -739,7 +741,6 @@
 .doh.libredns.gr
 .dot.libredns.gr
 .dns.lihj.me
-.sby-doh.limotelu.org
 .dns.linkr.ninja
 .africadns1.liquidtelecom.net
 .africadns2.liquidtelecom.net
