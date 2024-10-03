@@ -1089,7 +1089,6 @@
 .dns.renardyre.com
 .dns.repinger.com
 .dnspub.restena.lu
-.kaitain.restena.lu
 .dns.retakecs.com
 .rethinkdns.com
 .doh.rezhajul.io

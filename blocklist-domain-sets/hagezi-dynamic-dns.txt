@@ -1183,7 +1183,6 @@
 .rr.nu
 .rtam.net
 .rum.si
-.rundis.com
 .ruok.org
 .russkoeumea.com
 .rwbcode.com
@@ -1271,7 +1270,6 @@
 .skc.su
 .skies.tw
 .slasdot.com
-.sleepless.hk
 .sline.net
 .sly.io
 .slyip.com
@@ -1346,7 +1344,6 @@
 .thatip.com
 .thddns.net
 .the-button.com
-.theblacklist.org
 .thehomeserver.net
 .themcmillans.org
 .thenest.org

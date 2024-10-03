@@ -160,7 +160,6 @@
 .search.rabbit-company.com
 .nova.rambler.ru
 .searx.rasp.fr
-.librex.ratakor.com
 .whoogle-search--replitcomreside.repl.co
 .search.rhscz.eu
 .searx.roflcopter.fr

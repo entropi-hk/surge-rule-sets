@@ -2380,7 +2380,6 @@
 .repocket.co
 .restaurantgift.us
 .dnspub.restena.lu
-.kaitain.restena.lu
 .dns.retakecs.com
 .rethinkdns.com
 .revko.info
@@ -2584,7 +2583,6 @@
 .adguard.sparshbajaj.me
 .doh-01.spectrum.com
 .doh-02.spectrum.com
-.spedo.co
 .speedify.com
 .speedshare.app
 .speedssh.com
@@ -2700,7 +2698,6 @@
 .switch.ch
 .switchvpn.com
 .switchvpn.net
-.swoshsvpn.com
 .dns.syaifullah.com
 .ibksturm.synology.me
 .ihctw.synology.me
