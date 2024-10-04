@@ -8567,6 +8567,7 @@
 .tribalmixes.com
 .tricitytorrents.com
 .triptorrents.com
+.tr2.trkb.ru
 .tracker.trojangogogo.site
 .tronott.tv
 .troypoint.com
@@ -9090,7 +9091,6 @@
 .voirdrama.org
 .voirfilm.vip
 .voirfilms.ag
-.voirfilms.bz
 .voirfilms.io
 .voirfilms.tel
 .voirfilms.ws
@@ -9100,7 +9100,6 @@
 .voirseries.life
 .voirseries.rip
 .vww.voirseries.co
-.volno.org
 .volokit.com
 .volokit.tv
 .vootbd.live
@@ -9248,7 +9247,6 @@
 .bandhanbd.watchonlinemovies24.com
 .tv.watchonlinemovies24.com
 .watchonlineseries.eu
-.watchordown.com
 .watchraw.com
 .watchseries.bar
 .watchseries.movie
@@ -9292,7 +9290,6 @@
 .wcostream.net
 .wdupload.com
 .weakstreams.com
-.wearethereal.ninja
 .webbul.net
 .megawarez.webcindario.com
 .webfreecounter.com
@@ -9445,13 +9442,11 @@
 .xlist.ro
 .xmovie8.pro
 .xmovies.ws
-.xmovies8.fm
 .xmovies8.fun
 .xmovies8.io
 .xmovies8.is
 .xmovies8.lol
 .xmovies8.org
-.xmovies8.ru
 .xmovies8.si
 .xn--80a4b.com
 .xn--950bz4kqroyzjblb.com
@@ -9598,7 +9593,6 @@
 .youwatch.org
 .ntorrent.yoyo.pl
 .yqzuji.com
-.tr2.ysagin.top
 .yseries.tv
 .yst.ac
 .ytanime.tv
@@ -9733,6 +9727,7 @@
 .ziperto.com
 .zipnetbd.com
 .zippyshare.com
+.zippyshare.day
 .zipwarez.com
 .bt.zlofenix.org
 .zlotracker.org

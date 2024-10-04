@@ -190,7 +190,6 @@
 .extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com
 .sdkconfig.ad.eu.xiaomi.com
 .cdn.exp.xiaomi.com
-.us.mixin.api.files.xiaomi.com
 .lxcdn.dl.files.xiaomi.net
 .data.game.xiaomi.com
 .notice.game.xiaomi.com
@@ -214,7 +213,6 @@
 .vip-api.xmpush.global.xiaomi.com
 .hd.xiaomi.com
 .heyue.xiaomi.com
-.hm.xiaomi.com
 .huodong.xiaomi.com
 .huosai.xiaomi.com
 .activity.hybrid.xiaomi.com
