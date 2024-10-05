@@ -1232,7 +1232,6 @@
 .jp.tiarap.org
 .dns.tierradeayala.com
 .tigrons.ru
-.timedns.net
 .timmes.nl
 .dns.tipsy.coffee
 .dns.tls-data.de
@@ -1340,7 +1339,6 @@
 .zburger.top
 .zdn.ro
 .dns.zemows.industries
-.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .dns.zfsystem.tech
 .zougloub.eu

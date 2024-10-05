@@ -2793,7 +2793,6 @@
 .tigervpn.com
 .tigrons.ru
 .tikvpn.com
-.timedns.net
 .timetohide.me
 .timmes.nl
 .dns.tipsy.coffee
@@ -3380,7 +3379,6 @@
 .zenmate.com
 .zenrows.com
 .zenvpn.net
-.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .zerotier.com
 .zerotunnel.com

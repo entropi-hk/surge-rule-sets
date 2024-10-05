@@ -89,6 +89,7 @@
 .123movies.support
 .123movies.to
 .123movies.top
+.123movies.watch
 .123movies.website
 .123movies.wine
 .123movies.work
@@ -713,6 +714,7 @@
 .androidloading.com
 .androidrookies.com
 .andropalace.org
+.andyday.tv
 .anicloud.domains
 .anicloud.io
 .anidb.info
@@ -2564,6 +2566,8 @@
 .doodcdn.co
 .doodcdn.com
 .doodstream.com
+.doodstreamfiles.store
+.doodstreams.net
 .tr.doogh.club
 .doopes.com
 .dopebox.cc
@@ -3110,6 +3114,7 @@
 .fat.lv
 .fatalbits.ws
 .favhd.net
+.fawesome.tv
 .fbox.to
 .fboxtv.com
 .fbstream.tv
@@ -3123,6 +3128,7 @@
 .feuerbringer.com
 .ffbox.org
 .ffilms.club
+.ffmovies.biz
 .ffmovies.ru
 .ffmovies.ws
 .fiberlink.eu
@@ -3457,6 +3463,7 @@
 .flixtor.tk
 .flixtor.to
 .flixtor.vc
+.flixtor.win
 .flixwave.me
 .flixwave.to
 .flixy.org
@@ -3491,14 +3498,17 @@
 .fmovies.taxi
 .fmovies.to
 .fmovies.top
+.fmovies.website
 .fmovies.world
 .fmovies.wtf
+.fmovies0.cc
 .fmovies2.cx
 .fmovies3.com
 .fmoviesc.org
 .fmoviesf.co
 .fmoviesgo.net
 .fmovieshd.vip
+.fmoviesio.io
 .hd.fmoviesto.site
 .fmoviestv.site
 .fmoviez.org
@@ -5260,6 +5270,7 @@
 .megabitnetwork.net
 .megacam.xyz
 .megacanaisonline.me
+.megacloud.tube
 .megaddl.co
 .megadl.fr
 .megadownloadz.com
@@ -5382,6 +5393,7 @@
 .mma-tracker.net
 .mma-tracker.org
 .mmosite.com
+.mmoviesjoy.com
 .mmult.ru
 .mo9999.net
 .mob.org
@@ -5540,6 +5552,7 @@
 .moviesfoundonline.com
 .moviesgo.co
 .movieshd.watch
+.moviesjoy.is
 .moviesjoy.life
 .moviesjoy.net
 .moviesjoy.one
@@ -5556,6 +5569,7 @@
 .moviestube.icu
 .moviesub.net
 .moviesus.net
+.movieswatch.xyz
 .movieswbb.com
 .moviesyify.org
 .movietorrent.co
@@ -6215,11 +6229,13 @@
 .1337x.pages.dev
 .1337x-to.pages.dev
 .fmhy.pages.dev
+.go-moviesjoy.pages.dev
 .hdmoviesflix.pages.dev
 .piratebayproxy.pages.dev
 .rarbg.pages.dev
 .revanced-apks.pages.dev
 .thepiratebayproxy.pages.dev
+.www-soap2day.pages.dev
 .xpwatch-v2.pages.dev
 .paglasports.com
 .pahe.in
@@ -6251,6 +6267,8 @@
 .parliamentlive.tv
 .tracker.parrotsec.org
 .partis.si
+.ge.parvioncloud.online
+.wr.parvioncloud.online
 .passion-musique.net
 .passthepopcorn.me
 .passthepopcorn.org
@@ -7363,6 +7381,7 @@
 .soap2day.im
 .soap2day.is
 .soap2day.mx
+.soap2day.pe
 .soap2day.sh
 .soap2day.to
 .soap2day-online.com
@@ -9760,6 +9779,7 @@
 .zoomtorrents.com
 .zooqle.com
 .zoozle.org
+.zorbixdream.live
 .zorrostream.org
 .zorrostream.site
 .zorrostream.ws
