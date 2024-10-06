@@ -240,7 +240,6 @@
 .drm.market.xiaomi.com
 .xadx.file.market.xiaomi.com
 .t1.market.xiaomi.com
-.t14.market.xiaomi.com
 .t15.market.xiaomi.com
 .t17.market.xiaomi.com
 .t2.market.xiaomi.com
