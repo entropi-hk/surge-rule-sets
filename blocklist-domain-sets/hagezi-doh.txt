@@ -493,7 +493,6 @@
 .dns.fullaccesstointernet.jp.eu.org
 .dns.mayx.eu.org
 .sukidayo.eu.org
-.everovpn.co
 .dns.extrawdw.net
 .fra1.eyecay.xyz
 .dns.ezyss.id

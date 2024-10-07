@@ -940,7 +940,6 @@
 .dns.mayx.eu.org
 .sukidayo.eu.org
 .eurproxy.com
-.everovpn.co
 .evpn.net
 .evyy.net
 .ewon.biz
