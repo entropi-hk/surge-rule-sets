@@ -192,6 +192,16 @@
 .gecko31-normal-alisg.tiktokv.com
 .gecko31-normal-useast1a.tiktokv.com
 .gecko31-normal-useast2a.tiktokv.com
+.location.tiktokv.com
+.location-i18n.tiktokv.com
+.location-sg.tiktokv.com
+.location-ttp2.tiktokv.com
+.location-v6.tiktokv.com
+.location-v6-i18n.tiktokv.com
+.location-v6-ru.tiktokv.com
+.location-v6-sg.tiktokv.com
+.location-v6-va.tiktokv.com
+.location-va.tiktokv.com
 .log.tiktokv.com
 .log-i18n.tiktokv.com
 .log-phx.tiktokv.com
@@ -379,6 +389,8 @@
 .frontier-ttp2.us.tiktokv.com
 .gecko16-normal-useast8.us.tiktokv.com
 .gecko16-platform-useast5.us.tiktokv.com
+.location.us.tiktokv.com
+.location-ttp2.us.tiktokv.com
 .log.us.tiktokv.com
 .log16-applog-useast5.us.tiktokv.com
 .log16-normal-useast8.us.tiktokv.com

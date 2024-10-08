@@ -679,6 +679,7 @@
 .buythe.cybertruck.design
 .cynntex.fun
 .dns.cynthialabs.net
+.dns.d365.in
 .dns.d4d.moe
 .dns.d94.xyz
 .dns.d96.info
