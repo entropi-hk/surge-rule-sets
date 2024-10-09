@@ -1328,6 +1328,7 @@
 .zburger.top
 .zdn.ro
 .dns.zemows.industries
+.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .dns.zfsystem.tech
 .zougloub.eu

@@ -3318,6 +3318,7 @@
 .zenmate.com
 .zenrows.com
 .zenvpn.net
+.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .zerotier.com
 .zerotunnel.com

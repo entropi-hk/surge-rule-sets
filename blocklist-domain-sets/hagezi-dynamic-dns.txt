@@ -1391,6 +1391,7 @@
 .usa.cc
 .uzhi.ru
 .v13clan.com
+.v6.navy
 .v6.rocks
 .vankin.de
 .vctel.com
@@ -1424,7 +1425,6 @@
 .webredirect.org
 .webs.vc
 .westblade.com
-.wha.la
 .whyboner.com
 .wifizone.org
 .wikaba.com
