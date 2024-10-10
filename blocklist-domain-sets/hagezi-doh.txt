@@ -31,7 +31,6 @@
 .dns.888654.xyz
 .8888.google
 .89433332.xyz
-.doh.978159.xyz
 .dns.9999.sg
 .dns.a47.me
 .doh.aaaab3n.moe

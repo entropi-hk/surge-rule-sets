@@ -267,6 +267,7 @@
 .alfinanz.ch
 .alfonsa.de
 .alfresco-limit.com
+.alfresco-offer.com
 .alfrescoequipment.com
 .alfrescohouse.com
 .alfrescouflex.com
@@ -1947,6 +1948,7 @@
 .cavissimo.com
 .cb-sport.com
 .cbdhanf.at
+.cbhandlife.com
 .cbikestore.com
 .cbleurope.com
 .cbre-securityplace.com
@@ -1955,7 +1957,6 @@
 .cci-immobilien.de
 .ccleboulou.com
 .ccmedia.news
-.cdcauldron.com
 .cdeen.io
 .cdonvip.com
 .cdp-brennholz.de
@@ -3018,7 +3019,6 @@
 .doriancolin.com
 .doriansaga.com
 .doris-bauer.at
-.dormanshop.com
 .dorn-reifenhandel.shop
 .dorothystore.shop
 .dortmund-warenhaus.de
@@ -3655,7 +3655,6 @@
 .expochains.com
 .expres-store.com
 .express-rezeptfrei.de
-.expresseinkauf.com
 .expressfreightslogistics.com
 .expressmuenchen.de
 .expresstools.eu
@@ -4328,6 +4327,7 @@
 .game-byte.com
 .game-dynamics.com
 .game-str.com
+.gamebasic-de.com
 .gamecityz.com
 .gameparadies.com
 .gamer-zone.store
@@ -4723,6 +4723,7 @@
 .shoptr2.gpec-bd.org
 .gplate.de
 .gpt-chatt.com
+.gpt-definity.com
 .gpt-investor.de
 .gpt-reichtum.de
 .gpt-trader.de
@@ -5475,6 +5476,7 @@
 .houtpelletsprod.com
 .hoxhagmbh.de
 .hq-shopping.de
+.hqmed.net
 .hr2021.com
 .hrbathopt.com
 .hrvatskafarmacija.com
@@ -6690,6 +6692,7 @@
 .littlemde.shop
 .littlevikings.shop
 .liujoukshop.com
+.livaxxen.com
 .live-promo.at
 .liveg-tech.de
 .livemintnewstoday.com
@@ -6893,6 +6896,7 @@
 .magag.de
 .magasinhokabelgique.com
 .magasset.com
+.magellan-livret.com
 .magentashelf.com
 .magic-fishhook.com
 .magic-garment.com
@@ -8732,6 +8736,7 @@
 .pillows-decor.com
 .pills-au.com
 .pills-store-online24.com
+.pillsm.net
 .pillstock.net
 .pillz888.org
 .pilotshof.com
@@ -9636,6 +9641,7 @@
 .rx-ezy.com
 .rx-pharma.net
 .rx-qualityshop.com
+.rx2040.com
 .rxapothekefursie.com
 .rxappfree.com
 .rxcash.biz
@@ -11041,6 +11047,7 @@
 .telesys-market.com
 .teller-store.com
 .tellerschritte.de
+.tellwalkandtalk.com
 .telnegozio.com
 .tempe-ro.com
 .temperaent.com
@@ -11485,6 +11492,7 @@
 .tradeduac.com
 .tradeduac100.com
 .tradeduacai.com
+.tradeeurax.com
 .tradelanehub.com
 .trademastercfd.com
 .tradeneupro100.com
@@ -12289,6 +12297,7 @@
 .webmedshelp.com
 .webmremedies.com
 .dogiweb.webnode.it
+.mes-scpi-de-gre-a-gre.webnode.fr
 .webstorerx.com
 .webyeh.de
 .weckenbock.com
