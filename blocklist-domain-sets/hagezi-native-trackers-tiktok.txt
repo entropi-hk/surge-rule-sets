@@ -98,6 +98,16 @@
 .mcs-ttp2.us.tiktok.com
 .mssdk.us.tiktok.com
 .mssdk-ttp2.us.tiktok.com
+.location.tiktokv.com
+.location-i18n.tiktokv.com
+.location-sg.tiktokv.com
+.location-ttp2.tiktokv.com
+.location-v6.tiktokv.com
+.location-v6-i18n.tiktokv.com
+.location-v6-ru.tiktokv.com
+.location-v6-sg.tiktokv.com
+.location-v6-va.tiktokv.com
+.location-va.tiktokv.com
 .log.tiktokv.com
 .log-i18n.tiktokv.com
 .log-phx.tiktokv.com
@@ -212,6 +222,8 @@
 .rtlog58-normal-useast1a.tiktokv.com
 .rtlog58-normal-useast2a.tiktokv.com
 .rtlog58-normal-ycru.tiktokv.com
+.location.us.tiktokv.com
+.location-ttp2.us.tiktokv.com
 .log.us.tiktokv.com
 .log16-applog-useast5.us.tiktokv.com
 .log19-applog-useast5.us.tiktokv.com
