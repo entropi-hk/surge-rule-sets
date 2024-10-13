@@ -631,7 +631,6 @@
 .coolbits.org
 .corecloak.com
 .doh.cornes.me
-.coverproxy.com
 .doh.cox.net
 .dot.cox.net
 .dohdot.coxlab.net
@@ -1842,7 +1841,6 @@
 .njal.la
 .njtzzrvg0lwj3bsn.info
 .nntime.com
-.no-block.net
 .nocensor.work
 .pi1.node15.com
 .nodepay.ai
@@ -1997,7 +1995,6 @@
 .papervpn.info
 .dns.pari.network
 .pashagame456.com
-.leo.paulmihaipavel.com
 .pawxy.com
 .pbproxy.red
 .pbproxy2.co
@@ -2805,7 +2802,6 @@
 .tubeunblock.me
 .tunnelbear.com
 .turbohide.org
-.turbossh.com
 .turbotrackvpn.com
 .turbovpn.co
 .turbovpn.com

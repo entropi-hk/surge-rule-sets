@@ -6,7 +6,6 @@
 .search.ahwx.org
 .search.albony.xyz
 .alltheinternet.com
-.zoek.anchel.nl
 .andisearch.com
 .recherche.aol.fr
 .search.aol.ca
@@ -25,7 +24,6 @@
 .search.bowlman.org
 .search.bus-hit.me
 .sx.catgirl.cloud
-.recherche.catmargue.org
 .search.aol.co.uk
 .websearch.excite.co.jp
 .searx.com.au
@@ -46,7 +44,6 @@
 .search.disroot.org
 .searx.divided-by-zero.eu
 .dogpile.com
-.searx.dojocasts.com
 .search.dojoro.de
 .searx.doofpot.nl
 .search.dr460nf1r3.org
