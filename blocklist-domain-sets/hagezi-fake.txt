@@ -686,6 +686,7 @@
 .au-meds.com
 .auctionskidcheap.com
 .audelion.de
+.audery.de
 .audienticys.com
 .audio-live.net
 .audiomachinery.com
@@ -739,15 +740,11 @@
 .autoreifen-lemke.com
 .autoreifen-miller.com
 .autoreifen-mohr.com
-.autoreifen-moll.shop
-.autoreifen-peter.shop
 .autoreifen-pfaff.com
-.autoreifen-pohl.shop
 .autoreifen-rohde.com
 .autoreifen-schade.shop
 .autoreifen-scheffler.com
 .autoreifen-schmitz.com
-.autoreifen-schubert.shop
 .autoreifen-stadler.com
 .autoreifen-stephan.com
 .autoreifen-wiese.shop
@@ -912,7 +909,6 @@
 .barbecuegrill-shop.com
 .barbelli.net
 .barbouraustria.at
-.barbourfashion.com
 .barbourpolska.com
 .barbourpolska.net
 .barefootshoesosterreich.top
@@ -1863,6 +1859,7 @@
 .cci-immobilien.de
 .ccleboulou.com
 .ccmedia.news
+.cdcauldron.com
 .cdeen.io
 .cdonvip.com
 .cdp-brennholz.de
@@ -3488,7 +3485,6 @@
 .expochains.com
 .expres-store.com
 .express-rezeptfrei.de
-.expresseinkauf.com
 .expressfreightslogistics.com
 .expressmuenchen.de
 .expresstools.eu
@@ -3976,11 +3972,9 @@
 .frettchen-fun.de
 .freudeshau.shop
 .freva-handel.de
-.frey-reifenversand.shop
 .frey-versand.net
 .fribbler.de
 .friboo-de.com
-.fricke-reifenversand.shop
 .friedrich-betz.de
 .friedshop.com
 .frilufgebote.de
@@ -4120,6 +4114,7 @@
 .game-byte.com
 .game-dynamics.com
 .game-str.com
+.gamebasic-de.com
 .gamecityz.com
 .gameparadies.com
 .gamer-zone.store
@@ -4340,6 +4335,7 @@
 .getsnowsports.com
 .getsportsgo.com
 .getvoltbox.com
+.getvoltplug.com
 .getvoltsemi.com
 .getyourmedshere.com
 .getyourpillshere.com
@@ -5095,7 +5091,6 @@
 .holzverbrennungsheizungen.com
 .home-aytm.com
 .home-miller.com
-.home-multiplegoods.com
 .home-stylish.com
 .home-tester.de
 .home-trend24.de
@@ -5777,6 +5772,7 @@
 .katrin-hugenberg.shop
 .katrinawcares.com
 .katzchennachhause.de
+.katzende.de
 .kauf-motorroller.com
 .kauf-rasenmaher-de.com
 .kaufdefahrrad.com
@@ -5986,6 +5982,7 @@
 .kobaltoutlet.com
 .kobanga.de
 .kobi-markt.com
+.kochenbackenneu.de
 .kochengadget.de
 .kochenstein.de
 .kochgenusswelt.shop
@@ -6396,7 +6393,6 @@
 .loewe-vom-sauerland.de
 .logic-full.com
 .logic-work.com
-.logisax-tech.de
 .logistikarbeitsplatz.com
 .lola-amsterdam.com
 .lolamarkt.com
@@ -6823,7 +6819,6 @@
 .meinholzz.de
 .meinkleinerbaum.de
 .meintechnik.de
-.meister-reifenversand.shop
 .meisterelektrik-24.at
 .meistergroup.shop
 .meiteshop.com
@@ -6865,7 +6860,6 @@
 .merge-properties.com
 .mergesportnew.com
 .merkatoltd.com
-.merkel-autoreifen.shop
 .merlin-apotheke.com
 .mermaidmedia.de
 .meroycollection.store
@@ -6876,7 +6870,6 @@
 .merrellsandaalit.com
 .merrellschuhe.de
 .merrellsklepy.pl
-.mertens-reifenhandel.shop
 .meruty.com
 .messara-kreta.de
 .messerprada.de
@@ -7016,7 +7009,6 @@
 .mobile-find.mobi
 .mobile-wellnessoase.de
 .mobilermarkt.de
-.mobilfunk-schmidtchen.de
 .mobilizex.com
 .mobilmitkids.de
 .mobzilla.shop
@@ -7389,7 +7381,6 @@
 .neu-spielzeug.com
 .neuangelnrabatt.com
 .neubeleuchtung.com
-.neubert-autoreifen.shop
 .neubootsladen.com
 .neudisney.de
 .neueara.de
@@ -8250,7 +8241,6 @@
 .petworld-plus.com
 .pfannen-onshop.com
 .pfarrei-herz-mariae-igb.de
-.pfeiffer-reifenhandel.shop
 .pfeil-handel.de
 .pfennig-energieholz.com
 .pferdedeckende.com
@@ -8307,7 +8297,6 @@
 .pillen-apotheke.info
 .pillen-guenstig.de
 .pillen-versand.de
-.pillenapotheke.com
 .pillenapotheke.org
 .pillenapotheke24.de
 .pillendiscounter.nl
@@ -8608,6 +8597,7 @@
 .puzzleschritte.de
 .pwdyvpg.shop
 .pwstyle.shop
+.pxzcl.com
 .pylonize-tech.de
 .pyro-effects.com
 .pyro-expression.com
@@ -8826,7 +8816,6 @@
 .reebokaustria.com
 .reebokosterreichoutlet.com
 .reedoo.net
-.refiningfurniture.com
 .reformhau.shop
 .refrigs.store
 .regencytable.com
@@ -8874,7 +8863,6 @@
 .reifenhandel-jordan.shop
 .reifenhandel-keil.com
 .reifenhandel-kellner.com
-.reifenhandel-niemann.shop
 .reifenhandel-noll.com
 .reifenhandel-rausch.shop
 .reifenhandel-schott.com
@@ -8898,8 +8886,6 @@
 .reifenversand-kaufmann.com
 .reifenversand-lange.shop
 .reifenversand-miller.shop
-.reifenversand-moser.shop
-.reifenversand-pfaff.shop
 .reifenversand-schenk.com
 .reifenversand-steffen.com
 .reifenversand-stock.shop
@@ -9392,7 +9378,6 @@
 .schmuckrabatt.com
 .schmuckverka.com
 .schmusepucki.com
-.schnabel-reifen.shop
 .schnaeppchenkoenigde.de
 .schnaeppchenschatz24.de
 .schnappchenmarkt.com
@@ -9698,7 +9683,6 @@
 .shouaa.com
 .showblanketsonline.com
 .showerheadmr.com
-.showerroomvitra.com
 .shuttleockstore.com
 .sia-coins.com
 .siaeglisiwoodltd.com
@@ -9879,6 +9863,7 @@
 .solidinvest.co
 .sollerts.de
 .solobit.co
+.solofa.de
 .solovair-deutschland.de
 .solovairargentina.com
 .solovairbelgique.com
@@ -11172,6 +11157,7 @@
 .uniqlo-suomi.com
 .uniqloaustria.at
 .uniqlosuomioutlet.com
+.uniqlowien.com
 .unique-exchange.co
 .uniquelampus.com
 .uniqueshop-us.com
@@ -11478,6 +11464,7 @@
 .vibekehvilsom.com
 .vibramshoes-usa.com
 .viceregale.com
+.vicidola.com
 .vicotoris.com
 .victoryshop.shop
 .videforex.com
@@ -11586,6 +11573,7 @@
 .volina.de
 .volini.de
 .volker-edelmann.shop
+.vollebude.de
 .volleyballover.com
 .vollmer-replica.com
 .vollwertlust.de
@@ -12077,6 +12065,7 @@
 .zachbrookedain.com
 .zagnia.de
 .zahmerbikes.com
+.zahnpflegerabatt.de
 .zainabchemicals.com
 .zalandode.com
 .zaliase.de
