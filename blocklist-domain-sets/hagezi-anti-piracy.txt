@@ -3735,6 +3735,7 @@
 .ettv.g3g.fun
 .g4u.to
 .gabber.space
+.yuptracker.gaijinent.com
 .galacticcentral.org
 .galtro.fr
 .gamato.info
@@ -7616,6 +7617,7 @@
 .ssrmovies.mov
 .ssrmovies.win
 .sst.wtf
+.st-tracker.eu
 .stadium-live.biz
 .stafaband.info
 .stagatv.com
