@@ -832,6 +832,7 @@
 .doh.mmmalia.com
 .dns.mnet-online.de
 .mnrv.trade
+.dns.mo0on15.com
 .dnstls.mobik.com
 .nue2.moderateinfra.net
 .ps1.modr.club
@@ -1043,6 +1044,7 @@
 .dns.pernika.net
 .darya.persiannit.net
 .dns.pesaventofilippo.com
+.adguard.pggns.de
 .dns.phillipjberry.net
 .doh.centraleu.pi-dns.com
 .dot.centraleu.pi-dns.com
@@ -1142,6 +1144,7 @@
 .dns.reitmeier.me
 .dns.renardyre.com
 .dns.repinger.com
+.dns.repressoh.it
 .dnspub.restena.lu
 .dns.retakecs.com
 .rethinkdns.com
@@ -1220,6 +1223,7 @@
 .dnsovertls1.sinodun.com
 .dnsovertls2.sinodun.com
 .dnsovertls3.sinodun.com
+.dns.siry.de
 .sitdns.com
 .dns.skrep.eu
 .dns.skrep.in
@@ -1314,6 +1318,7 @@
 .dns.twnic.tw
 .adguard.twotigers.xyz
 .dns.txq.life
+.typaza.com
 .ad.tzockt.beer
 .adguard-ironhide.ultima-thule.ru
 .dns.umbrella.com

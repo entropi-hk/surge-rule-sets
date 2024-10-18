@@ -414,6 +414,7 @@
 .cactusvpn.com
 .dns.cahlen.com
 .callies-online.site
+.calumis.gay
 .tor.calyxinstitute.org
 .cantblockthis.org
 .cantfindme.org
@@ -666,6 +667,7 @@
 .croxyproxy.com
 .croxyproxy.net
 .croxyproxy.rocks
+.croxyproxy.us
 .crushus.com
 .crusty.motorcycles
 .crypticvpn.com
@@ -1007,6 +1009,7 @@
 .doh.ffmuc.net
 .dot.ffmuc.net
 .dns.ffnw.de
+.ffsurf.net
 .dns.fgbk.net
 .fiberprox.com
 .fiberprox.me
@@ -1691,6 +1694,7 @@
 .doh.mmmalia.com
 .dns.mnet-online.de
 .mnrv.trade
+.dns.mo0on15.com
 .dnstls.mobik.com
 .mobilejump.mobi
 .mobilevpn.net
@@ -1757,6 +1761,7 @@
 .myspaceunlock.com
 .vm.mytm.cc
 .mytunneling.com
+.myturtle.net
 .myvpn.com
 .mywebproxy.in
 .mywebproxy.net
@@ -2066,6 +2071,7 @@
 .personalvpn.com
 .personaly.click
 .dns.pesaventofilippo.com
+.adguard.pggns.de
 .dns.phillipjberry.net
 .photonsecure.com
 .phpbido.com
@@ -2257,6 +2263,7 @@
 .proxydrop.com
 .proxydude.red
 .proxydude.xyz
+.proxyduke.lol
 .proxyelite.info
 .proxyen.com
 .proxyer.net
@@ -2394,6 +2401,7 @@
 .dns.renardyre.com
 .dns.repinger.com
 .repocket.co
+.dns.repressoh.it
 .restaurantgift.us
 .dnspub.restena.lu
 .dns.retakecs.com
@@ -2548,6 +2556,7 @@
 .dnsovertls2.sinodun.com
 .dnsovertls3.sinodun.com
 .sinovpn.com
+.dns.siry.de
 .sitdns.com
 .site2unblock.com
 .siteblockedbypass.com
@@ -2583,6 +2592,7 @@
 .guard.sntrk.ru
 .socialnetworkinfo.us
 .socks-proxy.net
+.www-proxy.sodemc.com
 .clientdns3.softcom.net
 .free-vpn.en.softonic.com
 .solidproxy.net
@@ -2743,6 +2753,7 @@
 .tx.teradns.org
 .uk.teradns.org
 .dns.soldier.terumi.club
+.teruteruteruko.com
 .dns.tesem.dog
 .cloud.tezoi.com
 .thankvpn.com
@@ -2884,6 +2895,7 @@
 .twoproxy.net
 .adguard.twotigers.xyz
 .dns.txq.life
+.typaza.com
 .ad.tzockt.beer
 .u8sj3.com
 .uas2.com
@@ -3334,6 +3346,7 @@
 .xite.ws
 .xitenow.com
 .xitesite.com
+.xjumper.com
 .dns.xlion.tw
 .xn--durhre-yxa.de
 .xperienc.com
