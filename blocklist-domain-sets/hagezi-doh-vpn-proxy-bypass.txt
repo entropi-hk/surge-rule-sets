@@ -903,7 +903,6 @@
 .vpschito.duckdns.org
 .dukun.de
 .dutchproxy.nl
-.dns.dyn1.de
 .ueni.dyndns.org
 .gustamadh.dynv6.net
 .vpn.dzarlax.dev
@@ -1247,7 +1246,6 @@
 .adguard.haneulo.com
 .dns.hanmey.de
 .hanniel.tech
-.dns.hannielzhang.com
 .happy-vpn.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
@@ -1546,7 +1544,6 @@
 .xray.krnl.eu
 .kryptovpn.kryptotel.net
 .adguard.kss.ovh
-.dns.kugoapps.com
 .dns.kukal.cz
 .dns.kuuhaku.moe
 .kx-97795-tr.xyz
@@ -1926,7 +1923,6 @@
 .ns3.com
 .ns3.cx
 .ns3.link
-.dnscache0.ns71.net
 .ns8469rfvth42.xyz
 .nslookup.io
 .dns.nullgate.net

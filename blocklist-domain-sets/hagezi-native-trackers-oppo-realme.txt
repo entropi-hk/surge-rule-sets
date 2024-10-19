@@ -50,7 +50,6 @@
 .icota-service-eu.allawnos.com
 .iot-earbuds-eu.allawnos.com
 .iot-earbuds-sg.allawnos.com
-.iot-earbuds-us.allawnos.com
 .lang-server-eu.allawnos.com
 .lang-server-in.allawnos.com
 .lang-server-sg.allawnos.com

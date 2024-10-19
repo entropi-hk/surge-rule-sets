@@ -73,7 +73,6 @@
 .api.launcher.intl.miui.com
 .api.mintbrs.intl.miui.com
 .api.muc.intl.miui.com
-.api.newsfeed.intl.miui.com
 .adv.sec.intl.miui.com
 .authbe.sec.intl.miui.com
 .data.sec.intl.miui.com

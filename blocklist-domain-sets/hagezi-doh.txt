@@ -478,7 +478,6 @@
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .dukun.de
-.dns.dyn1.de
 .ueni.dyndns.org
 .gustamadh.dynv6.net
 .adguard.easez.net
@@ -607,7 +606,6 @@
 .adguard.haneulo.com
 .dns.hanmey.de
 .hanniel.tech
-.dns.hannielzhang.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
 .query.hdns.io
@@ -745,7 +743,6 @@
 .adblock.krctech.dev
 .xray.krnl.eu
 .adguard.kss.ovh
-.dns.kugoapps.com
 .dns.kukal.cz
 .dns.kuuhaku.moe
 .kx-97795-tr.xyz
@@ -984,7 +981,6 @@
 .ns3.com
 .ns3.cx
 .ns3.link
-.dnscache0.ns71.net
 .dns.nullgate.net
 .dns.numerus.com
 .ns.nwps.fi

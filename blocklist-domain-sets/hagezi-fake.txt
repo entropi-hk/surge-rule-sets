@@ -746,7 +746,6 @@
 .autoreifen-miller.com
 .autoreifen-mohr.com
 .autoreifen-pfaff.com
-.autoreifen-pohl.shop
 .autoreifen-rohde.com
 .autoreifen-schade.shop
 .autoreifen-scheffler.com
@@ -1135,6 +1134,7 @@
 .bestgamestopshop.de
 .bestgenericonline.com
 .bestgenericpills24.com
+.besthunny.com
 .bestknifeworld.com
 .bestmarkt24.com
 .bestmedicineservice.com
@@ -4006,6 +4006,7 @@
 .frey-versand.net
 .fribbler.de
 .friboo-de.com
+.fricke-reifenversand.shop
 .friedrich-betz.de
 .friedshop.com
 .frilufgebote.de
@@ -7662,7 +7663,6 @@
 .nurseryfurnitures.com
 .nursingaccessoriesstore.com
 .nutripurde.com
-.nuubu.com
 .nuxxu.de
 .nvgtndeutschland.de
 .nvgtnosterreich.at
@@ -10123,7 +10123,6 @@
 .statehills.com
 .stationeryopt.com
 .stationerythe.com
-.stationsparty.de
 .staubsauger-deals.com
 .staubsauger-spar-deals.com
 .staubsaugerhaus.de
@@ -11556,7 +11555,6 @@
 .vibekehvilsom.com
 .vibramshoes-usa.com
 .viceregale.com
-.vicidola.com
 .vicotoris.com
 .victoryshop.shop
 .videforex.com
