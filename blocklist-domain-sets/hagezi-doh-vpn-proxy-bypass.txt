@@ -903,6 +903,7 @@
 .vpschito.duckdns.org
 .dukun.de
 .dutchproxy.nl
+.dns.dyn1.de
 .ueni.dyndns.org
 .gustamadh.dynv6.net
 .vpn.dzarlax.dev
@@ -1246,6 +1247,7 @@
 .adguard.haneulo.com
 .dns.hanmey.de
 .hanniel.tech
+.dns.hannielzhang.com
 .happy-vpn.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
@@ -1941,6 +1943,7 @@
 .dns.odinpl.com
 .dns.ofdoom.net
 .okayfreedom.com
+.dns.olpploiopkuyhiopsfrt.info
 .olympicproxy.net
 .adguard.oms-ctr.ru
 .onconnect.info

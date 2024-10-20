@@ -478,6 +478,7 @@
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .dukun.de
+.dns.dyn1.de
 .ueni.dyndns.org
 .gustamadh.dynv6.net
 .adguard.easez.net
@@ -606,6 +607,7 @@
 .adguard.haneulo.com
 .dns.hanmey.de
 .hanniel.tech
+.dns.hannielzhang.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
 .query.hdns.io
@@ -991,6 +993,7 @@
 .obscuro.top
 .dns.odinpl.com
 .dns.ofdoom.net
+.dns.olpploiopkuyhiopsfrt.info
 .adguard.oms-ctr.ru
 .one.one.one.one
 .doh.onedns.net
