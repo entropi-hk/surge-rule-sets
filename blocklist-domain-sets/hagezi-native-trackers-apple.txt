@@ -64,6 +64,7 @@
 .proxy-skadnetwork.apple.com
 .qa-iad.apple.com
 .radarsubmissions.apple.com
+.sdkintg-iad.apple.com
 .sdkintgiad.apple.com
 .searchads.apple.com
 .securemetrics.apple.com

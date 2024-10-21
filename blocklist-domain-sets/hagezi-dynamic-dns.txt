@@ -104,6 +104,7 @@
 .b33r.us
 .bad.mn
 .baden.ru
+.bagus.org
 .baikabibai.com
 .bakli.ru
 .barbaforte.org
@@ -160,7 +161,9 @@
 .cashit.info
 .cbopelousas.com
 .cbu.net
+.ccmissoula.com
 .cechire.com
+.celebsplay.com
 .celltrak.mobi
 .centserver.com
 .cf.gs
@@ -1079,6 +1082,7 @@
 .omicronceti3.net
 .on-the-web.tv
 .onedumb.com
+.onionsallyear.mobi
 .onmypc.biz
 .onmypc.info
 .onmypc.net
@@ -1166,6 +1170,7 @@
 .readmyblog.org
 .rebatesrule.net
 .recruitment7.com
+.recyclesolutionsllc.com
 .redirectme.net
 .reijn.org
 .remotecam.nu
@@ -1183,6 +1188,7 @@
 .rr.nu
 .rtam.net
 .rum.si
+.rundis.com
 .ruok.org
 .russkoeumea.com
 .rwbcode.com
@@ -1190,6 +1196,7 @@
 .sadayuki.jp
 .sandmeiers.ch
 .sannon-stamm.com
+.sarah-lai.com
 .saves-the-whales.com
 .scay.net
 .scieron.com
@@ -1290,6 +1297,7 @@
 .spdyn.de
 .spectrumnet.bg
 .spelar.se
+.spottt.com
 .sql01.com
 .sqlconcepts.com
 .squirly.info
@@ -1344,6 +1352,7 @@
 .thatip.com
 .thddns.net
 .the-button.com
+.theblacklist.org
 .thehomeserver.net
 .themcmillans.org
 .thenest.org
