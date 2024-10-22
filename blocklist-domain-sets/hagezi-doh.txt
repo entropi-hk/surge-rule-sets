@@ -33,7 +33,6 @@
 .dns.886886886.xyz
 .dns.888654.xyz
 .8888.google
-.89433332.xyz
 .dns.9999.sg
 .dns.a47.me
 .doh.aaaab3n.moe
@@ -1192,7 +1191,6 @@
 .dns.rin.sh
 .dns.roedel.cloud
 .dns.ronc.ru
-.dns.rootlab.top
 .dns.rotunneling.net
 .o.rsaikat.com
 .au.rslvr.eu

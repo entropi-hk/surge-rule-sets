@@ -88,7 +88,6 @@
 .dns.886886886.xyz
 .dns.888654.xyz
 .8888.google
-.89433332.xyz
 .8proxy.com
 .8v9m.com
 .922proxy.com
@@ -197,6 +196,8 @@
 .anonymitynetwork.com
 .anonymize.com
 .anonymizer.com
+.anonymizing.com
+.anonymous.at
 .anonymous-proxies.net
 .anonymous-proxy-servers.net
 .anonymousblog.info
@@ -445,7 +446,6 @@
 .cactusvpn.com
 .dns.cahlen.com
 .callies-online.site
-.calumis.gay
 .tor.calyxinstitute.org
 .cantblockthis.org
 .cantfindme.org
@@ -1047,7 +1047,6 @@
 .fastproxy.org
 .fastproxynetwork.com
 .fastssh.com
-.fasttime.info
 .fastusaproxy.com
 .fastvpn.im
 .fastvpn.me
@@ -1083,6 +1082,7 @@
 .xcomvpn-7000b-default-rtdb.firebaseio.com
 .fpn.firefox.com
 .testpilot.firefox.com
+.fireprox.net
 .firstcontact.site
 .fishproxy.com
 .fitnessdepotprices.com
@@ -1121,6 +1121,7 @@
 .free-signal.com
 .free-vpn.cn
 .free-vpn.xyz
+.free-webproxy.com
 .free2surfvpn.com
 .freeanimesonline.com
 .freebypassproxy.com
@@ -1358,7 +1359,6 @@
 .hidessh.com
 .hidester.com
 .hidesurf.us
-.hidetheinternet.com
 .hidethisip.net
 .hidevpn.info
 .hideway.eu
@@ -1431,7 +1431,6 @@
 .vpn.i81.ru
 .dns.iamanuragh.in
 .dns.iamninja.ru
-.dns.ian.rocks
 .iblocker.info
 .ibvpn.com
 .webproxy.ich-war-hier.de
@@ -1618,7 +1617,6 @@
 .agh.kyusang.win
 .dns.l337.site
 .doh.lacontrevoie.fr
-.lagometer.de
 .lalal.info
 .lantern.io
 .largero.com
@@ -1654,6 +1652,7 @@
 .dot.libredns.gr
 .dns.lihj.me
 .limevpn.com
+.limitlessproxy.com
 .michelo.line.pm
 .linkideo.com
 .linkmefree.net
@@ -2011,6 +2010,7 @@
 .okayfreedom.com
 .dns.olpploiopkuyhiopsfrt.info
 .olympicproxy.net
+.omegaproxy.com
 .adguard.oms-ctr.ru
 .onconnect.info
 .one.one.one.one
@@ -2037,6 +2037,7 @@
 .onion.sh
 .onion.to
 .onion.ws
+.onlineanonymizer.com
 .onlineipchanger.com
 .onlineproxy.eu
 .onlineproxy.io
@@ -2298,6 +2299,7 @@
 .proxpn.com
 .proxssl.com
 .proxtube.com
+.proxy.cc
 .proxy.lol
 .proxy.nu
 .proxy.org
@@ -2348,6 +2350,7 @@
 .proxyer.net
 .proxyfactory.io
 .proxyfish.com
+.proxyforfree.eu
 .proxyfree.org
 .proxygate.com
 .proxygizlen.com
@@ -2408,7 +2411,6 @@
 .publicdnsserver.com
 .pukanuragan.ru
 .dns.pumpkinvrar.com
-.pupilproxy.com
 .puredns.org
 .dns-privacy.puregeni.us
 .purevpn.com
@@ -2471,6 +2473,7 @@
 .rayneau.fr
 .rayobyte.com
 .dns.rbn.gr
+.readandmath.today
 .login.readinghelper.online
 .dns.reckoningslug.name
 .redproxy.info
@@ -2502,7 +2505,6 @@
 .roodel.com
 .roogen.com
 .roonyx.com
-.dns.rootlab.top
 .dns.rotunneling.net
 .roundrockisd.online
 .o.rsaikat.com
@@ -2798,6 +2800,7 @@
 .surfsharkstatus.com
 .surfshell.io
 .surfsjark.com
+.surfskip.com
 .surfsneaker.com
 .surfsuark.com
 .surtshark.com
@@ -2827,7 +2830,6 @@
 .dns1.techeasy.org
 .vpn.technicule.info
 .doh.technochat.in
-.technofix.ir
 .dns.technologycage.com
 .dns.technostriker.com
 .rx.techomespace.com
@@ -3009,7 +3011,6 @@
 .ultimateproxy.net
 .ultrabestproxy.com
 .ultrafastproxy.com
-.ultrafun.net
 .ultraproxy.biz
 .ultraproxyweb.com
 .ultrasurf.es
@@ -3130,6 +3131,7 @@
 .unblockit.pro
 .unblockit.rsvp
 .unblockit.uno
+.unblockmate.com
 .unblockme.us
 .unblockmyweb.com
 .unblockmywebsite.com
@@ -3148,6 +3150,7 @@
 .unblocksite.space
 .unblocksite.website
 .unblocksites.online
+.unblocksites.org
 .unblockvid.com
 .unblockvideos.com
 .unblockvpn.com
@@ -3176,6 +3179,8 @@
 .unlocator.com
 .unrestrict.me
 .unrestrictedsurf.com
+.unrestricter.com
+.unrestricter.org
 .unrestrictor.com
 .untraceable.us
 .untracer.com
@@ -3341,7 +3346,6 @@
 .vpnv6.com
 .vpnvip.com
 .antispam.vpnvps.com
-.vpnwebsite.com
 .vpnwelt.com
 .antispam.vpsvpn.com
 .vtcuong.site
