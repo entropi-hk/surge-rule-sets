@@ -680,7 +680,6 @@
 .vd.i81.ru
 .dns.iamanuragh.in
 .dns.iamninja.ru
-.dns.ian.rocks
 .mask.icloud.com
 .mask-api.icloud.com
 .mask-boot.icloud.com

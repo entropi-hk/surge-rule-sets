@@ -4715,6 +4715,7 @@
 .jkanime.online
 .jkanime.video
 .jmbsoft.com
+.tracker.jobser.eu
 .join4films.com
 .jojoy.io
 .jokerguide.com
@@ -4993,6 +4994,7 @@
 .kukajto.io
 .tracker.kuroy.me
 .ts.kurtubba.com
+.kuyhaa-me.site
 .tr.kxmp.cf
 .tr.kxmp.ml
 .l33t-raws.org
@@ -9838,6 +9840,7 @@
 .ntorrent.yoyo.pl
 .yoyomovies.net
 .yqzuji.com
+.tr3.ysagin.top
 .yseries.tv
 .yst.ac
 .ytanime.tv
