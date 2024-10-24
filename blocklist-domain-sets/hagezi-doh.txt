@@ -158,7 +158,6 @@
 .internetsehat.bebasid.com
 .justhost.bedro.cloud
 .dns.belnet.be
-.dns.benpro.fr
 .dns.bermeitinger.eu
 .bestwon203.com
 .ns3.bit-trail.nl

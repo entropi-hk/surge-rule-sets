@@ -32,6 +32,7 @@
 .3d-printing.store
 .3racingparts.com
 .3w-verlag.de
+.4k-smart.com
 .4living.at
 .4rxofficial.com
 .5-drugs.com
@@ -726,14 +727,11 @@
 .autoreifen-eberle.shop
 .autoreifen-feldmann.com
 .autoreifen-frenzel.com
-.autoreifen-geyer.com
 .autoreifen-herzog.com
 .autoreifen-horn.com
 .autoreifen-jansen.com
 .autoreifen-kahl.com
 .autoreifen-kessler.com
-.autoreifen-kilian.com
-.autoreifen-miller.com
 .autoreifen-moll.shop
 .autoreifen-noll.shop
 .autoreifen-peter.shop
@@ -836,6 +834,7 @@
 .babytoysangebote.de
 .babywarepromo.com
 .baccocapital.pro
+.bacedic.com
 .bachmann-handel.de
 .backen-shop.com
 .backformen-shop.com
@@ -1140,6 +1139,8 @@
 .bestpharmstore.top
 .bestpillservice.com
 .bestpillsnetwork.com
+.bestpriceremedies.com
+.bestpricetreatments.com
 .bestproaspect.com
 .bestproshopping.com
 .bestreliableremedies.com
@@ -1246,6 +1247,7 @@
 .bikesequipment.com
 .bikesget.com
 .bikeshockabsorberde.com
+.bikesiteopt.com
 .bikesonlinesale.com
 .biketaillightsde.com
 .biketireskit.com
@@ -1288,7 +1290,6 @@
 .binarush.com
 .binarycent.com
 .binarylowcost.com
-.binarymate.com
 .binarystockmarket.com
 .binatex.com
 .bindado.de
@@ -1307,6 +1308,7 @@
 .bioluxgmbh.com
 .bionaturkosmetik.com
 .biopelletis.com
+.biranco.com
 .birdtalkforum.com
 .birgit-hamburg.de
 .birken-online.com
@@ -2623,6 +2625,7 @@
 .demoniaonlineshop.com
 .demoniaportugal.com
 .demoniaromania.com
+.demoniaschuhe.de
 .demoniashoesnorge.com
 .demoniastiefel.de
 .demoniasuomi.com
@@ -3004,6 +3007,7 @@
 .easycrypto4u.com
 .easyfiles.io
 .easyoil24.de
+.easyrueo.com
 .easyxp.com
 .eatathome.de
 .eatenet-tech.de
@@ -3014,7 +3018,6 @@
 .ebaydw.com
 .ebaydw.xyz
 .eberhard-versand.de
-.ebert-autoreifen.com
 .eberwein-versand.de
 .ebike-center-sued.de
 .ebike-express.de
@@ -3442,6 +3445,7 @@
 .euvalentinogaravani.de
 .euwerkzeugwartung.de
 .ev-farm.com
+.evagelidis.com
 .evannexde.shop
 .evbam.com
 .evelo.shop
@@ -3767,6 +3771,7 @@
 .fineobermeyer.com
 .fineonlinesale.com
 .finest-rctoy.com
+.finest-tool.com
 .finestmotion.com
 .finestsurf.com
 .finestussport.com
@@ -4014,7 +4019,6 @@
 .ftmtrade.co
 .ftsefx.net
 .fu-ostholstein.de
-.fuchs-reifen.com
 .fuchs-versandhaus.de
 .fuechsefussball.de
 .fuehrungszeugnis.at
@@ -4371,6 +4375,7 @@
 .gforesuomi.net
 .gftrades.com
 .gfxroyal.com
+.ggoote.site
 .gh-versand.com
 .ghfreight.net
 .ghjmtt.com
@@ -4399,7 +4404,6 @@
 .giselablohm.de
 .glamkraze.shop
 .glamorousoutfit.com
-.glaser-reifenhandel.com
 .glassesde.com
 .glemory.com
 .glennauto.shop
@@ -4517,6 +4521,7 @@
 .gotrixa.de
 .gourmandebusy.com
 .goviva-kaffee.de
+.goyardnn.com
 .shoptr2.gpec-bd.org
 .gplate.de
 .gpt-chatt.com
@@ -4706,7 +4711,6 @@
 .haden.at
 .hafenchor-essen.de
 .hagedornmode.de
-.hagen-reifen.com
 .hagenbeck.store
 .haglofsoutletsuomi.com
 .hagomann.de
@@ -5239,6 +5243,7 @@
 .httmotorde.shop
 .hubcitysale.com
 .hubhockey.com
+.hubokaytool.com
 .hubusfashion.com
 .hudejos.de
 .hudsonbathing.com
@@ -5409,6 +5414,7 @@
 .imperio-hamburg.de
 .import-export.website
 .importcapital.cc
+.impruneta.de
 .impulsa.shopping
 .imrato.com
 .in-sachen-garten24.de
@@ -6262,7 +6268,6 @@
 .lemonishop.shop
 .lempirecrypto.com
 .lemsdeutschland.com
-.lemsschuhe.at
 .lemsschuhedeutschland.de
 .lenastorees.com
 .lennegrund-tech.de
@@ -6757,6 +6762,7 @@
 .maxwellwilliamshop.com
 .mayapartde.shop
 .mayhemfinancial.com
+.mayr-reifen.com
 .mayrhofen-hotels.at
 .mayrundistribution.com
 .mbel-setsprize.com
@@ -6996,7 +7002,6 @@
 .missmede.shop
 .missomajewellery.com
 .misterhaushalt.de
-.misterlamp.de
 .miswimbest.com
 .mitkindundrad.de
 .mitsuielectronics.com
@@ -7844,6 +7849,7 @@
 .onsale-lampen.com
 .onsalecomp.com
 .onsaledevice.com
+.onsaledibtool.com
 .onsalefashionshoe.com
 .onsalehousehold.com
 .onsalemower.com
@@ -7884,6 +7890,7 @@
 .optcamp.com
 .optessentialoils.com
 .optfurniture.com
+.optimal-device.com
 .optimalattire.com
 .optimalskis.com
 .optimarkets.com
@@ -8500,7 +8507,6 @@
 .premison.de
 .premium-heizoel.de
 .premium-tools-sales.com
-.premiumfeuer.com
 .premiuminvestclub.com
 .premiumpillservice.com
 .premiumpricepills.com
@@ -8607,6 +8613,7 @@
 .psychobunnydeutschland.com
 .ptdaily.eu
 .pthipv.com
+.ptoopen.com
 .pts-personal.de
 .pubcrawl.at
 .puenktchenyoga.de
@@ -8861,7 +8868,6 @@
 .rehaubrandstore.com
 .reichwahl.de
 .reifen-discounter24.de
-.reifen-engels.com
 .reifen-faber.com
 .reifen-finke.com
 .reifen-fleischmann.com
@@ -8870,10 +8876,9 @@
 .reifen-haase.com
 .reifen-haupt.com
 .reifen-hecht.com
-.reifen-heinze.com
-.reifen-hummel.com
 .reifen-karl.com
 .reifen-metz.com
+.reifen-pape.com
 .reifen-reichelt.com
 .reifen-schneider24.com
 .reifen-stumpf.com
@@ -8885,12 +8890,10 @@
 .reifenhandel-dietrich.com
 .reifenhandel-eberhardt.shop
 .reifenhandel-eggert.shop
-.reifenhandel-erdmann.com
 .reifenhandel-freitag.com
 .reifenhandel-fritz.shop
 .reifenhandel-herrmann.shop
 .reifenhandel-hinz.shop
-.reifenhandel-hummel.com
 .reifenhandel-jordan.shop
 .reifenhandel-keil.com
 .reifenhandel-kellner.com
@@ -8913,7 +8916,6 @@
 .reifenversand-gerber.com
 .reifenversand-hanke.com
 .reifenversand-hauser.shop
-.reifenversand-hausmann.com
 .reifenversand-hermann.com
 .reifenversand-hoppe.com
 .reifenversand-kaufmann.com
@@ -9523,6 +9525,7 @@
 .sektglaser.com
 .select-football.com
 .selectedmedsonline.com
+.selectedtabsonline.com
 .selfridges-work.com
 .sellercenter.shop
 .sellerclothing.com
@@ -10101,6 +10104,7 @@
 .statehills.com
 .stationeryopt.com
 .stationerythe.com
+.stationsparty.de
 .staubsauger-deals.com
 .staubsauger-spar-deals.com
 .staubsaugerhaus.de
@@ -11180,6 +11184,7 @@
 .yeezy.uk.com
 .yeezy350.uk.com
 .yeezys.uk.com
+.uk-tweed-jackets.com
 .ukactivestyle.com
 .ukouaw88.online
 .ulikeu.top
@@ -11783,6 +11788,7 @@
 .weile-tech.de
 .weimar-wedding.de
 .weimmer.de
+.wein-vip.shop
 .weinbergmunchen.de
 .weindorf-lonsheim.de
 .weinemotionen.de
@@ -11839,7 +11845,6 @@
 .westickers.com
 .wetan24.de
 .wethioproperties.com
-.wetryharde.com
 .wetsuitus.com
 .wetting.de
 .whansurflead.com
@@ -12110,7 +12115,6 @@
 .ydmenstyle.com
 .years-offers.com
 .yeezy.at
-.yeezy-450.com
 .yeezyadidas.de
 .yeezybelgique.com
 .yeezyberlin.de
@@ -12121,6 +12125,7 @@
 .yem.foundation
 .yilexin.shop
 .yimbers.de
+.yndrm.bio
 .yoga-go.io
 .yogaathleta.de
 .yogabaum.at
@@ -12176,6 +12181,7 @@
 .zeroplay.de
 .zetko-waren.com
 .zetko-waren.de
+.app.zety.de
 .zhrtasarimf.shop
 .zidnjlamp.com
 .zigaretten-bestellen.net

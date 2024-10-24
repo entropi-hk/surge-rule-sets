@@ -170,6 +170,7 @@
 .allunblocked.com
 .dns.almir1904.eu
 .adguard.alu.dog
+.aluu.xyz
 .dns.alvosec.com
 .alwaysvpn.com
 .amanvpn.com
@@ -181,6 +182,7 @@
 .dsl-app.s3.us-east-2.amazonaws.com
 .mailer.amlegion.org
 .doh.amonsul.net
+.anachem.online
 .ananoos.com
 .anchorfree.net
 .dns.andrewnw.xyz
@@ -214,6 +216,7 @@
 .antpeak.com
 .antycenzor.pl
 .secure.anudeep.me
+.anura.pro
 .anyip.io
 .doh.apad.pro
 .ag.apollohct.com
@@ -320,7 +323,6 @@
 .beetvpn.com
 .beevpn.com
 .dns.belnet.be
-.dns.benpro.fr
 .dns.bermeitinger.eu
 .bestfreevpn.com
 .bestproxy.xyz
@@ -1465,6 +1467,7 @@
 .dns2.in-berlin.de
 .in-disguise.com
 .dns.inclusioproject.com
+.incog.works
 .indialifes.com
 .adblock.indianets.net
 .indo-ssh.com
@@ -2780,6 +2783,7 @@
 .surfall.net
 .surfbouncer.com
 .surfbytes.info
+.surfdoge.pro
 .surfeasy.com
 .surfly.com
 .surfmenow.com
@@ -2915,6 +2919,7 @@
 .timmes.nl
 .adb.timnichollsphotography.com
 .dns.tipsy.coffee
+.titaniumnetwork.org
 .dns.tls-data.de
 .tlsext.com
 .tlz.asia
