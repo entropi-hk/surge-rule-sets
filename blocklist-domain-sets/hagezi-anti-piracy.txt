@@ -2423,6 +2423,7 @@
 .demonoid.is
 .demonoid.ph
 .demonoid.pw
+.demonoid.to
 .inferno.demonoid.me
 .inferno.demonoid.ooo
 .open.demonoid.ch
@@ -3443,7 +3444,10 @@
 .firstsrows.net
 .firstsrowsports.tv
 .satrong.fissabd.com
+.fitgirl-repack.com
 .fitgirl-repacks.site
+.fitgirl-repacks.website
+.fitgirlrepacks.co
 .fl1x.com
 .flactor.ru
 .flacworld.com
@@ -8274,11 +8278,13 @@
 .thepiratebay1.com
 .thepiratebay1.live
 .thepiratebay1.top
+.thepiratebay10.info
 .thepiratebay10.org
 .thepiratebay11.org
 .thepiratebay2.to
 .thepiratebay3.org
 .thepiratebay3.to
+.thepiratebay7.com
 .thepiratebay9.info
 .thepiratebay9.net
 .thepiratebaya.com
@@ -9855,6 +9861,7 @@
 .yts.autos
 .yts.digital
 .yts.health
+.yts.homes
 .yts.io
 .yts.la
 .yts.lat

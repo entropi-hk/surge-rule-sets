@@ -2094,7 +2094,6 @@
 .ourproxy.net
 .dns.ours.luxe
 .dns.ourvau.lt
-.outdoorchair.us
 .overplay.net
 .vps-33e5a7f3.vps.ovh.us
 .ovpn.com
