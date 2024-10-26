@@ -1064,7 +1064,6 @@
 .dot.ffmuc.net
 .dns.ffnw.de
 .ffsurf.net
-.dns.fgbk.net
 .fiberprox.com
 .fiberprox.me
 .fiberprox.net
@@ -1550,7 +1549,6 @@
 .dns.joey01245.nl
 .vpn.jogjacloud.com
 .adguard.johanliebert.top
-.johneldenring.lol
 .opencdn.jomodns.com
 .adguard1.jsanagustin.net
 .jsmapper.com

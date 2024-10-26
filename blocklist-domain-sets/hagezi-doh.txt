@@ -567,7 +567,6 @@
 .doh.ffmuc.net
 .dot.ffmuc.net
 .dns.ffnw.de
-.dns.fgbk.net
 .fidelius.top
 .dns.filipccz.eu
 .dns.fizz.studio
@@ -732,7 +731,6 @@
 .green2.jnraptor.net
 .dns.joey01245.nl
 .adguard.johanliebert.top
-.johneldenring.lol
 .opencdn.jomodns.com
 .adguard1.jsanagustin.net
 .dns.jstockley.com
