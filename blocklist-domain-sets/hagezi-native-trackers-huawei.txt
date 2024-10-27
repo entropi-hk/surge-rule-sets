@@ -1,3 +1,4 @@
+.browsercfg-drcn.cloud.dbankcloud.cn
 .ubacollect-drcn.cloud.dbankcloud.cn
 .metrics-dre.data.dbankcloud.cn
 .metrics1.data.dbankcloud.cn
