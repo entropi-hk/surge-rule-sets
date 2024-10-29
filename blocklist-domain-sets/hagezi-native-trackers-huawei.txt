@@ -37,6 +37,7 @@
 .grs-dbankcloud-asia-dra.appacc.dbankedge.cn
 .grs-dbankcloud-com-dra.appacc.dbankedge.cn
 .grs-dbankcloud-com-dre.appacc.dbankedge.cn
+.openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn
 .events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn
 .events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn
 .events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn

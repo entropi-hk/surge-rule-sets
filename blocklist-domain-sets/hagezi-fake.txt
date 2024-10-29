@@ -734,7 +734,6 @@
 .autoreifen-berg.shop
 .autoreifen-brand.shop
 .autoreifen-eberle.shop
-.autoreifen-frenzel.com
 .autoreifen-kahl.com
 .autoreifen-kessler.com
 .autoreifen-moll.shop
@@ -1876,7 +1875,6 @@
 .cbre-securityplace.com
 .cbsstyles.com
 .cbtwohousehold.com
-.cci-immobilien.de
 .ccleboulou.com
 .ccmangebote.com
 .ccmedia.news
@@ -3114,7 +3112,6 @@
 .egopowernrw.shop
 .egotoolshop.com
 .ehandler.de
-.ehlers-reifen.com
 .ehlerss.de
 .ehlertswelpen.com
 .ehletsandreabergwelpen.de
@@ -3443,7 +3440,6 @@
 .euronicsser.de
 .euronicsxxldeutschonline.de
 .euronicsxxlonline.de
-.euronixstore.com
 .europa-apotek.com
 .europa-rezeptfrei.de
 .europaa-market.de
@@ -4035,7 +4031,6 @@
 .fritzelektro.de
 .fritzo.de
 .fritzo.shop
-.fritzsche-autoreifen.com
 .frmedicaments.net
 .froddo-prada.de
 .frsportsoldes.com
@@ -4385,7 +4380,6 @@
 .getsnowsports.com
 .getsportsgo.com
 .getvoltbox.com
-.getvoltplug.com
 .getvoltsemi.com
 .getyourmedshere.com
 .getyourpillshere.com
@@ -4510,7 +4504,6 @@
 .goldenlite.ltd
 .goldhandel-degussa.com
 .goldhandel-degussa.de
-.goldhandel-heute.de
 .goldhandel-kauf.de
 .goldhandel-testsieger.de
 .goldhealthwise.com
@@ -5601,7 +5594,6 @@
 .jackjonesbootmaker.com
 .jacmusfashion.com
 .jacob-autoreifen.com
-.jacobs-reifenversand.com
 .jacoobss.store
 .jagute.de
 .jahn-reifenhandel.com
@@ -6006,6 +5998,7 @@
 .klimmotorrad.com
 .klingerdirndl.com
 .klingshandel.de
+.klotz-reifen.com
 .kluthbaustoffe.shop
 .kluthbaustoffede.shop
 .klyden.de
@@ -6761,7 +6754,6 @@
 .maschinerabatt.com
 .mashilt.com
 .masonlinda.com
-.masori.shop
 .masorid.shop
 .mastercurbs.com
 .mastersrecruit.com
@@ -8116,6 +8108,7 @@
 .outletnovelty.com
 .outletpetus.com
 .outletpickleball.com
+.outletrecovery.com
 .outletregency.com
 .outletrevel.com
 .outletrugby.com
@@ -8567,7 +8560,6 @@
 .prima-sport.de
 .primada.de
 .prime-analytics.de
-.prime-deutschland.com
 .prime-smog.com
 .primecargotransit.com
 .primeclubs.store
@@ -8917,7 +8909,6 @@
 .reifen-decker.com
 .reifen-discounter24.de
 .reifen-faber.com
-.reifen-fleischmann.com
 .reifen-graf.com
 .reifen-haase.com
 .reifen-haupt.com
@@ -10677,7 +10668,6 @@
 .the-gentleman.store
 .the-immediateconnect.com
 .the-portable-monitor.tech
-.the-tesler-app.com
 .the-teslerapp.com
 .the-wise-investment.net
 .theadzysgoods.com
@@ -11564,7 +11554,6 @@
 .versandeasy.top
 .versandhandel-bach.shop
 .versandhaus-lange.com
-.versandhaus-wagner.com
 .versandoase.de
 .versandpharma.com
 .versandpillen.de
@@ -11846,6 +11835,7 @@
 .wegovymexicopharmacy.com
 .wehkampoutlet.nl
 .wehner-autoreifen.shop
+.weidner-shop.de
 .weigelt-heizung.de
 .weihnachts-haus.com
 .weihnachtstassenstore.com
