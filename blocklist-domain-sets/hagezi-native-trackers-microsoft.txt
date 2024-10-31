@@ -56,6 +56,7 @@
 .nexus.officeapps.live.com
 .nexusrules.officeapps.live.com
 .noc-visio-telemetry.officeapps.live.com
+.pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
 .pgteu1-excel-telemetry-vip.officeapps.live.com
 .pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 .pgteu1-word-telemetry-vip.officeapps.live.com
@@ -67,6 +68,7 @@
 .pgteu3-word-telemetry-vip.officeapps.live.com
 .pgteu4-excel-telemetry-vip.officeapps.live.com
 .pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+.pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 .pgtus1-excel-telemetry-vip.officeapps.live.com
 .pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 .pgtus1-word-telemetry-vip.officeapps.live.com
