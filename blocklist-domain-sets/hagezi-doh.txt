@@ -164,7 +164,6 @@
 .dns.bitdefender.net
 .fra-dns.bitdefender.net
 .iow-dns.bitdefender.net
-.lon-dns.bitdefender.net
 .nvi-dns.bitdefender.net
 .ore-dns.bitdefender.net
 .tky-dns.bitdefender.net
@@ -662,7 +661,6 @@
 .dns.hotta.page
 .doh.hottis.de
 .hshh.org
-.dns.huas.me
 .dns.hugo0.moe
 .dns.hujiayucc.cn
 .doth.huque.com

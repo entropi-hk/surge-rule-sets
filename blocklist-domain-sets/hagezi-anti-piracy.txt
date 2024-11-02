@@ -30,7 +30,6 @@
 .1-2-3movies.com
 .1-thepiratebay.org
 .100520.com
-.tracker.1048576.cn
 .1080-kino.com
 .10kol.tv
 .10mbit.com
@@ -105,7 +104,6 @@
 .123movieshub.it
 .123movieshub.sc
 .123movieshub.tech
-.123movieshub.to
 .123movieshubz.com
 .123moviesme.org
 .123moviesnew.site
@@ -5050,6 +5048,8 @@
 .leecherslair.com
 .leechinghell.pw
 .leechking.com
+.tracker.leechshield.link
+.tracker4.leechshield.link
 .leechtube.com
 .leechturk.com
 .leelo.ru
