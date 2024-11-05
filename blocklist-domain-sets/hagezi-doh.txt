@@ -479,9 +479,7 @@
 .dns.dotnet.win
 .doh.dscloud.me
 .agh.dshubham.xyz
-.home27.duckdns.org
 .jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -573,7 +571,6 @@
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
-.adguard.gambini.org
 .dns.beta.gandi.net
 .gclouddns.com
 .adg.geili.me

@@ -925,9 +925,7 @@
 .agh.dshubham.xyz
 .duapps.com
 .duba.net
-.home27.duckdns.org
 .jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -1167,7 +1165,6 @@
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
-.adguard.gambini.org
 .proxy.gamecove.net
 .gamers-nor.com
 .gamingssh.com
@@ -1262,7 +1259,6 @@
 .graef.in
 .granules.us
 .gratisproxy.nl
-.gratisvpn.com
 .greatestfreeproxy.com
 .greenpass.info
 .greenproxy.net
@@ -1343,7 +1339,6 @@
 .hidevpn.info
 .hideway.eu
 .hideweb.org
-.hidexy.com
 .hidingit.com
 .hidingyour.info
 .hiload.in
@@ -1383,7 +1378,6 @@
 .hotbot.com
 .hotbotvpn.com
 .hotfreevpn.com
-.hothide.com
 .hotspotshield.com
 .hotspotvpn.com
 .dns.hotta.page
