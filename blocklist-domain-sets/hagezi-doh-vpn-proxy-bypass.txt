@@ -150,6 +150,7 @@
 .ahoj.email
 .airdns.org
 .airvpn.org
+.apple-relay.akamaized.net
 .akunssh.net
 .dns.albony.xyz
 .dns.alekberg.net
@@ -169,6 +170,7 @@
 .vps.alloxr.info
 .allunblocked.com
 .dns.almir1904.eu
+.alphabrowser.xyz
 .adguard.alu.dog
 .aluu.xyz
 .dns.alvosec.com
@@ -221,6 +223,7 @@
 .anyip.io
 .doh.apad.pro
 .ag.apollohct.com
+.apple-relay.apple.com
 .doh.dns.apple.com
 .mask-api.fe2.apple-dns.net
 .mask.apple-dns.net
@@ -493,7 +496,9 @@
 .cloaker.ca
 .cloaker.us
 .cloakvpn.com
+.apple-relay.cloudfare.com
 .dns.cloudfiction.eu
+.apple-relay.cloudflare.com
 .dns.233py.com.cdn.cloudflare.net
 .dns.cloudflare.com
 .cloudflare-dns.com
@@ -925,7 +930,9 @@
 .agh.dshubham.xyz
 .duapps.com
 .duba.net
+.home27.duckdns.org
 .jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -1021,6 +1028,7 @@
 .fastestvpn.info
 .fastfoxvpn.com
 .fastfreeproxy.info
+.apple-relay.fastly-edge.com
 .fastp.org
 .fastpro.info
 .fastproxy.org
@@ -1090,6 +1098,7 @@
 .forwardproxie.com
 .fproxy.net
 .frandcomfort.us
+.free-kree-k.xyz
 .free-proxy.com
 .free-proxy.cz
 .free-proxy.xyz
@@ -1165,6 +1174,7 @@
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
+.adguard.gambini.org
 .proxy.gamecove.net
 .gamers-nor.com
 .gamingssh.com
@@ -1734,6 +1744,9 @@
 .dnstls.mobik.com
 .mobilejump.mobi
 .mobilevpn.net
+.mochiss.xyz
+.mochiss2.xyz
+.mochiss3.xyz
 .mockblock.com
 .nue2.moderateinfra.net
 .ps1.modr.club
@@ -1971,7 +1984,6 @@
 .qdns02.nymterm.com
 .5g.o0o.re
 .o1.lt
-.ha.o51r15.com
 .obscuro.top
 .oceanbrowser.co
 .octohide.com
@@ -2138,6 +2150,7 @@
 .dns1.pietjacobs.be
 .pingproxy.com
 .piraproxy.org
+.pirataproxy.com
 .piratebayproxy.co
 .pixelprivacy.com
 .pixolium.com
@@ -2223,7 +2236,6 @@
 .de.dns.privex.io
 .nl.dns.privex.io
 .privoxy.org
-.prointern.info
 .project-evoex.de
 .prontoproxy.info
 .propage.info
@@ -2477,6 +2489,7 @@
 .roonyx.com
 .dns.rotunneling.net
 .roundrockisd.online
+.roxy2link.com
 .o.rsaikat.com
 .au.rslvr.eu
 .bg.rslvr.eu
@@ -3364,6 +3377,7 @@
 .websurf.in
 .websurfproxy.me
 .websynchrony.com
+.webtester.cc
 .webtunnel.org
 .webxify.com
 .webypass.info
