@@ -80,7 +80,6 @@
 .57824.com
 .family.5ososea.com
 .kids.5ososea.com
-.jp.68360612.xyz
 .dns.688447.xyz
 .7713.info
 .777surfer.info
@@ -2945,7 +2944,6 @@
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
-.travelvpn.info
 .travelvpn.net
 .ns.trcnet.fi
 .consumervpn.trendmicro.com
@@ -3016,7 +3014,6 @@
 .unblock-proxy.com
 .unblock-sites.com
 .unblock-us.com
-.unblock-video.com
 .unblock-websites.com
 .unblock123.com
 .unblock2.club
@@ -3223,7 +3220,6 @@
 .videocollage.us
 .videoproxy.site
 .videounblock.com
-.videounblocked.com
 .videounblocker.net
 .vidproxy.com
 .viewyoutube.net
