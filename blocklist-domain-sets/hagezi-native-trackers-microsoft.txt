@@ -270,7 +270,6 @@
 .sconsentit9.trafficmanager.net
 .self-events-data.trafficmanager.net
 .settingsfd-geo.trafficmanager.net
-.sre-metrics-thanos-prod.trafficmanager.net
 .ssp-prod-eastus-nonmutt.trafficmanager.net
 .stats-partner.trafficmanager.net
 .teams-events-data.trafficmanager.net
@@ -300,9 +299,6 @@
 .cache.datamart.windows.com
 .sa.windows.com
 .adsdktelemetry-prod.servicebus.windows.net
-.ams-euno-1-bus-analytics-1-1.servicebus.windows.net
-.ams-usea-1-bus-analytics-1-1.servicebus.windows.net
-.ams-usso-1-bus-analytics-1-1.servicebus.windows.net
 .analytics-dev-lleap-events.servicebus.windows.net
 .analytics-dev-simpad-events.servicebus.windows.net
 .analyticsehnwe.servicebus.windows.net

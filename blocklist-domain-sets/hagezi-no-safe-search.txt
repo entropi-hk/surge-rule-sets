@@ -50,7 +50,6 @@
 .searx.dresden.network
 .wgl.frail.duckdns.org
 .dynabyte.ca
-.searx.ericaftereric.top
 .search.ethibox.fr
 .etsi.me
 .eulie.de

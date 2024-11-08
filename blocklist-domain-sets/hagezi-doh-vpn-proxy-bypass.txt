@@ -2305,6 +2305,7 @@
 .proxy-youtube.com
 .proxy-youtube.net
 .proxy2014.net
+.proxy2link.com
 .proxy2you.com
 .proxy4down.com
 .proxy4free.me
