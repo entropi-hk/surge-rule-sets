@@ -52,7 +52,6 @@
 .internalcheck.apple.com
 .iphonesubmissions.apple.com
 .iphonesubmissions-old.apple.com
-.autolinkmaker.itunes.apple.com
 .partiality.itunes.apple.com
 .launch.apple.com
 .metrics.apple.com
@@ -87,7 +86,6 @@
 .cdn-xp-ingest.edge.apple
 .experiments.apple.com.edgekey.net
 .iadsdk.apple.com.edgekey.net
-.linkmaker.itunes.apple.com.edgekey.net
 .partiality.itunes.apple.com.edgekey.net
 .xp.apple.com.edgekey.net
 .cstat.apple.com.edgesuite.net

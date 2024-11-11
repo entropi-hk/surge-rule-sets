@@ -1472,7 +1472,6 @@
 .blueswollow.de
 .bluetech-online.de
 .blum-film.de
-.blum-reifenhandel.shop
 .blumen-guete.de
 .blumenkstenzorn.com
 .blumenladen.de
@@ -3378,7 +3377,6 @@
 .energiekick.at
 .energy-welsberg.com
 .enermaxde.de
-.engel-autoreifen.shop
 .engel-gartenhandel.de
 .engelhardt-autoreifen.com
 .engelhardt-ses.de
@@ -4975,7 +4973,6 @@
 .harmanys.shop
 .harmonie-fuhrerschein.de
 .harpercollins.shop
-.hartmann-reifen.shop
 .hartmann-versand.shop
 .harwez.net
 .hasegawamodel.com
@@ -9170,12 +9167,12 @@
 .reifen-discounter24.de
 .reifen-hecht.com
 .reifen-kanal.com
+.reifen-nowak.com
 .reifen-reichelt.com
 .reifen-schneider24.com
 .reifen-stumpf.com
 .reifen-winkelmann.shop
 .reifencheck.net
-.reifenhandel-bittner.shop
 .reifenhandel-brandl.com
 .reifenhandel-brauer.shop
 .reifenhandel-braun.shop

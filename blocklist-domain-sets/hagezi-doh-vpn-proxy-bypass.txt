@@ -1378,7 +1378,6 @@
 .honeygain.me
 .dns.hoody.com
 .schoolmath.hop.sh
-.keithchung.hopto.org
 .dns.horcrux.vip
 .dns.internal.hosmatic.com
 .hostless.club
@@ -2072,7 +2071,6 @@
 .dns.oszx.co
 .ourproxy.net
 .dns.ours.luxe
-.dns.ourvau.lt
 .overplay.net
 .vps-33e5a7f3.vps.ovh.us
 .ovpn.com
@@ -2460,7 +2458,6 @@
 .dns.reckoningslug.name
 .redproxy.info
 .redschool.info
-.dns.redvau.lt
 .reflect4.me
 .dns.reitmeier.me
 .relayon.org
@@ -3494,7 +3491,6 @@
 .zenmate.com
 .zenrows.com
 .zenvpn.net
-.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .zerotier.com
 .zerotunnel.com
