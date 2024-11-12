@@ -634,6 +634,7 @@
 .pihole4.hoerli.net
 .home-server.store
 .dns.hoody.com
+.keithchung.hopto.org
 .dns.horcrux.vip
 .dns.internal.hosmatic.com
 .dns.hostux.net
@@ -726,7 +727,6 @@
 .dns.keke125.com
 .doh.kekew.info
 .doh.kel.pe
-.chr.kepegawaiandju.id
 .dns.kerekes.xyz
 .dns.kernel-error.de
 .dns.kescher.at
@@ -1130,7 +1130,6 @@
 .tiger.dns.qwer.pw
 .resolver.r0cket.net
 .r1bnc.com
-.resolve2.r9x.cc
 .dns.rabbitdns.org
 .family.rabbitdns.org
 .security.rabbitdns.org

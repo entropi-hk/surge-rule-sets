@@ -1378,6 +1378,7 @@
 .honeygain.me
 .dns.hoody.com
 .schoolmath.hop.sh
+.keithchung.hopto.org
 .dns.horcrux.vip
 .dns.internal.hosmatic.com
 .hostless.club
@@ -1557,7 +1558,6 @@
 .doh.kekew.info
 .doh.kel.pe
 .kepard.com
-.chr.kepegawaiandju.id
 .dns.kerekes.xyz
 .dns.kernel-error.de
 .dns.kescher.at
@@ -2430,7 +2430,6 @@
 .tiger.dns.qwer.pw
 .resolver.r0cket.net
 .r1bnc.com
-.resolve2.r9x.cc
 .ra4wvpn.com
 .dns.rabbitdns.org
 .family.rabbitdns.org
