@@ -689,7 +689,6 @@
 .dns.is0mino.com
 .dns.ishan.pw
 .dns.islandnet.com
-.diy.itsa.top
 .pdns.itxe.net
 .ivnkn.xyz
 .jabber-germany.de
@@ -1028,6 +1027,7 @@
 .dns.oryxlabs.com
 .dns.oszx.co
 .dns.ours.luxe
+.dns.ourvau.lt
 .dns.ovpn.bond
 .1a.ns.ozer.im
 .dns.paesa.es
@@ -1141,6 +1141,7 @@
 .rayneau.fr
 .dns.rbn.gr
 .dns.reckoningslug.name
+.dns.redvau.lt
 .dns.reitmeier.me
 .dns.renardyre.com
 .dns.repinger.com
@@ -1408,6 +1409,7 @@
 .zburger.top
 .zdn.ro
 .dns.zemows.industries
+.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .dns.zfsystem.tech
 .doh.zknt.org
