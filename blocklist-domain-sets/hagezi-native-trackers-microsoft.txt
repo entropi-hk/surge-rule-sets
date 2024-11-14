@@ -158,7 +158,6 @@
 .telecommandsvc.microsoft.com
 .telemetry.microsoft.com
 .telemetrycollector.microsoft.com
-.uhf.microsoft.com
 .telemetry.urs.microsoft.com
 .watson.microsoft.com
 .statsfe1.ws.microsoft.com

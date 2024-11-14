@@ -255,7 +255,6 @@
 .atlasvpn.com
 .atris.cyou
 .dohtrial.att.net
-.dns.auapi.fun
 .auto-aufladen.de
 .vanheim.ff.avast.com
 .vpn.avg.tools.avast.com
@@ -1991,7 +1990,6 @@
 .onconnect.info
 .one.one.one.one
 .doh.onedns.net
-.secure.onedns.cc
 .onedown.info
 .oneproxy.biz
 .oneproxy.xyz

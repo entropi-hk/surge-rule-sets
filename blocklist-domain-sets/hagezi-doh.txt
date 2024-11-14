@@ -115,7 +115,6 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
-.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -994,7 +993,6 @@
 .adguard.oms-ctr.ru
 .one.one.one.one
 .doh.onedns.net
-.secure.onedns.cc
 .adguard.onlyfriends.info
 .hk2.ooroot.com
 .jp2.ooroot.com

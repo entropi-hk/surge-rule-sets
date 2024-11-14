@@ -117,7 +117,6 @@
 .actualite-placement.com
 .acy.com
 .ad-property.com
-.adadream.com
 .adamlio.de
 .adaptertunerturbo.de
 .adaton.de
@@ -500,7 +499,6 @@
 .apodeutschland.biz
 .apotek-no24.com
 .apotek-norge24.com
-.apoteket.to
 .apotekno24.com
 .apotheek-nederland.org
 .apotheeknl.com
@@ -994,7 +992,6 @@
 .bdow-tech.de
 .beachwalkbali.com
 .beanzio.shop
-.beanzio.store
 .bear-offers.com
 .beatricefalck-art.de
 .beatusbikes.com
@@ -3107,6 +3104,7 @@
 .ee-fahrrad-handel.de
 .eesasinternationalbv.com
 .eezo-handel24.de
+.efarm-gmbh.com
 .efaststore.com
 .effiziente-taubenabwehr.at
 .eg-hofheim.de
@@ -4395,7 +4393,6 @@
 .getsnowsports.com
 .getsportsgo.com
 .getvoltbox.com
-.getvoltplug.com
 .getvoltsemi.com
 .getyourmedshere.com
 .getyourpillshere.com
@@ -4438,7 +4435,6 @@
 .giselablohm.de
 .gladgoodar.shop
 .glamkraze.shop
-.glamorousoutfit.com
 .glassesde.com
 .glemory.com
 .glitzermoment.com
@@ -5625,6 +5621,7 @@
 .jet-setter.shop
 .jeulia.de
 .jewelryvaluable.com
+.jewelryworld-us.com
 .jfex-logistics.com
 .jgfrqhh.top
 .jiangekj.xyz
@@ -6177,6 +6174,7 @@
 .lambing-kauf.de
 .lamena.de
 .lamofaria.de
+.lamp-center.com
 .lampenshoppe.com
 .lampeverkauf.com
 .lampshades-official.com
@@ -6218,7 +6216,6 @@
 .lasuperhousse.com
 .lasylife.top
 .latega24.de
-.sunglasshut.latest-style-polarized.com
 .latestmen.com
 .latestminuteinvest.com
 .latestparts.com
@@ -7140,6 +7137,7 @@
 .moelleraktivhof.de
 .moellerer.de
 .moellersersers.de
+.moensale.com
 .mogli-chinderlade.shop
 .mohomerebate.com
 .mokasy.de
@@ -7412,7 +7410,6 @@
 .nauticaukwebsite.com
 .nawelitova.com
 .nb-osterreich.at
-.nbdiscount.com
 .nbu-tophandel.de
 .nbynicole.com
 .nchen.de
@@ -8059,6 +8056,7 @@
 .outlandmen.com
 .outlet-drmartens.com
 .outlet-farm.com
+.outlet-hardware.com
 .outlet-nutrition.com
 .outlet-outdoorgear.com
 .outlet-schoenen.nl
@@ -8309,7 +8307,6 @@
 .pfennig-energieholz.com
 .pferdedeckende.com
 .pg99.cc
-.pgf-shop.com
 .pharm-24h.com
 .pharm-discount.com
 .pharma-bonnegrace.com
@@ -8438,7 +8435,6 @@
 .plusforski.com
 .plussizescurve.com
 .plususfurniture.com
-.pmfootballs.com
 .pmpkp.com
 .pn-marktconsult.net
 .pnladvanced.com
@@ -8889,7 +8885,6 @@
 .reebokaustralia.com
 .reebokaustria.com
 .reebokosterreichoutlet.com
-.refiningfurniture.com
 .refrigs.store
 .regencytable.com
 .regenimjuni.de
@@ -8909,6 +8904,7 @@
 .reifencheck.net
 .reifenhandel-brauer.shop
 .reifenhandel-braun.shop
+.reifenhandel-eggert.shop
 .reifenhandel-herrmann.shop
 .reifenhandel-kohl.shop
 .reifenhandel-mai.shop
@@ -8931,7 +8927,6 @@
 .reinekedesign.com
 .reinhardt-reifenversand.shop
 .reinholdrasenmaher.com
-.reisebuero-schneider.com
 .reisetaschenonshop.com
 .reisetaschensale.com
 .reisetaschenstore.com
@@ -9306,12 +9301,15 @@
 .salmingsuomi.com
 .salnomososterreich.com
 .salomon-deutschland.de
+.salomon-finland.com
+.salomon-osterreich.at
 .salomon-speedcross.com
 .salomon-wien.at
 .salomonenucuz.com
 .salomonfinland.com
 .salomonfinlandoutlet.com
 .salomongermany.de
+.salomononlineshop.at
 .salomonoutletgermany.de
 .salomonoutletireland.com
 .salomonoutlets.at
@@ -9416,6 +9414,7 @@
 .schmidtmode.de
 .schmierstoffede.com
 .schmitzs.de
+.schmuckrabatt.com
 .schmuckverka.com
 .schmusepucki.com
 .schnabel-reifen.shop
@@ -9466,7 +9465,6 @@
 .schuhschritte.com
 .schuhschritte.de
 .schultheissundroth.de
-.schulz-autoreifen.shop
 .schuster-wien.at
 .schwabissimos.de
 .schwanhaus.de
@@ -9520,7 +9518,6 @@
 .selectedmedsonline.com
 .selfridges-work.com
 .sellercenter.shop
-.sellerclothing.com
 .sellerfishing.com
 .sellerusapparel.com
 .sellgfvs.best
@@ -9650,6 +9647,7 @@
 .shopanera.com
 .shopannafield.com
 .shopathleticshoe.com
+.shopattaire.com
 .shopaya.net
 .shopazo.net
 .shopbagwallet.com
@@ -10764,6 +10762,7 @@
 .thursdayboots.at
 .thursdayboots.de
 .thursdaybootsdeutschland.com
+.thursdaybootsdeutschland.de
 .thursdaybootswien.at
 .thursdaycanada.com
 .thurzo-juwelen.shop
@@ -11336,6 +11335,7 @@
 .usoutdoor-sports.com
 .usoutdooradventure.com
 .usoutlet-baseball.com
+.usoutletvogue.com
 .uspickleballpaddle.com
 .usplaythings.com
 .uspluskids.com
@@ -11349,6 +11349,7 @@
 .usshopoutdoor.com
 .ussmokingproduct.com
 .ussolesensation.com
+.usspielzeugrabatt.com
 .ussportdiscount.com
 .usstockjewelry.com
 .usstylesite.com
@@ -11356,6 +11357,7 @@
 .ustoolsale.com
 .ustotalkitchen.com
 .ustoyboxtreasures.com
+.ustrendyunderwear.com
 .usualfurniture.com
 .usvogueoffer.com
 .usvoguevaults.com
@@ -11535,7 +11537,6 @@
 .viagra-schweiz.com
 .viagraed-noprescription.com
 .viagrafarmakeio.gr
-.viagrainaustralia.com
 .vialine-pharma-fr.com
 .viarecta.net
 .vibram-es.com
@@ -11842,7 +11843,6 @@
 .westickers.com
 .wetan24.de
 .wethioproperties.com
-.wetryharde.com
 .wetsuitus.com
 .wetting.de
 .whansurflead.com
@@ -12171,6 +12171,7 @@
 .german.zeelool.com
 .zefreya.com
 .zeitlosliebe.de
+.zeltereisen.com
 .zeltslaw.com
 .zentempel.com
 .zentraleapo.de
