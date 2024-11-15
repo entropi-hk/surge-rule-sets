@@ -71,6 +71,7 @@
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
 .ahoj.email
+.apple-relay.akamaized.net
 .dns.albony.xyz
 .dns.alekberg.net
 .dns2.alekberg.net
@@ -94,6 +95,7 @@
 .secure.anudeep.me
 .doh.apad.pro
 .ag.apollohct.com
+.apple-relay.apple.com
 .doh.dns.apple.com
 .mask-api.fe2.apple-dns.net
 .mask.apple-dns.net
@@ -230,7 +232,9 @@
 .dns.clanless.ovh
 .dns.clanto.cloud
 .cleanbrowsing.org
+.apple-relay.cloudfare.com
 .dns.cloudfiction.eu
+.apple-relay.cloudflare.com
 .dns.233py.com.cdn.cloudflare.net
 .dns.cloudflare.com
 .cloudflare-dns.com
@@ -535,6 +539,7 @@
 .dns.fancyorg.at
 .farewellkou.click
 .dns.farshidhakimy.de
+.apple-relay.fastly-edge.com
 .ns0.fdn.fr
 .ns1.fdn.fr
 .dns.fehlsprache.de
