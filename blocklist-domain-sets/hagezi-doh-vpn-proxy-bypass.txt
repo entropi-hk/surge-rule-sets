@@ -1404,7 +1404,6 @@
 .dns.hypercute.eu
 .i2p-projekt.de
 .i2pd.xyz
-.dns.bw.i81.ru
 .vd.i81.ru
 .vpn.i81.ru
 .dns.iamanuragh.in
@@ -2932,6 +2931,7 @@
 .towervpn.com
 .dns.tracker.ink
 .tradeadspace.info
+.trafflink.xyz
 .traffmonetizer.com
 .resolv1.trash.net
 .resolv2.trash.net
@@ -3243,6 +3243,7 @@
 .vpn-for-test.ru
 .vpn-free.com
 .vpn-free.download
+.vpn-professional.company
 .vpn-server.xyz
 .vpn4all.com
 .vpn99.net

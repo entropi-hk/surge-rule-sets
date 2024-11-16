@@ -654,7 +654,6 @@
 .dns.hypercute.eu
 .opennic.i2pd.xyz
 .opennic2.i2pd.xyz
-.dns.bw.i81.ru
 .vd.i81.ru
 .dns.iamanuragh.in
 .dns.iamninja.ru
