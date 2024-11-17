@@ -203,7 +203,6 @@
 .s.trung.fun
 .searx.tuxcloud.net
 .searx.tyil.nl
-.unmonito.red
 .lx.vern.cc
 .wg.vern.cc
 .searx.vitanetworks.link
