@@ -52,6 +52,7 @@
 .dns.240527.xyz
 .24tunnel.com
 .doh003.280blocker.net
+.28383829.com
 .28383829.site
 .2fastsurfer.com
 .2fastsurfer.eu
@@ -684,6 +685,7 @@
 .croxy.network
 .croxy.org
 .croxy.red
+.croxy.rocks
 .croxyproxy.best
 .croxyproxy.com
 .croxyproxy.net
