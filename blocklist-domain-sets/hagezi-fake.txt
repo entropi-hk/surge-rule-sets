@@ -118,6 +118,7 @@
 .actualite-placement.com
 .acy.com
 .ad-property.com
+.adadream.com
 .adamlio.de
 .adaptertunerturbo.de
 .adaton.de
@@ -231,6 +232,7 @@
 .akselinvest.pro
 .aktcapitalag.com
 .aktionheizung.de
+.aktivall.de
 .al-handel.de
 .alaffia24.de
 .alanwaynemyers.com
@@ -1104,6 +1106,7 @@
 .best-ticket.com
 .best4you.org
 .bestbagstore.com
+.bestbeauty-style.com
 .teslertrading.bestchoice-investment.com
 .bestchoicepills.com
 .bestcollectibles.store
@@ -1882,6 +1885,7 @@
 .cavedor.com
 .cavehcconseil.com
 .cavissimo.com
+.cb-sport.com
 .cbddiscounter.shop
 .cbddiscounteronline.shop
 .cbdhanf.at
@@ -2669,6 +2673,7 @@
 .demoniaonlineshop.com
 .demoniaportugal.com
 .demoniaromania.com
+.demoniaschuhe.de
 .demoniashoesnorge.com
 .demoniastiefel.de
 .demoniasuomi.com
@@ -2862,6 +2867,7 @@
 .docjohnson-schritte.com
 .docsmartensfactoryoutlet.com
 .doehlers.com
+.dogeared-reads.com
 .dogfoodonline.shop
 .dogitemoutlet.com
 .dogsfoodmall.store
@@ -3445,7 +3451,6 @@
 .euro-ticket-club.com
 .euro-unionpay-kredit.de
 .euro2024tickets.de
-.eurobo24.de
 .euroeinkauf.de
 .euroemarket.com
 .euromarketshop.com
@@ -3698,7 +3703,6 @@
 .fashionfrog.de
 .fashiongirl24.de
 .fashionguess.com
-.fashionhatfinds.com
 .fashionleben.de
 .fashionlink.store
 .fashionmcq.com
@@ -3821,7 +3825,6 @@
 .fine2buy.com
 .fineobermeyer.com
 .fineonlinesale.com
-.finest-rctoy.com
 .finestmotion.com
 .finestsurf.com
 .finestussport.com
@@ -4103,7 +4106,6 @@
 .furniture-cheapest.com
 .furnitureacme.com
 .furniturebernhardt.com
-.furniturefabulous.com
 .furniturefinest.com
 .furnituremodish.com
 .furnitureprada.de
@@ -4704,6 +4706,7 @@
 .gueaoutlturop.shop
 .guenstig-heizoel.com
 .guenstig-pillen.de
+.guenstig-rezeptfrei.de
 .guenstiger-rasenmaeher.com
 .guessfinland.com
 .guessosterreich.at
@@ -5682,7 +5685,6 @@
 .jjctrans.com
 .jjmalibumen.com
 .jkinski.shop
-.jlindebergliefern.com
 .jnvdarjeeling.com
 .joanndavid.shop
 .job-futura.de
@@ -6509,6 +6511,7 @@
 .logisax-tech.de
 .logistikarbeitsplatz.com
 .lokalversand.nl
+.lolamarkt.com
 .lollipoppydoodle.com
 .lolnba.top
 .loloswood.com
@@ -6606,6 +6609,7 @@
 .luftentfeuchterdewett.de
 .luggageracksshop.com
 .luiliebe.shop
+.lukasenergie.com
 .lukemann.de
 .lululemonhamburg.de
 .lululemonosterreich.at
@@ -7466,7 +7470,6 @@
 .naturkindershopde.shop
 .naturkraft-express.de
 .naturlichekoder-futter.com
-.naturlichesfeuer.shop
 .naturwaerme-karow.com
 .naturwaerme-karow.de
 .naumann-versand.com
@@ -7564,7 +7567,6 @@
 .newhelicopterrc.com
 .newhikingbootes.com
 .newinaccessories.com
-.newinlingerie.com
 .newinmountain.com
 .newinsnowboard.com
 .newintools.com
@@ -8172,7 +8174,6 @@
 .cheap-sale.outletsale2022.ru
 .outletsalomon.com
 .outletsbaby.com
-.outletseur.com
 .outletsloggi.com
 .outletstoic.com
 .outletstreamline.com
@@ -8551,7 +8552,6 @@
 .popular-camping.com
 .popularusfemale.com
 .popustennis.com
-.popwomenshoe.com
 .porco-office.de
 .porlabs.com
 .porte-monnaie.de
@@ -9324,7 +9324,6 @@
 .salebuset.shop
 .salecampoutdoor.com
 .salecarracks.com
-.salecasualwear.com
 .salecomponent.com
 .saledtools.com
 .saleelectrical.com
@@ -9334,6 +9333,7 @@
 .saleglamorous.com
 .salegoldenstar.com
 .salehandmade.com
+.salehomeus.com
 .saleiceclimbing.com
 .salejerseysshop.com
 .saleknitwear.com
@@ -10252,7 +10252,6 @@
 .stoneislandsuisse.com
 .stoneislandsuomi.org
 .stop-oder-go.de
-.storagecontainersale.com
 .storageracksale.com
 .store-airplane.com
 .store-awnings.com
@@ -10373,6 +10372,7 @@
 .stylishwilderness.com
 .stylow.de
 .subhmobiles.com
+.subtletoys.com
 .subttles.com
 .success-broker.com
 .sucheskateboard.com
@@ -11381,6 +11381,7 @@
 .us-bikedeal.com
 .us-billini.shop
 .us-outdoorhub.com
+.us-sellinggolf.com
 .us-stylishattire.com
 .usabicycleus.com
 .usafadmagic.com
@@ -11460,6 +11461,7 @@
 .usstylesite.com
 .usstylishtreasure.com
 .ustoolsale.com
+.ustotalkitchen.com
 .ustoyboxtreasures.com
 .ustrendyunderwear.com
 .usualfurniture.com
