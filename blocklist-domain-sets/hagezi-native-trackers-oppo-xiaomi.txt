@@ -145,6 +145,7 @@
 .tracking.miui.com
 .api.vip.miui.com
 .intl.up.w.xk.miui.com
+.rus-mi.com
 .traffic-media.co
 .ad.xiaomi.com
 .api.ads.xiaomi.com

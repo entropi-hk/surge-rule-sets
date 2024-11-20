@@ -260,6 +260,7 @@
 .atlasvpn.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .auto-aufladen.de
 .vanheim.ff.avast.com
 .vpn.avg.tools.avast.com
@@ -2676,6 +2677,7 @@
 .dns.shimul.me
 .do.shimul.me
 .shopping-website.us
+.shopproxy.net
 .adguard.shoupperuser.com
 .adguard.shutgaming.net
 .shyf.info
@@ -2871,7 +2873,6 @@
 .dns.t53.de
 .tailscale.com
 .talk2m.com
-.adguard.taxiora.tn
 .tbjr6.com
 .tbjr6.net
 .tbjr6.org

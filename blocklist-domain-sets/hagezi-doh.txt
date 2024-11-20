@@ -121,6 +121,7 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -1340,7 +1341,6 @@
 .dns.szpadel.ovh
 .dns.t-ipnet.de
 .dns.t53.de
-.adguard.taxiora.tn
 .tecdrive.site
 .dns1.techeasy.org
 .vpn.technicule.info
