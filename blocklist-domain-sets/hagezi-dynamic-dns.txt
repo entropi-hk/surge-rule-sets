@@ -88,6 +88,7 @@
 .astrabus.ru
 .at-band-camp.net
 .ath.cx
+.atlantatruckdrivingschool.us
 .auraria.org
 .authorizeddns.net
 .authorizeddns.org
@@ -598,12 +599,14 @@
 .gerastar.ru
 .getmyip.com
 .gets-it.net
+.gettrails.com
 .gettrials.com
 .ghostnation.org
 .gigaportal.pl
 .giize.com
 .gleeze.com
 .global-instr.us
+.gluebank.com
 .golaud.com
 .goldcrestcc.com
 .golffan.us
@@ -626,6 +629,7 @@
 .gslb.me
 .gteksecurity.com
 .gtk.cl
+.guardz.ru
 .guild-site.com
 .gurcanozturk.com
 .gurdit.com
@@ -707,6 +711,7 @@
 .imagetemplate.com
 .imagetemplate.net
 .imexsac.com
+.imprendum.com
 .in-the-band.net
 .independentonline.ro
 .inflict.us
@@ -842,6 +847,7 @@
 .k22.su
 .kanda.ru
 .kaohsiung.tv
+.kck-saratov.ru
 .keine-panik.net
 .kellserve.com
 .kicks-ass.net
@@ -924,6 +930,7 @@
 .mine.bz
 .mine.nu
 .minecraftnoob.com
+.minecraftpotato.com
 .minecraftr.us
 .mirolnet.com
 .misconfused.org

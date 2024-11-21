@@ -171,6 +171,7 @@
 .mdp-appconf-lk.heytapdl.com
 .mdp-appconf-ly.heytapdl.com
 .mdp-appconf-ma.heytapdl.com
+.mdp-appconf-me.heytapdl.com
 .mdp-appconf-mea.heytapdl.com
 .mdp-appconf-mm.heytapdl.com
 .mdp-appconf-mx.heytapdl.com
@@ -192,6 +193,7 @@
 .mdp-appconf-qa.heytapdl.com
 .mdp-appconf-ro.heytapdl.com
 .mdp-appconf-row.heytapdl.com
+.mdp-appconf-rs.heytapdl.com
 .mdp-appconf-ru.heytapdl.com
 .mdp-appconf-sa.heytapdl.com
 .mdp-appconf-sg.heytapdl.com

@@ -122,6 +122,7 @@
 .acrea.cz
 .activpn.com
 .actmobile.com
+.zone.actsministries.org
 .adblockersite.com
 .adblockluna.com
 .adl.adfilter.net
@@ -189,6 +190,7 @@
 .doh.amonsul.net
 .anachem.online
 .ananoos.com
+.anatomical.design
 .anchorfree.net
 .dns.andrewnw.xyz
 .androvpn.com
@@ -261,6 +263,7 @@
 .atris.cyou
 .dohtrial.att.net
 .dns.auapi.fun
+.autismawareness.design
 .auto-aufladen.de
 .vanheim.ff.avast.com
 .vpn.avg.tools.avast.com
@@ -313,6 +316,7 @@
 .dns.belnet.be
 .dns.bermeitinger.eu
 .bestfreevpn.com
+.bestmod.site
 .bestproxy.xyz
 .bestssh.net
 .bestukvpn.com
@@ -433,6 +437,7 @@
 .dns.cabbage.zone
 .cactusvpn.com
 .dns.cahlen.com
+.calculusproblems.online
 .callies-online.site
 .tor.calyxinstitute.org
 .cantblockthis.org
@@ -477,8 +482,10 @@
 .dns.christian.moe
 .christophbrem.com
 .dns.chriswservers.com
+.chromebook.digital
 .dns.chromeina.top
 .chromeproxy.net
+.chubsinfestation.design
 .oraclejp2.chungyu.com
 .c.cicitt.ch
 .cienen.com
@@ -489,6 +496,7 @@
 .mus.cisco.com
 .ciscossh.com
 .citizenvpn.com
+.citrik.design
 .dns.clanless.ovh
 .dns.clanto.cloud
 .cleanbrowsing.org
@@ -656,15 +664,18 @@
 .doh.viatech.com.tw
 .webproxy.com.de
 .dns.comff.net
-.edit.commanders.design
+.commanders.design
+.commonapp.college
 .commons.host
 .easy-vpn.comodo.com
+.compsci.college
 .comss.one
 .comss.ru
 .confirmedvpn.com
 .dns1.conne.net
 .dns.connect.fail
 .connectionvpn.com
+.constitutional.design
 .contassh.com
 .contentabc.com
 .dns.controld.com
@@ -674,6 +685,7 @@
 .corecloak.com
 .doh.cornes.me
 .corsproxy.io
+.coverproxy.com
 .doh.cox.net
 .dot.cox.net
 .dohdot.coxlab.net
@@ -718,7 +730,7 @@
 .cybersilent.com
 .cyberssh.com
 .dns.cybertonic.tech
-.buythe.cybertruck.design
+.cybertruck.design
 .cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
@@ -731,6 +743,7 @@
 .dns.dallinbryce.com
 .dns.home.daniil.it
 .adguard.dantynes.cyou
+.darkfat.com
 .darknet.to
 .proxy.darkvpn.com
 .mail.data.haus
@@ -770,6 +783,7 @@
 .dns2.digitale-gesellschaft.ch
 .dns.digitalsize.net
 .directoryproxy.info
+.disciplinary.design
 .disconnect.me
 .doh.disconnect.app
 .fdns1.dismail.de
@@ -929,6 +943,7 @@
 .doh.pub
 .doh.sb
 .doh.xyz
+.doityourselfcrafts.design
 .dolopo.net
 .domainownership.us
 .doh.domreg.lt
@@ -959,6 +974,7 @@
 .vpschito.duckdns.org
 .dukun.de
 .dutchproxy.nl
+.dvprovider.icu
 .dns.dyn1.de
 .ueni.dyndns.org
 .gustamadh.dynv6.net
@@ -982,7 +998,9 @@
 .edgy-dns.com
 .dns.edison42.dev
 .dns.editechstudio.com
+.edpuzzle.space
 .dns.tuna.tsinghua.edu.cn
+.eduacation.lol
 .adguard.ef67daisuki.club
 .tor.eff.org
 .dns.efficientdocuments.com
@@ -994,6 +1012,7 @@
 .dns.ellichua.com
 .emban-networks.com
 .dns.emiliyan.com
+.ems115.shop
 .emuby.com
 .encrypt.me
 .adguard.ender.fr
@@ -1031,6 +1050,7 @@
 .dns.extrawdw.net
 .fra1.eyecay.xyz
 .dns.ezyss.id
+.f0lga.tech
 .dns.f4a.fun
 .f4fp.com
 .jp1.f7b6h9.tk
@@ -1051,6 +1071,7 @@
 .apple-relay.fastly-edge.com
 .fastp.org
 .fastpro.info
+.fastproxy.nl
 .fastproxy.org
 .fastproxynetwork.com
 .fastssh.com
@@ -1119,6 +1140,7 @@
 .fortniters.info
 .forwardproxie.com
 .fproxy.net
+.explore.francomedia.net
 .frandcomfort.us
 .free-kree-k.xyz
 .free-proxy.com
@@ -1157,10 +1179,12 @@
 .freeproxyaccess.com
 .freeproxyserver.co
 .freeproxysites.co
+.freeproxyunblockyoutube.com
 .freeproxyupdate.com
 .freeproxyweb.net
 .freesafeip.com
 .freesupervpn.com
+.freesurfproxy.com
 .freetrialvpn.com
 .freeukvpn.com
 .freevideoproxy.com
@@ -1209,6 +1233,7 @@
 .adg.geili.me
 .nodes.gen4.ninja
 .genmirror.com
+.geoguessr.lol
 .geosurf.com
 .geosurf.io
 .german-proxy.de
@@ -1241,6 +1266,7 @@
 .gibblets.top
 .adguard.maison.gifino.fr
 .gifttrees.us
+.gingerbread.design
 .dns.ginovs.nl
 .gipvpn.com
 .dns.girino.org
@@ -1289,8 +1315,10 @@
 .dot.libredns.gr.com
 .gracarno.com
 .graef.in
+.grammarhelpers.com
 .granules.us
 .gratisproxy.nl
+.gratisvpn.com
 .greatestfreeproxy.com
 .greatideasforlife.lol
 .greenpass.info
@@ -1373,6 +1401,7 @@
 .hidevpn.info
 .hideway.eu
 .hideweb.org
+.hidexy.com
 .hidingit.com
 .hidingyour.info
 .hiload.in
@@ -1412,6 +1441,7 @@
 .hotbot.com
 .hotbotvpn.com
 .hotfreevpn.com
+.purchase-some.hotglue.click
 .hotspotshield.com
 .hotspotvpn.com
 .dns.hotta.page
@@ -1427,6 +1457,7 @@
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work
+.hustlersuniversity.pro
 .ad.huyct.net
 .dns.huyhoangit.net
 .hyperbyte.net
@@ -1530,6 +1561,7 @@
 .iweb365.net
 .ixl.plus
 .jabber-germany.de
+.jackandthebeanstalk.design
 .jackyes.ovh
 .jagoanssh.com
 .jailbreaked.net
@@ -1561,6 +1593,7 @@
 .dns.jstockley.com
 .judua3rtinpst0s.xyz
 .dns.jundev.org
+.jupitervpn.ninja
 .dns.jupitrdns.com
 .juproxy.com
 .ad.justincounts.com
@@ -1619,6 +1652,7 @@
 .adguard.kss.ovh
 .dns.kukal.cz
 .dns.kumoumi.net
+.dns.kusoneko.moe
 .dns.kuuhaku.moe
 .kx-97795-tr.xyz
 .dns.kxy.ink
@@ -1662,7 +1696,6 @@
 .dns.lihj.me
 .limevpn.com
 .limitlessproxy.com
-.michelo.line.pm
 .linkideo.com
 .linkmefree.net
 .linkmetube.com
@@ -1930,6 +1963,7 @@
 .dns.neubsi.at
 .dns.neutopia.org
 .newads-cdn.com
+.help.newhopes.info
 .newipnow.com
 .dns1.au.newpangea.de
 .dns1.cl.newpangea.de
@@ -2003,6 +2037,7 @@
 .o2comm-prd.norton.com
 .spoc.norton.com
 .dns.norvig.dk
+.notartclass.design
 .dns.notjakob.com
 .notlong.com
 .notvpn.io
@@ -2054,6 +2089,7 @@
 .onion.casa
 .onion.city
 .onion.direct
+.onion.dog
 .onion.gq
 .onion.link
 .onion.lt
@@ -2171,6 +2207,7 @@
 .personalvpn.com
 .personaly.click
 .dns.pesaventofilippo.com
+.petergriffin.design
 .dns.petqa.ru
 .adguard.pggns.de
 .dns.phillipjberry.net
@@ -2221,6 +2258,7 @@
 .polandgrows.com
 .polargrizzly.com
 .polaris.cx
+.polarvoid.store
 .polisitogel.accountant
 .polisitogel.beauty
 .polisitogel.builders
@@ -2412,6 +2450,8 @@
 .proxynova.com
 .proxyof.com
 .proxyone.net
+.proxyoutlet.com
+.proxypirates.com
 .proxypremium.top
 .proxypx.com
 .proxypy.org
@@ -2420,6 +2460,7 @@
 .proxysan.info
 .proxyscope.com
 .proxyscrape.com
+.proxyserver.buzz
 .proxyserver.com
 .proxyserverlist24.top
 .proxysheep.com
@@ -2454,6 +2495,7 @@
 .publicdnsserver.com
 .pukanuragan.ru
 .dns.pumpkinvrar.com
+.pupilproxy.com
 .puredns.org
 .dns-privacy.puregeni.us
 .purevpn.com
@@ -2504,6 +2546,7 @@
 .dns.api.rackspacecloud.com
 .radmin-vpn.com
 .dns.rafn.is
+.rakhmatullo.gay
 .ns.ral9005.org
 .rapidprivacy.com
 .rapidproxy.org
@@ -2520,6 +2563,7 @@
 .readandmath.today
 .login.readinghelper.online
 .dns.reckoningslug.name
+.redhoodie.site
 .redproxy.info
 .redschool.info
 .dns.redvau.lt
@@ -2551,6 +2595,7 @@
 .roodel.com
 .roogen.com
 .roonyx.com
+.dns.rootlab.top
 .dns.rotunneling.net
 .roundrockisd.online
 .roxy2link.com
@@ -2572,6 +2617,7 @@
 .doh.runsel.id
 .rushproxy.com
 .agh-yz.russel053.com
+.drs.rustsword.com
 .rusvpn.com
 .rvpn.ws
 .dns1.ryan-palmer.com
@@ -2606,6 +2652,8 @@
 .vps4.scho.io
 .school-websites.us
 .schoolnewsletter.us
+.schoology.college
+.schoology.help
 .schoolproxy.co
 .schooxy.com
 .sciencesimplified.pro
@@ -2654,6 +2702,7 @@
 .serverhoya.com
 .serverssh.net
 .assets-prod-a230.s3.serverwild.com
+.sescloud.club
 .setupvpn.com
 .dns.sev.monster
 .sf-helper.com
@@ -2736,6 +2785,7 @@
 .sourceproxy.com
 .spacedns.org
 .spacevpn.io
+.spanish101.college
 .spanproxy.com
 .sparklabs.com
 .adguard.sparshbajaj.me
@@ -2857,6 +2907,7 @@
 .dns.sv-zauner.at
 .dns.svoi.dev
 .swapip.com
+.swiftshieldvpn.com
 .dns.swin.pro
 .swissvpn.net
 .switch.ch
@@ -2898,6 +2949,7 @@
 .dns.soldier.terumi.club
 .teruteruteruko.com
 .dns.tesem.dog
+.tutoeerials.tether-dev.com
 .cloud.tezoi.com
 .thankvpn.com
 .the-cloak.com
@@ -2966,6 +3018,10 @@
 .timetohide.me
 .timmes.nl
 .adb.timnichollsphotography.com
+.tinf0il.design
+.tinf0il.online
+.tinf0il.tech
+.tinfoil-is-ass.xyz
 .dns.tipsy.coffee
 .titaniumnetwork.org
 .dns.tls-data.de
@@ -3034,6 +3090,7 @@
 .doh.ibr.cs.tu-bs.de
 .tubeprox.com
 .tubeunblock.me
+.tubeunblock.net
 .tujenasnaszato.xyz
 .tunnelbear.com
 .turbohide.org
@@ -3046,6 +3103,7 @@
 .nat64.tuxis.nl
 .tuxlervpn.com
 .tvone.info
+.twingate.com
 .dns.twnic.tw
 .twoproxy.net
 .adguard.twotigers.xyz
@@ -3220,6 +3278,7 @@
 .unblockyouku.com
 .unblockyouku.org
 .unblockyoutube.co
+.unblockyoutube.eu
 .unblockyoutube.video
 .unblockyoutubeatschool.com
 .unblockyoutubefree.net
@@ -3281,6 +3340,7 @@
 .tor.vasi.li
 .dns.vault81.de
 .vblocker.info
+.vectroproxy.com
 .veepn.com
 .art-class-omg.vercel.app
 .asdsasd.vercel.app
@@ -3296,6 +3356,7 @@
 .videocollage.us
 .videoproxy.site
 .videounblock.com
+.videounblocked.com
 .videounblocker.net
 .vidproxy.com
 .viewyoutube.net
@@ -3405,6 +3466,7 @@
 .vpnv6.com
 .vpnvip.com
 .antispam.vpnvps.com
+.vpnwebsite.com
 .vpnwelt.com
 .antispam.vpsvpn.com
 .vtcuong.site
@@ -3434,6 +3496,7 @@
 .doh.webnmail.de
 .weboproxy.com
 .webpro.xyz
+.webproxy.best
 .webproxy.com
 .webproxy.online
 .webproxy.to
@@ -3441,6 +3504,7 @@
 .webproxyagent.com
 .webproxyfree.net
 .webproxyinc.com
+.webproxyusa.com
 .webrunnerproxy.com
 .webshare.io
 .janvet.website.pl
@@ -3451,6 +3515,7 @@
 .websynchrony.com
 .webtester.cc
 .webtunnel.org
+.webtunnelx.com
 .webxify.com
 .dns.wechat.com
 .wellpoint.com
@@ -3550,6 +3615,7 @@
 .youtubebyclick.com
 .youtubefreeproxy.net
 .youtubeunblocked.live
+.youtubeunblocked.org
 .youtubez.com
 .yovbak.com
 .yoyovpn.org

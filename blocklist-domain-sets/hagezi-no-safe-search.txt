@@ -17,12 +17,14 @@
 .baidu.com
 .baresearch.org
 .searx.bbaovanc.com
+.beezboo.com
 .search.biboumail.fr
 .searx.bissisoft.com
 .search.bluelock.org
 .boomle.com
 .search.bowlman.org
 .search.bus-hit.me
+.searx.catfluori.de
 .sx.catgirl.cloud
 .search.aol.co.uk
 .websearch.excite.co.jp
@@ -68,6 +70,7 @@
 .searx.gnu.style
 .searx.gotrust.de
 .gruble.de
+.searx.guillaumea.fr
 .hmsearx.h0meserver.com
 .searx.hardwired.link
 .whoogle.hostux.net
@@ -151,6 +154,7 @@
 .search.in.projectsegfau.lt
 .search.projectsegfau.lt
 .search.us.projectsegfau.lt
+.searx.prvcy.eu
 .librex.pufe.org
 .lite.qwant.com
 .search.rabbit-company.com
@@ -162,6 +166,7 @@
 .wtf.roflcopter.fr
 .roteserver.de
 .search.rowie.at
+.search.rubberverse.xyz
 .search.sapti.me
 .searchencrypt.com
 .searchx.mobi
