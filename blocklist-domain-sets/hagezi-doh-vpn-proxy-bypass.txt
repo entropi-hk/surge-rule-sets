@@ -263,7 +263,6 @@
 .atris.cyou
 .dohtrial.att.net
 .dns.auapi.fun
-.autismawareness.design
 .auto-aufladen.de
 .vanheim.ff.avast.com
 .vpn.avg.tools.avast.com
@@ -485,7 +484,6 @@
 .chromebook.digital
 .dns.chromeina.top
 .chromeproxy.net
-.chubsinfestation.design
 .oraclejp2.chungyu.com
 .c.cicitt.ch
 .cienen.com
@@ -496,7 +494,6 @@
 .mus.cisco.com
 .ciscossh.com
 .citizenvpn.com
-.citrik.design
 .dns.clanless.ovh
 .dns.clanto.cloud
 .cleanbrowsing.org
@@ -664,7 +661,7 @@
 .doh.viatech.com.tw
 .webproxy.com.de
 .dns.comff.net
-.commanders.design
+.edit.commanders.design
 .commonapp.college
 .commons.host
 .easy-vpn.comodo.com
@@ -943,7 +940,6 @@
 .doh.pub
 .doh.sb
 .doh.xyz
-.doityourselfcrafts.design
 .dolopo.net
 .domainownership.us
 .doh.domreg.lt
@@ -1050,7 +1046,6 @@
 .dns.extrawdw.net
 .fra1.eyecay.xyz
 .dns.ezyss.id
-.f0lga.tech
 .dns.f4a.fun
 .f4fp.com
 .jp1.f7b6h9.tk
@@ -1136,7 +1131,6 @@
 .flyvpn.com
 .gateway.fomichev.cloud
 .for-privacy.net
-.cranking90s.fortnitebuilder.pro
 .fortniters.info
 .forwardproxie.com
 .fproxy.net
@@ -1561,7 +1555,6 @@
 .iweb365.net
 .ixl.plus
 .jabber-germany.de
-.jackandthebeanstalk.design
 .jackyes.ovh
 .jagoanssh.com
 .jailbreaked.net
@@ -1696,6 +1689,7 @@
 .dns.lihj.me
 .limevpn.com
 .limitlessproxy.com
+.michelo.line.pm
 .linkideo.com
 .linkmefree.net
 .linkmetube.com
@@ -1768,7 +1762,6 @@
 .mathhelpnow.site
 .mathlearning.tech
 .mathnotes.help
-.mathnotes.icu
 .maxfong.cc
 .maxvpn.info
 .dns.maybe.icu
@@ -2546,7 +2539,6 @@
 .dns.api.rackspacecloud.com
 .radmin-vpn.com
 .dns.rafn.is
-.rakhmatullo.gay
 .ns.ral9005.org
 .rapidprivacy.com
 .rapidproxy.org
@@ -2673,7 +2665,6 @@
 .secretproxy.org
 .secretsline.biz
 .secretsline.org
-.secure-vpn.com
 .vpncenter.avg.securebrowser.com
 .vpncenter-tenta.securebrowser.com
 .securefor.com
@@ -2949,7 +2940,6 @@
 .dns.soldier.terumi.club
 .teruteruteruko.com
 .dns.tesem.dog
-.tutoeerials.tether-dev.com
 .cloud.tezoi.com
 .thankvpn.com
 .the-cloak.com
@@ -3018,10 +3008,7 @@
 .timetohide.me
 .timmes.nl
 .adb.timnichollsphotography.com
-.tinf0il.design
-.tinf0il.online
 .tinf0il.tech
-.tinfoil-is-ass.xyz
 .dns.tipsy.coffee
 .titaniumnetwork.org
 .dns.tls-data.de

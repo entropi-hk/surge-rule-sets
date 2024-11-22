@@ -813,6 +813,7 @@
 .doh.libredns.gr
 .dot.libredns.gr
 .dns.lihj.me
+.michelo.line.pm
 .dns.linkr.ninja
 .africadns1.liquidtelecom.net
 .africadns2.liquidtelecom.net
