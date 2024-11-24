@@ -173,6 +173,7 @@
 .vps.alloxr.info
 .allunblocked.com
 .dns.almir1904.eu
+.alphabr.online
 .alphabrowser.xyz
 .adguard.alu.dog
 .aluu.xyz
@@ -1348,7 +1349,6 @@
 .query.hdns.io
 .ordns.he.net
 .headproxy.com
-.us-ny-alula.heliumcloud.cc
 .helloworld.cx
 .dns.hellozhao.com
 .helpmehide.net
@@ -3543,6 +3543,7 @@
 .worldvpn.net
 .wossow.com
 .home.wriedts.de
+.writingessaypros.com
 .wtools.eu
 .ns2.wuyouss.com
 .ns3.wuyouss.com

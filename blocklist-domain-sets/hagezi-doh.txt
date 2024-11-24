@@ -651,7 +651,6 @@
 .adguard.hartley.cloud
 .query.hdns.io
 .ordns.he.net
-.us-ny-alula.heliumcloud.cc
 .dns.hellozhao.com
 .dns.henek.ovh
 .httpdns-push.heytapmobile.com
