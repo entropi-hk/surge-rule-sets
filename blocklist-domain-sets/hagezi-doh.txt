@@ -651,6 +651,7 @@
 .adguard.hartley.cloud
 .query.hdns.io
 .ordns.he.net
+.us-ny-alula.heliumcloud.cc
 .dns.hellozhao.com
 .dns.henek.ovh
 .httpdns-push.heytapmobile.com
@@ -755,7 +756,6 @@
 .dns.kawa.tf
 .dns.kebree.fr
 .dns.keke125.com
-.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de

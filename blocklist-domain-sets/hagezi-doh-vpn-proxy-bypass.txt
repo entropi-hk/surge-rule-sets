@@ -1349,6 +1349,7 @@
 .query.hdns.io
 .ordns.he.net
 .headproxy.com
+.us-ny-alula.heliumcloud.cc
 .helloworld.cx
 .dns.hellozhao.com
 .helpmehide.net
@@ -1607,7 +1608,6 @@
 .keenow.com
 .keepanonymous.com
 .dns.keke125.com
-.doh.kekew.info
 .doh.kel.pe
 .kepard.com
 .dns.kerekes.xyz
