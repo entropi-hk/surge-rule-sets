@@ -164,6 +164,7 @@
 .statsfe2.ws.microsoft.com
 .gateway.bingviz.microsoftapp.net
 .msads.net
+.win10-trt.msedge.net
 .ad.msn.com
 .adevents.msn.com
 .ads.msn.com

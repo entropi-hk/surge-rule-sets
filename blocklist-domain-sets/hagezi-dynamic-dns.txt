@@ -95,7 +95,6 @@
 .authorizeddns.us
 .autoipset.com
 .avandns.com
-.awiki.org
 .ax.lt
 .b0ne.com
 .b0tnet.com
@@ -485,7 +484,6 @@
 .eurotank.ro
 .eva.hk
 .everton.com
-.evils.in
 .expired-dns.com
 .ez-ip.net
 .ezua.com
@@ -493,7 +491,6 @@
 .f-parts.net
 .f3322.net
 .f3322.org
-.fairuse.org
 .falcongreen.com
 .fantasyleague.cc
 .faqserv.com
@@ -1439,7 +1436,6 @@
 .windmillstravel.com
 .winnity.ro
 .wmhelp.com
-.wolmerica.com
 .womenclothingtoday.com
 .workisboring.com
 .worse-than.tv

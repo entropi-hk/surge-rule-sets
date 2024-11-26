@@ -42,6 +42,7 @@
 .dns-gcp.aaflalo.me
 .dns-nyc.aaflalo.me
 .doh.dns.apple.com.v.aaplimg.com
+.dns.aaytorr.com
 .adguard.abd.ong
 .dns.abdullahabas.de
 .doh.abraservice.xyz
@@ -121,7 +122,6 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
-.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -361,7 +361,6 @@
 .dns0.eu
 .doh.dns4all.eu
 .dns4me.net
-.dns8.org
 .ns1.recursive.dnsbycomodo.com
 .ns2.recursive.dnsbycomodo.com
 .2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -756,6 +755,7 @@
 .dns.kawa.tf
 .dns.kebree.fr
 .dns.keke125.com
+.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de
@@ -881,7 +881,6 @@
 .dns.mihanentalpo.me
 .dns.mikeliu.org
 .mikezhang.xyz
-.miniapp.global
 .minilla.store
 .netcup.mismat.ch
 .doh.mmmalia.com
