@@ -1282,7 +1282,6 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
-.dns.glorydns.com
 .glype.com
 .dns.gnb09.id
 .privacydns.go6lab.si
@@ -1797,6 +1796,7 @@
 .dns.mihanentalpo.me
 .dns.mikeliu.org
 .mikezhang.xyz
+.dns.milkpie.one
 .minilla.store
 .miniprox.com
 .miniprox.info

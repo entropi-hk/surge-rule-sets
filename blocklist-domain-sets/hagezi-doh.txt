@@ -619,7 +619,6 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
-.dns.glorydns.com
 .dns.gnb09.id
 .privacydns.go6lab.si
 .dns.goldplate.org
@@ -881,6 +880,7 @@
 .dns.mihanentalpo.me
 .dns.mikeliu.org
 .mikezhang.xyz
+.dns.milkpie.one
 .minilla.store
 .netcup.mismat.ch
 .doh.mmmalia.com
