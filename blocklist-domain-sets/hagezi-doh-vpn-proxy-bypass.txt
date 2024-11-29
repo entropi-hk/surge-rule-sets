@@ -1282,6 +1282,7 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
+.dns.glorydns.com
 .glype.com
 .dns.gnb09.id
 .privacydns.go6lab.si
@@ -1713,6 +1714,7 @@
 .lookingglass.site
 .lopana.com
 .n5.lsasss.com
+.dns.lsho.top
 .ltlxvxjjmvhn.me
 .lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz

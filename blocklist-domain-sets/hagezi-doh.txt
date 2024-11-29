@@ -619,6 +619,7 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
+.dns.glorydns.com
 .dns.gnb09.id
 .privacydns.go6lab.si
 .dns.goldplate.org
@@ -826,6 +827,7 @@
 .doh.phdns4.lonet.org
 .doh.phdns5.lonet.org
 .n5.lsasss.com
+.dns.lsho.top
 .lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz
 .lukscasino-929-tr.xyz

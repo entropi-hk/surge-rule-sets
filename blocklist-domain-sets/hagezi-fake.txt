@@ -772,7 +772,6 @@
 .autoteilepreisvergleich.org
 .autoteilerabatt.com
 .autozubehorde.com
-.autozubehr.com
 .autry-deutschland.de
 .autrydeutschland.com
 .autryjapan.net
@@ -1556,7 +1555,6 @@
 .braut-cinderella.de
 .braxzt.com
 .breadmachineshop.com
-.breathtakingskis.com
 .bredyshopper.de
 .breezekiss.shop
 .breitenbacher.shop
@@ -1680,7 +1678,6 @@
 .buronstar-sports.com
 .bursyswork.live
 .burtonski.de
-.burtonsnowboard.de
 .busse-autoreifen.shop
 .bustier-sales.com
 .butlersde.com
@@ -1731,7 +1728,6 @@
 .cafeeq.de
 .caffeine-machine.de
 .cafivo.com
-.cairnoutdoor.de
 .cairnsport.de
 .calcaterrachallenge.com
 .calidaosterreich.at
@@ -2153,6 +2149,7 @@
 .tom-ford.co.za
 .uggs-southafrica.co.za
 .vanss.co.at
+.veja.co.at
 .victoriasecretssouthafrica.co.za
 .yeti-southafrica.co.za
 .coach-florian.com
@@ -2189,6 +2186,7 @@
 .colli-cards.de
 .collstein.com
 .coloretti-baby.de
+.colorfulrctoy.com
 .colsportswear.com
 .columbi.de
 .columbia-suomi.com
@@ -3237,6 +3235,7 @@
 .emergingsurf.com
 .emhart-holze.com
 .emilemartin.com
+.emiliegan.com
 .eminage.com
 .eminetfinancesystem.com
 .emma-keller.de
@@ -3818,7 +3817,6 @@
 .fishingsale.space
 .fit-perfect.de
 .fitandelite.com
-.fitapotheek.com
 .fitflopoutlet.at
 .fitflopparis.net
 .fitflopromania.com
@@ -4144,7 +4142,6 @@
 .galaxyfox.io
 .galeme.com
 .galerieoswald.de
-.galileofx.com
 .gambotmaschinen.com
 .game.toys
 .game-byte.com
@@ -4461,7 +4458,6 @@
 .glueckstore.de
 .gluschwein.de
 .gm-portal.co
-.gmbholz.com
 .gmd-koeln.de
 .gmiglfx.com
 .gmm-holzgmbh.com
@@ -4480,6 +4476,7 @@
 .gokugelis.com
 .gola-deutschland.de
 .gola-deutschlands.de
+.golaberlin.de
 .golaschuheswebsite.de
 .golaschuhewebsite.de
 .golawien.at
@@ -5029,6 +5026,7 @@
 .herzensnotiz.de
 .heuer-reifenhandel.com
 .hexa-tronic.com
+.heydude-schuhe.de
 .heydudeschuhedamen.de
 .heydudeschuheschweiz.com
 .heyjune.shop
@@ -6195,6 +6193,7 @@
 .lanaeyamiller.com
 .landandwateres.com
 .landcutlery.com
+.landkaffee.com
 .landluftde.shop
 .landoverprtcanada.shop
 .laneberg.de
@@ -7495,6 +7494,7 @@
 .newlivingroomchairs.com
 .newmanshoes.com
 .newmissstylish.com
+.newmotorcyclesell.com
 .newoutdoorpatio.com
 .newpoloassn.com
 .newqualityhome.com
@@ -8801,7 +8801,6 @@
 .rath-reifenhandel.shop
 .raumemobel.com
 .rauwolf-tech.de
-.ravishingcosmetology.com
 .raybansales.us
 .raybanslovensko.sk
 .razerwien.at
@@ -9449,7 +9448,6 @@
 .schuhechoice.com
 .schuheclarks.de
 .schuhegunstignice.de
-.schuhehoka.de
 .schuhepaulgreen.de
 .schuhesalede.de
 .schuhescarpa.de
@@ -10380,7 +10378,6 @@
 .swatchaustria.at
 .swatchshopping.com
 .swatpants.com
-.sweatjacken-onsale.com
 .sweatshirtpopularshop.com
 .sweatybetty-deutschland.de
 .sweetbeds.eu
@@ -10655,7 +10652,6 @@
 .thegreatoffersforyou.com
 .thegroundedtree.com
 .thegypsybulldog.com
-.theheatpads.com
 .theheraldnewstoday.com
 .thehikingshoe.com
 .thehokaoneone.com
