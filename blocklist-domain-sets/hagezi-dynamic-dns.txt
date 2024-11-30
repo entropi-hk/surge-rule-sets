@@ -1319,7 +1319,6 @@
 .suroot.com
 .swtest.ru
 .syno-ds.de
-.synology.me
 .synology-diskstation.de
 .synology-ds.de
 .synoserver.com
