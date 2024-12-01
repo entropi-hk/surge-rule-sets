@@ -551,6 +551,7 @@
 .dns.ezyss.id
 .dns.f4a.fun
 .jp1.f7b6h9.tk
+.dns.f97.xyz
 .pdns.faelix.net
 .rdns.faelix.net
 .dns.faked.org
@@ -1359,7 +1360,6 @@
 .tx.teradns.org
 .uk.teradns.org
 .dns.soldier.terumi.club
-.dns.tesem.dog
 .cloud.tezoi.com
 .dns.thebuckners.org
 .dns.thegoodsource.net

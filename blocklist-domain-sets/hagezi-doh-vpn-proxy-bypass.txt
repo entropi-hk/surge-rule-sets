@@ -1048,6 +1048,7 @@
 .dns.f4a.fun
 .f4fp.com
 .jp1.f7b6h9.tk
+.dns.f97.xyz
 .faceless.me
 .pdns.faelix.net
 .rdns.faelix.net
@@ -2932,7 +2933,6 @@
 .uk.teradns.org
 .dns.soldier.terumi.club
 .teruteruteruko.com
-.dns.tesem.dog
 .cloud.tezoi.com
 .thankvpn.com
 .the-cloak.com
