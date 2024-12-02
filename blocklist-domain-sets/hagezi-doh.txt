@@ -1228,7 +1228,6 @@
 .resolver.rferee.dev
 .ricko.is
 .dns.rin.sh
-.vps.robotboard.de
 .dns.roedel.cloud
 .dns.ronc.ru
 .dns.rootlab.top
