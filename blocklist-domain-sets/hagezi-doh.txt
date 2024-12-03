@@ -139,9 +139,7 @@
 .sg-dns1.bancuh.com
 .bazooki-infra.dev
 .dns.beardic.cn
-.antivirus.bebasid.com
 .dns.bebasid.com
-.internetsehat.bebasid.com
 .justhost.bedro.cloud
 .dns.belnet.be
 .dns.bermeitinger.eu
@@ -274,6 +272,7 @@
 .dns.ceai.com.tw
 .dns.cloud88.com.au
 .adguard.frutuozo.com.br
+.adguard.gbrossi.com.br
 .dns.joaofidelix.com.br
 .dns.netraptor.com.au
 .dns.weixin.qq.com.cn
@@ -986,11 +985,6 @@
 .cube.neubsi.at
 .dns.neubsi.at
 .dns.neutopia.org
-.dns1.au.newpangea.de
-.dns1.cl.newpangea.de
-.dns1.in.newpangea.de
-.dns1.sg.newpangea.de
-.dns1.us.newpangea.de
 .doh.luigi.nexific.it
 .dns.nextdns.io
 .dns1.nextdns.io
