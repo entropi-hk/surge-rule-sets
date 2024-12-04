@@ -139,7 +139,6 @@
 .sg-dns1.bancuh.com
 .bazooki-infra.dev
 .dns.beardic.cn
-.dns.bebasid.com
 .justhost.bedro.cloud
 .dns.belnet.be
 .dns.bermeitinger.eu

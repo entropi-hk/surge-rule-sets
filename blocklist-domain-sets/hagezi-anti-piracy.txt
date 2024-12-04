@@ -1048,7 +1048,6 @@
 .baked.live
 .balkan-torrent.net
 .balkanelite.org
-.baltracker.net
 .bambooua.com
 .bananas.space
 .bandari.org
@@ -1646,7 +1645,6 @@
 .cb01.dance
 .cb01.de
 .cb01.delivery
-.cb01.directory
 .cb01.download
 .cb01.eu
 .cb01.events
@@ -1690,7 +1688,6 @@
 .cb01.online
 .cb01.org
 .cb01.page
-.cb01.photos
 .cb01.pics
 .cb01.pictures
 .cb01.press
@@ -1742,7 +1739,6 @@
 .tracker.ccc.de
 .ccfbits.org
 .ccmixter.org
-.tracker.ccp.ovh
 .ccracks.com
 .cda-hd.cc
 .cdcovers.cc
