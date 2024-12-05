@@ -271,7 +271,6 @@
 .dns.ceai.com.tw
 .dns.cloud88.com.au
 .adguard.frutuozo.com.br
-.adguard.gbrossi.com.br
 .dns.joaofidelix.com.br
 .dns.netraptor.com.au
 .dns.weixin.qq.com.cn
@@ -1247,7 +1246,6 @@
 .dns2.saferbfc.org
 .safeservedns.com
 .doh.safesurfer.io
-.dns.salonia.it
 .cloud.samutz.com
 .dns.sarak.as
 .dns.sarakas.net
@@ -1469,7 +1467,6 @@
 .dns.xuming.studio
 .dns.xusqui.com
 .v2.xx3210766.live
-.dns.yague.me
 .dns.yameenassotally.com
 .2.dnscrypt-cert.browser.yandex.net
 .dns.yandex.ru

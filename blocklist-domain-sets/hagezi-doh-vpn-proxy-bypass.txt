@@ -644,7 +644,6 @@
 .fastest-proxy.com.de
 .free-proxy.com.de
 .adguard.frutuozo.com.br
-.adguard.gbrossi.com.br
 .german-proxy.com.de
 .germany-proxy.com.de
 .dns.joaofidelix.com.br
@@ -2619,7 +2618,6 @@
 .safetysurf.net
 .safeunblock.com
 .vpn.sakhwow.ru
-.dns.salonia.it
 .cloud.samutz.com
 .sandparticles.us
 .saoudiproxy.info
@@ -3274,6 +3272,7 @@
 .unknownproxy.com
 .unlimitedvpnapp.com
 .unlocator.com
+.unmoor.com
 .unrestrict.me
 .unrestrictedsurf.com
 .unrestricter.com
@@ -3570,7 +3569,6 @@
 .xvbelink.com
 .xvpn.io
 .v2.xx3210766.live
-.dns.yague.me
 .dns.yameenassotally.com
 .2.dnscrypt-cert.browser.yandex.net
 .dns.yandex.ru
