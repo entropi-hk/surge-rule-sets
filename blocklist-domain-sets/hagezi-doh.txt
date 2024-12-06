@@ -617,7 +617,6 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
-.dns.glorydns.com
 .dns.gnb09.id
 .privacydns.go6lab.si
 .dns.goldplate.org

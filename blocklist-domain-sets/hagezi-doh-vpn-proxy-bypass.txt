@@ -1048,6 +1048,7 @@
 .jp1.f7b6h9.tk
 .dns.f97.xyz
 .faceless.me
+.proxy.facil.wtf
 .pdns.faelix.net
 .rdns.faelix.net
 .dns.faked.org
@@ -1283,7 +1284,6 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
-.dns.glorydns.com
 .glype.com
 .dns.gnb09.id
 .privacydns.go6lab.si
