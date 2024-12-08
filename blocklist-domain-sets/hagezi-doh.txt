@@ -217,7 +217,6 @@
 .cfdjb.org
 .ibuki.cgnat.net
 .dns.chadeyron.fr
-.chandr1000.net
 .chaos-system.de
 .dns.charraud.eu
 .dns.chenu.ch
@@ -326,7 +325,6 @@
 .dns.dekedin.me
 .adguard.dekonix.ru
 .doh.denypradana.com
-.adguard.depieri.net
 .adguard.lege.despagne.net
 .doh-primary-pool.detoxifypornblocker.com
 .dns.dev-umbrellagov.com
@@ -508,7 +506,6 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
-.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .easyhandshake.com
@@ -617,6 +614,7 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
+.dns.glorydns.com
 .dns.gnb09.id
 .privacydns.go6lab.si
 .dns.goldplate.org
@@ -626,7 +624,6 @@
 .google-public-dns-b.google.com
 .performance.gosami.xyz
 .dot.libredns.gr.com
-.greatideasforlife.lol
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .dns.guard.io
@@ -635,7 +632,6 @@
 .dns.gutwe.in
 .gztech.me
 .dns.hahnjo.de
-.doh.hajekj.net
 .dns.haka.se
 .dns.hakim.one
 .dns.hanahira.dev
