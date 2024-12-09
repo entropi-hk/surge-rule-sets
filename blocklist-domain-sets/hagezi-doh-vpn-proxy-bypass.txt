@@ -2236,7 +2236,6 @@
 .pm1239-bd.xyz
 .pm7051-br.xyz
 .pm9352-bd.xyz
-.pointtoserver.com
 .polandgrows.com
 .polargrizzly.com
 .polaris.cx
@@ -2831,6 +2830,7 @@
 .studysurf.com
 .stunnel.org
 .stupidproxy.com
+.dns.stvsk.ml
 .doh.suche.org
 .local.sufly.top
 .dns.suhaila.dev
@@ -3594,6 +3594,7 @@
 .youtubez.com
 .yovbak.com
 .yoyovpn.org
+.ytcroxyproxy.com
 .yui.cat
 .dns.yuu-g.net
 .yuvelirtut.website
