@@ -748,6 +748,7 @@
 .dns.kawa.tf
 .dns.kebree.fr
 .dns.keke125.com
+.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de
@@ -990,8 +991,6 @@
 .dnsotls.lab.nic.cl
 .odvr.nic.cz
 .dns.nick-slowinski.de
-.doh-own-recursion.nicolas-dorriere.fr
-.doh-random-upstream.nicolas-dorriere.fr
 .nicsezcheckfbi.gov
 .dns1.nielsdb.be
 .dns.ningkelle.id

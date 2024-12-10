@@ -3585,6 +3585,7 @@
 .fahrrad-barth.com
 .fahrrad-handels.de
 .fahrrad-handels.net
+.fahrrad-herrmans.de
 .fahrrad-komponenten.com
 .fahrrad-moltisanti.com
 .fahrrad-versand.com
@@ -4189,7 +4190,6 @@
 .galerieoswald.de
 .gambotmaschinen.com
 .game.toys
-.game-byte.com
 .game-str.com
 .gamebasic-de.com
 .gamebyte.eu
@@ -4207,7 +4207,6 @@
 .gamesstudionuernberg.com
 .gamestopde.de
 .gamestopland.com
-.gamestoponline.de
 .gametimejerseys.com
 .gameverkauf.de
 .gaming-gorilla.de
@@ -4218,7 +4217,6 @@
 .gamingpark.net
 .gamingplanet.eu
 .gamingplaza.de
-.gamingstuhl-de.de
 .gammatech.store
 .ganggeschenk.com
 .immediatesedgeappl-de.ganigie.com
@@ -4290,7 +4288,6 @@
 .gartensgeschaft.com
 .gartenshop-marsmann.de
 .gartentor.shop
-.gartenunfreizeit.com
 .gartenzon.de
 .gartio.net
 .gartio-shop.com
@@ -4524,7 +4521,6 @@
 .glueckstore.de
 .gluschwein.de
 .gm-portal.co
-.gmbholz.com
 .gmd-koeln.de
 .gmiglfx.com
 .gmm-holzgmbh.com
@@ -5301,7 +5297,6 @@
 .hoopur.com
 .hopandpopde.shop
 .hopebikeabout.com
-.hopesport.de
 .horizon-patrimoine.com
 .horizon-shot.com
 .hormanns24.de
@@ -6596,7 +6591,6 @@
 .lokomofrecund.shop
 .lolamarkt.com
 .lollipoppydoodle.com
-.loloswood.com
 .londonemanagement.com
 .londonglobalmarkets.com
 .londonsunny.com
@@ -8893,7 +8887,6 @@
 .rabattbademode.com
 .rabattbaukasten.com
 .rabattbike.com
-.rabattcastelli.de
 .rabattchemikalien.com
 .rabattcricut.de
 .rabattdamen.com
@@ -8908,7 +8901,6 @@
 .rabattfornasetti.de
 .rabattgabor.de
 .rabattherren.com
-.rabatthope.de
 .rabattkleidung.com
 .rabattlloyd.de
 .rabattloewe.de
