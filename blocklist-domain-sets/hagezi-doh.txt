@@ -252,6 +252,7 @@
 .dns.cmrg.net
 .pope.cnblw.me
 .doh.cnetwork.cloud
+.adguard.aa4.co.uk
 .pihole.datamatter.co.za
 .www.dnsadguard.co.uk
 .dns.gayanalysing.co.uk
@@ -991,6 +992,8 @@
 .dnsotls.lab.nic.cl
 .odvr.nic.cz
 .dns.nick-slowinski.de
+.doh-own-recursion.nicolas-dorriere.fr
+.doh-random-upstream.nicolas-dorriere.fr
 .nicsezcheckfbi.gov
 .dns1.nielsdb.be
 .dns.ningkelle.id

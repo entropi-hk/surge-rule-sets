@@ -4220,7 +4220,6 @@
 .heimdallur.tv
 .hejo.tv
 .hellenic-world.net
-.hellenicwave.net
 .helloitbd.com
 .helltorrents.com
 .henbt.com
@@ -4420,7 +4419,6 @@
 .ilgeniodellostreaming.party
 .ilgeniodellostreaming.pictures
 .ilgeniodellostreaming.pl
-.ilgeniodellostreaming.press
 .ilgeniodellostreaming.pro
 .ilgeniodellostreaming.quest
 .ilgeniodellostreaming.re
@@ -4525,7 +4523,6 @@
 .ipalibrary.me
 .ipboot.xyz
 .tracker.iperson.xyz
-.v2.iperson.xyz
 .tracker.ipfsscan.io
 .iphonebooks.info
 .iphonecake.com
@@ -4548,7 +4545,6 @@
 .api.ipv4online.uk
 .tracker.ipv6tracker.org
 .tracker.ipv6tracker.ru
-.iraniantorrents.com
 .tracker.iriseden.fr
 .tracker.iro.moe
 .irwarez.com
@@ -4631,7 +4627,6 @@
 .jakianetbd.com
 .jalshaghor.com
 .jamendo.com
-.tracker.jamesthebard.net
 .jamez.org
 .jamtothis.com
 .jananibd.com
@@ -4820,7 +4815,6 @@
 .kinoger.com
 .kinogo.biz
 .kinogo.film
-.kinogo.io
 .kinogo.uk
 .kinogo-720.net
 .kinogo-cx.biz
@@ -4967,7 +4961,6 @@
 .layarkaca21.ru
 .layarkacaxxi.biz
 .layarkita.club
-.layarkita.co
 .layarkita.xyz
 .layarlebar24.blog
 .layarlebar24.digital
@@ -4991,9 +4984,7 @@
 .leechinghell.pw
 .leechking.com
 .tk.leechshield.link
-.tk4.leechshield.link
 .tracker.leechshield.link
-.tracker4.leechshield.link
 .leechtube.com
 .leechturk.com
 .leelo.ru
@@ -5037,7 +5028,6 @@
 .libertyvf.com
 .libertyvf.net
 .libertyvf.org
-.libgen.is
 .boards.libre.io
 .libtorrent.org
 .licensekey.net
@@ -5160,7 +5150,6 @@
 .lossless.cd
 .losslessclub.com
 .lostfilm.tv
-.loushao.net
 .tracker01.loveapp.com
 .lovemovie.org
 .lovesyour.tv
@@ -5488,10 +5477,8 @@
 .tracker.monikadesign.uk
 .tracker.monitorit4.me
 .monkeystream.net
-.w14.monkrus.ws
 .zephir.monocul.us
 .ns1.monolithindustries.com
-.monoschinos.com
 .monstream.co
 .moonburrow.club
 .moonline.tv
@@ -5516,7 +5503,6 @@
 .movie-forum.co
 .movie-web.me
 .movie123.club
-.movie2k.st
 .movie2k.to
 .movie2kproxy.com
 .movie4k.ag
@@ -5631,7 +5617,6 @@
 .movieuwutv.top
 .moviewapi.in
 .moviewatcher.eu
-.moviewetrust.co
 .movieworld.to
 .moviexk.biz
 .moviezaddiction.click
@@ -5692,7 +5677,6 @@
 .mp4hydra.org
 .mp4hydra.top
 .mp4mania1.net
-.mrdeni.com
 .mrtwig.net
 .mrunblock.bond
 .mrunblock.pro
@@ -5830,7 +5814,6 @@
 .tracker.nanyangpt.com
 .natorrent.com
 .nattawat.org
-.naturalbd.com
 .naturalbd.org
 .nbabite.com
 .nbahd.tv
