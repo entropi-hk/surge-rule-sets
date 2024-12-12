@@ -599,7 +599,6 @@
 .dns.cmrg.net
 .pope.cnblw.me
 .doh.cnetwork.cloud
-.adguard.aa4.co.uk
 .akashiro.co.id
 .antidnsvpn.co.cc
 .binhexsolutions.co.uk
@@ -2441,7 +2440,6 @@
 .proxy-123.com
 .proxy-2014.com
 .proxy-2015.info
-.proxy-anywhere.com
 .proxy-bypass.com
 .proxy-german.de
 .proxy-n-vpn.com
@@ -2473,13 +2471,11 @@
 .proxydrop.com
 .proxydude.red
 .proxydude.xyz
-.proxyduke.lol
 .proxyelite.info
 .proxyen.com
 .proxyer.net
 .proxyfactory.io
 .proxyfish.com
-.proxyforfree.eu
 .proxyfree.org
 .proxygate.com
 .proxygizlen.com
@@ -2493,13 +2489,11 @@
 .proxyload.net
 .proxymaster.me
 .proxymesh.com
-.proxyness.com
 .proxynova.com
 .proxyof.com
 .proxyone.net
 .proxyoutlet.com
 .proxypirates.com
-.proxypremium.top
 .proxypx.com
 .proxypy.org
 .proxyrooms.com
@@ -2732,7 +2726,6 @@
 .securevpn.com
 .securevpn.io
 .securewebproxy.net
-.securitales.com
 .securitykiss.com
 .sedirepseh.com
 .seed.st

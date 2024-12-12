@@ -366,7 +366,6 @@
 .dynamic-dns.us
 .dynamic-m.com
 .dynamic-site.net
-.dynamicdns.biz
 .dynamicdns.co
 .dynamisches-dns.de
 .dynathome.net
@@ -1057,7 +1056,6 @@
 .on-the-web.tv
 .onedumb.com
 .onionsallyear.mobi
-.onmypc.biz
 .onmypc.info
 .onmypc.net
 .onmypc.org
@@ -1068,7 +1066,6 @@
 .malam.or.id
 .oray.com
 .d-n-s.org.uk
-.dynamicdns.org.uk
 .organiccrap.com
 .orskkino.ru
 .otzo.com
@@ -1108,7 +1105,6 @@
 .portalindustries.org
 .portfwd.com
 .portmap.host
-.portrelay.com
 .possessed.us
 .pp.ua
 .prettyweak.com
@@ -1127,7 +1123,6 @@
 .ptchat.net
 .publicvm.com
 .pudim.info
-.punked.us
 .qc.to
 .qhigh.com
 .qlbv.vn

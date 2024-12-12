@@ -6079,7 +6079,6 @@
 .nutorrent.com
 .nw0.info
 .nwanime.tv
-.nxbrew.com
 .nxtgn.org
 .nxtiptv.tv
 .nyaa.eu
@@ -6165,7 +6164,6 @@
 .omgtorrent.com
 .omgtorrent.cz
 .omgtorrent.me
-.omgwtfnzbs.me
 .retracker.omsk.ru
 .ddn.oncast.me
 .onceddl.net
@@ -6474,7 +6472,6 @@
 .piratebays.win
 .piratebays.wtf
 .piratebayy.com
-.piratebayz.top
 .piratebits.org
 .piratebrowser.com
 .piratecity.net
@@ -6694,7 +6691,6 @@
 .proxybay.bz
 .proxybay.page
 .proxybay.pro
-.proxybay.tech
 .proxybay.xyz
 .proxybit.pics
 .tpb.proxyduck.com
@@ -6799,9 +6795,7 @@
 .putlockers.co
 .putlockers.cr
 .putlockers.cz
-.putlockers.date
 .putlockers.email
-.putlockers.es
 .putlockers.fm
 .putlockers.is
 .putlockers.la
@@ -6965,7 +6959,6 @@
 .redecanais.tv
 .ica1616.redirectme.net
 .marshilltorrents.redirectme.net
-.redlist-ultimate.be
 .redskunk.org
 .redstream.online
 .redump.org
@@ -7061,7 +7054,6 @@
 .rojadirectai.me
 .rojadirectaorg.com
 .rojadirectatv.tv
-.rojadirectatvhd.me
 .rom-news.com
 .rom-news.net
 .rom-news.org
@@ -7250,7 +7242,6 @@
 .serie-streaming.biz
 .serie-streaming.net
 .serieflix.biz
-.seriehd.moda
 .serien.cam
 .serien.click
 .serien.dev

@@ -252,7 +252,6 @@
 .dns.cmrg.net
 .pope.cnblw.me
 .doh.cnetwork.cloud
-.adguard.aa4.co.uk
 .pihole.datamatter.co.za
 .www.dnsadguard.co.uk
 .dns.gayanalysing.co.uk
