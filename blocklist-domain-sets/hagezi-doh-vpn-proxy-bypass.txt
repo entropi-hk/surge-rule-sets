@@ -109,7 +109,6 @@
 .dns-gcp.aaflalo.me
 .dns-nyc.aaflalo.me
 .doh.dns.apple.com.v.aaplimg.com
-.dns.aaytorr.com
 .abcproxy.com
 .adguard.abd.ong
 .dns.abdullahabas.de
@@ -2902,7 +2901,6 @@
 .stupidproxy.com
 .dns.stvsk.ml
 .doh.suche.org
-.local.sufly.top
 .dns.suhaila.dev
 .suissl.com
 .resolver.sunet.se
@@ -2981,7 +2979,6 @@
 .tcpvpn.com
 .tecdrive.site
 .dns1.techeasy.org
-.vpn.technicule.info
 .doh.technochat.in
 .dns.technologycage.com
 .dns.technostriker.com
@@ -2998,6 +2995,7 @@
 .uk.teradns.org
 .dns.soldier.terumi.club
 .teruteruteruko.com
+.dns.tesem.dog
 .cloud.tezoi.com
 .thankvpn.com
 .the-cloak.com
@@ -3502,7 +3500,6 @@
 .vpnrice.com
 .vpns.best
 .vpnsecure.me
-.vpnshazam.com
 .vpnshieldapp.com
 .vpnsuper.app
 .vpntraffic.com

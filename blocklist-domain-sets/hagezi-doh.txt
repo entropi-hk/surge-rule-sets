@@ -42,7 +42,6 @@
 .dns-gcp.aaflalo.me
 .dns-nyc.aaflalo.me
 .doh.dns.apple.com.v.aaplimg.com
-.dns.aaytorr.com
 .adguard.abd.ong
 .dns.abdullahabas.de
 .doh.abraservice.xyz
@@ -1311,7 +1310,6 @@
 .dns.strassmair.org
 .dns.stvsk.ml
 .doh.suche.org
-.local.sufly.top
 .dns.suhaila.dev
 .resolver.sunet.se
 .sunnygyl.com
@@ -1332,7 +1330,6 @@
 .dns.t53.de
 .tecdrive.site
 .dns1.techeasy.org
-.vpn.technicule.info
 .doh.technochat.in
 .dns.technologycage.com
 .dns.technostriker.com
@@ -1346,6 +1343,7 @@
 .tx.teradns.org
 .uk.teradns.org
 .dns.soldier.terumi.club
+.dns.tesem.dog
 .cloud.tezoi.com
 .dns.thebuckners.org
 .dns.thegoodsource.net
