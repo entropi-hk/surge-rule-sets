@@ -1186,6 +1186,7 @@
 .freeeuroproxy.com
 .freehiddenvpn.gq
 .freehollandproxy.nl
+.freeme1001.com
 .freemicvpn.com
 .freenewslinks.com
 .freeopenproxy.com
@@ -1477,7 +1478,6 @@
 .hsselite.com
 .html.cafe
 .httpdserver.info
-.dns.hugo0.moe
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work
@@ -2877,6 +2877,7 @@
 .proxy.startpage.com
 .proxy1.startpage.com
 .proxy2.startpage.com
+.proxy3.startpage.com
 .us-browse.startpage.com
 .us-proxy.startpage.com
 .dns.startupstack.tech
@@ -3401,6 +3402,7 @@
 .veripn.com
 .viatun.com
 .videocollage.us
+.videomy.online
 .videonew.online
 .videoproxy.site
 .videounblock.com

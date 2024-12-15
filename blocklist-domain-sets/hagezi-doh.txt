@@ -663,7 +663,6 @@
 .doh.hottis.de
 .hshh.org
 .dns.hshoe.cn
-.dns.hugo0.moe
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work

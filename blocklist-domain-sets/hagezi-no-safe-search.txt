@@ -72,7 +72,6 @@
 .searx.guillaumea.fr
 .hmsearx.h0meserver.com
 .searx.hardwired.link
-.whoogle.hostux.net
 .seeks.hsbp.org
 .search.im-in.space
 .search.jpope.org
@@ -104,7 +103,6 @@
 .metasearch.nl
 .suche.mexmail.de
 .searx.mha.fi
-.mijisou.com
 .millionshort.com
 .search.modalogi.com
 .mojeek.com
@@ -116,7 +114,6 @@
 .searx.nakhan.net
 .searx.namejeff.xyz
 .search.nebulacentre.net
-.search.neet.works
 .neeva.com
 .searx.netzspielplatz.de
 .nibblehole.com
@@ -159,7 +156,6 @@
 .search.rabbit-company.com
 .nova.rambler.ru
 .searx.rasp.fr
-.whoogle-search--replitcomreside.repl.co
 .search.rhscz.eu
 .searx.roflcopter.fr
 .wtf.roflcopter.fr
