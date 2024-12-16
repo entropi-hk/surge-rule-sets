@@ -703,7 +703,6 @@
 .inpssh.online
 .qlf-doh.inria.fr
 .dns.interhub.cc
-.iot-dns.com
 .ipoac.nl
 .dns1.irumatech.com
 .dns.is0mino.com
