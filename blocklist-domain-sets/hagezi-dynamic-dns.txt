@@ -335,6 +335,7 @@
 .dtdns.net
 .dtdns.org
 .dubya.info
+.dubya.net
 .dubya.us
 .duckdns.org
 .duia.eu

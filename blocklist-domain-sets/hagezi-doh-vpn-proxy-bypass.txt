@@ -271,6 +271,7 @@
 .atlasvpn.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .auto-aufladen.de
 .vanheim.ff.avast.com
 .vpn-sd.ff.avast.com
