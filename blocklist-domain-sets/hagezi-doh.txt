@@ -784,6 +784,7 @@
 .lastentarvike.fi
 .eu1.dns.lavate.ch
 .us1.dns.lavate.ch
+.iterator.lazada.com
 .adguard1.leadmon.net
 .adguard.leadseason.eu
 .dns.learningman.top
@@ -879,7 +880,6 @@
 .mnrv.trade
 .dns.mo0on15.com
 .dnstls.mobik.com
-.nue2.moderateinfra.net
 .ps1.modr.club
 .dns.molinero.dev
 .naganohara-yoimiya.momokko.moe
