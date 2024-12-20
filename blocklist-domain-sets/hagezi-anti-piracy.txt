@@ -1,4 +1,3 @@
-.tracker.guguan.000.pe
 .0123456789nonexistent.com
 .01234movies.email
 .0123movie.net
@@ -1473,7 +1472,6 @@
 .btsearch.love
 .btshoufa.net
 .btsow.online
-.bttrack.com
 .tracker.btzero.net
 .btzone.org
 .tracker.btzoo.eu
@@ -7362,7 +7360,6 @@
 .skynetonlinebd.net
 .skytorrents.lol
 .skytorrents.to
-.tracker.skyts.cn
 .tracker.skyts.net
 .sladinki007.net
 .slam.ws

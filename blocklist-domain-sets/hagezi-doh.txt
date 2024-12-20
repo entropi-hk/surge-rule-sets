@@ -128,7 +128,6 @@
 .dns.azsopro.net
 .doh1.b-cdn.net
 .doh2.b-cdn.net
-.b-ii.com
 .dns.b33.space
 .dns.b612.me
 .dns.b72.com

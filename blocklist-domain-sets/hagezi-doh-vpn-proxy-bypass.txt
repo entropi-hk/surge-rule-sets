@@ -296,7 +296,6 @@
 .doh2.b-cdn.net
 .freevpnme.b-cdn.net
 .b-dns.se
-.b-ii.com
 .b0xedpr0x.cyou
 .dns.b33.space
 .dns.b612.me

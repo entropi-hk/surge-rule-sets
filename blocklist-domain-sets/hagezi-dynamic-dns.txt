@@ -160,6 +160,7 @@
 .celltrak.mobi
 .centserver.com
 .cf.gs
+.changeip.co
 .changeip.com
 .changeip.net
 .changeip.org
