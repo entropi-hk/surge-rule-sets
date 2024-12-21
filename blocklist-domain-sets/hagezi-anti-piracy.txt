@@ -6618,6 +6618,7 @@
 .projectfreetv.sx
 .projectfreetv.watch
 .projectfreetv.xyz
+.udp.tracker.projectk.org
 .prolikewoah.com
 .promoddl.com
 .pron.tv

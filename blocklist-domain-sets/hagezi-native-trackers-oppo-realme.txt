@@ -220,6 +220,8 @@
 .slb-apisnd-in.heytapmobile.com
 .api-id.theme.heytapmobile.com
 .report-sg.uc.heytapmobile.com
+.ads.oppomobile.com
+.adsfs.oppomobile.com
 .dhfs-id.oppomobile.com
 .dhfs-in.oppomobile.com
 .dhfs-th.oppomobile.com
