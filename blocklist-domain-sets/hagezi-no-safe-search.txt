@@ -81,7 +81,6 @@
 .search.kiwitalk.de
 .search.kokomo.cloud
 .trovu.komun.org
-.searx.kvch.me
 .search.laksith.dev
 .searx.lavatech.top
 .search.leptons.xyz

@@ -265,6 +265,7 @@
 .dns.coderoria.com
 .jpdns.cola16.app
 .dns.colorfreedom.org
+.dns.7sec.com.br
 .dns.ceai.com.tw
 .dns.cloud88.com.au
 .adguard.frutuozo.com.br
@@ -622,6 +623,7 @@
 .google-public-dns-b.google.com
 .performance.gosami.xyz
 .dot.libredns.gr.com
+.greatideasforlife.lol
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .dns.guard.io
