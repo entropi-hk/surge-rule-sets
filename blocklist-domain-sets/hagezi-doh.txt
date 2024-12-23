@@ -402,7 +402,6 @@
 .las01.dnscry.pt
 .lax01.dnscry.pt
 .lax02.dnscry.pt
-.lim01.dnscry.pt
 .lim02.dnscry.pt
 .lis01.dnscry.pt
 .llk01.dnscry.pt
@@ -603,7 +602,6 @@
 .dns.ginovs.nl
 .dns.girino.org
 .h.gjrick.tw
-.sdns22.gkonuralp.com
 .glacius.top
 .dns.glf.wtf
 .dns.api.globus.org
@@ -772,7 +770,6 @@
 .xray.krnl.eu
 .adguard.kss.ovh
 .dns.kukal.cz
-.dns.kumoumi.net
 .dns.kusoneko.moe
 .dns.kuuhaku.moe
 .kx-97795-tr.xyz

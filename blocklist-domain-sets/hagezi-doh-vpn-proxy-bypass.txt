@@ -752,6 +752,7 @@
 .dabmix.com
 .dailyvpn.io
 .dns.dallinbryce.com
+.danhcan.top
 .dns.home.daniil.it
 .adguard.dantynes.cyou
 .darkfat.com
@@ -870,7 +871,6 @@
 .las01.dnscry.pt
 .lax01.dnscry.pt
 .lax02.dnscry.pt
-.lim01.dnscry.pt
 .lim02.dnscry.pt
 .lis01.dnscry.pt
 .llk01.dnscry.pt
@@ -1301,7 +1301,6 @@
 .gizlen.net
 .gizlibaglanti.com
 .h.gjrick.tw
-.sdns22.gkonuralp.com
 .glacius.top
 .dns.glf.wtf
 .globalchatinc.com
@@ -1687,7 +1686,6 @@
 .kryptovpn.kryptotel.net
 .adguard.kss.ovh
 .dns.kukal.cz
-.dns.kumoumi.net
 .dns.kusoneko.moe
 .dns.kuuhaku.moe
 .kx-97795-tr.xyz
