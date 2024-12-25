@@ -3,7 +3,6 @@
 .052419.xyz
 .0ms.dev
 .dns.0ooo.icu
-.dns.0rz.ing
 .0x3d.lu
 .dns.0x55.net
 .108023.xyz
@@ -2360,13 +2359,9 @@
 .printtools.us
 .privacy.io
 .hungary.privacy-dns.pw
-.india.privacy-dns.pw
 .las-vegas.privacy-dns.pw
 .luxembourg.privacy-dns.pw
 .romania.privacy-dns.pw
-.sweden.privacy-dns.pw
-.switzerland.privacy-dns.pw
-.united-arab-emirates.privacy-dns.pw
 .privacyprotector.eu
 .privado.io
 .dns.privado.ovh

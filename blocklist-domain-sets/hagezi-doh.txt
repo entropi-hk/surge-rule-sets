@@ -3,7 +3,6 @@
 .052419.xyz
 .0ms.dev
 .dns.0ooo.icu
-.dns.0rz.ing
 .dns.0x55.net
 .123000123.xyz
 .dns.13evl.com
@@ -1139,13 +1138,9 @@
 .princez.uk
 .agh.printk.info
 .hungary.privacy-dns.pw
-.india.privacy-dns.pw
 .las-vegas.privacy-dns.pw
 .luxembourg.privacy-dns.pw
 .romania.privacy-dns.pw
-.sweden.privacy-dns.pw
-.switzerland.privacy-dns.pw
-.united-arab-emirates.privacy-dns.pw
 .dns.privado.ovh
 .orpi.privado.ovh
 .de.dns.privex.io

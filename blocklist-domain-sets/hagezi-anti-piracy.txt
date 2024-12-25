@@ -3465,6 +3465,7 @@
 .hd.fmoviesto.site
 .fmoviestv.site
 .fmoviesz.to
+.fmoviesz-to.com
 .fmoviez.org
 .fmwhatsapp.net
 .fn-bd.com
@@ -4775,7 +4776,13 @@
 .kinofrost.com
 .kinoger.com
 .kinogo.biz
+.kinogo.ec
+.kinogo.eu
 .kinogo.film
+.kinogo.inc
+.kinogo.no
+.kinogo.online
+.kinogo.pink
 .kinogo.uk
 .kinogo-720.net
 .kinogo-cx.biz
@@ -5099,6 +5106,7 @@
 .lookmovie2.to
 .lookmoviess.com
 .lopatins.ru
+.lordfilmhd.lol
 .losmovies.app
 .losmovies.com
 .losmovies.fun
@@ -9788,6 +9796,7 @@
 .zoechip.cc
 .zoechip.com
 .tracker.zokio.net
+.g4.zona.plus
 .zona-musical.com
 .zonatorrent.org
 .zonatorrent.tv
