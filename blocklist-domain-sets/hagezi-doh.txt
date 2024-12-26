@@ -136,6 +136,9 @@
 .sg-dns1.bancuh.com
 .bazooki-infra.dev
 .dns.beardic.cn
+.antivirus.bebasid.com
+.dns.bebasid.com
+.internetsehat.bebasid.com
 .justhost.bedro.cloud
 .dns.belnet.be
 .dns.bermeitinger.eu
@@ -268,6 +271,7 @@
 .dns.ceai.com.tw
 .dns.cloud88.com.au
 .adguard.frutuozo.com.br
+.adguard.gbrossi.com.br
 .dns.joaofidelix.com.br
 .dns.netraptor.com.au
 .dns.weixin.qq.com.cn
@@ -323,6 +327,7 @@
 .dns.dekedin.me
 .adguard.dekonix.ru
 .doh.denypradana.com
+.adguard.depieri.net
 .adguard.lege.despagne.net
 .doh-primary-pool.detoxifypornblocker.com
 .dns.dev-umbrellagov.com
@@ -503,6 +508,7 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
+.gustamadh.dynv6.net
 .dnscache.e-utp.net
 .adguard.easez.net
 .easyhandshake.com
@@ -1073,6 +1079,8 @@
 .dns-ovh.panszelescik.pl
 .dns.pari.network
 .pashagame456.com
+.a.passcloud.xyz
+.i.passcloud.xyz
 .dns.pccoach.nl
 .rpz-public-resolver1.rrdns.pch.net
 .dns.peb-schmidt.de
@@ -1301,6 +1309,7 @@
 .dns.strassmair.org
 .dns.stvsk.ml
 .doh.suche.org
+.local.sufly.top
 .dns.suhaila.dev
 .resolver.sunet.se
 .sunnygyl.com
@@ -1385,6 +1394,7 @@
 .dns.unerror.network
 .ines.zfn.uni-bremen.de
 .galileo.math.unipd.it
+.resolver.unstoppable.io
 .dns.unx.io
 .dns.uplenk.com
 .urology.wiki
