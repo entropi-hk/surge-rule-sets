@@ -271,6 +271,7 @@
 .atlasvpn.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .auto-aufladen.de
 .vanheim.ff.avast.com
 .vpn-sd.ff.avast.com
@@ -1655,7 +1656,6 @@
 .keenow.com
 .keepanonymous.com
 .dns.keke125.com
-.doh.kekew.info
 .doh.kel.pe
 .kepard.com
 .dns.kerekes.xyz
