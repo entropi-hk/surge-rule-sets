@@ -120,7 +120,6 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
-.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -750,6 +749,7 @@
 .dns.kawa.tf
 .dns.kebree.fr
 .dns.keke125.com
+.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de
@@ -906,9 +906,7 @@
 .dns.iki.my.id
 .dns.lista.my.id
 .dns.mikrotikrumahan.my.id
-.dns.pnh.my.id
 .dns.repinger.my.id
-.id.terra.my.id
 .dns.velyn.my.id
 .dns.vmath.my.id
 .myatris.sbs
