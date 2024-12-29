@@ -46,11 +46,13 @@
 .search.disroot.org
 .searx.divided-by-zero.eu
 .dogpile.com
+.search.dojoro.de
 .searx.doofpot.nl
 .search.dr460nf1r3.org
 .searx.dresden.network
 .wgl.frail.duckdns.org
 .dynabyte.ca
+.searx.ericaftereric.top
 .search.ethibox.fr
 .etsi.me
 .eulie.de
@@ -216,3 +218,4 @@
 .you.com
 .searx.zapashcanon.fr
 .searx.zdechov.net
+.search.zeroish.xyz
