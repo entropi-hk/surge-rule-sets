@@ -120,6 +120,7 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -626,7 +627,6 @@
 .google-public-dns-b.google.com
 .performance.gosami.xyz
 .dot.libredns.gr.com
-.greatideasforlife.lol
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .dns.guard.io

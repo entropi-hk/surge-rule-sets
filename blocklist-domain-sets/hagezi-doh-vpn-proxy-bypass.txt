@@ -272,6 +272,7 @@
 .atlasvpn.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .auto-aufladen.de
 .vanheim.ff.avast.com
 .vpn-sd.ff.avast.com
@@ -1354,7 +1355,6 @@
 .gratisproxy.nl
 .gratisvpn.com
 .greatestfreeproxy.com
-.greatideasforlife.lol
 .greenpass.info
 .greenproxy.net
 .greenssh.com
