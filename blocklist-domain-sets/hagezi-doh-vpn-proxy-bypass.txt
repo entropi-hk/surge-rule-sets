@@ -111,6 +111,7 @@
 .abcproxy.com
 .adguard.abd.ong
 .dns.abdullahabas.de
+.aboba.pro
 .abouts.lol
 .doh.abraservice.xyz
 .res-acst1.absolight.net
@@ -1248,6 +1249,7 @@
 .doh.futa.app
 .doh.futa.gg
 .dns.futuredns.me
+.g-a-y.pro
 .gabstorm.com
 .cluster-0.gac.edu
 .cluster-1.gac.edu
@@ -3278,7 +3280,9 @@
 .unblockedproxy.info
 .unblockedproxy.us
 .unblockedrussian.com
+.unblockedscene.com
 .unblockedsite.biz
+.unblockedsite.club
 .unblockedsite.fun
 .unblockedsite.info
 .unblockedsite.net
@@ -3313,6 +3317,7 @@
 .unblockme.us
 .unblockmyweb.com
 .unblockmywebsite.com
+.unblockninja.com
 .unblockprox.com
 .unblockproxy.me
 .unblockproxy.us
