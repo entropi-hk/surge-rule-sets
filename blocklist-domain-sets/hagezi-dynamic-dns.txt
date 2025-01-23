@@ -51,13 +51,12 @@
 .99tac.com
 .abatek.com
 .abmetalmecanica.com
-.abuser.eu
 .access.ly
 .accesscam.org
 .acmetoy.com
 .adagio.tw
+.dyn.addr.tools
 .afraid.org
-.ahoeab.org
 .aintno.info
 .airlinemeals.net
 .albertn.ru
@@ -82,11 +81,9 @@
 .arquivirtual.com
 .as19557.net
 .as29997.net
-.ascension-newage.net
 .asenov.ru
 .asiamariage.com
 .asianfreshproduce.com
-.ask2ask.com
 .astrabus.ru
 .at-band-camp.net
 .ath.cx
@@ -104,6 +101,7 @@
 .b33r.us
 .bad.mn
 .baden.ru
+.bagus.org
 .baikabibai.com
 .bakli.ru
 .barbaforte.org
@@ -130,7 +128,6 @@
 .blogdns.net
 .blogdns.org
 .blogsite.org
-.blogsite.xyz
 .blogsyte.com
 .bloodforthebloodgod.com
 .bloom.us
@@ -160,14 +157,15 @@
 .cashit.info
 .cbopelousas.com
 .cbu.net
+.ccmissoula.com
 .cechire.com
+.celebsplay.com
 .celltrak.mobi
 .centserver.com
 .cf.gs
 .changeip.biz
 .changeip.co
 .changeip.com
-.changeip.me
 .changeip.name
 .changeip.net
 .changeip.org
@@ -348,6 +346,7 @@
 .drunkensailor.org
 .dsmtp.com
 .dtdns.com
+.dtdns.net
 .dtdns.org
 .dubya.info
 .dubya.net
@@ -470,7 +469,6 @@
 .epicgamer.org
 .epicmilk.com
 .eptechguys.com
-.escape.to
 .esmtp.biz
 .essentialventure.com
 .essexregional.org
@@ -493,7 +491,6 @@
 .f-parts.net
 .f3322.net
 .f3322.org
-.fairuse.org
 .falcongreen.com
 .fantasyleague.cc
 .faqserv.com
@@ -529,7 +526,6 @@
 .freemyip.com
 .freesa.org
 .freetcp.com
-.freewww.biz
 .freewww.info
 .freshdns.com
 .from-ak.com
@@ -593,7 +589,6 @@
 .game-host.org
 .game-server.cc
 .garmanage.com
-.garypatel.com
 .gastright.com
 .geekgalaxy.com
 .geobattery.com
@@ -624,7 +619,6 @@
 .green-heroes.com
 .groks-the.info
 .groks-this.info
-.groundwerk.info
 .grupoimpulsora.com
 .grupompr.com
 .gslb.me
@@ -712,6 +706,7 @@
 .imagetemplate.com
 .imagetemplate.net
 .imexsac.com
+.imprendum.com
 .in-the-band.net
 .independentonline.ro
 .inflict.us
@@ -881,6 +876,7 @@
 .lflinkup.org
 .likes-pie.com
 .likescandy.com
+.linkin.tw
 .linkpc.net
 .linux-site.net
 .linux70.ru
@@ -930,6 +926,7 @@
 .mine.bz
 .mine.nu
 .minecraftnoob.com
+.minecraftpotato.com
 .minecraftr.us
 .mirolnet.com
 .misconfused.org
@@ -961,6 +958,9 @@
 .my-wan.de
 .my03.com
 .myactivedirectory.com
+.myaddr.dev
+.myaddr.io
+.myaddr.tools
 .mydad.info
 .myddns.biz
 .myddns.com
@@ -1030,7 +1030,6 @@
 .networkoutpost.com
 .nflfan.org
 .nhlfan.net
-.ninth.biz
 .no-ip.be
 .no-ip.biz
 .no-ip.ca
@@ -1079,6 +1078,7 @@
 .omicronceti3.net
 .on-the-web.tv
 .onedumb.com
+.onionsallyear.mobi
 .onmypc.biz
 .onmypc.info
 .onmypc.net
@@ -1130,7 +1130,6 @@
 .portalindustries.org
 .portfwd.com
 .portmap.host
-.portrelay.com
 .possessed.us
 .pp.ua
 .prettyweak.com
@@ -1149,7 +1148,6 @@
 .ptchat.net
 .publicvm.com
 .pudim.info
-.punked.us
 .qc.to
 .qhigh.com
 .qlbv.vn
@@ -1166,6 +1164,7 @@
 .readmyblog.org
 .rebatesrule.net
 .recruitment7.com
+.recyclesolutionsllc.com
 .redirectme.net
 .reijn.org
 .remotecam.nu
@@ -1183,11 +1182,11 @@
 .rr.nu
 .rtam.net
 .rum.si
+.rundis.com
 .ruok.org
 .russkoeumea.com
 .rwbcode.com
 .ryointernational.com
-.sadayuki.jp
 .sandmeiers.ch
 .sannon-stamm.com
 .saves-the-whales.com
@@ -1290,6 +1289,7 @@
 .spdyn.de
 .spectrumnet.bg
 .spelar.se
+.spottt.com
 .sql01.com
 .sqlconcepts.com
 .squirly.info
@@ -1318,13 +1318,11 @@
 .suroot.com
 .swtest.ru
 .syno-ds.de
-.synology.me
 .synology-diskstation.de
 .synology-ds.de
 .synoserver.com
 .syntereo.com
 .sysadminetworks.com
-.system-ns.com
 .systes.net
 .sytes.net
 .t-online.hu
@@ -1344,6 +1342,7 @@
 .thatip.com
 .thddns.net
 .the-button.com
+.theblacklist.org
 .thehomeserver.net
 .themcmillans.org
 .thenest.org
@@ -1406,13 +1405,13 @@
 .vincomlimited.com
 .vitalwerks.com
 .vizvaz.com
-.voles35.ru
 .voyez.ca
 .vpn64.de
 .vpndns.net
 .vpntraki.com
 .vpnx.nl
 .vr.lt
+.vxe6.net
 .wakingmoon.com
 .wan64.de
 .wanip.ch
