@@ -2863,6 +2863,7 @@
 .1.tracker.eu.org
 .2.tracker.eu.org
 .3.tracker.eu.org
+.tracker.wsaoa.eu.org
 .bt.xcty.eu.org
 .bjlt.zhuqiy.eu.org
 .tracker-cn.zhuqiy.eu.org

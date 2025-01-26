@@ -188,6 +188,7 @@
 .mssdk-ru.tiktokv.com
 .mssdk-sg.tiktokv.com
 .mssdk-va-useast2a.tiktokv.com
+.rtc-logger.tiktokv.com
 .rtc-logger.tiktokv.us
 .rtc-logger-i18n.tiktokv.com
 .rtc-logger-ie.tiktokv.eu
