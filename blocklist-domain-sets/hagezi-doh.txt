@@ -119,7 +119,6 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
-.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev

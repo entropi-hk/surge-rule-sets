@@ -1447,6 +1447,7 @@
 .hideproxy.me
 .hidessh.com
 .hidester.com
+.hidester.one
 .hidesurf.us
 .hidetheinternet.com
 .hidethisip.net
