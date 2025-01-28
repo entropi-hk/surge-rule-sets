@@ -505,7 +505,6 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
-.resolver2.dyndnsinternetguide.com
 .dnscache.e-utp.net
 .adguard.easez.net
 .easyhandshake.com
@@ -1341,7 +1340,6 @@
 .dns.theres.one
 .dns.therifleman.name
 .blocker.thethorsens.org
-.doh.thio.me
 .doh.tiar.app
 .dot.tiar.app
 .jp.tiar.app
