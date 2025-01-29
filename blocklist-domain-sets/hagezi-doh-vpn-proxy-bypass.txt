@@ -148,7 +148,6 @@
 .adsocialmediamarketing.com
 .advancedvpn.com
 .aerodrorne.vip
-.dns.aerro.in
 .affcdn.net
 .affsoft.cc
 .shield.afixer.app
@@ -2517,6 +2516,7 @@
 .proxyof.com
 .proxyone.net
 .proxyoutlet.com
+.proxypal.net
 .proxypirates.com
 .proxypremium.top
 .proxyprivate.info
@@ -2935,7 +2935,6 @@
 .stupidproxy.com
 .dns.stvsk.ml
 .doh.suche.org
-.local.sufly.top
 .dns.suhaila.dev
 .suissl.com
 .resolver.sunet.se

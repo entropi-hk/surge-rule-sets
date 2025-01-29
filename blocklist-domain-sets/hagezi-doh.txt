@@ -63,7 +63,6 @@
 .adguard-dns.com
 .dns.adrianlam.com
 .aerodrorne.vip
-.dns.aerro.in
 .affcdn.net
 .affsoft.cc
 .shield.afixer.app
@@ -1299,7 +1298,6 @@
 .dns.strassmair.org
 .dns.stvsk.ml
 .doh.suche.org
-.local.sufly.top
 .dns.suhaila.dev
 .resolver.sunet.se
 .sunnygyl.com
