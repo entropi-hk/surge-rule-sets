@@ -2164,7 +2164,6 @@
 .onion.lt
 .onion.ly
 .onion.nu
-.onion.pet
 .onion.rip
 .onion.sh
 .onion.to
@@ -2643,7 +2642,6 @@
 .reflect4.me
 .dns.reitmeier.me
 .relayon.org
-.remotedesktop.com
 .remotevpn.net
 .dns.renardyre.com
 .dns.repinger.com
@@ -2912,6 +2910,7 @@
 .eu2-browse.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
+.us1-browse.startpage.com
 .us2-browse.startpage.com
 .dns.startupstack.tech
 .starvpn.com

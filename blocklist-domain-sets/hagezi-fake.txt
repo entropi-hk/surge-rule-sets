@@ -5827,6 +5827,7 @@
 .marketussports.com
 .markisenrabatt.com
 .markmale.de
+.markt.life
 .markt-elektro.com
 .markt-forschung.com
 .markt-shop.com
@@ -6250,7 +6251,6 @@
 .motorrad-levy-elsa.com
 .motorrad70.com
 .motorraderhelme.de
-.motorraders.de
 .motorsensen-shop.com
 .motzenerdistribution.com
 .motzkus-sport24.de
@@ -6810,6 +6810,7 @@
 .onlinekmnwi.com
 .onlinekuche.com
 .onlineladywear.com
+.app.onlinelebenslauf.com
 .onlinemaripe.com
 .onlinemensdenim.com
 .onlinemotorrad.com
@@ -10552,6 +10553,7 @@
 .zesavi-tech.de
 .zetko-waren.com
 .zetko-waren.de
+.app.zety.de
 .zhrtasarimf.shop
 .zicklerbrennholz.de
 .zidnjlamp.com
