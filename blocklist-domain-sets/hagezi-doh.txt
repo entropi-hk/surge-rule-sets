@@ -490,7 +490,6 @@
 .takhtakh.domyah.net
 .dns.dooks.uk
 .dot.pub
-.ns1.dotls.org
 .dns.dotnet.win
 .doh.dscloud.me
 .agh.dshubham.xyz

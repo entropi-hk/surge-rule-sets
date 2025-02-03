@@ -111,7 +111,10 @@
 .moa-upload-online.coloros.com
 .moa-upload-online-in.coloros.com
 .finosfin.com
+.appconf-ocs-eu.heytapdl.com
+.appconf-ocs-in.heytapdl.com
 .appconf-ocs-sgp.heytapdl.com
+.appconf-ocs-us.heytapdl.com
 .appconf-sgp.heytapdl.com
 .conf-in-dc.heytapdl.com
 .conf-sg-dc.heytapdl.com
@@ -214,6 +217,7 @@
 .obus-jssdk-sg.heytapmobile.com
 .obus-jssdk-us.heytapmobile.com
 .omes-sec.heytapmobile.com
+.report-in.opay.heytapmobile.com
 .report-sg.opay.heytapmobile.com
 .api-id.play.heytapmobile.com
 .push.heytapmobile.com
@@ -221,6 +225,8 @@
 .bsf.sc.heytapmobile.com
 .slb-apisnd-in.heytapmobile.com
 .api-id.theme.heytapmobile.com
+.report-eu.uc.heytapmobile.com
+.report-in.uc.heytapmobile.com
 .report-sg.uc.heytapmobile.com
 .hizonetech.com
 .ads.oppomobile.com

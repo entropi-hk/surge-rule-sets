@@ -88,6 +88,7 @@
 .dns.688447.xyz
 .71745718.online
 .7713.info
+.777schoolutilities.website
 .777surfer.info
 .dns.7vpn.com
 .87826100.xyz
@@ -127,7 +128,6 @@
 .acrea.cz
 .activpn.com
 .actmobile.com
-.zone.actsministries.org
 .adblockersite.com
 .adblockluna.com
 .adl.adfilter.net
@@ -979,7 +979,6 @@
 .dns.dooks.uk
 .doomshadow.com
 .dot.pub
-.ns1.dotls.org
 .dns.dotnet.win
 .dotvpn.com
 .doublehop.me
