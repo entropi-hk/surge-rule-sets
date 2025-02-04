@@ -197,7 +197,6 @@
 .doh.amonsul.net
 .anachem.online
 .ananoos.com
-.anatomical.design
 .anchorfree.net
 .dns.andrewnw.xyz
 .androvpn.com
@@ -345,7 +344,6 @@
 .bettervpn.com
 .bgvpn.com
 .bi-tree.ru
-.bidehshomali.top
 .proxyduke.bingle.pw
 .ns3.bit-trail.nl
 .bit123.biz
@@ -462,7 +460,6 @@
 .tor.calyxinstitute.org
 .cantblockthis.org
 .cantfindme.org
-.caproxies.info
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
 .carebuzz.io
@@ -694,7 +691,6 @@
 .dns1.conne.net
 .dns.connect.fail
 .connectionvpn.com
-.constitutional.design
 .contassh.com
 .contentabc.com
 .dns.controld.com
@@ -755,7 +751,6 @@
 .cybersilent.com
 .cyberssh.com
 .dns.cybertonic.tech
-.cybertruck.design
 .cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
@@ -811,7 +806,6 @@
 .dns2.digitale-gesellschaft.ch
 .dns.digitalsize.net
 .directoryproxy.info
-.disciplinary.design
 .disconnect.me
 .doh.disconnect.app
 .fdns1.dismail.de
@@ -970,7 +964,6 @@
 .doh.pub
 .doh.sb
 .doh.xyz
-.dolopo.net
 .domainownership.us
 .doh.domreg.lt
 .takhtakh.domyah.net
@@ -1042,7 +1035,6 @@
 .emban-networks.com
 .emeraldeyex.dev
 .dns.emiliyan.com
-.ems115.shop
 .encrypt.me
 .endente.com
 .adguard.ender.fr
@@ -1081,7 +1073,6 @@
 .expressvpn.net
 .dns.extrawdw.net
 .fra1.eyecay.xyz
-.dns.ezyss.id
 .f0lga.tech
 .dns.f4a.fun
 .f4fp.com
@@ -1183,7 +1174,6 @@
 .forwardproxie.com
 .fproxy.net
 .francis-proxy.top
-.explore.francomedia.net
 .frandcomfort.us
 .free-proxy.com
 .free-proxy.cz
@@ -1252,7 +1242,6 @@
 .dns.freyja.pw
 .frootvpn.com
 .dns.froth.zone
-.awan.ftp.sh
 .fun4school.store
 .doh.funil.de
 .doh.funtopia.tv
@@ -1313,7 +1302,6 @@
 .gibblets.top
 .adguard.maison.gifino.fr
 .gifttrees.us
-.gingerbread.design
 .dns.ginovs.nl
 .gipvpn.com
 .dns.girino.org
@@ -1582,6 +1570,7 @@
 .ipfreely.io
 .ipinator.com
 .ipoac.nl
+.ipprotectionauth.goog
 .ipredator.se
 .iprivatevpn.com
 .iprovpn.com
@@ -1641,6 +1630,7 @@
 .dns.joey01245.nl
 .vpn.jogjacloud.com
 .adguard.johanliebert.top
+.johneldenring.lol
 .joker81fansbase.site
 .opencdn.jomodns.com
 .jongserver.xyz

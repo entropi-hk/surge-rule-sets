@@ -539,7 +539,6 @@
 .sukidayo.eu.org
 .dns.extrawdw.net
 .fra1.eyecay.xyz
-.dns.ezyss.id
 .dns.f4a.fun
 .jp1.f7b6h9.tk
 .dns.f97.xyz
@@ -580,7 +579,6 @@
 .dns.freopc.fr
 .dns.freyja.pw
 .dns.froth.zone
-.awan.ftp.sh
 .doh.funil.de
 .doh.funtopia.tv
 .dns.furrydns.de
@@ -723,6 +721,7 @@
 .green2.jnraptor.net
 .dns.joey01245.nl
 .adguard.johanliebert.top
+.johneldenring.lol
 .opencdn.jomodns.com
 .adguard1.jsanagustin.net
 .dns.jstockley.com
