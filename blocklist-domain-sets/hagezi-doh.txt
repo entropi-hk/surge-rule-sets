@@ -249,7 +249,6 @@
 .pope.cnblw.me
 .doh.cnetwork.cloud
 .pihole.datamatter.co.za
-.www.dnsadguard.co.uk
 .dns.gayanalysing.co.uk
 .dns.gi.co.id
 .ag.hostme.co.il
