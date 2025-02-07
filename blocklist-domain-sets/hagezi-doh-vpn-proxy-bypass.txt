@@ -1662,7 +1662,6 @@
 .keenow.com
 .keepanonymous.com
 .dns.keke125.com
-.doh.kekew.info
 .doh.kel.pe
 .kepard.com
 .dns.kerekes.xyz
@@ -2929,7 +2928,6 @@
 .dns.stvsk.ml
 .doh.suche.org
 .dns.suhaila.dev
-.suissl.com
 .resolver.sunet.se
 .sunnygyl.com
 .doh.sunoaki.net
@@ -3018,7 +3016,6 @@
 .uk.teradns.org
 .terraleads.cloud
 .dns.soldier.terumi.club
-.teruteruteruko.com
 .dns.tesem.dog
 .cloud.tezoi.com
 .thankvpn.com
@@ -3110,7 +3107,6 @@
 .toptip.cc
 .topvpn.cc
 .topvpnguides.com
-.tor-gateways.de
 .tor2web.fi
 .tor2web.in
 .tor2web.io
@@ -3654,7 +3650,6 @@
 .xitesite.com
 .xjumper.com
 .dns.xlion.tw
-.xn--28jub1g.jp
 .xn--durhre-yxa.de
 .xperienc.com
 .xsfwow.com
