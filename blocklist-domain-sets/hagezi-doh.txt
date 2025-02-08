@@ -1149,7 +1149,6 @@
 .doh.pyry.me
 .at.pzhg.me
 .vpsus3.pzhg.me
-.v.qdev.cc
 .doh.qis.io
 .qqmcfw.tech
 .ns1.qquack.org
