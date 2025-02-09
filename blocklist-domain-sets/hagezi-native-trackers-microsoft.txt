@@ -1,3 +1,4 @@
+.measure.office.com.akamaized.net
 .in.appcenter.ms
 .js.cdn.applicationinsights.io
 .js0.cdn.applicationinsights.io
@@ -19,6 +20,7 @@
 .js.monitor.azure.com
 .adsdkpreprod.azureedge.net
 .adsdkprod.azureedge.net
+.adsdkpreprod.afd.azureedge.net
 .adsdkprod.afd.azureedge.net
 .cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 .location-microsoft-com.b-0005.b-msedge.net
@@ -121,7 +123,6 @@
 .watson.live.com
 .ads.microsoft.com
 .adsdk.microsoft.com
-.adsstatic.microsoft.com
 .advertising.microsoft.com
 .analyticspixel.microsoft.com
 .applicationinsights.microsoft.com

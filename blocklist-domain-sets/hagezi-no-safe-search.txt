@@ -23,7 +23,6 @@
 .search.bluelock.org
 .boomle.com
 .search.bowlman.org
-.search.bus-hit.me
 .searx.catfluori.de
 .sx.catgirl.cloud
 .search.aol.co.uk
@@ -119,7 +118,6 @@
 .searx.netzspielplatz.de
 .nibblehole.com
 .searxng.nicfab.eu
-.searx.nightmare.life
 .nigma.eu
 .searx.nixnet.services
 .searxng.no-logs.com
@@ -148,7 +146,6 @@
 .whoogle.privacydev.net
 .search.privacytools.io
 .search.in.projectsegfau.lt
-.search.projectsegfau.lt
 .search.us.projectsegfau.lt
 .searx.prvcy.eu
 .librex.pufe.org

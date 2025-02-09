@@ -1662,6 +1662,7 @@
 .keenow.com
 .keepanonymous.com
 .dns.keke125.com
+.doh.kekew.info
 .doh.kel.pe
 .kepard.com
 .dns.kerekes.xyz
@@ -2899,7 +2900,10 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
+.eu1-browse.startpage.com
 .eu2-browse.startpage.com
+.proxy1.startpage.com
+.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
