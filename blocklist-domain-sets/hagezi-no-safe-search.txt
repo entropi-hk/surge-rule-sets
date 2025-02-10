@@ -78,7 +78,6 @@
 .search.jpope.org
 .jsearch.pw
 .searx.juancord.xyz
-.kagi.com
 .search.kiwitalk.de
 .search.kokomo.cloud
 .trovu.komun.org

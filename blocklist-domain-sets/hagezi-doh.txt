@@ -685,6 +685,7 @@
 .dns.imchristian.de
 .dns.immanuelschaffer.de
 .doh.immerda.ch
+.http-dns.imoim.net
 .imperio.top
 .dns1.in-berlin.de
 .dns2.in-berlin.de
@@ -1173,6 +1174,7 @@
 .tiger.dns.qwer.pw
 .resolver.r0cket.net
 .r1bnc.com
+.resolve2.r9x.cc
 .dns.rabbitdns.org
 .family.rabbitdns.org
 .security.rabbitdns.org

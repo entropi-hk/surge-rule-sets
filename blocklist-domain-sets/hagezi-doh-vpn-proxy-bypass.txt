@@ -1537,6 +1537,7 @@
 .dns.imchristian.de
 .dns.immanuelschaffer.de
 .doh.immerda.ch
+.http-dns.imoim.net
 .imperio.top
 .dns1.in-berlin.de
 .dns2.in-berlin.de
@@ -2596,6 +2597,7 @@
 .www-web.r-2.top
 .resolver.r0cket.net
 .r1bnc.com
+.resolve2.r9x.cc
 .ra4wvpn.com
 .dns.rabbitdns.org
 .family.rabbitdns.org
