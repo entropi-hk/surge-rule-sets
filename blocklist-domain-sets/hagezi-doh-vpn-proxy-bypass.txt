@@ -990,7 +990,6 @@
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
-.tungdnsne.duckdns.org
 .vpschito.duckdns.org
 .dukun.de
 .dutchproxy.nl
@@ -1663,6 +1662,7 @@
 .keenow.com
 .keepanonymous.com
 .dns.keke125.com
+.doh.kekew.info
 .doh.kel.pe
 .kepard.com
 .dns.kerekes.xyz

@@ -498,7 +498,6 @@
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
-.tungdnsne.duckdns.org
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
@@ -741,6 +740,7 @@
 .dns.kawa.tf
 .dns.kebree.fr
 .dns.keke125.com
+.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de
