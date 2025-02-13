@@ -990,6 +990,7 @@
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .vpschito.duckdns.org
 .dukun.de
 .dutchproxy.nl
@@ -2381,7 +2382,6 @@
 .romania.privacy-dns.pw
 .privacyprotector.eu
 .privado.io
-.dns.privado.ovh
 .orpi.privado.ovh
 .privadovpn.com
 .privateinternetaccess.com

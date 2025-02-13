@@ -498,6 +498,7 @@
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
@@ -1133,7 +1134,6 @@
 .las-vegas.privacy-dns.pw
 .luxembourg.privacy-dns.pw
 .romania.privacy-dns.pw
-.dns.privado.ovh
 .orpi.privado.ovh
 .de.dns.privex.io
 .nl.dns.privex.io
