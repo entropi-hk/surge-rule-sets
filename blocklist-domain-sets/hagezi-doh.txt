@@ -1287,6 +1287,7 @@
 .sriedmueadguard.casa
 .adguard.sscw.win
 .doh.ntu.ssooss.win
+.ag.ssrahul96.xyz
 .dns.sstomp.nl
 .dns.startupstack.tech
 .dns.stevenz.net
