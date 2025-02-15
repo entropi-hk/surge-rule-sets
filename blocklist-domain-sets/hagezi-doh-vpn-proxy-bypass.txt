@@ -449,7 +449,6 @@
 .bypassfw.com
 .bypassip.com
 .bypasskey.com
-.bypasstunnel.com
 .api.bytelixir.com
 .bytzvpn.com
 .c-dns.com
@@ -2902,10 +2901,7 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
-.eu1-browse.startpage.com
 .eu2-browse.startpage.com
-.proxy1.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
@@ -3432,7 +3428,6 @@
 .videoproxy.site
 .videounblocker.net
 .vidproxy.com
-.viewyoutube.net
 .vikingvpn.com
 .dns.vinnyp.xyz
 .dns.vinokurov.tk
