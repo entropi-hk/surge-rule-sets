@@ -55,7 +55,6 @@
 .adl.adfilter.net
 .per.adfilter.net
 .syd.adfilter.net
-.adfiltro.fun
 .adfreedns.top
 .dns.adguard.com
 .dns-family.adguard.com

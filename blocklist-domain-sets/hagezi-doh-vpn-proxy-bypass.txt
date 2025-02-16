@@ -61,6 +61,7 @@
 .2fastsurfer.us
 .2proxy.de
 .2proxyweb.com
+.2r34.com
 .30t.online
 .doh.30x.me
 .351242444.xyz
@@ -109,6 +110,7 @@
 .dns-gcp.aaflalo.me
 .dns-nyc.aaflalo.me
 .doh.dns.apple.com.v.aaplimg.com
+.aaronzweb.xyz
 .abcproxy.com
 .adguard.abd.ong
 .dns.abdullahabas.de
@@ -134,7 +136,6 @@
 .adl.adfilter.net
 .per.adfilter.net
 .syd.adfilter.net
-.adfiltro.fun
 .adfreedns.top
 .adfreeproxy.com
 .adguard.io
@@ -193,6 +194,7 @@
 .37er19htfd.execute-api.us-east-1.amazonaws.com
 .i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 .dsl-app.s3.us-east-2.amazonaws.com
+.amirabbasmousavi.news
 .mailer.amlegion.org
 .ammmae150.news
 .doh.amonsul.net
@@ -340,6 +342,7 @@
 .bestwon203.com
 .bestyouproxytube.com
 .bestyoutubeproxy.info
+.www-proxy.bettercallghaith.wiki
 .betternet.co
 .betterproxy.net
 .bettervpn.com
@@ -714,6 +717,7 @@
 .crazysurfer.info
 .createssh.com
 .createssh.net
+.creatine.wtf
 .criarssh.com
 .dns.criena.net
 .crownproxy.com
@@ -1495,6 +1499,7 @@
 .html.cafe
 .httpdserver.info
 .dns.huas.me
+.hugeph.art
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work
@@ -1859,6 +1864,7 @@
 .dns.mestdag.fr
 .metal-masters.us
 .metalinjection.us
+.mfho.cc
 .dns.mh4ckt3mh4ckt1c4s.xyz
 .mhany.xyz
 .esel.stusta.mhn.de
@@ -3664,6 +3670,7 @@
 .common.dot.dns.yandex.net
 .family.dot.dns.yandex.net
 .safe.dot.dns.yandex.net
+.yasosy.pro
 .dns.yatima.tv
 .ychen.cf
 .ychen.gq
