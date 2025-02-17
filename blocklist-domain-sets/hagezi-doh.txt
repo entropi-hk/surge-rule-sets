@@ -22,15 +22,20 @@
 .dns.3wv.de
 .dns.4-the.win
 .doh.42l.fr
+.dns.444723.xyz
 .ns2.4netguides.org
 .alidns.51top.info
 .dns.52306.org
 .family.5ososea.com
 .kids.5ososea.com
 .dns.688447.xyz
+.doh.774445.xyz
+.dns.775467.xyz
 .dns.7vpn.com
+.dns.853852.xyz
 .dns.886886886.xyz
 .dns.888654.xyz
+.dns.8887744.xyz
 .8888.google
 .dns.9999.sg
 .dns.a47.me
@@ -131,6 +136,7 @@
 .fr-dns1.bancuh.com
 .jp-dns1.bancuh.com
 .sg-dns1.bancuh.com
+.doh.battle.christmas
 .bazooki-infra.dev
 .dns.beardic.cn
 .antivirus.bebasid.com
@@ -184,11 +190,13 @@
 .dns.brahma.world
 .bravedns.com
 .dns.brembeck.cloud
+.dns.brono.cloud
 .doh.bt.com
 .goose.buckyfan.net
 .stratus.bugz.fr
 .dns.burgas.pro
 .dns.busold.ws
+.dns.butterfly87.sbs
 .c-dns.com
 .dns.cabbage.zone
 .dns.cahlen.com
@@ -220,6 +228,7 @@
 .dns.christian.moe
 .dns.chriswservers.com
 .dns.chromeina.top
+.dns.chunghwamc.com
 .oraclejp2.chungyu.com
 .c.cicitt.ch
 .doh.cippapp.com
@@ -405,6 +414,7 @@
 .llk01.dnscry.pt
 .lon01.dnscry.pt
 .mad01.dnscry.pt
+.man01.dnscry.pt
 .mia01.dnscry.pt
 .mil01.dnscry.pt
 .mru01.dnscry.pt
@@ -444,8 +454,10 @@
 .vno01.dnscry.pt
 .waw01.dnscry.pt
 .waw02.dnscry.pt
+.yhz01.dnscry.pt
 .yul01.dnscry.pt
 .yvr01.dnscry.pt
+.yyc01.dnscry.pt
 .yyz01.dnscry.pt
 .zal01.dnscry.pt
 .dns1.dnscrypt.ca
@@ -489,6 +501,8 @@
 .dns.dooks.uk
 .dot.pub
 .dns.dotnet.win
+.dns.dremaxx.de
+.droyd.top
 .doh.dscloud.me
 .agh.dshubham.xyz
 .home27.duckdns.org
@@ -531,6 +545,8 @@
 .arashi.eu.org
 .armorrush.eu.org
 .doh.excdn.eu.org
+.dns.de.futuredns.eu.org
+.dns.us.futuredns.eu.org
 .dns.fullaccesstointernet.jp.eu.org
 .dns.mayx.eu.org
 .arashi.net.eu.org
@@ -735,6 +751,7 @@
 .dns.karadag.me
 .dns.karfamily.net
 .dns.karl.one
+.adguard.kasbot.net
 .dns.kastner-online.de
 .kavkaz.monster
 .dns.kawa.tf
@@ -795,6 +812,7 @@
 .dns.liberador.net
 .doh.libredns.gr
 .dot.libredns.gr
+.lifeisa.live
 .dns.lihj.me
 .dns.linkr.ninja
 .africadns1.liquidtelecom.net
@@ -871,6 +889,7 @@
 .dns.mnet-online.de
 .mnrv.trade
 .dns.mo0on15.com
+.moamao.shop
 .dnstls.mobik.com
 .ps1.modr.club
 .dns.molinero.dev
@@ -1009,6 +1028,7 @@
 .ns3.cx
 .ns3.link
 .dnscache0.ns71.net
+.ntwrkh.pro
 .dns.nullgate.net
 .dns.numerus.com
 .ns.nwps.fi
@@ -1022,6 +1042,7 @@
 .adguard.oms-ctr.ru
 .one.one.one.one
 .doh.onedns.net
+.doh-pure.onedns.net
 .adguard.onlyfriends.info
 .hk2.ooroot.com
 .jp2.ooroot.com
@@ -1061,6 +1082,7 @@
 .adguard.pangerl.it
 .dns.panszelescik.pl
 .dns-ovh.panszelescik.pl
+.paradise-human.shop
 .dns.pari.network
 .pashagame456.com
 .a.passcloud.xyz
@@ -1069,6 +1091,7 @@
 .rpz-public-resolver1.rrdns.pch.net
 .dns.peb-schmidt.de
 .fuchur.pentament.de
+.pepetio.xyz
 .dns.pernika.net
 .darya.persiannit.net
 .dns.pesaventofilippo.com
@@ -1123,7 +1146,6 @@
 .lindung.pp.ua
 .sundalandia.pp.ua
 .virga.pp.ua
-.zxcvb.pp.ua
 .dns.pragmasec.nl
 .dns2.prima-solusindo.com
 .dns.princex.net
@@ -1185,7 +1207,9 @@
 .dns.rbn.gr
 .dns.reckoningslug.name
 .dns.redvau.lt
+.regiopolis.cloud
 .dns.reitmeier.me
+.renardbleu.dev
 .dns.renardyre.com
 .dns.repinger.com
 .dns.repressoh.it
@@ -1277,6 +1301,7 @@
 .dns.smartguard.io
 .guard.sntrk.ru
 .clientdns3.softcom.net
+.solaxy.live
 .spacedns.org
 .adguard.sparshbajaj.me
 .doh-01.spectrum.com
@@ -1294,6 +1319,7 @@
 .dns.stormycloud.org
 .dns.strassmair.org
 .dns.stvsk.ml
+.doh.sublime9.xyz
 .doh.suche.org
 .dns.suhaila.dev
 .resolver.sunet.se
@@ -1335,6 +1361,7 @@
 .dns.theres.one
 .dns.therifleman.name
 .blocker.thethorsens.org
+.dns.thiz.top
 .doh.tiar.app
 .dot.tiar.app
 .jp.tiar.app
@@ -1402,6 +1429,7 @@
 .dns.vinnyp.xyz
 .dns.vinokurov.tk
 .dns.vishalk.com
+.dns.vod11.xyz
 .dns.vojtat.cz
 .vorlif.org
 .dns.w3ctag.org
