@@ -3095,6 +3095,7 @@
 .gerusama.fansub-torrents.com
 .kazenokoefansubs.fansub-torrents.com
 .fapxy.info
+.faragski.com
 .fashion-factory.ru
 .fast-torrent.club
 .fast-torrent.ru
@@ -3115,6 +3116,7 @@
 .fbstream.tv
 .fcnetbd.net
 .fcstream.net
+.fddbits.com
 .torrent.fedoraproject.org
 .feeder.lt
 .fenopy.com
@@ -3181,6 +3183,7 @@
 .filmarchives.jp
 .filmbits.net
 .filmcomplet.al
+.filmcomplet.vip
 .filmduty.com
 .filmeflix.online
 .filmeflix.tv
@@ -3305,6 +3308,7 @@
 .filmsenzalimiti.io
 .filmsenzalimiti.it
 .filmsenzalimiti.live
+.filmsenzalimiti.love
 .filmsenzalimiti.me
 .filmsenzalimiti.name
 .filmsenzalimiti.net
@@ -3365,6 +3369,7 @@
 .filmstreaming.to
 .filmstreaming.top
 .filmstreaming.uk
+.filmstreaming.us
 .filmstreaming.vg
 .filmstreaming.video
 .filmstreaming.vin
@@ -3430,6 +3435,7 @@
 .fleira.no
 .flenix.net
 .flextorrents.com
+.flixanity.xyz
 .flixdump.com
 .flixgo.biz
 .flixgo.net
@@ -3440,6 +3446,7 @@
 .flixhq.lol
 .flixhq.net
 .flixhq.to
+.flixhub.net
 .flixjar.com
 .flixta.cc
 .flixtor.ch
@@ -3507,6 +3514,7 @@
 .fmoviez.org
 .fmwhatsapp.net
 .fn-bd.com
+.fnetctg.com
 .fnfonlinebd.com
 .tracker.fnix.net
 .focusflix.com
@@ -3522,6 +3530,7 @@
 .footybite.io
 .footybite.one
 .foreverdrowning.com
+.foreverpirates.co
 .forfreeiptv.com
 .forja.tn
 .formalitystresser.com
@@ -3688,11 +3697,13 @@
 .furk.net
 .fussballlivestreams.de
 .futbolonlinetv.club
+.futebolgratis.io
 .futebolgratis.net
 .futebolplayhd.info
 .futecell.com
 .futemax.app
 .futemax.cl
+.futemax.gratis
 .futemax.ink
 .futplayhd.live
 .futplayhd.net
@@ -3998,6 +4009,7 @@
 .guardaserie.club
 .guardaserie.co
 .guardaserie.coach
+.guardaserie.coffee
 .guardaserie.college
 .guardaserie.com
 .guardaserie.community
@@ -4119,6 +4131,7 @@
 .harri.com
 .tracker.harry.lu
 .haruhichan.com
+.hasikhushi.net
 .haxmac.cc
 .haxnode.com
 .haxnode.net
@@ -4141,6 +4154,7 @@
 .tracker.hd4fans.org
 .hd4fun.com
 .tracker.hdarea.club
+.tracker.hdarea.co
 .tracker.hdbd.us
 .hdbest.net
 .hdbits.cn
@@ -4193,6 +4207,7 @@
 .hdseans.pl
 .hdseries.cc
 .tracker.hdsky.me
+.hdsource.biz
 .hdss.app
 .hdstar.org
 .hdstream.cool
@@ -4331,6 +4346,7 @@
 .hypertor.com
 .hypertorrent.com
 .hz.is
+.i123movies.club
 .i1apk.com
 .ianimes.org
 .iartbot.ru
@@ -4368,6 +4384,7 @@
 .iktin.ru
 .ikwilthepiratebay.org
 .ilcorsaronero.info
+.ilcorsaronero.link
 .ilefilms.com
 .ilf.net
 .ilgeniodellostreaming.arab
@@ -4414,6 +4431,7 @@
 .ilgeniodellostreaming.org
 .ilgeniodellostreaming.party
 .ilgeniodellostreaming.pics
+.ilgeniodellostreaming.pictures
 .ilgeniodellostreaming.pl
 .ilgeniodellostreaming.pro
 .ilgeniodellostreaming.quest
@@ -4558,6 +4576,7 @@
 .isohunt.ee
 .isohunt.fun
 .isohunt.io
+.isohunt.nz
 .isohunt.tv
 .isohunt2.net
 .isohunts.net
@@ -4647,6 +4666,7 @@
 .jetanimes.com
 .jetload.net
 .jhakkas.live
+.jhalmuri.com
 .jhalmuri.xyz
 .tracker.jiesen.life
 .jimmyr.com
@@ -4727,6 +4747,8 @@
 .kat.ph
 .kat.rip
 .kat.to
+.katastrofa.com
+.katcr.co
 .katcr.to
 .katfile.com
 .kati3kat.tube
@@ -4760,6 +4782,7 @@
 .keygenbat.com
 .keygenguru.com
 .keygenninja.com
+.keygens.nl
 .keygens.pro
 .keyscity.net
 .keysfull.com
@@ -4928,6 +4951,7 @@
 .kraytracker.com
 .bt.ktkj.com
 .ktorrents.com
+.bt.ktrackers.com
 .kualda.com
 .kubalibre.com
 .kubanmedia.org
@@ -5040,6 +5064,7 @@
 .ligg.org
 .lightdl.xyz
 .tracker.lilithraws.org
+.limetor.com
 .limetor.pro
 .limetorrent.cc
 .limetorrent.ws
@@ -5048,11 +5073,13 @@
 .limetorrents.at
 .limetorrents.buzz
 .limetorrents.cc
+.limetorrents.co
 .limetorrents.info
 .limetorrents.lol
 .limetorrents.online
 .limetorrents.pro
 .limetorrents.so
+.limetorrents.to
 .limetorrents.xyz
 .limetorrents.zone
 .limetorrentx.cc
@@ -5083,6 +5110,7 @@
 .live-koora.online
 .kora.live-koora.live
 .live-nfl.stream
+.live-sport.online
 .live-sport-tv.it
 .live-stream.tv
 .live7.pro
@@ -5109,6 +5137,7 @@
 .lk21.cloud
 .lk21.org
 .lk21hd.com
+.lk21id.com
 .lk21official.info
 .lk21official.vip
 .tv2.lk21official.pro

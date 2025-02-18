@@ -1005,7 +1005,6 @@
 .duba.net
 .home27.duckdns.org
 .jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -1363,6 +1362,7 @@
 .dns.google.com
 .google-public-dns-a.google.com
 .google-public-dns-b.google.com
+.dns-tunnel-check.googlezip.net
 .goosevpn.com
 .goproxy.asia
 .performance.gosami.xyz
@@ -1594,6 +1594,7 @@
 .ipfreely.io
 .ipinator.com
 .ipoac.nl
+.iportal.me
 .ipprotectionauth.goog
 .ipredator.se
 .iprivatevpn.com
@@ -1639,6 +1640,7 @@
 .doh.jeroenhd.nl
 .jetbean.com
 .jetproxy.com
+.jetssh.com
 .jfalling.com
 .adguard.jfchenier.ca
 .dns.jhangy.us
@@ -1791,6 +1793,7 @@
 .liquidvpn.com
 .dns.listo.click
 .litebrowser.net
+.literally.info
 .litevpn.top
 .loadlow.me
 .dns.lobbygod.com
@@ -1815,6 +1818,7 @@
 .lumes.jp
 .luminati.io
 .luminatinet.com
+.lurk.info
 .dns.lvolland.fr
 .orau.lz0724.com
 .addns1.m-it.ro
@@ -1860,7 +1864,6 @@
 .dns.maybe.icu
 .mazevpn.com
 .dns.mbrjun.cn
-.mc-sft.cn
 .ispcapi.mcafee.com
 .msc.mcafee.com
 .safeconnect.mcafee.com
