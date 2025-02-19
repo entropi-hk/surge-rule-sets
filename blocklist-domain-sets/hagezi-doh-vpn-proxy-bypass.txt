@@ -1005,6 +1005,7 @@
 .duba.net
 .home27.duckdns.org
 .jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -2179,6 +2180,7 @@
 .onevanalla.site
 .onion.am
 .onion.cab
+.onion.casa
 .onion.city
 .onion.direct
 .onion.dog
