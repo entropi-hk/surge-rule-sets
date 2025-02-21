@@ -878,6 +878,7 @@
 .apktg.com
 .apktodo.io
 .apktoly.net
+.apkvision.org
 .apkwind.com
 .apkwonk.com
 .apkzone.net
@@ -977,6 +978,7 @@
 .atom-stresser.com
 .atopgames.com
 .atorrents.com
+.atrasisclash.net
 .attack-on-titan.online
 .attacker.tv
 .attractiveservices.com
@@ -1919,6 +1921,8 @@
 .toriyamaworld.cjb.net
 .warezdreamz.cjb.net
 .cjoint.net
+.clashofclansmods.com
+.clashofmagic.io
 .api.clasificadosrapidos.com
 .classiccinemaonline.com
 .classiccinemazone.com
@@ -5811,6 +5815,7 @@
 .turtle55.myftp.org
 .myglotze.net
 .mygully.com
+.myinsta.app
 .mykellerfuture.com
 .mykino.to
 .mymoviebazar.com
@@ -6109,6 +6114,9 @@
 .nulljungle.com
 .nullphp.net
 .nullphpscript.com
+.nulls.gg
+.nulls-clash.com
+.nullsclash.net
 .nullscriptfullz.com
 .nunflix.live
 .nunflix.org
