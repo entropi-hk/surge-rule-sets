@@ -1517,7 +1517,6 @@
 .hsselite.com
 .html.cafe
 .httpdserver.info
-.dns.huas.me
 .hugeph.art
 .dns.hujiayucc.cn
 .doth.huque.com
@@ -2158,7 +2157,6 @@
 .qdns02.nymterm.com
 .5g.o0o.re
 .o1.lt
-.obscuro.top
 .oceanbrowser.co
 .octohide.com
 .octovpn.net

@@ -672,7 +672,6 @@
 .doh.hottis.de
 .hshh.org
 .dns.hshoe.cn
-.dns.huas.me
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work
@@ -1034,7 +1033,6 @@
 .qdns02.nymterm.com
 .5g.o0o.re
 .o1.lt
-.obscuro.top
 .dns.odinpl.com
 .dns.ofdoom.net
 .okado.online
