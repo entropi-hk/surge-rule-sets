@@ -30,6 +30,7 @@
 .searx.com.au
 .copp.gg
 .search.cronobox.one
+.searx.cthd.icu
 .searx.daetalytica.io
 .darmarit.org
 .suche.dasnetzundich.de
@@ -145,6 +146,7 @@
 .whoogle.privacydev.net
 .search.privacytools.io
 .search.in.projectsegfau.lt
+.search.projectsegfau.lt
 .search.us.projectsegfau.lt
 .searx.prvcy.eu
 .librex.pufe.org

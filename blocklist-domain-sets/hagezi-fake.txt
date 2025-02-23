@@ -430,7 +430,6 @@
 .annafieldwien.at
 .annawelpen.de
 .annebarot.com
-.annelieholmen.com
 .annelore.shop
 .annenowakwelpen.de
 .anneschilk.com
@@ -702,6 +701,9 @@
 .awirer.com
 .axa-europe-patrimoine.com
 .axa-gestion.com
+.axacoins.com
+.axaimarketfx.com
+.axatechviewou.com
 .axelarigatojapan.net
 .axelarigatomilano.it
 .axelarigatooslo.com
@@ -1446,6 +1448,7 @@
 .bruland.store
 .brunateschuhewerksverkauf.de
 .brunetsludmila.com
+.bs2best.at
 .bse-capital.com
 .bskinenvide.shop
 .bsm-consulting.de
@@ -10403,7 +10406,6 @@
 .votezerro.com
 .vrtil.com
 .vswatches.net
-.vtmarkets.net
 .eu.vtmarkets.com
 .vtmarketsfr.com
 .vtoolstore.de
@@ -10842,7 +10844,6 @@
 .zesavi-tech.de
 .zetko-waren.com
 .zetko-waren.de
-.app.zety.de
 .zhrtasarimf.shop
 .zicklerbrennholz.de
 .zidnjlamp.com
