@@ -832,7 +832,6 @@
 .lukscasino-542-tr.xyz
 .lukscasino-929-tr.xyz
 .dns.luma-medien.com
-.dns.lvolland.fr
 .orau.lz0724.com
 .addns1.m-it.ro
 .mabuktogel.builders
@@ -1348,8 +1347,6 @@
 .de.teradns.org
 .ny.teradns.org
 .sg.teradns.org
-.tx.teradns.org
-.uk.teradns.org
 .dns.soldier.terumi.club
 .dns.tesem.dog
 .cloud.tezoi.com
@@ -1407,18 +1404,6 @@
 .dns.uplenk.com
 .urology.wiki
 .dns.koala.us.to
-.nightlymoon.us.kg
-.luna-is.so-gorgeo.us.kg
-.mecca-is.so-gorgeo.us.kg
-.mita-is.so-gorgeo.us.kg
-.myrra-is.so-gorgeo.us.kg
-.nana-is.so-gorgeo.us.kg
-.nindy-is.so-gorgeo.us.kg
-.nora-is.so-gorgeo.us.kg
-.nova-is.so-gorgeo.us.kg
-.sitha-is.so-gorgeo.us.kg
-.tetty-is.so-gorgeo.us.kg
-.yussy-is.so-gorgeo.us.kg
 .adfree.usableprivacy.net
 .dns.vaioswolke.xyz
 .doh.valscosmos.com
