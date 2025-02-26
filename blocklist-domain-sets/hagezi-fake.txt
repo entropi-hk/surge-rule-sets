@@ -460,6 +460,7 @@
 .apkwell.com
 .aplschuhe.com
 .apo-rezeptfrei.com
+.apoamerbach.com
 .apotek-no24.com
 .apotek-norge24.com
 .apoteket.to
@@ -1451,7 +1452,6 @@
 .bruland.store
 .brunateschuhewerksverkauf.de
 .brunetsludmila.com
-.bs2best.at
 .bse-capital.com
 .bskinenvide.shop
 .bsm-consulting.de
@@ -1904,7 +1904,6 @@
 .emporioarmanisouthafrica.co.za
 .fitnesstogether.co.uk
 .gymsharkinsouthafrica.co.za
-.homegymsupply.co.uk
 .icetrade.co.uk
 .luxurydupes.co.uk
 .michele.co.at
@@ -6583,7 +6582,6 @@
 .price.mytestopay.com
 .sportlife.mytestopay.com
 .mytheresamall.top
-.mytheresashop.top
 .mz-marketing-gmbh.com
 .naba-24.de
 .naba24.de
@@ -7025,7 +7023,6 @@
 .onlinekmnwi.com
 .onlinekuche.com
 .onlineladywear.com
-.app.onlinelebenslauf.com
 .onlinemaripe.com
 .onlinemensdenim.com
 .onlinemotorrad.com
@@ -7350,7 +7347,6 @@
 .pcakkusdirekt.de
 .pd-handel.de
 .pd99.cc
-.pdfmaster.app
 .peacefulexitsworldwide.org
 .peacevulture.com
 .peakperformancemall.com
@@ -8913,7 +8909,6 @@
 .sport-titan.de
 .sportandoutdoorstore.com
 .sportapothekeonline.com
-.sportausrustung.com
 .sportausrustung-de.com
 .sportbekleidung-de.com
 .sportdamen.de
@@ -10873,6 +10868,7 @@
 .zesavi-tech.de
 .zetko-waren.com
 .zetko-waren.de
+.app.zety.de
 .zhrtasarimf.shop
 .zicklerbrennholz.de
 .zidnjlamp.com
