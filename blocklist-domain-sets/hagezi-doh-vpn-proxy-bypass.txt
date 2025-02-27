@@ -2543,6 +2543,7 @@
 .proxypirates.com
 .proxypremium.top
 .proxyprivate.info
+.proxyproxy.net
 .proxypx.com
 .proxypy.org
 .proxyrooms.com
@@ -3125,6 +3126,7 @@
 .tigervpn.com
 .tigrons.ru
 .tikvpn.com
+.tildenderek.store
 .timetohide.me
 .timmes.nl
 .adb.timnichollsphotography.com
