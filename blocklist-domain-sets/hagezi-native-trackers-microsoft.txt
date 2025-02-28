@@ -253,7 +253,6 @@
 .diagnostics.office.com
 .measure.office.com
 .measure.office.net
-.hubblecontent.osi.office.net
 .adsdk.trafficmanager.net
 .agps-location-livenet.trafficmanager.net
 .analytics.trafficmanager.net
@@ -321,7 +320,6 @@
 .analytics-dev-lleap-events.servicebus.windows.net
 .analytics-dev-simpad-events.servicebus.windows.net
 .analyticsehnwe.servicebus.windows.net
-.analyticsiot-prod-simpad-ehn.servicebus.windows.net
 .btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 .btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 .citrixanalyticseh.servicebus.windows.net

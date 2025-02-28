@@ -213,7 +213,6 @@
 .aniscartujo.com
 .dns.anon.no
 .anonine.com
-.anonproxy.eu
 .anonproxy.org
 .anonvpn.io
 .anonwebproxy.com
@@ -1126,7 +1125,6 @@
 .fasttime.info
 .fastusaproxy.com
 .fastvpn.im
-.fastvpn.me
 .favoriteshoes.us
 .fbproxies.info
 .ns0.fdn.fr
@@ -1365,7 +1363,6 @@
 .google-public-dns-b.google.com
 .dns-tunnel-check.googlezip.net
 .goosevpn.com
-.goproxy.asia
 .performance.gosami.xyz
 .vpn.gosami.xyz
 .gotrusted.com
@@ -1413,7 +1410,6 @@
 .adguard.hartley.cloud
 .query.hdns.io
 .ordns.he.net
-.headproxy.com
 .heiwanotameno.com
 .us-ny-alula.heliumcloud.cc
 .helloworld.cx
@@ -1732,7 +1728,6 @@
 .kryptovpn.kryptotel.net
 .adguard.kss.ovh
 .dns.kukal.cz
-.dns.kusoneko.moe
 .dns.kuuhaku.moe
 .kx-97795-tr.xyz
 .dns.kxy.ink
@@ -1754,7 +1749,6 @@
 .le-vpn.com
 .adguard1.leadmon.net
 .adguard.leadseason.eu
-.leafyvpn.net
 .ledfordmiddleschool.xyz
 .leekemx.com
 .adblock.leenit.kr
@@ -2437,7 +2431,6 @@
 .protonvpn.com
 .protonvpn.net
 .prounlock.org
-.provpn.info
 .provpnaccounts.com
 .prox.pw
 .prox.rocks
@@ -2586,8 +2579,6 @@
 .publicdnsserver.com
 .pukanuragan.ru
 .dns.pumpkinvrar.com
-.dns.pumplex.com
-.2.dnscrypt-cert.pumplex.com
 .pupilproxy.com
 .puredns.org
 .dns-privacy.puregeni.us
@@ -3355,7 +3346,6 @@
 .unblockit.one
 .unblockit.onl
 .unblockit.pro
-.unblockit.rsvp
 .unblockit.uno
 .unblockmate.com
 .unblockme.us
@@ -3385,7 +3375,6 @@
 .unblockweb.co
 .unblockweb.one
 .unblockweb.org
-.unblockwebsite.online
 .unblockwebsites.com
 .unblockyouku.com
 .unblockyouku.org
@@ -3507,7 +3496,6 @@
 .vpn-free.com
 .vpn-free.download
 .vpn-professional.company
-.vpn-server.xyz
 .vpn4all.com
 .vpn99.net
 .vpnaccounts.com
@@ -3557,7 +3545,6 @@
 .vpnprivacy.com
 .vpnprivacy.services
 .vpnpro.com
-.vpnproxy.online
 .vpnproxy.org
 .vpnproxy.pw
 .vpnproxy.site
@@ -3587,7 +3574,6 @@
 .vpnwelt.com
 .antispam.vpsvpn.com
 .go.vrpyourself.online
-.vtcuong.site
 .vyprvpn.com
 .dns.w3ctag.org
 .dns.wahr.top
@@ -3691,7 +3677,6 @@
 .doh.xcom.pro
 .xcomplus.com
 .xenergy.cc
-.www-bruh.xenon.lol
 .doh.xfinity.com
 .dot.xfinity.com
 .doh2.gslb2.xfinity.com
@@ -3745,12 +3730,10 @@
 .yovbak.com
 .yoyovpn.org
 .ytcroxyproxy.com
-.yui.cat
 .dns.yuu-g.net
 .yuvelirtut.website
 .yuyuproxy.com
 .yuyuproxy.online
-.yxorproxy.com
 .dns.daemon.za.net
 .zacebookpk.com
 .adguard.zachitect.com
