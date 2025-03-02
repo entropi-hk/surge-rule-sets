@@ -712,7 +712,6 @@
 .inpssh.online
 .qlf-doh.inria.fr
 .dns.interhub.cc
-.ipoac.nl
 .dns1.irumatech.com
 .dns.is0mino.com
 .mickedi.isgood.host
@@ -1067,6 +1066,7 @@
 .dns.uk-london-1.oraclecloud.com
 .dns.us-ashburn-1.oraclecloud.com
 .dns.us-phoenix-1.oraclecloud.com
+.resolver.dnsprivacy.org.uk
 .dns.oryxlabs.com
 .dns.oszx.co
 .dns.ours.luxe
@@ -1141,6 +1141,7 @@
 .lindung.pp.ua
 .sundalandia.pp.ua
 .virga.pp.ua
+.zxcvb.pp.ua
 .dns.pragmasec.nl
 .dns2.prima-solusindo.com
 .dns.princex.net

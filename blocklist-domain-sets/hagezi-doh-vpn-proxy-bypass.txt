@@ -1589,7 +1589,6 @@
 .ipchanging.com
 .ipfreely.io
 .ipinator.com
-.ipoac.nl
 .iportal.me
 .ipprotectionauth.goog
 .ipredator.se
@@ -2231,6 +2230,7 @@
 .oraclevpn.com
 .orangeproxy.net
 .proxy.ordentlichbreit.de
+.resolver.dnsprivacy.org.uk
 .dns.oryxlabs.com
 .os4work.com
 .ospylac.com
@@ -2378,6 +2378,7 @@
 .lindung.pp.ua
 .sundalandia.pp.ua
 .virga.pp.ua
+.zxcvb.pp.ua
 .ppira.com
 .pq7hdf.com
 .pr0xy.com
