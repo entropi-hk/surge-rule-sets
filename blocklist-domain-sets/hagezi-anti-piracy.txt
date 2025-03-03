@@ -121,7 +121,6 @@
 .123moviesx.tv
 .123movietheater.com
 .123myflixer.pro
-.123netflix.club
 .123putlocker.io
 .123stream.la
 .123tvnow.com
@@ -157,7 +156,6 @@
 .1jour1film.online
 .1jour1film.website
 .1kif.com
-.1kino.in
 .1load.sx
 .1movies.best
 .1movies.is
@@ -371,7 +369,6 @@
 .abibd.com
 .tr.abir.ga
 .abnctg.net
-.aboutbeautifulgallopinghorsesinthegreenpasture.online
 .abrokegamer.com
 .abtorrents.com
 .tracker.aburaya.live
@@ -2123,6 +2120,7 @@
 .crackedfully.com
 .crackedme.com
 .crackedmine.com
+.crackedpc.org
 .crackedreal.com
 .crackedstream.tv
 .crackedversion.com
@@ -9125,6 +9123,7 @@
 .vidclouds.icu
 .vidembed.net
 .videobin.co
+.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info
@@ -9551,6 +9550,7 @@
 .xmovies8.org
 .xmovies8.ru
 .xmovies8.si
+.tracker-zhuqiy.xn--1r3au8b.space
 .xn--80a4b.com
 .xn--950bz4kqroyzjblb.com
 .xn--firstrowsport-8xe.eu
