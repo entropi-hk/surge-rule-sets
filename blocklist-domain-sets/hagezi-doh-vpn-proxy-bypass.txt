@@ -341,7 +341,6 @@
 .dns.bermeitinger.eu
 .bestaitool.news
 .bestfreevpn.com
-.bestmod.site
 .bestproxy.xyz
 .bestssh.net
 .bestukvpn.com
@@ -389,7 +388,6 @@
 .dot-fi.blahdns.com
 .dot-jp.blahdns.com
 .dot-sg.blahdns.com
-.blahn.space
 .dns.blaumer.dev
 .blewpass.com
 .us1.blissdns.net
@@ -461,7 +459,6 @@
 .dns.butterfly87.sbs
 .bvpn.com
 .byewall.com
-.bypass.pw
 .bypassable.com
 .bypassed.wtf
 .bypasser.us
@@ -483,9 +480,7 @@
 .doh.captnemo.in
 .carebuzz.io
 .careproxy.com
-.console.carestyle.org
 .dns.carson-family.com
-.dns.carter.me
 .casinovpn.com
 .dns.caspervk.net
 .catchen121299.top
@@ -621,6 +616,7 @@
 .dns.cmrg.net
 .pope.cnblw.me
 .doh.cnetwork.cloud
+.10bestvpn.co.uk
 .akashiro.co.id
 .antidnsvpn.co.cc
 .binhexsolutions.co.uk
@@ -848,7 +844,6 @@
 .dns.dns-53.us
 .dns1.dns-ga.de
 .dns2.dns-ga.de
-.dns3.dns-ga.de
 .doh.dns-ga.de
 .secure-dns.dns-ga.de
 .dns.dns-over-https.com
@@ -1839,6 +1834,7 @@
 .n5.lsasss.com
 .dns.lsho.top
 .ltlxvxjjmvhn.me
+.lucasmaia.org
 .lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz
 .lukscasino-929-tr.xyz
@@ -1937,7 +1933,6 @@
 .mitmproxy.org
 .doh.mmmalia.com
 .dns.mnet-online.de
-.mnrv.trade
 .dns.mo0on15.com
 .moamao.shop
 .dnstls.mobik.com
@@ -2186,9 +2181,16 @@
 .nvpn.net
 .nvpn.to
 .ns.nwps.fi
+.nym.com
+.nym.community
+.nym.dev
+.nym.network
+.nymtech.net
 .qdns02.nymterm.com
+.nymvpn.com
 .5g.o0o.re
 .o1.lt
+.obscura.net
 .oceanbrowser.co
 .octohide.com
 .octovpn.net

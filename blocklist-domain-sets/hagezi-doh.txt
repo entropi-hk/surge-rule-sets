@@ -203,9 +203,7 @@
 .callies-online.site
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
-.console.carestyle.org
 .dns.carson-family.com
-.dns.carter.me
 .dns.caspervk.net
 .catchen121299.top
 .catdns.org
@@ -355,7 +353,6 @@
 .dns.dns-53.us
 .dns1.dns-ga.de
 .dns2.dns-ga.de
-.dns3.dns-ga.de
 .doh.dns-ga.de
 .secure-dns.dns-ga.de
 .dns.dns-over-https.com
@@ -882,7 +879,6 @@
 .netcup.mismat.ch
 .doh.mmmalia.com
 .dns.mnet-online.de
-.mnrv.trade
 .dns.mo0on15.com
 .moamao.shop
 .dnstls.mobik.com
