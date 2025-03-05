@@ -49,6 +49,7 @@
 .cloud.198.games
 .1and1-dns.de
 .1banproxy.com
+.1clickvpn.com
 .1clickvpn.net
 .dns.23-4.cn
 .233py.com
@@ -189,6 +190,7 @@
 .vps.alloxr.info
 .allunblocked.com
 .dns.almir1904.eu
+.alohabrowser.com
 .alphabr.online
 .alphabrowser.xyz
 .adguard.alu.dog
@@ -1071,6 +1073,7 @@
 .enproxy.com
 .enrollkirgo.com
 .dns.enzonix.com
+.eonvpn.com
 .epicbrowser.com
 .123-24.eport.gr
 .bl.eq.md
@@ -1200,6 +1203,7 @@
 .for-privacy.net
 .rf4.forestberrypi.com
 .www-rf4.forestberrypi.com
+.forestvpn.com
 .www-proxy.formen.cc
 .fortniters.info
 .forwardproxie.com
@@ -1335,6 +1339,7 @@
 .ghanau.uk
 .croxy.ghgi.site
 .www-croxy.ghgi.site
+.ghostbrowser.com
 .ghostpath.com
 .gibblets.top
 .adguard.maison.gifino.fr
@@ -1362,7 +1367,6 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
-.dns.glorydns.com
 .glype.com
 .dns.gnb09.id
 .privacydns.go6lab.si
@@ -1431,7 +1435,6 @@
 .ordns.he.net
 .heiwanotameno.com
 .us-ny-alula.heliumcloud.cc
-.helloworld.cx
 .dns.hellozhao.com
 .helpmehide.net
 .dns.henek.ovh
@@ -1585,7 +1588,6 @@
 .yy.in6.to
 .dns.inclusioproject.com
 .incog.works
-.indialifes.com
 .adblock.indianets.net
 .indiaproxy.win
 .indo-ssh.com
@@ -1606,6 +1608,7 @@
 .internetcloak.com
 .intervpn.com
 .intl-alliance.com
+.invisv.com
 .ioxy.de
 .ipbuzz.net
 .ipchanging.com
@@ -1728,7 +1731,6 @@
 .kiliclar.lol
 .doh.killtw.im
 .blog.kimiblock.top
-.kingsurfproxy.com
 .kinoshka.su
 .kirushop.xyz
 .dns1.klcd.eu
@@ -1736,7 +1738,6 @@
 .klcknerrip.com
 .knvpn.net
 .ko-18948-tr.xyz
-.www-proxy.koirdsuzu.com
 .proxy.kokecoco.me
 .www-proxy.kokecoco.me
 .adguard.konikoni428.com
@@ -1831,6 +1832,7 @@
 .doh.phdns5.lonet.org
 .lookingglass.site
 .lopana.com
+.loubonde.xyz
 .n5.lsasss.com
 .dns.lsho.top
 .ltlxvxjjmvhn.me
@@ -1933,6 +1935,7 @@
 .mitmproxy.org
 .doh.mmmalia.com
 .dns.mnet-online.de
+.mnrv.trade
 .dns.mo0on15.com
 .moamao.shop
 .dnstls.mobik.com
@@ -2535,6 +2538,7 @@
 .proxy-works.com
 .proxy-youtube.com
 .proxy-youtube.net
+.proxy0101.com
 .proxy2014.net
 .proxy2link.com
 .proxy2you.com
@@ -2791,6 +2795,7 @@
 .dns.sarakas.net
 .dns.sarilouis.com
 .saturnvpn.com
+.www-proxy.sayed.page
 .ns1.sc-lezhi.com
 .dns.scapetical.com
 .dns.scarx.net
