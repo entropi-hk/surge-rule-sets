@@ -1012,7 +1012,6 @@
 .duba.net
 .home27.duckdns.org
 .jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -1299,7 +1298,6 @@
 .gamingssh.com
 .dns.beta.gandi.net
 .gatcha.org
-.gclouddns.com
 .gecko.fun
 .geckovpn.xyz
 .geekproxy.com
@@ -2089,7 +2087,6 @@
 .cube.neubsi.at
 .dns.neubsi.at
 .dns.neutopia.org
-.newads-cdn.com
 .newipnow.com
 .newshosting.com
 .doh.luigi.nexific.it
@@ -2106,7 +2103,6 @@
 .ngrok.pro
 .ngrok-free.app
 .ngrok-free.dev
-.ngsw1234.com
 .dns.nguyendn.com
 .dns.nhtsky.com
 .d.niaox.com
@@ -3261,7 +3257,6 @@
 .trustedproxies.com
 .truta.org
 .dns.tryk.app
-.adg.tshost.no
 .doh.ibr.cs.tu-bs.de
 .tubeprox.com
 .tubeunblock.me

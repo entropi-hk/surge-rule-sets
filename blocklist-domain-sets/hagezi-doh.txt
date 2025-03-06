@@ -504,7 +504,6 @@
 .agh.dshubham.xyz
 .home27.duckdns.org
 .jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -601,7 +600,6 @@
 .dns.gamban.com
 .adguard.gambini.org
 .dns.beta.gandi.net
-.gclouddns.com
 .adg.geili.me
 .geshido.vpn.geshido.ru
 .getdnsapi.net
@@ -1377,7 +1375,6 @@
 .dns.trust404.win
 .truta.org
 .dns.tryk.app
-.adg.tshost.no
 .doh.ibr.cs.tu-bs.de
 .tujenasnaszato.xyz
 .tuskythehusky.tech
