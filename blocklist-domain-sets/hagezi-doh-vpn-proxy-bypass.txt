@@ -1012,6 +1012,7 @@
 .duba.net
 .home27.duckdns.org
 .jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -1298,6 +1299,7 @@
 .gamingssh.com
 .dns.beta.gandi.net
 .gatcha.org
+.gclouddns.com
 .gecko.fun
 .geckovpn.xyz
 .geekproxy.com
@@ -2671,7 +2673,6 @@
 .frog.dns.qwer.pw
 .lion.dns.qwer.pw
 .tiger.dns.qwer.pw
-.www-web.r-2.top
 .resolver.r0cket.net
 .r1bnc.com
 .resolve2.r9x.cc
@@ -2729,7 +2730,6 @@
 .resolver.rferee.dev
 .rhys1901.biz
 .ricko.is
-.rifhchj.uk
 .dns.rin.sh
 .ringvpn.com
 .riseup.net
@@ -2866,7 +2866,6 @@
 .sharejav.com
 .sharevpn.org
 .dns.shareworx.net
-.shaw2426.org
 .shazamio.online
 .dns.shecan.ir
 .free.shecan.ir
@@ -2927,7 +2926,6 @@
 .dns.smartguard.io
 .smartproxy.com
 .smartydns.com
-.snapxs.com
 .snowproxy.com
 .guard.sntrk.ru
 .dove.soapclient.com
@@ -3190,7 +3188,6 @@
 .timmes.nl
 .adb.timnichollsphotography.com
 .timurpoyraz.com
-.tinf0il.tech
 .tinfoil-is-ass.xyz
 .dns.tipsy.coffee
 .titaniumnetwork.org
@@ -3448,9 +3445,9 @@
 .unblockyouku.org
 .unblockyoutube.co
 .unblockyoutube.video
-.unblockyoutubeatschool.com
 .unblockytproxy.com
 .uncensoreddns.org
+.underage-gambling.site
 .undofilters.com
 .dns.unerror.network
 .ines.zfn.uni-bremen.de
@@ -3509,7 +3506,6 @@
 .utube.cc
 .utunnel.io
 .uvpn.me
-.uyureufasod.xyz
 .dns.vaioswolke.xyz
 .doh.valscosmos.com
 .vanilcraft.ru
