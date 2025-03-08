@@ -252,7 +252,6 @@
 .ca.doh.cloudveil.org
 .us.doh.cloudveil.org
 .dns.cmrg.net
-.pope.cnblw.me
 .doh.cnetwork.cloud
 .pihole.datamatter.co.za
 .dns.gayanalysing.co.uk
@@ -783,6 +782,7 @@
 .dns.kxy.ink
 .agh.kyusang.win
 .dns.l337.site
+.dns.labnekotest.site
 .doh.lacontrevoie.fr
 .dns.lars-lehmann.net
 .dns.lashes-brow.ru
