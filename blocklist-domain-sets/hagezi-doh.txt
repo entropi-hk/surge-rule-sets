@@ -853,7 +853,6 @@
 .doh.maskab.com
 .masters-of-cloud.de
 .dns.mateo.ovh
-.adguard.mattiafenzi.uk
 .maxfong.cc
 .dns.maybe.icu
 .dns.mbrjun.cn

@@ -1885,7 +1885,6 @@
 .mathlearning.tech
 .mathnotes.help
 .mathnotes.icu
-.adguard.mattiafenzi.uk
 .maxfong.cc
 .maxvpn.info
 .dns.maybe.icu
