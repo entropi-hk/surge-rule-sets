@@ -2369,6 +2369,9 @@
 .devil-torrents.pl
 .deviloid.net
 .devilwolfs.com
+.bt-tracker.devnak.win
+.4.tracker.devnak.win
+.6.tracker.devnak.win
 .devops.gay
 .devuploads.com
 .dezflight-underground.com
@@ -3042,6 +3045,7 @@
 .fddbits.com
 .torrent.fedoraproject.org
 .feeder.lt
+.lucke.fenesisu.moe
 .fenopy.com
 .feuerbringer.com
 .ffbox.org
@@ -4144,7 +4148,6 @@
 .hhdmovies.org
 .hi10anime.com
 .hidraplay.tv
-.hif.to
 .torrent.hificode.in
 .high-way.me
 .highlightstore.me
@@ -8997,6 +9000,7 @@
 .vidclouds.icu
 .vidembed.net
 .videobin.co
+.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info

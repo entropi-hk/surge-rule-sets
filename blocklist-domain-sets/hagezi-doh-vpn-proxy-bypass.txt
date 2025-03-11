@@ -334,6 +334,7 @@
 .beapasswpn.com
 .dns.beardic.cn
 .bebasid.com
+.bebra.ai
 .justhost.bedro.cloud
 .beecomf.xyz
 .beehivesmp.com
@@ -1642,6 +1643,7 @@
 .itsnotevil.com
 .pdns.itxe.net
 .ivacy.com
+.ivacyvpn.com
 .ivnkn.xyz
 .ivpn.net
 .iwantproxy.com
