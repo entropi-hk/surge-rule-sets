@@ -327,7 +327,6 @@
 .base99.com
 .doh.battle.christmas
 .bazooki-infra.dev
-.bdns.io
 .bdns.link
 .bdns.nu
 .bdns.pro
@@ -1013,12 +1012,8 @@
 .duapps.com
 .duba.net
 .home27.duckdns.org
-.jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
-.punono.duckdns.org
 .tuandns.duckdns.org
-.tungdnsne.duckdns.org
 .vpschito.duckdns.org
 .dukun.de
 .dutchproxy.nl
@@ -2810,6 +2805,7 @@
 .schoolnewsletter.us
 .schoology.college
 .schoology.help
+.schoology123.org
 .schoolooks.com
 .schoolproxy.co
 .schooxy.com

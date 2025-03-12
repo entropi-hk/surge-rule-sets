@@ -2369,7 +2369,6 @@
 .devil-torrents.pl
 .deviloid.net
 .devilwolfs.com
-.bt-tracker.devnak.win
 .4.tracker.devnak.win
 .6.tracker.devnak.win
 .devops.gay
@@ -3082,7 +3081,6 @@
 .filelisting.com
 .tracker.filemail.com
 .filemp3.org
-.filepapa.com
 .fileporn.org
 .filerio.com
 .tracker.files.fm
@@ -4799,6 +4797,7 @@
 .kmnbd.net
 .kmsautoplus.su
 .cq.kmzs123.cn
+.tracker.home.kmzs123.cn
 .tracker.kmzs123.cn
 .tracker.kmzs123.com
 .tracker.kmzs123.tk
@@ -8842,7 +8841,6 @@
 .uniteam.co
 .united-ddl.com
 .universalmediaserver.com
-.unknownbooter.co
 .unknownsite.de
 .unlimitedserials.com
 .unlimitz.com
