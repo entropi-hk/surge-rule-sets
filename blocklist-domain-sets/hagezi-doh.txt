@@ -502,8 +502,12 @@
 .doh.dscloud.me
 .agh.dshubham.xyz
 .home27.duckdns.org
+.jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
 .tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
@@ -536,7 +540,6 @@
 .opennic1.eth-services.de
 .arashi.eu.org
 .armorrush.eu.org
-.doh.excdn.eu.org
 .dns.de.futuredns.eu.org
 .dns.us.futuredns.eu.org
 .dns.fullaccesstointernet.jp.eu.org
@@ -1342,7 +1345,6 @@
 .cloud.tezoi.com
 .dns.thebuckners.org
 .dns.thegoodsource.net
-.dns.theres.one
 .dns.therifleman.name
 .blocker.thethorsens.org
 .dns.thiz.top
@@ -1393,18 +1395,6 @@
 .dns.uplenk.com
 .urology.wiki
 .dns.koala.us.to
-.nightlymoon.us.kg
-.luna-is.so-gorgeo.us.kg
-.mecca-is.so-gorgeo.us.kg
-.mita-is.so-gorgeo.us.kg
-.myrra-is.so-gorgeo.us.kg
-.nana-is.so-gorgeo.us.kg
-.nindy-is.so-gorgeo.us.kg
-.nora-is.so-gorgeo.us.kg
-.nova-is.so-gorgeo.us.kg
-.sitha-is.so-gorgeo.us.kg
-.tetty-is.so-gorgeo.us.kg
-.yussy-is.so-gorgeo.us.kg
 .adfree.usableprivacy.net
 .dns.vaioswolke.xyz
 .doh.valscosmos.com

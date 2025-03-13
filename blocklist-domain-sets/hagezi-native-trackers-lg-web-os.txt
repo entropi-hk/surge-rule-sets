@@ -1,4 +1,10 @@
 .alphonso.tv
+.us-ad-lgsmartad-com.aws-prd.net
+.us-info-lgsmartad-com.aws-prd.net
+.eic-ngfts.lge.com.edgekey.net
+.qt2-ngfts.lge.com.edgekey.net
+.lgads.tv
+.eic-ngfts.lge.com
 .qt2-ngfts.lge.com
 .ad.lgsmartad.com
 .us.lgsmartad.com

@@ -1012,8 +1012,12 @@
 .duapps.com
 .duba.net
 .home27.duckdns.org
+.jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
 .tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .vpschito.duckdns.org
 .dukun.de
 .dutchproxy.nl
@@ -1084,7 +1088,6 @@
 .ettego.com
 .arashi.eu.org
 .armorrush.eu.org
-.doh.excdn.eu.org
 .dns.de.futuredns.eu.org
 .dns.us.futuredns.eu.org
 .dns.fullaccesstointernet.jp.eu.org
@@ -3165,7 +3168,6 @@
 .theproxysports.com
 .theproxyultra.com
 .therabbitvpn.com
-.dns.theres.one
 .dns.therifleman.name
 .thesafety.us
 .thesiteproxy.com
@@ -3480,18 +3482,6 @@
 .url10.org
 .urology.wiki
 .dns.koala.us.to
-.nightlymoon.us.kg
-.luna-is.so-gorgeo.us.kg
-.mecca-is.so-gorgeo.us.kg
-.mita-is.so-gorgeo.us.kg
-.myrra-is.so-gorgeo.us.kg
-.nana-is.so-gorgeo.us.kg
-.nindy-is.so-gorgeo.us.kg
-.nora-is.so-gorgeo.us.kg
-.nova-is.so-gorgeo.us.kg
-.sitha-is.so-gorgeo.us.kg
-.tetty-is.so-gorgeo.us.kg
-.yussy-is.so-gorgeo.us.kg
 .webproxy.us.com
 .us-proxy.org
 .usa-proxy.org
