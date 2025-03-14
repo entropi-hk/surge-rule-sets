@@ -1044,7 +1044,6 @@
 .dns.edgeburnmedia.com
 .edgedcircles.com
 .edgy-dns.com
-.dns.edison42.dev
 .dns.editechstudio.com
 .edpuzzle.space
 .dns.tuna.tsinghua.edu.cn
@@ -1665,7 +1664,6 @@
 .jfalling.com
 .adguard.jfchenier.ca
 .dns.jhangy.us
-.dns.jichi.io
 .dns.jinwoo.dev
 .dns.jiyi.eu
 .jkdns.me
@@ -1890,6 +1888,7 @@
 .dns.maybe.icu
 .mazevpn.com
 .dns.mbrjun.cn
+.mc-sft.cn
 .ispcapi.mcafee.com
 .msc.mcafee.com
 .safeconnect.mcafee.com
@@ -2733,6 +2732,7 @@
 .doh.rezhajul.io
 .newd.rezyro.com
 .resolver.rferee.dev
+.rhehrbrb.wiki
 .rhys1901.biz
 .ricko.is
 .dns.rin.sh

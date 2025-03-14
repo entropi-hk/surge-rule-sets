@@ -518,7 +518,6 @@
 .doh.eddi.net
 .dns.edgeburnmedia.com
 .edgy-dns.com
-.dns.edison42.dev
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
@@ -720,7 +719,6 @@
 .doh.jeroenhd.nl
 .adguard.jfchenier.ca
 .dns.jhangy.us
-.dns.jichi.io
 .dns.jinwoo.dev
 .dns.jiyi.eu
 .jkdns.me
@@ -855,6 +853,7 @@
 .maxfong.cc
 .dns.maybe.icu
 .dns.mbrjun.cn
+.mc-sft.cn
 .adguard.meddy94.de
 .dns.meeo.win
 .testguard.meexx.de
