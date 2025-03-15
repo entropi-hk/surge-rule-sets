@@ -327,6 +327,7 @@
 .base99.com
 .doh.battle.christmas
 .bazooki-infra.dev
+.bdns.io
 .bdns.link
 .bdns.nu
 .bdns.pro
@@ -1752,7 +1753,6 @@
 .adblock.krctech.dev
 .xray.krnl.eu
 .kryptovpn.kryptotel.net
-.adguard.kss.ovh
 .dns.kukal.cz
 .dns.kuuhaku.moe
 .kx-97795-tr.xyz
@@ -3000,8 +3000,11 @@
 .browse.startpage.com
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
+.error.proxy.startpage.com
+.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
+.us-browse.startpage.com
 .us1-browse.startpage.com
 .us2-browse.startpage.com
 .dns.startupstack.tech
@@ -3537,7 +3540,6 @@
 .vload.net
 .vobas.com
 .dns.vod11.xyz
-.dns.vojtat.cz
 .vonvpn.com
 .vpn0109.voodonline.fr
 .vorlif.org

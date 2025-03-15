@@ -771,7 +771,6 @@
 .dart.kpsn.org
 .adblock.krctech.dev
 .xray.krnl.eu
-.adguard.kss.ovh
 .dns.kukal.cz
 .dns.kuuhaku.moe
 .kx-97795-tr.xyz
@@ -1403,7 +1402,6 @@
 .dns.vinokurov.tk
 .dns.vishalk.com
 .dns.vod11.xyz
-.dns.vojtat.cz
 .vorlif.org
 .dns.w3ctag.org
 .dns.wahr.top

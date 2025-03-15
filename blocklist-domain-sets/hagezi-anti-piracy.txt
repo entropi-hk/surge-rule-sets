@@ -2090,6 +2090,7 @@
 .crackedfully.com
 .crackedme.com
 .crackedmine.com
+.crackedpc.org
 .crackedreal.com
 .crackedstream.tv
 .crackedversion.com
@@ -3081,6 +3082,7 @@
 .filelisting.com
 .tracker.filemail.com
 .filemp3.org
+.filepapa.com
 .fileporn.org
 .filerio.com
 .tracker.files.fm
@@ -3658,7 +3660,6 @@
 .gamestorrents.nu
 .gametechwiki.com
 .bt-tracker.gamexp.ru
-.gamezlinks.net
 .gamingbeasts.com
 .gaoqing.fm
 .garageforum.org
@@ -4232,6 +4233,7 @@
 .hypertor.com
 .hypertorrent.com
 .hz.is
+.torrent.i.ng
 .i123movies.club
 .i1apk.com
 .ianimes.org
@@ -9287,7 +9289,6 @@
 .gamingwithplaban.weebly.com
 .kkant.weebly.com
 .osvault.weebly.com
-.supersonu222.weebly.com
 .welcometothescene.com
 .wepzone.net
 .wfhost2.com
