@@ -2090,7 +2090,6 @@
 .crackedfully.com
 .crackedme.com
 .crackedmine.com
-.crackedpc.org
 .crackedreal.com
 .crackedstream.tv
 .crackedversion.com
@@ -3082,7 +3081,6 @@
 .filelisting.com
 .tracker.filemail.com
 .filemp3.org
-.filepapa.com
 .fileporn.org
 .filerio.com
 .tracker.files.fm
@@ -3660,6 +3658,7 @@
 .gamestorrents.nu
 .gametechwiki.com
 .bt-tracker.gamexp.ru
+.gamezlinks.net
 .gamingbeasts.com
 .gaoqing.fm
 .garageforum.org
@@ -3713,7 +3712,9 @@
 .ggbases.com
 .ghatailonline.net
 .sparkle.ghostchu-services.top
+.tracker.ghostchu-services.top
 .trunker.ghostchu-services.top
+.utracker.ghostchu-services.top
 .media.ghurionline.com
 .giardiniblog.it
 .gid-online.ru
