@@ -122,6 +122,7 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -252,7 +253,6 @@
 .ca.doh.cloudveil.org
 .us.doh.cloudveil.org
 .dns.cmrg.net
-.doh.cnetwork.cloud
 .pihole.datamatter.co.za
 .dns.gayanalysing.co.uk
 .dns.gi.co.id
@@ -502,11 +502,7 @@
 .doh.dscloud.me
 .agh.dshubham.xyz
 .home27.duckdns.org
-.jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
-.punono.duckdns.org
-.tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .dukun.de
 .dns.dyn1.de

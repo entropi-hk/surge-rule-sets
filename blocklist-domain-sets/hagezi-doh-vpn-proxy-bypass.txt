@@ -58,6 +58,7 @@
 .doh003.280blocker.net
 .28383829.com
 .28383829.site
+.2a87.com
 .proxy.2d.su
 .2fastsurfer.com
 .2fastsurfer.eu
@@ -65,6 +66,7 @@
 .2proxy.de
 .2proxyweb.com
 .2r34.com
+.2ub.top
 .30t.online
 .doh.30x.me
 .351242444.xyz
@@ -134,6 +136,7 @@
 .resolver3.absolight.net
 .block.abstergo.it
 .doh.iucc.ac.il
+.accessmeproxy.com
 .acdtop.com
 .aceproxy.com
 .acevpn.com
@@ -287,6 +290,7 @@
 .atris.cyou
 .dohtrial.att.net
 .atvsh.ir
+.dns.auapi.fun
 .auto-aufladen.de
 .vanheim.ff.avast.com
 .vpn-sd.ff.avast.com
@@ -327,6 +331,7 @@
 .base99.com
 .doh.battle.christmas
 .bazooki-infra.dev
+.bdns.io
 .bdns.link
 .bdns.nu
 .bdns.pro
@@ -444,6 +449,7 @@
 .brightvpn.com
 .britishproxy.com
 .dns.brono.cloud
+.brothebro.com
 .brovpn.io
 .browsebridge.com
 .browsec.com
@@ -468,6 +474,7 @@
 .bypassfw.com
 .bypassip.com
 .bypasskey.com
+.bypasstunnel.com
 .api.bytelixir.com
 .bytzvpn.com
 .c-dns.com
@@ -617,7 +624,6 @@
 .ca.doh.cloudveil.org
 .us.doh.cloudveil.org
 .dns.cmrg.net
-.doh.cnetwork.cloud
 .10bestvpn.co.uk
 .akashiro.co.id
 .antidnsvpn.co.cc
@@ -711,6 +717,7 @@
 .dns1.conne.net
 .dns.connect.fail
 .connectionvpn.com
+.constitutional.design
 .contassh.com
 .contentabc.com
 .dns.controld.com
@@ -1012,11 +1019,7 @@
 .duapps.com
 .duba.net
 .home27.duckdns.org
-.jurre-home.duckdns.org
-.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
-.punono.duckdns.org
-.tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .vpschito.duckdns.org
 .dukun.de
