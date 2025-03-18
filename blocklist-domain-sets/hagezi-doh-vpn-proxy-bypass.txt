@@ -292,6 +292,7 @@
 .atvsh.ir
 .dns.auapi.fun
 .auto-aufladen.de
+.avanquestusa.com
 .vanheim.ff.avast.com
 .vpn-sd.ff.avast.com
 .vpn.avg.tools.avast.com
@@ -834,6 +835,7 @@
 .dns1.digitale-gesellschaft.ch
 .dns2.digitale-gesellschaft.ch
 .dns.digitalsize.net
+.diglet.org
 .directoryproxy.info
 .disconnect.me
 .doh.disconnect.app
@@ -995,6 +997,7 @@
 .doh.pub
 .doh.sb
 .doh.xyz
+.dolopo.net
 .domainownership.us
 .doh.domreg.lt
 .takhtakh.domyah.net
@@ -1019,7 +1022,11 @@
 .duapps.com
 .duba.net
 .home27.duckdns.org
+.jurre-home.duckdns.org
+.krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
+.tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .vpschito.duckdns.org
 .dukun.de
@@ -1097,6 +1104,7 @@
 .arashi.net.eu.org
 .sukidayo.eu.org
 .eurproxy.com
+.everyproxies.info
 .evpn.net
 .evyy.net
 .ewon.biz
@@ -1219,6 +1227,7 @@
 .free-proxysite.com
 .free-signal.com
 .free-vpn.cn
+.free-vpn.xyz
 .free-webproxy.com
 .free2surfvpn.com
 .freeanimesonline.com
@@ -1246,6 +1255,7 @@
 .freeproxy.me
 .freeproxy.top
 .freeproxy.win
+.freeproxyaccess.com
 .freeproxyserver.co
 .freeproxysites.co
 .freeproxyunblockyoutube.com
@@ -1295,6 +1305,7 @@
 .adguard.gambini.org
 .proxy.gamecove.net
 .obamna.gamefr.xyz
+.gameroz1.ir
 .gamers-nor.com
 .gamingssh.com
 .dns.beta.gandi.net
@@ -1464,6 +1475,7 @@
 .hidemebro.com
 .hidemefast.net
 .hidemenow.net
+.hidemesoftware.com
 .hidemium.io
 .hidemy.io
 .hidemy.name
@@ -1541,6 +1553,7 @@
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work
+.hustlersuniversity.pro
 .ad.huyct.net
 .dns.huyhoangit.net
 .hyperbyte.net
@@ -1580,6 +1593,7 @@
 .dns.imchristian.de
 .dns.immanuelschaffer.de
 .doh.immerda.ch
+.imnotaproxy.com
 .http-dns.imoim.net
 .imperio.top
 .dns1.in-berlin.de
@@ -2332,6 +2346,7 @@
 .dns.peb-schmidt.de
 .peekproxy.com
 .check.peer2profit.site
+.penkun0286.xyz
 .fuchur.pentament.de
 .peoplesproxy.com
 .pepetio.xyz
