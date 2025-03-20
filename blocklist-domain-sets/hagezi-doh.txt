@@ -1206,6 +1206,7 @@
 .resolver.rferee.dev
 .ricko.is
 .dns.rin.sh
+.rockwell.website
 .dns.roedel.cloud
 .dns.ronc.ru
 .dns.rootlab.top

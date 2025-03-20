@@ -2695,6 +2695,7 @@
 .doh.quickline.ch
 .dot.quickline.ch
 .quickprox.com
+.quickproxies.com
 .quicksilvervpn.com
 .dns.quiet.rocks
 .quintex.com
@@ -2767,6 +2768,7 @@
 .riseup.net
 .rnblyatclub.online
 .rocketube.online
+.rockwell.website
 .dns.roedel.cloud
 .romirely.tech
 .dns.ronc.ru
@@ -2962,6 +2964,7 @@
 .smartydns.com
 .snowproxy.com
 .guard.sntrk.ru
+.dove.soapagent.com
 .dove.soapclient.com
 .socialnetworkinfo.us
 .socks-proxy.net
@@ -2972,6 +2975,7 @@
 .solaxy.live
 .soleilvpn-app.com
 .solidproxy.net
+.somelikeitproxy.com
 .sourceproxy.com
 .spacedns.org
 .spacevpn.io
@@ -3059,6 +3063,7 @@
 .dns.stvsk.ml
 .doh.sublime9.xyz
 .doh.suche.org
+.suedeproxy.info
 .dns.suhaila.dev
 .resolver.sunet.se
 .sunnygyl.com
@@ -3105,6 +3110,7 @@
 .surfskip.com
 .surfsneaker.com
 .surfsuark.com
+.surfwebsite.org
 .dns.surobe.com
 .surtshark.com
 .dns.sv-zauner.at
