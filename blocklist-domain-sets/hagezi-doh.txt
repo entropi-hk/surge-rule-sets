@@ -179,7 +179,6 @@
 .dns.bobstrecansky.com
 .d.bod.lol
 .dns.bofh.in
-.doh.boje8.me
 .adguard.bonis.de
 .adguard.bonsirven.eu
 .doh.bortzmeyer.fr
@@ -716,6 +715,7 @@
 .doh.jeroenhd.nl
 .adguard.jfchenier.ca
 .dns.jhangy.us
+.dns.jichi.io
 .dns.jinwoo.dev
 .dns.jiyi.eu
 .jkdns.me
@@ -1168,6 +1168,7 @@
 .dns13.quad9.net
 .dns9.quad9.net
 .2.dnscrypt-cert.quad9.net
+.quic.lol
 .doh.quickline.ch
 .dot.quickline.ch
 .dns.quiet.rocks
