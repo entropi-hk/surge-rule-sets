@@ -46,6 +46,7 @@
 .hd.mi.com
 .a.hl.mi.com
 .idm.iot.mi.com
+.api.jr.mi.com
 .pandora.mi.com
 .adx.tv.mi.com
 .h5.tv.mi.com

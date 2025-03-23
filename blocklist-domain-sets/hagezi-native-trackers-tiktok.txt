@@ -74,7 +74,6 @@
 .ads.tiktok.tv
 .ads-api.tiktok.com
 .ads-frontier.tiktok.com
-.ads-service.tiktok.com
 .ads-sg.tiktok.com
 .analytics.tiktok.com
 .analytics-attribution.tiktok.com
@@ -100,7 +99,6 @@
 .mcs.us.tiktok.com
 .mcs-ttp2.us.tiktok.com
 .mssdk.us.tiktok.com
-.mssdk-ttp2.us.tiktok.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .ad.tiktokv.com
 .ad.tiktokv.us
@@ -280,4 +278,3 @@
 .mcs-ie2.tiktokw.eu
 .mssdk.tiktokw.eu
 .mssdk.tiktokw.us
-.mssdk-ttp2.tiktokw.us
