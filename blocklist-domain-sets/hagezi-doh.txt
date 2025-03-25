@@ -1297,7 +1297,6 @@
 .sriedmueadguard.casa
 .adguard.sscw.win
 .doh.ntu.ssooss.win
-.ag.ssrahul96.xyz
 .dns.sstomp.nl
 .dns.startupstack.tech
 .dns.stevenz.net
@@ -1350,7 +1349,6 @@
 .jp.tiar.app
 .doh.tiarap.org
 .jp.tiarap.org
-.dns.tierradeayala.com
 .tigrons.ru
 .timmes.nl
 .adb.timnichollsphotography.com
@@ -1429,7 +1427,6 @@
 .ns3.wuyouss.com
 .wyx.cloud
 .adb-home.xaoimoon.fr
-.xbcpb668.com
 .doh.xcom.pro
 .xenergy.cc
 .doh.xfinity.com

@@ -3023,7 +3023,6 @@
 .sslsecureproxy.com
 .sslunblocker.com
 .doh.ntu.ssooss.win
-.ag.ssrahul96.xyz
 .dns.sstomp.nl
 .stable-vpn.com
 .stackfront.xyz
@@ -3226,7 +3225,6 @@
 .jp.tiar.app
 .doh.tiarap.org
 .jp.tiarap.org
-.dns.tierradeayala.com
 .tigervpn.com
 .tigrons.ru
 .tikvpn.com
@@ -3789,7 +3787,6 @@
 .x9fnzrtl4x8pynsf.com
 .adb-home.xaoimoon.fr
 .pub.xapktech.xyz
-.xbcpb668.com
 .doh.xcom.pro
 .xcomplus.com
 .xenergy.cc
