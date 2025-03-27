@@ -603,6 +603,7 @@
 .dns.ginovs.nl
 .dns.girino.org
 .h.gjrick.tw
+.sdns22.gkonuralp.com
 .glacius.top
 .dns.glf.wtf
 .dns.api.globus.org
