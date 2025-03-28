@@ -75,9 +75,6 @@
 .ahoj.email
 .apple-relay.akamaized.net
 .dns.albony.xyz
-.dns.alekberg.net
-.dns2.alekberg.net
-.dnses.alekberg.net
 .dnsnl.alekberg.net
 .dnsse.alekberg.net
 .alidns.com
@@ -500,7 +497,6 @@
 .home27.duckdns.org
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
-.osefcorp.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
@@ -603,7 +599,6 @@
 .dns.ginovs.nl
 .dns.girino.org
 .h.gjrick.tw
-.sdns22.gkonuralp.com
 .glacius.top
 .dns.glf.wtf
 .dns.api.globus.org
@@ -663,6 +658,7 @@
 .hshh.org
 .dns.hshoe.cn
 .dns.hujiayucc.cn
+.ads.hunga1k47.com
 .doth.huque.com
 .dns.huseynov.work
 .ad.huyct.net
@@ -847,6 +843,7 @@
 .doh.maskab.com
 .masters-of-cloud.de
 .dns.mateo.ovh
+.dns.mathewakhil.online
 .maxfong.cc
 .dns.maybe.icu
 .dns.mbrjun.cn
