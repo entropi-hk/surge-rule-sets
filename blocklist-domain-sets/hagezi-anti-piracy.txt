@@ -3006,7 +3006,6 @@
 .tracker-cn.zhuqiy.eu.org
 .euroddl.com
 .euroemu.net
-.european-alternatives.eu
 .europix.biz
 .europixhd.pro
 .europixhd.site
@@ -3912,6 +3911,7 @@
 .gamestorrents.nu
 .gametechwiki.com
 .bt-tracker.gamexp.ru
+.gamezlinks.net
 .gamingbeasts.com
 .gaoqing.fm
 .garageforum.org
@@ -6520,6 +6520,7 @@
 .tracker.openbtba.com
 .openclip.info
 .tracker.opendev.cloud
+.tracker-v6.opendev.cloud
 .openload.co
 .openloadfreetv.me
 .openloadmov.com

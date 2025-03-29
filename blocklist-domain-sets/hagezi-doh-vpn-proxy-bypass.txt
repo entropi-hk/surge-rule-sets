@@ -1046,7 +1046,6 @@
 .duapps.com
 .duba.net
 .home27.duckdns.org
-.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -1386,6 +1385,7 @@
 .gizlen.net
 .gizlibaglanti.com
 .h.gjrick.tw
+.sdns22.gkonuralp.com
 .glacius.top
 .dns.glf.wtf
 .global-proxy.com
@@ -1667,6 +1667,8 @@
 .dns.is0mino.com
 .mickedi.isgood.host
 .dns.ishan.pw
+.ishark.com
+.isharkvpn.com
 .isityet.net
 .dns.islandnet.com
 .ispunblock.com
@@ -1738,6 +1740,7 @@
 .dns.k3nny.fr
 .kaiwu.xyz
 .dns.kamilszczepanski.com
+.adguard.kantinyoyok.xyz
 .dns.kapite.in
 .dns.karadag.me
 .dns.karfamily.net
@@ -3541,6 +3544,7 @@
 .untraceable.us
 .untracer.com
 .dns.unx.io
+.updatedproxies.com
 .dns.uplenk.com
 .uproxy.online
 .ur-browser.com
