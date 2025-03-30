@@ -19,6 +19,7 @@
 .beezboo.com
 .search.biboumail.fr
 .searx.bissisoft.com
+.blackle.com
 .boomle.com
 .search.bowlman.org
 .searx.catfluori.de
@@ -134,7 +135,6 @@
 .roteserver.de
 .search.rubberverse.xyz
 .searchencrypt.com
-.searchx.mobi
 .searx.bar
 .searx.ch
 .searx.info

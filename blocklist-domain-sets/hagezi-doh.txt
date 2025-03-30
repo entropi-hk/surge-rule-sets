@@ -495,6 +495,7 @@
 .doh.dscloud.me
 .agh.dshubham.xyz
 .home27.duckdns.org
+.jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .punono.duckdns.org
 .tuandns.duckdns.org
@@ -656,7 +657,6 @@
 .dns.hotta.page
 .doh.hottis.de
 .hshh.org
-.dns.hshoe.cn
 .dns.hujiayucc.cn
 .ads.hunga1k47.com
 .doth.huque.com

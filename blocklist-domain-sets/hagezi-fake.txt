@@ -1416,7 +1416,6 @@
 .bruland.store
 .brunateschuhewerksverkauf.de
 .brunetsludmila.com
-.bs2best.at
 .bs2site.at
 .bsc-network.de
 .bse-capital.com
@@ -1431,7 +1430,6 @@
 .btcoinpro.com
 .btcswing.com
 .btop24.de
-.btvtransport.com
 .buceplantde.shop
 .buchholzs.de
 .buchverlag-scholz.de
@@ -1498,7 +1496,6 @@
 .caloubois.com
 .cambase-berlin.de
 .cameraverse.de
-.camion-europeo.co
 .camper-schuhe.at
 .camperschuh.com
 .camperschuhe.at
@@ -6297,6 +6294,7 @@
 .myalpins.com
 .portal.mybeautyplans.com
 .mybitchain.com
+.mycrypto-invest.com
 .mycrypto24.com
 .mycupofteababyde.shop
 .mydealz.live
@@ -6721,6 +6719,7 @@
 .olivespielzeug.com
 .oliviachic.com
 .olukai-france.fr
+.olympics-shop.com
 .olympicsvipshop.com
 .olympis.de
 .ome2.vip
@@ -7722,6 +7721,7 @@
 .returnpotentialonline.com
 .revemotode.shop
 .reviewpunt.nl
+.reviteu.com
 .revolutionfsl.com
 .revolutionraceshop.com
 .revomarkt.com
@@ -8773,6 +8773,7 @@
 .strassenvogel-waren.de
 .strategic-expansion.com
 .strategiessolution.com
+.strauss-eu.shop
 .strauss-vip.shop
 .straussandramm.shop
 .straussoffvip.shop
@@ -9589,6 +9590,7 @@
 .tunepart.com
 .tunespot.de
 .tupperware-de.shop
+.tupperware-eu.shop
 .tupperware-osterreich.com
 .tupperwarestore-us.com
 .tupperwarseonline.com
@@ -10130,7 +10132,6 @@
 .watchesbuy.to
 .watchesreplica.is
 .watchesstore.co
-.watchfaceshub.com
 .watercupvogue.com
 .waterkant.shop
 .watermotionod.com
