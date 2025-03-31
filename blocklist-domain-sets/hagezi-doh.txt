@@ -72,7 +72,6 @@
 .ahadns.net
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
-.ahoj.email
 .apple-relay.akamaized.net
 .dns.albony.xyz
 .dnsnl.alekberg.net
@@ -116,7 +115,6 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
-.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev

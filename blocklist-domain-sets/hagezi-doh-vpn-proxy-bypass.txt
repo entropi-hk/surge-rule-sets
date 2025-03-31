@@ -168,7 +168,6 @@
 .ahadns.net
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
-.ahoj.email
 .airdns.org
 .airvpn.org
 .apple-relay.akamaized.net
@@ -284,7 +283,6 @@
 .atris.cyou
 .dohtrial.att.net
 .atvsh.ir
-.dns.auapi.fun
 .auto-aufladen.de
 .avanquestusa.com
 .vanheim.ff.avast.com
@@ -770,6 +768,7 @@
 .criarssh.com
 .dns.criena.net
 .crownproxy.com
+.croxy.com
 .croxy.network
 .croxy.org
 .croxy.red
