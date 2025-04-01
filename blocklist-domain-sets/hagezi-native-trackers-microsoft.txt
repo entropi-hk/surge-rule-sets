@@ -23,6 +23,7 @@
 .adsdkprod.azureedge.net
 .adsdkpreprod.afd.azureedge.net
 .adsdkprod.afd.azureedge.net
+.msadsscale.azureedge.net
 .cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 .location-microsoft-com.b-0005.b-msedge.net
 .a4.bing.com
@@ -153,6 +154,7 @@
 .redir.metaservices.microsoft.com
 .geover-prod.do.dsp.mp.microsoft.com
 .track.mp.microsoft.com
+.msadsscale.microsoft.com
 .oca.microsoft.com
 .watson.officeint.microsoft.com
 .analytics.pstnhub.microsoft.com

@@ -65,6 +65,7 @@
 .aax-vx-fe-us-west-2.amazon-adsystem.com
 .aax-vx-us-us-east-1.amazon-adsystem.com
 .aax-vx-us-us-west-2.amazon-adsystem.com
+.adskit.juno.alexa.amazon.dev
 .ads-setu-proxy-eu.amazon.com
 .advertising.a2z.com
 .advertising.amazon.ae
@@ -130,6 +131,7 @@
 .device-metrics-us-ud.amazon.com
 .dra.amazon-adsystem.com
 .events.app-performance.music.amazon.dev
+.federatedanalytics.amazon.com
 .fls-cn.amazon-adsystem.com
 .fls-cn.amazon.cn
 .fls-eu.amazon-adsystem.com

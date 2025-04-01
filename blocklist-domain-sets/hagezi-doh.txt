@@ -764,6 +764,7 @@
 .dart.kpsn.org
 .adblock.krctech.dev
 .xray.krnl.eu
+.dns.kugoapps.com
 .dns.kukal.cz
 .dns.kusoneko.moe
 .dns.kuuhaku.moe
@@ -1404,7 +1405,6 @@
 .megumin.is.my.waifu.cz
 .yunyun.is.my.waifu.cz
 .dns.wang.art
-.wantaquddin.com
 .dns.wargan.io
 .abel.waringer-atg.de
 .dns.warma.me
@@ -1435,6 +1435,7 @@
 .xn--durhre-yxa.de
 .dns.xuming.studio
 .dns.xusqui.com
+.dns.xwdmw.xyz
 .v2.xx3210766.live
 .dns.yameenassotally.com
 .2.dnscrypt-cert.browser.yandex.net

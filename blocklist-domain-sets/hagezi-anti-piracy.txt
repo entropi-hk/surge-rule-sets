@@ -4491,7 +4491,6 @@
 .hpav.tv
 .hpjav.tv
 .hq-films.ws
-.hqsource.net
 .hqsource.org
 .hs-scene.to
 .tracker.htp.re
