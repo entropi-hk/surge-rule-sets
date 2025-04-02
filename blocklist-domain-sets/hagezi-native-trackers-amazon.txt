@@ -65,7 +65,6 @@
 .aax-vx-fe-us-west-2.amazon-adsystem.com
 .aax-vx-us-us-east-1.amazon-adsystem.com
 .aax-vx-us-us-west-2.amazon-adsystem.com
-.adskit.juno.alexa.amazon.dev
 .ads-setu-proxy-eu.amazon.com
 .advertising.a2z.com
 .advertising.amazon.ae
@@ -87,6 +86,7 @@
 .advertising.amazon.nl
 .advertising.amazon.sa
 .advertising-api-eu.amazon.com
+.alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 .alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 .alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 .alt1-3ps.amazon-adsystem.com
@@ -260,6 +260,16 @@
 .rcm-jp.amazon.co.jp
 .rcm-na.amazon-adsystem.com
 .rcm-uk.amazon.co.uk
+.rum.ap-northeast-1.amazonaws.com
+.rum.ap-southeast-1.amazonaws.com
+.rum.ca-central-1.amazonaws.com
+.rum.eu-central-1.amazonaws.com
+.rum.eu-west-1.amazonaws.com
+.rum.eu-west-2.amazonaws.com
+.rum.us-east-1.amazonaws.com
+.rum.us-east-2.amazonaws.com
+.rum.us-west-1.amazonaws.com
+.rum.us-west-2.amazonaws.com
 .s3-dub-ww.cf.videorolls.row.aiv-cdn.net
 .s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 .s.amazon-adsystem.com

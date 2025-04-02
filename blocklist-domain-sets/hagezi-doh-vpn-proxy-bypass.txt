@@ -29,7 +29,6 @@
 .123music.app
 .123mymusic.net
 .123proxy.app
-.123proxy.biz
 .123proxy.cool
 .123proxy.me
 .123proxyx.com
@@ -168,6 +167,7 @@
 .ahadns.net
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
+.ahoj.email
 .airdns.org
 .airvpn.org
 .apple-relay.akamaized.net
@@ -2439,6 +2439,7 @@
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
 .pluton.plan9-dns.com
+.draco.plan9-ns2.com
 .play5r.com
 .playproxy.com
 .secure-dns.pleumkungz.com
@@ -2691,7 +2692,6 @@
 .dns.psociety.de
 .ptoserver.com
 .publicdnsserver.com
-.pukanuragan.ru
 .dns.pumpkinvrar.com
 .pupilproxy.com
 .puredns.org

@@ -160,6 +160,7 @@
 .affenzahn-exclusive.shop
 .affenzahn-promo.shop
 .affenzahnde.shop
+.affenzahne.shop
 .afltool.com
 .afsinag.at
 .aftermarket-part.com
@@ -1293,6 +1294,7 @@
 .bormann-handel.com
 .borofund.com
 .borpillshop.com
+.boschk.store
 .boschtoolshop.com
 .bosscapital.com
 .bossfactoryofficial.de
@@ -1437,7 +1439,6 @@
 .btcoinpro.com
 .btcswing.com
 .btop24.de
-.btvtransport.com
 .buceplantde.shop
 .buchholzs.de
 .buchverlag-scholz.de
@@ -1511,6 +1512,7 @@
 .camperschuh.com
 .camperschuhe.at
 .camperseur.com
+.campertrading.com
 .camping-basar.com
 .camping-de.com
 .camping-discount-gear.com
@@ -1602,6 +1604,7 @@
 .hausler.casaify.top
 .cascade-luzern.shop
 .caseyandcompade.shop
+.cash-offshore.com
 .casitadeirene.com
 .cassieoutlet.com
 .castolonios.de
@@ -2394,6 +2397,7 @@
 .directco-invest.com
 .directepargne.com
 .directkredite.com
+.direkte-verarbeitung.site
 .dirkuhren.de
 .dirmolly.shop
 .dirndlzeit.de
@@ -3464,6 +3468,7 @@
 .fresellaet.best
 .freshair-retreat.com
 .freshhoods.com
+.freshmarkt24.com
 .frettchen-fun.de
 .freud-tool.com
 .frey-versand.net
@@ -4243,6 +4248,7 @@
 .heimisches-holz.com
 .heimjob-karriere.de
 .heimjob-online.de
+.heimjob-vermittlung.de
 .heimjobdirect.de
 .heimjobfinder.de
 .heimjobnetz.de
@@ -4473,6 +4479,7 @@
 .homejobconnect.de
 .homekitschic.com
 .homekoehndesign.com
+.cozylight.homelyrooms.life
 .homelysale.com
 .homenormann.com
 .homeoanimo.shop
@@ -5555,6 +5562,7 @@
 .livetradeprofits.com
 .livingbestsellers.com
 .livinghome-shop.de
+.livingpartsstore.com
 .livingroom-love.com
 .livingwallstapeten.com
 .livretplus.com
@@ -6185,6 +6193,7 @@
 .monespace-uptevia.com
 .monfuture.com
 .monicasneaker.cc
+.monika-taschen.com
 .monopolyclothing.com
 .monovia.de
 .monplantfraise.fr
@@ -7379,6 +7388,7 @@
 .prestonoutlet.com
 .prettyitemus.com
 .prettylittlekitchen.com
+.preventionsolution.com
 .prima-sport.de
 .primada.de
 .prime-analytics.de
@@ -7622,6 +7632,7 @@
 .rbcglobal-asset.com
 .rbsbourse.com
 .rbvsv.com
+.rcard-service.at
 .rcarrowmax.com
 .rcaxon.com
 .rcelectronicsale.com
@@ -7760,6 +7771,7 @@
 .reviewpunt.nl
 .revolutionfsl.com
 .revolutionraceshop.com
+.revolutionracesweet.com
 .revomarkt.com
 .rextrade.de
 .shop.reyfg.top
@@ -8703,6 +8715,7 @@
 .stargatev.com
 .starkfahrrad.com
 .starsignsynergy.com
+.starsshop-eu.com
 .startmarkets.com
 .startoptions.com
 .startrader.com
@@ -9641,6 +9654,7 @@
 .tvlowboards.de
 .tvsale24.com
 .tvshop-us.com
+.tw-access.com
 .twilight-fans.de
 .twinbusch.net
 .twinsfitness.shop
@@ -9654,6 +9668,7 @@
 .tyreschwalbe.com
 .tyrwien.at
 .tyu-trade.com
+.karken.tzjxt.bond
 .tzshoptrade.com
 .ubadindies.top
 .ubi-itzstedt.de
@@ -10069,6 +10084,7 @@
 .vloglovear.best
 .vlonede.com
 .vmhausgerate.de
+.vnvipshop.com
 .vobishop.de
 .vocabos.com
 .vodula.de

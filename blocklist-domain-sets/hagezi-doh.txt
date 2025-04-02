@@ -72,6 +72,7 @@
 .ahadns.net
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
+.ahoj.email
 .apple-relay.akamaized.net
 .dns.albony.xyz
 .dnsnl.alekberg.net
@@ -1102,6 +1103,7 @@
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
 .pluton.plan9-dns.com
+.draco.plan9-ns2.com
 .secure-dns.pleumkungz.com
 .privacy.plumedns.com
 .pm1239-bd.xyz
@@ -1146,7 +1148,6 @@
 .dns.propheci.xyz
 .dns.psociety.de
 .publicdnsserver.com
-.pukanuragan.ru
 .dns.pumpkinvrar.com
 .puredns.org
 .dns-privacy.puregeni.us

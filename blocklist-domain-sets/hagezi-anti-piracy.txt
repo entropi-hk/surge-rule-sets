@@ -103,7 +103,6 @@
 .123moviesgo.tv
 .123movieshd.top
 .123movieshub.cloud
-.123movieshub.cyou
 .123movieshub.it
 .123movieshub.sc
 .123movieshub.tech
@@ -154,7 +153,6 @@
 .147job.com
 .107.182.30.76.16clouds.com
 .16mag.net
-.1clickdown.com
 .1ddl.org
 .1fichier.com
 .1flix.to
@@ -172,7 +170,6 @@
 .1movieshd.com
 .1movietv.com
 .1nd.hu
-.1shows.com
 .1stream.top
 .1street.ru
 .1techno.org
@@ -185,7 +182,6 @@
 .t.213891.xyz
 .tracker.23794.top
 .23movies.xyz
-.24-download.com
 .24-downloads.com
 .240x320.ru
 .24h.tv
@@ -9600,6 +9596,7 @@
 .vidclouds.icu
 .vidembed.net
 .videobin.co
+.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info
@@ -10063,6 +10060,7 @@
 .xrshellbooter.com
 .xspeeds.eu
 .xstreaming.rip
+.xstress.xyz
 .torrentkris.xt.pl
 .xt7.pl
 .xteve.de
