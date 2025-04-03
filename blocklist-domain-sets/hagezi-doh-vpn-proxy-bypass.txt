@@ -54,8 +54,6 @@
 .dns.240527.xyz
 .24tunnel.com
 .doh003.280blocker.net
-.28383829.com
-.28383829.site
 .2a87.com
 .proxy.2d.su
 .2fastsurfer.com
@@ -89,7 +87,6 @@
 .vpn.52oupa.com
 .www-vpn.52oupa.com
 .57824.com
-.5963anrue.lol
 .family.5ososea.com
 .kids.5ososea.com
 .dns.688447.xyz
@@ -170,12 +167,9 @@
 .ahoj.email
 .airdns.org
 .airvpn.org
-.apple-relay.akamaized.net
 .akunssh.net
 .dns.albony.xyz
 .aldhaferi.store
-.dnsnl.alekberg.net
-.dnsse.alekberg.net
 .alhapi.com
 .alhvp.com
 .alidns.com
@@ -246,10 +240,14 @@
 .ad.anym0re.ru
 .doh.apad.pro
 .ag.apollohct.com
-.apple-relay.apple.com
 .doh.dns.apple.com
 .mask-api.fe2.apple-dns.net
-.mask.apple-dns.net
+.canary.mask.apple-dns.net
+.africa-mask.wrr.mask.apple-dns.net
+.apac-mask.wrr.mask.apple-dns.net
+.emea-mask.wrr.mask.apple-dns.net
+.north-america-mask.wrr.mask.apple-dns.net
+.south-america-mask.wrr.mask.apple-dns.net
 .appleproxy.com
 .dns.applewebkit.dev
 .doh.applied-privacy.net
@@ -538,9 +536,7 @@
 .cloaker.us
 .cloakvpn.com
 .cloudbenders.fun
-.apple-relay.cloudfare.com
 .dns.cloudfiction.eu
-.apple-relay.cloudflare.com
 .dns.233py.com.cdn.cloudflare.net
 .dns.cloudflare.com
 .cloudflare-dns.com
@@ -1158,7 +1154,6 @@
 .fastestvpn.info
 .fastfoxvpn.com
 .fastfreeproxy.info
-.apple-relay.fastly-edge.com
 .fastp.org
 .fastpro.info
 .fastproxy.nl
@@ -2634,6 +2629,7 @@
 .proxyist.com
 .proxyium.com
 .proxyium.org
+.www-cdn.proxyiumi.com
 .proxylister.com
 .proxylistpro.com
 .proxyload.net
@@ -3061,9 +3057,11 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
+.eu1-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
 .proxy1.startpage.com
+.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com

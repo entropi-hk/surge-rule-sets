@@ -220,11 +220,9 @@
 .monitoring.il-central-1.amazonaws.com
 .monitoring.me-central-1.amazonaws.com
 .monitoring.me-south-1.amazonaws.com
-.monitoring.prod.cloudwatch.amazonaws.com
 .monitoring.sa-east-1.amazonaws.com
 .monitoring.us-east-1.amazonaws.com
 .monitoring.us-east-2.amazonaws.com
-.monitoring.us-gov-east-1.amazonaws.com
 .monitoring.us-gov-west-1.amazonaws.com
 .monitoring.us-west-1.amazonaws.com
 .monitoring.us-west-2.amazonaws.com

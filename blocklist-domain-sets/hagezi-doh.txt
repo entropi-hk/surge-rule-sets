@@ -73,10 +73,7 @@
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
 .ahoj.email
-.apple-relay.akamaized.net
 .dns.albony.xyz
-.dnsnl.alekberg.net
-.dnsse.alekberg.net
 .alidns.com
 .httpdns-sc.aliyuncs.com
 .alleesph.online
@@ -93,10 +90,7 @@
 .ad.anym0re.ru
 .doh.apad.pro
 .ag.apollohct.com
-.apple-relay.apple.com
 .doh.dns.apple.com
-.mask-api.fe2.apple-dns.net
-.mask.apple-dns.net
 .dns.applewebkit.dev
 .doh.applied-privacy.net
 .dot1.applied-privacy.net
@@ -229,9 +223,7 @@
 .dns.clanto.cloud
 .cleanbrowsing.org
 .cloudbenders.fun
-.apple-relay.cloudfare.com
 .dns.cloudfiction.eu
-.apple-relay.cloudflare.com
 .dns.233py.com.cdn.cloudflare.net
 .dns.cloudflare.com
 .cloudflare-dns.com
@@ -549,7 +541,6 @@
 .dns.fancyorg.at
 .farewellkou.click
 .dns.farshidhakimy.de
-.apple-relay.fastly-edge.com
 .ns0.fdn.fr
 .ns1.fdn.fr
 .dns.fehlsprache.de
@@ -670,8 +661,6 @@
 .dns.iamninja.ru
 .mask.icloud.com
 .mask-api.icloud.com
-.mask-boot.icloud.com
-.mask-canary.icloud.com
 .mask-h2.icloud.com
 .tienpham.id.vn
 .adguard.shuting.idv.tw
