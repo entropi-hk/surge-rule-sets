@@ -106,10 +106,10 @@
 .dns.ashleyjackson.net
 .dns.asterimoon.com
 .dandelionsprout.asuscomm.com
-.dns.asysec.com
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -412,7 +412,6 @@
 .rdu01.dnscry.pt
 .sea01.dnscry.pt
 .sgn01.dnscry.pt
-.sin01.dnscry.pt
 .sin02.dnscry.pt
 .sin03.dnscry.pt
 .sjc01.dnscry.pt

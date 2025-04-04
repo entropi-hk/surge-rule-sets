@@ -65,6 +65,7 @@
 .2ub.top
 .30t.online
 .doh.30x.me
+.33bitbank.com
 .351242444.xyz
 .dns.354688.xyz
 .doh.360.cn
@@ -274,13 +275,13 @@
 .astrill.org
 .astrovpn.co
 .dandelionsprout.asuscomm.com
-.dns.asysec.com
 .adguardhome.atakorah.com
 .atlasvpn.com
 .atozproxy.com
 .atris.cyou
 .dohtrial.att.net
 .atvsh.ir
+.dns.auapi.fun
 .auto-aufladen.de
 .avanquestusa.com
 .vanheim.ff.avast.com
@@ -323,7 +324,6 @@
 .doh.battle.christmas
 .bazooki-infra.dev
 .bdns.io
-.bdns.link
 .bdns.nu
 .bdns.pro
 .beapasswpn.com
@@ -503,7 +503,6 @@
 .changemyip.com
 .chaos-system.de
 .dns.charraud.eu
-.checkmate.my
 .dns.chenu.ch
 .dns.chilimac.net
 .chillglobal.com
@@ -952,7 +951,6 @@
 .rdu01.dnscry.pt
 .sea01.dnscry.pt
 .sgn01.dnscry.pt
-.sin01.dnscry.pt
 .sin02.dnscry.pt
 .sin03.dnscry.pt
 .sjc01.dnscry.pt
@@ -1414,6 +1412,7 @@
 .goosevpn.com
 .performance.gosami.xyz
 .vpn.gosami.xyz
+.gostarlight.xyz
 .gotrusted.com
 .gowork.info
 .gpreport.us
@@ -2987,6 +2986,7 @@
 .slickvpn.com
 .dns.slinkyman.net
 .smartdnsproxy.com
+.lunarsync.smartfoloo.space
 .dns.smartguard.io
 .smartproxy.com
 .smartydns.com
@@ -3057,7 +3057,6 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
-.eu1-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
 .proxy1.startpage.com

@@ -175,7 +175,6 @@
 .cloudns.asia
 .cloudns.be
 .cloudns.biz
-.cloudns.cc
 .cloudns.ch
 .cloudns.cl
 .cloudns.cx
