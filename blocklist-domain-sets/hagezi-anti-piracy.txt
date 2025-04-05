@@ -2708,14 +2708,12 @@
 .duboku.net
 .duboku.tv
 .duboku.vip
-.cutscloud.duckdns.org
 .d13bttrck.duckdns.org
 .kamikazee.duckdns.org
 .thinking.duckdns.org
 .tr4ck3r.duckdns.org
 .duckwad.net
 .dudestream.com
-.dummipedia.org
 .tracker.dump.cl
 .dunia21.app
 .dunia21.bid
@@ -2749,11 +2747,9 @@
 .aam-bt.dyns.cx
 .thitgaluoc.dynu.net
 .dyxz.org
-.dzot.com
 .e-booksland.com
 .bt.e-burg.org
 .e-hentai.org
-.e-lunatic.org
 .bittorrent-tracker.e-n-c-r-y-p-t.net
 .e-octopus.ru
 .e-rock.pl
@@ -2787,7 +2783,6 @@
 .ebookvortex.com
 .ebookvortex.net
 .ebox.live
-.economyofsound.com
 .ectlink.com
 .eddie4.nl
 .edels-stube.eu
@@ -2820,7 +2815,6 @@
 .ee3.me
 .efilmy.tv
 .egyptfans.net
-.ehho.net
 .ehtracker.org
 .einschalten.in
 .bedavalar.ekibi.com
@@ -2853,7 +2847,6 @@
 .emiz.biz
 .emovies.io
 .emp3juices.cc
-.empire-stream.com
 .empornium.us
 .tracker.empornium.is
 .tracker.empornium.sx
@@ -2941,14 +2934,12 @@
 .europixhd.top
 .eurostreaming.actor
 .eurostreaming.app
-.eurostreaming.arab
 .eurostreaming.archi
 .eurostreaming.autos
 .eurostreaming.bar
 .eurostreaming.be
 .eurostreaming.beauty
 .eurostreaming.best
-.eurostreaming.bet
 .eurostreaming.bid
 .eurostreaming.bike
 .eurostreaming.bio
@@ -2960,14 +2951,12 @@
 .eurostreaming.cc
 .eurostreaming.chat
 .eurostreaming.click
-.eurostreaming.cloud
 .eurostreaming.club
 .eurostreaming.co
 .eurostreaming.coffee
 .eurostreaming.college
 .eurostreaming.com
 .eurostreaming.credit
-.eurostreaming.day
 .eurostreaming.de
 .eurostreaming.dev
 .eurostreaming.dog
@@ -3234,7 +3223,6 @@
 .film-en-lignee.com
 .film-francais-vf.com
 .film-streaming.com
-.film-streaming-ita.arab
 .film-streaming-ita.cam
 .film-streaming-ita.fm
 .film-streaming-ita.vg
@@ -3288,13 +3276,11 @@
 .filmoteka.cc
 .filmowo.club
 .filmpalast.to
-.filmpertutti.arab
 .filmpertutti.asia
 .filmpertutti.be
 .filmpertutti.bet
 .filmpertutti.black
 .filmpertutti.boo
-.filmpertutti.cc
 .filmpertutti.center
 .filmpertutti.cfd
 .filmpertutti.cloud
@@ -3349,7 +3335,6 @@
 .films-ddl.net
 .films-en-streaming.org
 .films-iphone.com
-.filmsenzalimiti.arab
 .filmsenzalimiti.best
 .filmsenzalimiti.biz
 .filmsenzalimiti.blog
@@ -3369,13 +3354,10 @@
 .filmsenzalimiti.name
 .filmsenzalimiti.net
 .filmsenzalimiti.page
-.filmsenzalimiti.plus
-.filmsenzalimiti.stream
 .filmsenzalimiti.top
 .filmsenzalimiti.uno
 .filmsenzalimiti.vg
 .filmsenzalimiti.ws
-.filmshd.net
 .filmsofts.com
 .filmsplay.net
 .filmsrip.life
@@ -3383,7 +3365,6 @@
 .filmstoon.stream
 .filmstreamcomplet.fr
 .filmstreaming.al
-.filmstreaming.arab
 .filmstreaming.biz
 .filmstreaming.ca
 .filmstreaming.cc
@@ -3412,7 +3393,6 @@
 .filmstreaming.pics
 .filmstreaming.plus
 .filmstreaming.pro
-.filmstreaming.red
 .filmstreaming.rip
 .filmstreaming.se
 .filmstreaming.sh
@@ -3506,7 +3486,6 @@
 .flixhq.to
 .flixhub.net
 .flixjar.com
-.flixta.cc
 .flixtor.ch
 .flixtor.id
 .flixtor.life
@@ -3523,7 +3502,6 @@
 .flixwatch.site
 .flixwave.me
 .flixwave.to
-.flixy.org
 .flmsdown.net
 .ns1.floads.com
 .ns2.floads.com
@@ -3732,7 +3710,6 @@
 .ftflix.com
 .ftp.pet
 .ftp2web.com
-.ftpbd.com
 .ftpbd.net
 .ftuapps.dev
 .fubo.tv
@@ -3861,7 +3838,6 @@
 .tracker.gcrenwp.top
 .tracker.gcrreen.xyz
 .tracker.gcvchp.com
-.gdekino.me
 .gdrivedl.xyz
 .gdrivemovies.xyz
 .gdtorrent.com
@@ -3905,7 +3881,6 @@
 .tracker.ghostchu-services.top
 .trunker.ghostchu-services.top
 .utracker.ghostchu-services.top
-.media.ghurionline.com
 .giardiniblog.it
 .gid-online.ru
 .gidonline.cx
@@ -3920,7 +3895,6 @@
 .gidonline2.com
 .gidonlinehd.online
 .gidonlines.fun
-.giga-down.com
 .gigabitwarez.com
 .gigaflix.org
 .tracker.gigantino.net
@@ -3944,7 +3918,6 @@
 .cinetide.glitch.me
 .gload.cc
 .gload.to
-.global-evolve.com
 .global-sets.com
 .globalcommunicationbd.com
 .globalwarez.com
@@ -4012,7 +3985,6 @@
 .gomoviesfree.page
 .gomoviesfree.sc
 .gomovieshub.cc
-.gomovieshub.is
 .gomovieshub.sc
 .gomoviz1.pro
 .bittorrent.gongt.net
@@ -4049,7 +4021,6 @@
 .greetingsonlinebd.com
 .tracker.grepler.com
 .greylodge.org
-.grifon.info
 .grinderz.org
 .storage.groupees.com
 .gstream.uk
@@ -4057,14 +4028,12 @@
 .gtdb.cc
 .gtorrent.pro
 .gtorrent.ru
-.guardaflix.arab
 .guardaflix.com
 .guardaflix.fm
 .guardaflix.life
 .guardaflix.ph
 .guardaflix.vg
 .guardaflix.ws
-.guardarefilm.arab
 .guardarefilm.biz
 .guardarefilm.boats
 .guardarefilm.click
@@ -4079,7 +4048,6 @@
 .guardarefilm.vg
 .guardarefilm.ws
 .guardaserie.app
-.guardaserie.arab
 .guardaserie.army
 .guardaserie.autos
 .guardaserie.bet
@@ -4102,7 +4070,6 @@
 .guardaserie.cool
 .guardaserie.credit
 .guardaserie.dance
-.guardaserie.delivery
 .guardaserie.digital
 .guardaserie.doctor
 .guardaserie.education
@@ -4125,7 +4092,6 @@
 .guardaserie.media
 .guardaserie.men
 .guardaserie.miami
-.guardaserie.money
 .guardaserie.name
 .guardaserie.net
 .guardaserie.one
@@ -4135,22 +4101,18 @@
 .guardaserie.parts
 .guardaserie.pizza
 .guardaserie.place
-.guardaserie.racing
 .guardaserie.recipes
 .guardaserie.red
 .guardaserie.rent
 .guardaserie.rentals
 .guardaserie.restaurant
-.guardaserie.science
 .guardaserie.services
-.guardaserie.singles
 .guardaserie.site
 .guardaserie.skin
 .guardaserie.social
 .guardaserie.solutions
 .guardaserie.store
 .guardaserie.studio
-.guardaserie.sydney
 .guardaserie.tax
 .guardaserie.tips
 .guardaserie.toys
@@ -4162,12 +4124,9 @@
 .guardaserie.vip
 .guardaserie.watch
 .guardaserie.website
-.guardaserie.wine
 .guardaserie.ws
 .guardaserie.wtf
 .guardaserie.xyz
-.guardaserie01.arab
-.guardaserie01.casa
 .guardaserie01.click
 .guardaserie01.fm
 .guardaserie01.vg
@@ -4299,7 +4258,6 @@
 .tracker.hdsky.me
 .hdsource.biz
 .hdss.app
-.hdstar.org
 .hdstream.cool
 .tracker.hdtime.org
 .hdtoday.cc
@@ -4338,7 +4296,6 @@
 .herowarez.com
 .hesgoal.name
 .hesgoal.pro
-.hesgoal.today
 .hesgoal.watch
 .hesgoal.world
 .hesgoaled.com
@@ -4420,7 +4377,6 @@
 .hpav.tv
 .hpjav.tv
 .hq-films.ws
-.hqsource.org
 .hs-scene.to
 .tracker.htp.re
 .httpbd.com
@@ -4483,12 +4439,10 @@
 .iitv.info
 .ikkyonline.com
 .iktin.ru
-.ikwilthepiratebay.org
 .ilcorsaronero.info
 .ilcorsaronero.link
 .ilefilms.com
 .ilf.net
-.ilgeniodellostreaming.arab
 .ilgeniodellostreaming.bar
 .ilgeniodellostreaming.be
 .ilgeniodellostreaming.bet
@@ -4516,7 +4470,6 @@
 .ilgeniodellostreaming.it
 .ilgeniodellostreaming.la
 .ilgeniodellostreaming.lat
-.ilgeniodellostreaming.limo
 .ilgeniodellostreaming.live
 .ilgeniodellostreaming.me
 .ilgeniodellostreaming.men
@@ -4525,7 +4478,6 @@
 .ilgeniodellostreaming.mom
 .ilgeniodellostreaming.monster
 .ilgeniodellostreaming.net
-.ilgeniodellostreaming.network
 .ilgeniodellostreaming.org
 .ilgeniodellostreaming.party
 .ilgeniodellostreaming.pics
@@ -4562,7 +4514,6 @@
 .illuminatenboard.com
 .ilovekino.online
 .ilovetorrents.com
-.ilsearch.com
 .imacapps.co
 .imastudios.com
 .tracker.imgoingto.icu

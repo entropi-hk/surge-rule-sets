@@ -1059,7 +1059,6 @@
 .easyhandshake.com
 .easyproxy.tech
 .easyvpn.com
-.eazy.wtf
 .ebookdz.com
 .ebumna.net
 .ecoweb-network.com
@@ -1070,7 +1069,6 @@
 .edgedcircles.com
 .edgy-dns.com
 .dns.editechstudio.com
-.edpuzzle.space
 .dns.tuna.tsinghua.edu.cn
 .eduacation.lol
 .adguard.ef67daisuki.club
@@ -1085,7 +1083,6 @@
 .dns.ellichua.com
 .emban-networks.com
 .emeraldeyex.dev
-.dns.emiliyan.com
 .encrypt.me
 .endente.com
 .adguard.ender.fr
@@ -1147,7 +1144,6 @@
 .dns.fancyorg.at
 .farewellkou.click
 .dns.farshidhakimy.de
-.fast-receive.com
 .fastestvpn.com
 .fastestvpn.info
 .fastfoxvpn.com
@@ -1231,7 +1227,6 @@
 .fortniters.info
 .forwardproxie.com
 .fproxy.net
-.francis-proxy.top
 .frandcomfort.us
 .free-proxy.com
 .free-proxy.cz
@@ -1309,7 +1304,6 @@
 .dns.furrydns.de
 .doh.futa.app
 .doh.futa.gg
-.dns.futuredns.me
 .g-a-y.pro
 .gabstorm.com
 .cluster-0.gac.edu
@@ -1438,13 +1432,11 @@
 .guardster.com
 .guavi.com
 .dns2.guidocioni.it
-.gumm.org
 .dns.gutwe.in
 .gvirabi.com
 .gwopboyded.com
 .gztech.me
 .h-vpn.org
-.h0w.cc
 .dns.hahnjo.de
 .dns.haka.se
 .dns.hakim.one
@@ -1460,7 +1452,6 @@
 .adguard.hartley.cloud
 .query.hdns.io
 .ordns.he.net
-.heiwanotameno.com
 .us-ny-alula.heliumcloud.cc
 .dns.hellozhao.com
 .helpmehide.net
@@ -1531,7 +1522,6 @@
 .holavpnextension.com
 .holavpnrussia.com
 .holax.io
-.holyubvpn.com
 .beta.holyunblocker.org
 .home-server.store
 .homemail.info
@@ -1601,7 +1591,6 @@
 .iij.jp
 .ikarosalpha.xyz
 .dns.ikataruto.com
-.ikhebdorst.nl
 .iksde.com
 .ilumu.com
 .ilysk.lol
@@ -1624,7 +1613,6 @@
 .indiaproxy.win
 .indo-ssh.com
 .dns.indust.me
-.dns.indybanipal.com
 .dns.inforlogia.com
 .doh.infracell.net
 .infvpn.com
@@ -1772,6 +1760,7 @@
 .dns1.klcd.eu
 .dns2.klcd.eu
 .klcknerrip.com
+.knowurcson.store
 .knvpn.net
 .ko-18948-tr.xyz
 .proxy.kokecoco.me
@@ -1973,7 +1962,6 @@
 .mitmproxy.org
 .doh.mmmalia.com
 .dns.mnet-online.de
-.mnrv.trade
 .dns.mo0on15.com
 .moamao.shop
 .dnstls.mobik.com
@@ -3057,6 +3045,7 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
+.eu1-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
 .proxy1.startpage.com
