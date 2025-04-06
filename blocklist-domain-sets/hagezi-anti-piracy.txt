@@ -159,6 +159,7 @@
 .1gabba.net
 .1gabba.pw
 .1hd.to
+.1jour1film.online
 .1jour1film.website
 .1kif.com
 .1load.sx
@@ -3817,7 +3818,6 @@
 .gamestorrents.nu
 .gametechwiki.com
 .bt-tracker.gamexp.ru
-.gamezlinks.net
 .gamingbeasts.com
 .gaoqing.fm
 .garageforum.org
@@ -4570,7 +4570,6 @@
 .intilo.com
 .intrepidbd.com
 .invalid.pw
-.watch.inzi.dev
 .ionbooter.com
 .app.iosgods.com
 .iosmirror.cc
@@ -4599,7 +4598,6 @@
 .ipstresser.co
 .ipstresser.com
 .ipstresser.wtf
-.ipstresstest.com
 .iptorrents.com
 .iptvcanarias.tv
 .iptvonly.tv
@@ -4646,7 +4644,6 @@
 .istream2watch.com
 .isubsmovies.com
 .isuggeriti.it
-.italia-film.arab
 .italia-film.cc
 .italia-film.click
 .italia-film.co
@@ -4665,7 +4662,6 @@
 .italia-film.ws
 .italiafilm.fun
 .italiaserie.cc
-.itbasebd.net
 .itcnbd.com
 .itera.bz
 .itmn.org
@@ -4737,9 +4733,7 @@
 .journeyman.tv
 .transkaroo.joustasie.net
 .retracker.joxnet.ru
-.tracker.joybomb.tw
 .joytorrent.com
-.jpmangas.co
 .jpopsuki.eu
 .js-dt.com
 .jsb.by
@@ -4792,7 +4786,6 @@
 .karsannet.com
 .kastatus.com
 .kat.am
-.kat.li
 .kat.ph
 .kat.rip
 .kat.to
@@ -4850,7 +4843,6 @@
 .kickass2.xyz
 .kickassanime.mx
 .kickassanime.rs
-.kickassto.cc
 .kickassto.co
 .kickasstorrent.bid
 .kickasstorrent.cr
@@ -5003,7 +4995,6 @@
 .home.kray.pw
 .kraytracker.com
 .bt.ktkj.com
-.ktorrents.com
 .bt.ktrackers.com
 .kualda.com
 .kubalibre.com
@@ -5152,7 +5143,6 @@
 .link-base.org
 .linkbucks.com
 .linkgalleries.net
-.linkinnet.net
 .linkomanija.net
 .tracker.linkomanija.org
 .linkr.top
@@ -5160,7 +5150,6 @@
 .tracker.lintk.me
 .linux23.com
 .linuxmafia.net
-.torrents.linuxmint.com
 .linuxtracker.org
 .tracker.linvk.com
 .linxdown.com
@@ -5170,7 +5159,6 @@
 .live-kooora-tv.com
 .live-kooora-tv.net
 .live-koora.online
-.kora.live-koora.live
 .live-nfl.stream
 .live-sport-tv.it
 .live-stream.tv
@@ -9944,7 +9932,6 @@
 .xrshellbooter.com
 .xspeeds.eu
 .xstreaming.rip
-.xstress.xyz
 .torrentkris.xt.pl
 .xt7.pl
 .xteve.de

@@ -1624,7 +1624,6 @@
 .intego.com
 .dns.interhub.cc
 .interncloud.info
-.internetbypass.com
 .internetcloak.com
 .intervpn.com
 .intl-alliance.com
@@ -1674,7 +1673,6 @@
 .jabber-germany.de
 .jackyes.ovh
 .jagoanssh.com
-.jailbreaked.net
 .jamesisbald.xyz
 .tj.jamesxue.xyz
 .janathanmahes-mysharepoint.com
@@ -3049,7 +3047,6 @@
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
 .proxy1.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com
