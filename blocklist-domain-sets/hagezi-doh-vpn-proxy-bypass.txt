@@ -196,6 +196,8 @@
 .37er19htfd.execute-api.us-east-1.amazonaws.com
 .i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 .dsl-app.s3.us-east-2.amazonaws.com
+.american-proxy.com
+.americaproxy.info
 .amirabbasmousavi.news
 .mailer.amlegion.org
 .ammmae150.news
@@ -211,6 +213,7 @@
 .aniscartujo.com
 .dns.anon.no
 .anonine.com
+.anonproxy.eu
 .anonproxy.org
 .anonvpn.io
 .anonwebproxy.com
@@ -298,6 +301,7 @@
 .award-vpn.com
 .awebproxy.com
 .awhoer.net
+.axaxa.fun
 .azirevpn.com
 .doh.azoris.ovh
 .dns.azsopro.net
@@ -398,7 +402,6 @@
 .blockless.com
 .new-proxy-sites.blogspot.com
 .ukvpns.blogspot.ru
-.adguard.blogssl.com
 .dns.blokada.org
 .bloquer.fr
 .rfree1.blue-shield.at
@@ -434,6 +437,7 @@
 .brazilproxy.info
 .breakwall.net
 .dns.brembeck.cloud
+.ag.brianlee.fun
 .bright4good.eco
 .brightvpn.com
 .britishproxy.com
@@ -642,6 +646,7 @@
 .us.doh.cloudveil.org
 .dns.cmrg.net
 .10bestvpn.co.uk
+.adguard.aa4.co.uk
 .akashiro.co.id
 .antidnsvpn.co.cc
 .binhexsolutions.co.uk
@@ -761,7 +766,6 @@
 .createssh.net
 .creatine.wtf
 .criarssh.com
-.dns.criena.net
 .crownproxy.com
 .croxy.com
 .croxy.network
@@ -815,7 +819,6 @@
 .proxy.darkvpn.com
 .mail.data.haus
 .ns.data.haus
-.doh.datacore.ch
 .doh.datahata.by
 .datatech.icu
 .dns.datenquark.de
@@ -1050,6 +1053,7 @@
 .dvprovider.icu
 .dns.dyn1.de
 .ueni.dyndns.org
+.dns.dynx.pro
 .vpn.dzarlax.dev
 .dzhot.us
 .dnscache.e-utp.net
@@ -1318,7 +1322,6 @@
 .gamingssh.com
 .dns.beta.gandi.net
 .gatcha.org
-.gclouddns.com
 .gecko.fun
 .geckovpn.xyz
 .geekproxy.com
@@ -1953,7 +1956,6 @@
 .dns.mihanentalpo.me
 .dns.mikeliu.org
 .mikezhang.xyz
-.minilla.store
 .miniprox.com
 .miniprox.info
 .netcup.mismat.ch
@@ -1977,7 +1979,6 @@
 .naganohara-yoimiya.momokko.moe
 .dns.momou.ch
 .monoprivacy.io
-.monro-stom-plus.info
 .monthlyssh.net
 .monvpn.com
 .zrh1-ns01.monzoon.net
@@ -2097,7 +2098,6 @@
 .dns.neeb.it
 .needunblock.com
 .nekoray.org
-.nenam.eu
 .adguard.neon0404.space
 .neonos.me
 .dns.neowutran.ovh
@@ -2431,7 +2431,6 @@
 .polandgrows.com
 .polargrizzly.com
 .polaris.cx
-.polarvoid.store
 .polisitogel.accountant
 .polisitogel.beauty
 .polisitogel.builders
@@ -2712,7 +2711,6 @@
 .quicksilvervpn.com
 .dns.quiet.rocks
 .quintex.com
-.quotivatehub.com
 .ant.dns.qwer.pw
 .dog.dns.qwer.pw
 .frog.dns.qwer.pw
@@ -2791,7 +2789,6 @@
 .dns.rootlab.top
 .roskomnadzorgorivadu.ru
 .dns.rotunneling.net
-.roundrockisd.online
 .o.rsaikat.com
 .au.rslvr.eu
 .bg.rslvr.eu
@@ -2845,14 +2842,12 @@
 .dns.scarx.net
 .proxy.schel.li
 .dns.schlagheck.berlin
-.vps4.scho.io
 .school-websites.us
 .schoolnewsletter.us
 .schoology.college
 .schoology.help
 .schoology123.org
 .schoolooks.com
-.schoolproxy.co
 .schooxy.com
 .schoprox.com
 .sciencesimplified.pro
@@ -3308,7 +3303,6 @@
 .trilightzone.org
 .trueproxy.com
 .trust.zone
-.dns.trust404.win
 .trustedproxies.com
 .truta.org
 .dns.tryk.app
@@ -3531,7 +3525,6 @@
 .untracer.com
 .dns.unx.io
 .updatedproxies.com
-.dns.uplenk.com
 .uproxy.online
 .ur-browser.com
 .urban-vpn.com
@@ -3813,6 +3806,7 @@
 .xitesite.com
 .xjumper.com
 .dns.xlion.tw
+.xmr.land
 .xn--durhre-yxa.de
 .xperienc.com
 .xsfwow.com
@@ -3862,6 +3856,7 @@
 .yuyuproxy.com
 .yuyuproxy.online
 .yxorproxy.com
+.adg.yybyy.wiki
 .dns.daemon.za.net
 .zacebookpk.com
 .adguard.zachitect.com

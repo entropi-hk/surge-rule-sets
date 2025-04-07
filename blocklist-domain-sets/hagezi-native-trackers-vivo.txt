@@ -98,6 +98,7 @@
 .tr-romsp-unifyconfig.vivoglobal.com
 .tr-st-sl.vivoglobal.com
 .tr-st-sysupgrade.vivoglobal.com
+.tr-stsdk.vivoglobal.com
 .tr-sysupgrade-api.vivoglobal.com
 .tr-timesync.vivoglobal.com
 .tr-vcode-api.vivoglobal.com
