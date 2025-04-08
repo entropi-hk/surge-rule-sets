@@ -1450,6 +1450,7 @@
 .boommovie.org
 .xanabandforum.boosterforum.com
 .boot.lu
+.boot.ml
 .boot4free.com
 .bootcity.org
 .booter.eu
@@ -1540,6 +1541,7 @@
 .btsearch.love
 .btshoufa.net
 .btsow.online
+.bttrove.org
 .tracker.btzero.net
 .btzone.org
 .tracker.btzoo.eu
@@ -1551,6 +1553,7 @@
 .csite.bugs3.com
 .bulextorrent.org
 .bulkpeers.com
+.bullstresser.com
 .bullstresser.net
 .bundesliga-streams.net
 .bunkr.tv
@@ -1741,6 +1744,7 @@
 .cb01.uno
 .cb01.us
 .cb01.vacations
+.cb01.vet
 .cb01.vg
 .cb01.video
 .cb01.vip
@@ -1796,6 +1800,7 @@
 .choice1ip.tv
 .chomikuj.pl
 .chomskytorrents.org
+.chouchou.club
 .tracker.christianbro.pw
 .tracker2.christianbro.pw
 .christianmovies.eu
@@ -2480,6 +2485,7 @@
 .dfichiers.com
 .dflix.live
 .bm.dfnbd.net
+.cm.dfnbd.net
 .em.dfnbd.net
 .tube.dfnbd.net
 .dfox.it
@@ -5925,6 +5931,7 @@
 .myp2px.eu
 .mypanlss.store
 .mypartage.com
+.ns3109441.mypdns.org
 .mypiratebay.net
 .mypiratebay.wtf
 .myporn.club
@@ -8502,7 +8509,6 @@
 .tigerblack.net
 .tikmovies.com
 .time2watch.in
-.time2watch.tv
 .time4tv.top
 .timenai.com
 .timepassbd.com
@@ -8616,7 +8622,6 @@
 .torrent-hitz.de
 .torrent-igruha.org
 .torrent-igruha.ru
-.torrent-paradise.ml
 .torrent-pirat.com
 .torrent-polska.info
 .torrent-stats.info
@@ -8637,7 +8642,6 @@
 .torrent9.is
 .torrent9.ph
 .torrent9.pl
-.torrent9.sh
 .torrent9.site
 .torrent9.so
 .torrent9.to
@@ -8645,7 +8649,6 @@
 .torrent9cz.fr
 .torrentai.info
 .torrentai.net
-.torrentazos.com
 .torrentbay.to
 .torrentbd.com
 .torrentbd.net
@@ -8660,15 +8663,12 @@
 .torrentcity.net
 .torrentcity.pl
 .torrentclub.space
-.torrentclub.tech
 .torrentday.com
 .torrentdb.li
 .torrentdia.com
-.torrentdia100.com
 .torrentdia101.com
 .torrentdia103.com
 .torrentdia104.com
-.torrentdia2.com
 .torrentdia94.com
 .torrentdia95.com
 .torrentdia97.com
@@ -8774,7 +8774,6 @@
 .torrents.to
 .torrents-csv.ml
 .torrents-game.net
-.torrents-nn.cn
 .torrents-proxy.com
 .torrents-time.com
 .torrents-zone.com
@@ -8809,7 +8808,6 @@
 .torrentturk.com
 .torrenttyphoon.com
 .torrentube.net
-.tracker.torrentuje.me
 .torrenturka.net
 .torrenturkey.com
 .torrentv.org
@@ -8827,7 +8825,6 @@
 .torrentz.pl
 .torrentz.pro
 .torrentz.ws
-.torrentz2.cc
 .torrentz2.eu
 .torrentz2.is
 .torrentz2.nz
@@ -8877,13 +8874,11 @@
 .tpbaysproxy.com
 .tpbmirror.us
 .tpbonion.com
-.tpbpiratebayproxy.com
 .tpbproxy.click
 .tpbproxy.online
 .tpbproxy.xyz
 .tpbproxypirate.com
 .337hhh.tpddns.cn
-.track3r.site
 .trackarr.org
 .tracker.army
 .tracker.bz
@@ -8961,7 +8956,6 @@
 .turktorrent.us
 .tut4it.com
 .tutflix.org
-.tuttostream.arab
 .tuttostream.cfd
 .tuttostream.com
 .tuttostream.fm
@@ -9308,10 +9302,8 @@
 .uraxhayer.ru
 .urbanproxy.eu
 .urll.net
-.corsflix.us.kg
 .gomovies.us.com
 .seikai-no-fansubs.us.tt
-.valhallastream.us.kg
 .downloadx99x.usa.cc
 .edownloader61.usa.cc
 .jdownload12.usa.cc
@@ -9437,7 +9429,6 @@
 .vidclouds.icu
 .vidembed.net
 .videobin.co
-.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info
@@ -9547,7 +9538,6 @@
 .vrpirates.club
 .vrpirates.wiki
 .vstorrent.org
-.vtoxicity.net
 .vudeo.io
 .vuemedia.tv
 .git.vulnix.sh
@@ -9623,7 +9613,6 @@
 .warezportal.com
 .warezrocker.net
 .warezscene.org
-.warezserbia.org
 .warezstore.com
 .warezstore.org
 .warezteam.ws
@@ -9701,7 +9690,6 @@
 .wawacity.ec
 .wawacity.ninja
 .wawacity.one
-.wawacity.red
 .wawacity.rsvp
 .wawacity.su
 .wawacity.tech
@@ -9766,7 +9754,6 @@
 .wiflix.org
 .wiflix.pw
 .wiflix.voto
-.wild-bytes.org
 .wilmaa.com
 .win7dl.org
 .win7games.com
@@ -9804,7 +9791,6 @@
 .worldcupfootball.me
 .worldfree4u.moe
 .worldfree4u.pm
-.worldfree4u.zip
 .worldmags.net
 .worldofcracksoft.com
 .worldofp2p.net
@@ -9817,7 +9803,6 @@
 .wotaku.wiki
 .wovietv.com
 .wow-films.com
-.wow-movies.org
 .wowebook.org
 .wowroms.com
 .wpp-fansubs.com
@@ -10009,7 +9994,6 @@
 .torrents.yourexotic.com
 .yournetcommunications.net
 .yourptflixmovies.com
-.yourserie.com
 .yoursports.stream
 .youserials.com
 .youtorrent.com

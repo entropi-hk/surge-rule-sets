@@ -1044,6 +1044,7 @@
 .berufzukunft.com
 .beruhig-ende.de
 .beruhmteskajak.com
+.beschlaegeprofi.de
 .besser-heizen.com
 .bessere-reifen.de
 .best-apotheke.online
@@ -1106,6 +1107,7 @@
 .bestmedicineservice.com
 .bestmotorbikeparts.com
 .bestoil24.de
+.bestoil24.net
 .bestoutlet-tool.com
 .bestpharmstore.top
 .bestpillservice.com
@@ -1126,6 +1128,7 @@
 .besttoolswerkzeug.com
 .bestvitosk.best
 .bestwerkzeugeshop.com
+.bestwoof.de
 .bestyflyov.best
 .betakom-tec.com
 .betonspot.com
@@ -1473,7 +1476,9 @@
 .boxx-container.com
 .boyatatech.com
 .boyishdenim.com
+.bozok.at
 .bp-direct.com
+.bp-heizoel.de
 .bpgroupe.com
 .shop.bqbbwf.top
 .braam-23.de
@@ -1527,6 +1532,7 @@
 .brennholzkamin.de
 .brennholzkaufende.shop
 .brennholzknuth.de
+.brennholzmeister.com
 .brennholznikolaus.de
 .brennholznordhessen.de
 .brennholzruhl.de
@@ -1552,6 +1558,7 @@
 .bricowoods.com
 .bridclothing.shop
 .brielers.de
+.brightfinance.co
 .brightter-fld.com
 .brikettpellet.de
 .brillianci.co
@@ -1713,6 +1720,7 @@
 .canadiannewstoday.com
 .canadianpharmacyonline247.com
 .canastic.com
+.canbeloutlet.com
 .candlesselling.com
 .candycamp.shop
 .candykeysangebotes.com
@@ -1821,6 +1829,7 @@
 .ccmedia.news
 .cd-spielerstore.com
 .cdcauldron.com
+.cdeen.io
 .cdonvip.com
 .cebocom.de
 .cedarfinance.com
@@ -10034,7 +10043,6 @@
 .testomedstore.com
 .testorino.de
 .tetherc.com
-.teva-finland.com
 .teva-osterreich.at
 .teva-polska.com
 .tevaberlin.de
@@ -10075,9 +10083,7 @@
 .theapparelfield.com
 .theautodaily.com
 .thebagus.com
-.thebeautybaskets.shop
 .thebellabelle.com
-.thebikeclothing.com
 .thebikeparts.com
 .thebitindex.ai
 .ge.thebloomcar.com
@@ -10087,7 +10093,6 @@
 .thebutlerspecialty.com
 .thecartruck.com
 .thecdifurniture.com
-.thechicchristmas.com
 .thecoarsefishing.com
 .thecraftssewing.com
 .thecrewclothing.com
@@ -10096,17 +10101,14 @@
 .thecyclingaccessory.com
 .thecyclistsupply.com
 .theedwebdeal.com
-.theeternalstate.org
 .thefreemk.shop
 .thegameera.de
 .thehikingshoe.com
 .thehokaoneone.com
-.thehomeoffragrancde.shop
 .thejbweld.com
 .thejobsitetool.com
 .thekobalttool.com
 .thekoolawear.com
-.thelightoutdoor.com
 .thelike.top
 .theliquordeals.com
 .theluminousliving.com
@@ -10132,8 +10134,6 @@
 .thepocketknives.com
 .thepocsport.com
 .theprivateadult.com
-.thepulseboutiqude.shop
-.thequalitypillsservices.com
 .therapieschaukel.com
 .therapydevices-shop.com
 .thercparts.com
@@ -10145,17 +10145,14 @@
 .thermoscupneu.de
 .thermoshapers.de
 .thesafetyequip.com
-.thescratchbuilding.com
 .theshoegift.com
 .thesissystore.com
 .thesneakershouse.com
 .thesportcategory.com
 .thesportsua.com
-.thestorde.shop
 .thetennisaccessories.com
 .thetennishop.com
 .thetmstockwellfund.com
-.theunionprojede.shop
 .theusoutdoor.com
 .thielegmbh-cokg.shop
 .thijshuistede.com
@@ -10176,7 +10173,6 @@
 .thrustmarkets.com
 .thtruth.com
 .thul-christensen.de
-.thule-4-kids.uk
 .thule-anhaenger.de
 .thule-transport.de
 .thulefamilie.de
@@ -10208,7 +10204,6 @@
 .timberland-schweiz.com
 .timberlandhelsinki.com
 .timberlandosterreich.at
-.timberlandshoesuae.com
 .timbuktours.de
 .time4smokede.shop
 .timebinary.com
@@ -10242,7 +10237,6 @@
 .tiveone.com
 .tjcmwe.com
 .tk-kontor.de
-.tkeesdeutschland.com
 .tkeesdeutschland.de
 .tkkfrms.net
 .tlapka.cz
@@ -10286,8 +10280,6 @@
 .tonstus-neuss.de
 .tool-arealimit.com
 .tool-discount.com
-.tool-evolution.com
-.toolaboutoff.com
 .toolandmaintenance.com
 .toolbasetop.com
 .toolbaseus.com
@@ -10301,7 +10293,6 @@
 .toolhouseportable.com
 .toolhutpromo.com
 .toolisspro.com
-.toolmarketde.shop
 .toolproonsale.com
 .toolreliable.com
 .tools-total.com
@@ -10338,7 +10329,6 @@
 .topbrennstoffe.de
 .topdrap.com
 .topeuro-shop.com
-.topforsch-gmbh.net
 .topgardencenter.com
 .topgood.xyz
 .tophousesgoods.com
@@ -10368,7 +10358,6 @@
 .toryburchosterreich.com
 .toryburchoutlet.at
 .tosan24.de
-.toshimarket.com
 .totalmenshoe.com
 .totaltool-pro.com
 .totaltoysale.com
@@ -10382,10 +10371,7 @@
 .toy-boxsales.com
 .toycartruck.com
 .toyevs.store
-.toyfieldnew.com
 .toyfigurenew.com
-.toyfuel.de
-.toylest.de
 .toyquality.com
 .toys-holiday.com
 .toyshobbiesworld.com
@@ -10405,7 +10391,6 @@
 .tradaxa.com
 .trade-24.com
 .trade-call.com
-.trade-gpt.ai
 .trade-strategy.net
 .trade-trendy.com
 .trade-x.net
@@ -10430,7 +10415,6 @@
 .traderhouse.com
 .traderminds.com
 .traderplace.com
-.tradersformation.com
 .tradershome.com
 .tradersking.com
 .traderush.com
@@ -10441,8 +10425,6 @@
 .tradezila.com
 .trading-fashion.com
 .tradingbotpro.com
-.tradingcryp.com
-.tradingformation.fr
 .tradingpointuk.com
 .tradingrugby.com
 .tradingstylish.com
@@ -10468,10 +10450,8 @@
 .traunsberger-garten.de
 .travano.de
 .travel-and-jobs.com
-.travelbag-onsale.com
 .traveledgy.com
 .travelhotel2u.com
-.travellwellde.shop
 .travenu.de
 .travisscottofficial.com
 .travodo.de
@@ -10480,14 +10460,11 @@
 .treaderoutlet.com
 .treasurebike.com
 .treatstoreweb.com
-.trekandtravelde.shop
 .trena-trade.de
 .trencystore.com
-.trend-handel.de
 .trend-it.de
 .trend-shop.net
 .trend-time.de
-.trendglanz-dusseldorf.com
 .trendigerhaushalt.com
 .trendigetasche.com
 .trendito.de
@@ -10511,13 +10488,11 @@
 .trilavora.com
 .trillant.com
 .trimzy.de
-.trinaturkwear.com
 .triton-online.com
 .tritoncapitalmarkets.com
 .trivisu.com
 .trivona.de
 .trixupmysleeve.com
-.trockenholz.com
 .trollelifemarket.com
 .tropicai-tech.de
 .tropicaltopics.com
@@ -10563,10 +10538,8 @@
 .ttfacai.shop
 .ttl-logistik.de
 .ttup-ai.com
-.ttygwronline.com
 .tubelesstyres-shop.com
 .tudio.de
-.tuficcryptoassets.com
 .tuftex-balloons.com
 .tuinbalkon.com
 .tunepart.com
@@ -10574,8 +10547,6 @@
 .tuninglinie.de
 .tupperware-de.shop
 .tupperware-osterreich.com
-.tupperwarestore-us.com
-.tupperwarseonline.com
 .tuppoutlet.shop
 .tuppsale-eu.shop
 .turbo-finanz.com
@@ -10591,13 +10562,9 @@
 .tw-access.com
 .twilight-fans.de
 .twinbusch.net
-.twinsfitness.shop
-.twinsspecialfight.com
-.twinsspecialuae.ae
 .twkoes.shop
 .twoodhandels.com
 .twosun-knives.com
-.tximarkets.com
 .tyranwatts.com
 .tyreschwalbe.com
 .tyrwien.at
@@ -10641,7 +10608,6 @@
 .ullis-immo.com
 .ulrike-lingl.com
 .ulta-beauty-us.com
-.ultimatetattoosuppde.shop
 .ultraheroshop.com
 .ultrahome.cz
 .umbro-deutschland.de
@@ -10665,7 +10631,6 @@
 .undley.de
 .ungi-analytics.de
 .unice688.com
-.unikattoshop.shop
 .union-crypto.com
 .unionsmarket.group
 .unipillz.com
@@ -10677,7 +10642,6 @@
 .uniqlosuomioutlet.com
 .uniqlowien.com
 .unique-exchange.co
-.uniqueplus0dconcept.shop
 .uniqueshop-us.com
 .unisosterreich.shop
 .unisys-handel.de
@@ -10730,7 +10694,6 @@
 .yeezyslides.us.com
 .yeezyy.us.com
 .yzyshoes.us.com
-.us-billini.shop
 .usabicycleus.com
 .usafadmagic.com
 .usakitchendining.com
@@ -10738,7 +10701,6 @@
 .usapharmacyshop24.com
 .usapharmashop.online
 .usapill24hours.com
-.usarxshop.org
 .usaskicategory.com
 .usastylishmagic.com
 .usawalldecor.com
@@ -10747,12 +10709,9 @@
 .usbaseballstore.com
 .usbikecomponent.com
 .usbuildingmaterial.com
-.uscampingoutlet.com
 .uschristmashalloween.com
 .usclothesheaven.com
-.uscomfortcraze.com
 .usfashionfinery.com
-.usfiguremodel.com
 .usformalwear.com
 .usgolfofficial.com
 .ushomediscount.com
@@ -10761,7 +10720,6 @@
 .uskeenfootwear.com
 .uskeenshoe.com
 .usknifeoutlet.com
-.usladyluxury.com
 .uslatestshoe.com
 .usmenshoes.com
 .usmenstyle.com
@@ -10779,7 +10737,6 @@
 .usonlineoutdoor.com
 .usopenair.com
 .usoutdoor-sports.com
-.usoutdooradventure.com
 .usoutlet-baseball.com
 .uspharmacyshop.com
 .uspickleballpaddle.com
@@ -10808,7 +10765,6 @@
 .vacationay.com
 .vaillantproservice.at
 .vailllant.at
-.valaisimete.com
 .valana-berlin.de
 .valdins.de
 .valentinocanada.com
@@ -10820,7 +10776,6 @@
 .vancetaylor.com
 .vanea-barfussschuhe.com
 .vanlaackhamburg.de
-.vanquishfitness.at
 .vanquishrc.com
 .vansesshop.store
 .vansforsaleuk.net
@@ -10829,13 +10784,11 @@
 .vansmore.com
 .vansosterreich.at
 .vanss.at
-.vanss.de
 .vapecheap.de
 .vapeversorgung.de
 .vapormode.shop
 .varilo.nl
 .varioushousehold.com
-.variousoutdoorus.com
 .varnitur.de
 .varonet.de
 .varonet.store
@@ -10850,7 +10803,6 @@
 .vaudefabrikverkauf.de
 .vaulttrade.org
 .vaweeo.de
-.vaxotechnik.com
 .vayco.de
 .vbarefootkaufen.de
 .vbpu.top
@@ -10869,11 +10821,9 @@
 .vejaathensgreece.net
 .vejaaustria.at
 .vejabelgium.com
-.vejabrasil.net
 .vejadeutschland.com
 .vejanorge.com
 .vejaonlineksa.com
-.vejaoutletslovenia.com
 .vejarunningshoesnz.com
 .vejaschweiz.com
 .vejashoesuk.com
@@ -10898,7 +10848,6 @@
 .vendoorug-kauf.de
 .vendorhub.store
 .veneracrea.com
-.vensix.shop
 .ventkitsetsales.com
 .ventures-consulting.de
 .venuefashion.com
@@ -10910,7 +10859,6 @@
 .verbraucher-profis.de
 .vereinsbedarf-bhutta.shop
 .verifizierungamericanexpress.com
-.vering24.de
 .veripro.de
 .verkauf-rezeptfrei.de
 .verkaufbike.com
@@ -10932,7 +10880,6 @@
 .versandhaus-lange.com
 .versandoase.de
 .versandpharma.com
-.versandpillen.de
 .verschenkefreu.de
 .verse-corp-network.com
 .versuni-germany.shop
@@ -10940,7 +10887,6 @@
 .verthorizons.com
 .verticaapps.world
 .vertisas.shop
-.vertrauenmarkt.com
 .vertrauenwin.de
 .verygroupretails.com
 .vessibelgium.com
@@ -10954,7 +10900,6 @@
 .vessishoesireland.com
 .vessisuomi.com
 .vestapros.com
-.vet-advice.com
 .vet-staking.com
 .vetapotheke-shop.de
 .vetenade.com
@@ -11001,17 +10946,14 @@
 .vincet-tech.de
 .vinero.at
 .vinissage.de
-.vinry.shop
 .vinsimo.com
 .vinsrougesboutique.com
-.vintagebohobagde.shop
 .vintedi.vip
 .vinylcollectorde.shop
 .vionicmexico.com
 .vionicosterreich.at
 .vionicschuhe.de
 .vip-bag.shop
-.vipaccount.net
 .vipbinary.com
 .vipbusyaa.xyz
 .vipsupport-eu.com
@@ -11053,7 +10995,6 @@
 .vivobarefootschuhede.com
 .vivobarefootshopberlin.de
 .vivobarefootsuomi.com
-.vivobarefootuae.ae
 .vivobarefootwien.at
 .vixi.store
 .vizsales.com
@@ -11087,7 +11028,6 @@
 .volgetz.com
 .volina.de
 .volini.de
-.volker-edelmann.shop
 .volksraiffeibk.com
 .vollebude.de
 .volleyballover.com
@@ -11108,7 +11048,6 @@
 .voring.de
 .vormans.de
 .vorola.de
-.vorwerkmarket.de
 .vorzeltede.com
 .vorzelteverkauf.com
 .votezerro.com
@@ -11161,9 +11100,7 @@
 .warenhausdeutschland.com
 .waresnewbike.com
 .waresusbike.com
-.warmholz.com
 .warmholz.de
-.warmtepompe.com
 .warmwinkelen.com
 .wascheparfum.at
 .wascheparfume.de
@@ -11196,7 +11133,6 @@
 .wayoutgermany.shop
 .wcsitzpro.de
 .wd-agentur.de
-.wdk-rasenmaher.com
 .wdwhomedecor.com
 .wearablemerch.com
 .wearbreeze.de
@@ -11241,8 +11177,6 @@
 .weinrabatt.com
 .weinshop-de.com
 .weinsteincorp.biz
-.weirdtribe.org
-.weissweinrabatt.de
 .weiter-zum-geld.de
 .welcherweinzu.de
 .wellensteynjacke.de
@@ -11251,7 +11185,6 @@
 .welling-shop.de
 .wellingtonfundsfr.com
 .welllll.de
-.wellness-ostsee.com
 .wellsana.shop
 .wellvest.pro
 .welpen-tierheim.com
@@ -11289,7 +11222,6 @@
 .werkzeugverkauf.com
 .werkzeugversorgung.com
 .werner-darlehen.com
-.werner-reinke.shop
 .wernerholz.shop
 .werners24.de
 .wernersweinwelt.shop
@@ -11318,7 +11250,6 @@
 .apps.whitecroftcapital.fr
 .whlshop.com
 .whoisyourlover.com
-.wholesaleacsymarket.shop
 .wholesalefactory.ru
 .wicha-gmbh.de
 .widelyoutdooritem.com
@@ -11331,7 +11262,6 @@
 .wiitrader.com
 .wilax.de
 .wildanimal.shop
-.wildcatwork.com
 .wildflowercasesphilippines.com
 .wildfzlowers.shop
 .wildling-berlin.com
@@ -11339,11 +11269,9 @@
 .wildlingnl.com
 .wildlingshoes.cz
 .wildlingshoes-nl.com
-.wildlingshoesaustralia.com
 .wildlingshoescanada.com
 .wildlingshoesfrance.com
 .wildlingshoesgermany.com
-.wildlingshoesisrael.com
 .wildlingshoesnederland.com
 .wildlingshoesportugal.com
 .wildlingshoessverige.com
@@ -11363,7 +11291,6 @@
 .windelnschritte.de
 .windendew.de
 .windmillknifeshop.com
-.windowpartscenter.shop
 .windsurfsegel.com
 .windyys.com
 .wine-investments.com
@@ -11375,7 +11302,6 @@
 .winkler-elektronik.de
 .winkler-modehaus.de
 .winobin.com
-.winstomtrading.com
 .cfd.winstonmartin.com
 .wintechfxglobal.com
 .winter-holz.com
@@ -11385,7 +11311,6 @@
 .winterinihrernahe.com
 .winterjacken-saleshop.com
 .winterkraft.de
-.wir-sind-goldhandel.de
 .wirlines.com
 .wisebanc.com
 .wisecapitalx.com
@@ -11407,10 +11332,8 @@
 .wojas.top
 .wolf-zart.com
 .wolffashion.de
-.wolfgang-hagen.shop
 .wolfgardenshop.com
 .wolframsshop.shop
-.wolftoothbike.com
 .wolkenweichboutique.de
 .wolkyschuheoutlet.de
 .wolkyschuheoutlets.de
@@ -11427,10 +11350,8 @@
 .womensoffer.com
 .womma.de
 .wondertoybox.com
-.woodbell.de
 .woodenbowlse.com
 .woodeu.de
-.woodheatstoveds.shop
 .woodiholz.store
 .woodlifez.de
 .woodoclock.de
@@ -11457,7 +11378,6 @@
 .wos-tech.de
 .wotoba.de
 .woumc.com
-.wowlaibs.store
 .wowperucken.de
 .wpgame.shop
 .wploverset.shop
@@ -11465,7 +11385,6 @@
 .wrestle-site.com
 .wristbandpin.com
 .wrlovesk.life
-.ws-brennholz-gbr.shop
 .wt-versand.de
 .wunderwild.de
 .wunschau.de
@@ -11475,7 +11394,6 @@
 .wygl24.com
 .x-watches.co
 .x-water.shop
-.x1safetyde.shop
 .x24customs.de
 .xacartapps.com
 .xaperni.com
@@ -11521,7 +11439,6 @@
 .xn--hellyhansenbelgi-prb.com
 .xn--hellyhansenespaa-lub.com
 .xn--hellyhansenper-yrb.com
-.xn--hellyhansentrkiye-e3b.com
 .xn--huntergummistvler-d1b.com
 .xn--hunterstvler-2jb.com
 .xn--joyaespaa-s6a.com
@@ -11576,7 +11493,6 @@
 .yimbers.de
 .balkonzauber.ymwfdm.work
 .yoga-go.io
-.yoga-wear-eu.com
 .yogaathleta.de
 .yogabaum.at
 .yolkkl.shop

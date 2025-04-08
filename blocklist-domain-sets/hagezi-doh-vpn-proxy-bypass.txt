@@ -285,6 +285,7 @@
 .dohtrial.att.net
 .atvsh.ir
 .dns.auapi.fun
+.aurora-softworks.xyz
 .auto-aufladen.de
 .avanquestusa.com
 .vanheim.ff.avast.com
@@ -347,6 +348,7 @@
 .bestproxy.xyz
 .bestssh.net
 .bestukvpn.com
+.bestvideoproxy.com
 .bestvpn.org
 .bestvpnprovider.info
 .bestvpnrating.com
@@ -375,6 +377,7 @@
 .bitping.com
 .dns.bitservices.io
 .dns-tls.bitwiseshift.net
+.bizfast.info
 .blacklogic.com
 .blackvpn.com
 .2.dnscrypt-cert.blahdns.com
@@ -461,6 +464,7 @@
 .dns.butterfly87.sbs
 .bvpn.com
 .byewall.com
+.bypass.pw
 .bypassable.com
 .bypassed.wtf
 .bypasser.us
@@ -477,6 +481,7 @@
 .calculusproblems.online
 .callies-online.site
 .tor.calyxinstitute.org
+.canadaproxy.info
 .cantblockthis.org
 .cantfindme.org
 .2.dnscrypt-cert.captnemo.in
@@ -505,6 +510,7 @@
 .ibuki.cgnat.net
 .dns.chadeyron.fr
 .changemyip.com
+.changemyip.uk
 .chaos-system.de
 .dns.charraud.eu
 .dns.chenu.ch
@@ -537,6 +543,7 @@
 .clickwork7secure.com
 .cloaker.ca
 .cloaker.us
+.cloakpoint.com
 .cloakvpn.com
 .cloudbenders.fun
 .dns.cloudfiction.eu
@@ -1077,7 +1084,6 @@
 .eduacation.lol
 .adguard.ef67daisuki.club
 .tor.eff.org
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .elephantvpn.com
@@ -1201,7 +1207,6 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
-.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -2007,6 +2012,7 @@
 .dns.iki.my.id
 .dns.lista.my.id
 .dns.mikrotikrumahan.my.id
+.dns.pnh.my.id
 .dns.repinger.my.id
 .dns.velyn.my.id
 .dns.vmath.my.id
@@ -2042,7 +2048,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3246,7 +3251,6 @@
 .tlsext.com
 .tlz.asia
 .tmhhd.tk
-.tnvpn.com
 .d.toairs.com
 .tokit.site
 .tonvpn.com
@@ -3263,7 +3267,6 @@
 .topvpnguides.com
 .tor-gateways.de
 .tor2web.fi
-.tor2web.in
 .tor2web.io
 .tor2web.it
 .tor2web.org
@@ -3477,7 +3480,6 @@
 .unblockproxy.win
 .unblocks.net
 .unblocksite.biz
-.unblocksite.ch
 .unblocksite.fun
 .unblocksite.id
 .unblocksite.org
@@ -3809,7 +3811,6 @@
 .xmr.land
 .xn--durhre-yxa.de
 .xperienc.com
-.xsfwow.com
 .dns.xuming.studio
 .dns.xusqui.com
 .xvbelink.com
@@ -3834,7 +3835,6 @@
 .yogavpn.com
 .youcanhide.net
 .net01.youcef.io
-.youfreeproxytube.com
 .younblocked.com
 .youproxything.com
 .youproxytube.com
