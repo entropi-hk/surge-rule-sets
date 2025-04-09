@@ -334,6 +334,7 @@
 .dns.dns-53.com
 .dns.dns-53.uk
 .dns.dns-53.us
+.dns-free.link
 .dns1.dns-ga.de
 .dns2.dns-ga.de
 .doh.dns-ga.de
@@ -724,7 +725,6 @@
 .dns.kawa.tf
 .dns.kebree.fr
 .dns.keke125.com
-.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de
@@ -850,6 +850,7 @@
 .dns.mihanentalpo.me
 .dns.mikeliu.org
 .mikezhang.xyz
+.dns.milkpie.one
 .netcup.mismat.ch
 .doh.mmmalia.com
 .dns.mnet-online.de
@@ -1393,6 +1394,7 @@
 .doh.webnmail.de
 .dns.wechat.com
 .doh.wewitro.net
+.dns.wibenson.cloud
 .wikimedia-dns.org
 .dns-1.wil.cloud
 .dns-2.wil.cloud

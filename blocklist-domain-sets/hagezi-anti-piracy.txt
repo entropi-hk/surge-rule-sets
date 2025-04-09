@@ -353,7 +353,6 @@
 .94hiphop.com
 .960303.xyz
 .9anime.ru
-.9anime.to
 .9anime.zone
 .9animetv.to
 .9divx.com
@@ -1585,6 +1584,7 @@
 .byxatab.com
 .byxatab.org
 .anti.c.la
+.digitalwarez.c.la
 .c1anime.net
 .c1live.com
 .c1movies.com
@@ -2236,6 +2236,7 @@
 .cricfree.stream
 .cricfree.sx
 .cricfree.to
+.cricfree.tv
 .cricfrees.com
 .crichd.ac
 .crichd.at
@@ -2267,10 +2268,12 @@
 .crosstowntorrents.org
 .crotorrents.com
 .crownbit.cc
+.crsky.net
 .packages.crunchbangplusplus.org
 .tpb.crushus.com
 .cruzing.xyz
 .tracker.cryptichaven.org
+.crystal-warez.in
 .cspan.com
 .csrin.org
 .ctgflix.com
@@ -2348,6 +2351,7 @@
 .dark-angel.ws
 .darkanime.stream
 .darkarea.pl
+.darkbooter.com
 .darkbox.to
 .darkdata.net
 .darkino.co
@@ -2384,6 +2388,7 @@
 .bt.davka.info
 .daxiv.com
 .dbbians.com
+.dbgo.fun
 .dbgt.com
 .dbz-media.nl
 .dbzdivx.com
@@ -2552,6 +2557,7 @@
 .dizcompany.ru
 .djconway.com
 .djleak.com
+.dl-more.eu
 .dl4all.biz
 .dl4all.org
 .dl4free.com
@@ -2559,6 +2565,7 @@
 .dlandroid.com
 .dldepot.com
 .dle-news.ru
+.dle-shablons.ru
 .dler.org
 .tracker.dler.com
 .tracker2.dler.com
@@ -10048,14 +10055,12 @@
 .yuptorrents.com
 .home.yxgz.club
 .6ffc826b.yyv.co
-.z-lib.gs
 .z-lib.org
 .z-shadow.co
 .z-torrents.ru
 .z7inc.com
 .lunatech.zaeleus.org
 .zajefajna.com
-.zalukaj.cam
 .zalukaj.cc
 .zalukaj.film
 .zalukaj.pl
@@ -10071,7 +10076,6 @@
 .zamunda.ch
 .zamunda.net
 .zamunda.se
-.zanimesonline.com
 .zaniob.com
 .zaycev.net
 .zbigz.com
@@ -10157,4 +10161,3 @@
 .ztracker.hu
 .tr.zukizuki.org
 .zxcmovies.com
-.zxonlinebd.com
