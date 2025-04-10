@@ -1089,6 +1089,7 @@
 .eduacation.lol
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .elephantvpn.com
@@ -1212,6 +1213,7 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
+.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -1314,6 +1316,7 @@
 .dns.froth.zone
 .fun4school.store
 .doh.funil.de
+.funknetwork.com
 .doh.funtopia.tv
 .dns.furrydns.de
 .doh.futa.app
@@ -1376,6 +1379,7 @@
 .gibblets.top
 .adguard.maison.gifino.fr
 .gifttrees.us
+.gingerbread.design
 .dns.ginovs.nl
 .gipvpn.com
 .dns.girino.org
@@ -1747,6 +1751,7 @@
 .keenow.com
 .keepanonymous.com
 .dns.keke125.com
+.doh.kekew.info
 .doh.kel.pe
 .kepard.com
 .kerbeans.com
@@ -1823,6 +1828,7 @@
 .legaladvisor.us
 .legalweb.info
 .br.servers.legat.ml
+.externalmobiel.lekdijk.online
 .lelux.fi
 .dns.lepilleur.com
 .dns.lermer.nl
@@ -2053,6 +2059,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io

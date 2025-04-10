@@ -635,7 +635,6 @@
 .altadefinizione01.life
 .altadefinizione01.love
 .altadefinizione01.name
-.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -2874,6 +2873,7 @@
 .cemu.emiyl.com
 .emiz.biz
 .emovies.io
+.emovies.si
 .emp3juices.cc
 .empornium.us
 .tracker.empornium.is
@@ -2985,6 +2985,7 @@
 .eurostreaming.college
 .eurostreaming.com
 .eurostreaming.credit
+.eurostreaming.dance
 .eurostreaming.de
 .eurostreaming.dev
 .eurostreaming.dog
@@ -3003,6 +3004,7 @@
 .eurostreaming.haus
 .eurostreaming.homes
 .eurostreaming.info
+.eurostreaming.ink
 .eurostreaming.irish
 .eurostreaming.it
 .eurostreaming.lat
@@ -3302,6 +3304,7 @@
 .filmoflix.bio
 .filmon.tv
 .filmoteka.cc
+.filmoviez.com
 .filmowo.club
 .filmpalast.to
 .filmpertutti.asia
@@ -3428,6 +3431,7 @@
 .filmstreaming.space
 .filmstreaming.to
 .filmstreaming.top
+.filmstreaming.tv
 .filmstreaming.uk
 .filmstreaming.us
 .filmstreaming.vg
@@ -3470,6 +3474,7 @@
 .findnzb.net
 .finvip.org
 .nunflix-firebase.firebaseapp.com
+.firebit.net
 .bt.firebit.org
 .fireflix.fun
 .fireget.com
@@ -3550,8 +3555,10 @@
 .fmovies.co
 .fmovies.coffee
 .fmovies.date
+.fmovies.fo
 .fmovies.hn
 .fmovies.llc
+.fmovies.one
 .fmovies.org
 .fmovies.pub
 .fmovies.rs
@@ -3664,6 +3671,7 @@
 .freedocumentaries.org
 .freedomalternative.com
 .freedomonlinebd.com
+.freedownloadbd.com
 .freeebies.site
 .freeeducationweb.com
 .freeetextbooks.com
@@ -3761,6 +3769,7 @@
 .fullprogramlarindir.com
 .fullreleasez.com
 .fullserialkey.com
+.fullsoftversion.com
 .fullstream.rip
 .fullthrottleip.tv
 .fullversionfinder.com
@@ -3845,6 +3854,7 @@
 .gamestorrents.nu
 .gametechwiki.com
 .bt-tracker.gamexp.ru
+.gamezlinks.net
 .gamingbeasts.com
 .gaoqing.fm
 .garageforum.org
@@ -5418,6 +5428,7 @@
 .cracks.me.uk
 .me-4u.com
 .meawfy.com
+.fs1.mebd.net
 .mechopirate.com
 .medbit.ru
 .media-sharing.com
@@ -6003,6 +6014,7 @@
 .fcpic.nesbbs.com
 .nesfiles.com
 .cnc.net.bd
+.enjoy.net.bd
 .futeboldahora.net.br
 .futeboltotal.net.br
 .greenbytes.net.bd
