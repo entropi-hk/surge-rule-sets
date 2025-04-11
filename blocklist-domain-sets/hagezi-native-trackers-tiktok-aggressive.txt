@@ -91,9 +91,6 @@
 .mcs-sg.tiktok.com
 .mcs-va.tiktok.com
 .mcs16-normal-ycru.tiktok.com
-.mssdk-i18n.tiktok.com
-.mssdk-quic-sg.tiktok.com
-.mssdk-sg.tiktok.com
 .mssdk-va.tiktok.com
 .ads.us.tiktok.com
 .ads-ttp2.us.tiktok.com
@@ -268,6 +265,7 @@
 .rtc-logger.tiktokv.us
 .rtc-logger-i18n.tiktokv.com
 .rtc-logger-ie.tiktokv.eu
+.rtc-logger-ttp2.tiktokv.us
 .rtc-logger-va.tiktokv.com
 .rtlog.tiktokv.com
 .rtlog-i18n.tiktokv.com

@@ -1065,6 +1065,7 @@
 .dvprovider.icu
 .dns.dyn1.de
 .ueni.dyndns.org
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .vpn.dzarlax.dev
 .dzhot.us
@@ -1443,6 +1444,7 @@
 .vps.grussenmeyer.com
 .gsdkhjgsbgsdsjhvdskjlg.ru
 .dns.guard.io
+.guardian-vpn.com
 .guardianapp.com
 .guardianvpn.net
 .dns.guardmydns.com
@@ -1495,6 +1497,7 @@
 .hideipvpn.com
 .hideman.net
 .hideme.be
+.hideme101.info
 .hidemebro.com
 .hidemefast.net
 .hidemenow.net
@@ -1515,6 +1518,7 @@
 .hidesurf.us
 .hidetheinternet.com
 .hidethisip.net
+.hidethistime.com
 .hidevpn.info
 .hideway.eu
 .hideweb.org
@@ -1647,6 +1651,7 @@
 .invisv.com
 .ioxy.de
 .ipbuzz.net
+.ipcamouflage.com
 .ipchanging.com
 .ipfreely.io
 .ipinator.com
@@ -1656,6 +1661,7 @@
 .iprivatevpn.com
 .iprovpn.com
 .ipsharkk.com
+.ipstopper.com
 .ipunblock.com
 .ipunblocker.com
 .ipvanish.com
@@ -1716,7 +1722,6 @@
 .dns.joey01245.nl
 .vpn.jogjacloud.com
 .adguard.johanliebert.top
-.johneldenring.lol
 .johnkellyprivate.com
 .joker81fansbase.site
 .opencdn.jomodns.com

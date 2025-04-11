@@ -1584,6 +1584,7 @@
 .byxatab.org
 .anti.c.la
 .digitalwarez.c.la
+.ignition-board.c.la
 .c1anime.net
 .c1live.com
 .c1movies.com
@@ -3983,6 +3984,7 @@
 .goflix.io
 .gog-games.to
 .gogo-stream.com
+.gogoanime.in
 .gogoanime.io
 .gogoanime.so
 .gogoanime.vc
@@ -4001,6 +4003,7 @@
 .goldesel.to
 .goldesel.tv
 .goldhiphop.pro
+.goldpravda.net
 .warez.goldzoneweb.info
 .golkoralive.com
 .golkoralive.live
@@ -4015,6 +4018,7 @@
 .gomovies.sc
 .gomovies.sx
 .gomovies.uno
+.gomovies-hd.org
 .gomovies-online.com
 .gomovies-online.link
 .gomovies123.fi
@@ -4265,9 +4269,11 @@
 .hdhome.org
 .hdhublist.com
 .hdlivemovies.com
+.hdm.to
 .hdmatch.club
 .hdme.eu
 .hdmovie14.net
+.hdmovie2.com
 .hdmovie2.link
 .hdmovie99.co
 .hdmoviearea.com
@@ -4405,6 +4411,7 @@
 .v1046920.hosted-by-vdsina.ru
 .webstresser-free.hostthegame.com
 .hotaudiobooks.com
+.hotcamsplays.life
 .hotne.ws
 .retracker.hotplug.ru
 .booter-sales.hourb.com
@@ -4414,6 +4421,7 @@
 .hpav.tv
 .hpjav.tv
 .hq-films.ws
+.hqanime4arab.com
 .hs-scene.to
 .tracker.htp.re
 .httpbd.com
@@ -4582,6 +4590,7 @@
 .tracker2.indowebster.com
 .indoxx1film.me
 .indoxxi.center
+.indoxxi.studio
 .indoxxi.tube
 .indoxxi.tv
 .inetisp.net
@@ -4646,6 +4655,7 @@
 .download.iq24.pl
 .torrent.iq24.pl
 .upload.iq24.pl
+.iqcrew.net
 .iraniantorrents.com
 .tracker.iriseden.fr
 .tracker.iro.moe
@@ -6132,6 +6142,7 @@
 .nhlstream.net
 .nhlstreams.io
 .nhlstreams.to
+.h4.trakx.nibba.trade
 .nicemoviezion.pro
 .niktu.com
 .nima4k.org

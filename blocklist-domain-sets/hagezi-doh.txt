@@ -494,6 +494,7 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -705,7 +706,6 @@
 .green2.jnraptor.net
 .dns.joey01245.nl
 .adguard.johanliebert.top
-.johneldenring.lol
 .opencdn.jomodns.com
 .adguard1.jsanagustin.net
 .dns.jstockley.com
