@@ -1215,7 +1215,6 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
-.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
