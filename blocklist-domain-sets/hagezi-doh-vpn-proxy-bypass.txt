@@ -511,7 +511,6 @@
 .alidns.cb1999.top
 .alidns2.cb1999.top
 .cbentertainment.online
-.dns2.cbio.top
 .doh.ccb-net.it
 .vpn.ccnt.fr
 .dns.cctld.kg
@@ -786,6 +785,7 @@
 .c.cpfrx.info
 .e.cpfrx.info
 .www.i.cpfrx.info
+.cracksite.info
 .crawlbase.com
 .crazyfastrace.lol
 .crazyproxy.org
@@ -2166,6 +2166,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3742,6 +3743,7 @@
 .videonew.online
 .videoproxy.site
 .videounblock.com
+.videounblocked.com
 .videounblocker.net
 .vidproxy.com
 .viewyoutube.net
@@ -4010,6 +4012,7 @@
 .yogavpn.com
 .youcanhide.net
 .net01.youcef.io
+.youfreeproxytube.com
 .younblocked.com
 .youproxything.com
 .youproxytube.com
@@ -4065,5 +4068,6 @@
 .zproxy.org
 .zpzpzpapapap4d.online
 .zscalertwo.net
+.dns.zui.lol
 .zwyr157wwiu6eior.com
 .dns.zzuhacker.cn

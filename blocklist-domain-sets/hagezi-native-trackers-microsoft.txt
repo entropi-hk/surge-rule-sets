@@ -161,6 +161,7 @@
 .watson.officeint.microsoft.com
 .analytics.pstnhub.microsoft.com
 .rad.microsoft.com
+.telem-edge.smartscreen.microsoft.com
 .i1.services.social.microsoft.com
 .spynet2.microsoft.com
 .spynetalt.microsoft.com

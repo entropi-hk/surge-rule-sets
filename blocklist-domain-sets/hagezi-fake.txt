@@ -642,6 +642,7 @@
 .asflnag.lat
 .asfuinsag.info
 .asgalabau.de
+.ashatoslombardini.com
 .asiasellet.best
 .asics-deutschland.de
 .asics-suomi.com
@@ -907,7 +908,6 @@
 .barbecuegrill-shop.com
 .barbelli.net
 .barbequesale.com
-.barbouraustria.at
 .barbourgermany.com
 .barbourgermany.de
 .barbourpolska.com
@@ -2281,6 +2281,7 @@
 .containerhaus-anhanger.de
 .conthaus24.de
 .contiflexv.com
+.converse-finland.com
 .conversealesuomi.com
 .conversebrasil.com
 .converseinespana.com
@@ -2395,7 +2396,7 @@
 .cryptoneyx.io
 .cryptoqate.com
 .cryptoquicker.com
-.www.cryptos.solutions
+.cryptos.solutions
 .cryptos-maker.com
 .cryptosmarket.com
 .cryptosone.com
@@ -2808,7 +2809,6 @@
 .discountfahrradde.com
 .discountmall.club
 .discountoutlie.com
-.de.discountsale2023.com
 .discountshop-eu.top
 .discountsrc.com
 .discountsshoe.com
@@ -3151,6 +3151,7 @@
 .elektriker-zone.at
 .elektriker7d.at
 .elektro-bau.com
+.elektro-beuss.de
 .elektro-bischof.com
 .elektro-dreher.com
 .elektro-evolution.de
@@ -4078,7 +4079,6 @@
 .gaborschuheschweiz.com
 .gaborschuheschweiz.net
 .gaborschweiz.org
-.gaborshoesoutletusa.com
 .gaborskonorge.com
 .gaborskorsverige.com
 .gaborstovlerdanmark.com
@@ -4093,6 +4093,7 @@
 .platform.gainfulmarkets-tech.com
 .gainpipstrade.com
 .gala-gruppe.com
+.galaktischshop.com
 .galaxy-handel.de
 .galaxyfox.io
 .galeme.com
@@ -4590,7 +4591,6 @@
 .groundiesshop.at
 .groundiesukshoes.com
 .groundieswyprzedaz.cc
-.groundiewien.com
 .group-investment.com
 .group-rwe.de
 .www.quantum.groupe.com
@@ -8187,7 +8187,6 @@
 .patrimoinefacile.com
 .patrimoinesolution.com
 .patriziabeni.com
-.paul-joses.de
 .paulidesign.shop
 .paulinasinger.com
 .pavan.top
@@ -8335,7 +8334,6 @@
 .pitvipergafas.com
 .pitviperjapan.com
 .pitviperoculos.com
-.pitviperosterreich.com
 .pitvipersunglassesnz.com
 .pk.toys
 .pkm.store
@@ -8464,7 +8462,6 @@
 .preciousaboumaeup.shop
 .prednisolon-rezeptfrei-osterreich.com
 .prednisone-buyonline.site
-.preisglueck24.de
 .preisprinzessinde24.de
 .preistech.de
 .prelovesov.live
@@ -8649,7 +8646,6 @@
 .qzzfg7zy0r.online
 .r.de
 .rabar.net
-.rabatt-disney.de
 .rabattakkuslader.com
 .rabattarkk.de
 .rabattbabykleidung.com
@@ -8768,7 +8764,6 @@
 .rdoering.de
 .reality-golf.com
 .realitymenswear.com
-.realmadridcf.de
 .realstock.es
 .rebateknife.com
 .rebatenewoutdoor.com
@@ -8981,7 +8976,6 @@
 .roboter-maeher.com
 .robynbruce.shop
 .rochobbies.com
-.rockehemden.com
 .rockportbootsireland.com
 .rockportjapan.com
 .rockportmontreal.com
@@ -9023,7 +9017,6 @@
 .ronctly.com
 .ronovia.de
 .rontis.de
-.roofpanelsshop.com
 .roominabox.shop
 .roomosa.homes
 .rootsandwings.at
@@ -9223,7 +9216,6 @@
 .sandrabirtel.shop
 .sandrastieroase.com
 .sanemedi-handel.de
-.sanitatsbedarf24.com
 .santorinicasa.com
 .sanukdublin.com
 .sanukfinland.com
@@ -9355,7 +9347,6 @@
 .schwarzundlang.de
 .schweibenhandel.com
 .schweibenprofi.com
-.scooterduck.de
 .scopesaccessories.com
 .scpi-gouv.fr
 .screenacy.co
@@ -9542,7 +9533,6 @@
 .shopexbr.com
 .shopfashion2023.com
 .shopfasts.shop
-.shopfreude24.de
 .shopgamefishing.com
 .shopgenusswelt.de
 .shopguterwein.com
@@ -9574,12 +9564,10 @@
 .shopping-mag.de
 .shopping-paradise.net
 .shoppingdeautopecas.com
-.shoppingharmonie.de
 .shoppingsmart.store
 .shoppocski.com
 .shoppyy.de
 .shopraidlight.com
-.shoprhandyretter.shop
 .shopringstore.com
 .shoprosada.com
 .shoprugbysports.com
@@ -9845,7 +9833,6 @@
 .sparkingde.shop
 .sparprime.com
 .sparschmiede.de
-.spartraum24.de
 .sparweltplanet.de
 .sparweltzone.de
 .spd-mossautal.de
@@ -9875,7 +9862,6 @@
 .spinnrutede.com
 .spiral-kapital.com
 .spiritofliebs.shop
-.spirits-official.com
 .spiritualsalt.co
 .splendris-pharmaceuticals.de
 .sport-athletics.de
@@ -10455,7 +10441,6 @@
 .tennisnew.com
 .tensiostore.com
 .tentssaleshop.com
-.teppichedeko.com
 .terange.com
 .terea-polen.com
 .termink.com
@@ -10931,7 +10916,6 @@
 .trikots-onshop.com
 .trikots4u.com
 .trikotsale.de
-.trilavora.com
 .trillant.com
 .trimzy.de
 .triton-online.com
@@ -11246,6 +11230,7 @@
 .vansosterreich.at
 .vanss.at
 .vapecheap.de
+.vapegunstig.de
 .vapeversorgung.de
 .vapormode.shop
 .varilo.nl
@@ -11332,7 +11317,6 @@
 .verkaufen-tonies.com
 .verkaufenhardwaretools.com
 .verkauffahrradbike.com
-.verkaufgarten.com
 .verkaufmode.de
 .verkaufschuhe.de
 .verkettet-dogs.com
@@ -11576,6 +11560,7 @@
 .waresnewbike.com
 .waresusbike.com
 .warmholz.de
+.warmtepompe.com
 .warmwinkelen.com
 .wascheparfum.at
 .wascheparfume.de
@@ -11829,7 +11814,6 @@
 .womenbikesale.com
 .womencircus.com
 .womenfarmsale.com
-.womenshop-plus.com
 .womensjewelry.store
 .womensoffer.com
 .womma.de
@@ -11904,6 +11888,7 @@
 .xidara.com
 .xiener.de
 .xikixi.eu
+.xinghly.com
 .xinyuekj.com
 .xlumina.at
 .xlumina.de
@@ -11934,6 +11919,7 @@
 .xn--solovairmxico-jhb.com
 .xn--vejazrich-u9a.com
 .xnglckschenkenelbde.shop
+.xnvest.com
 .xo-trier.de
 .xohapro.com
 .xpertmarket.com
@@ -12012,6 +11998,7 @@
 .zagnia.de
 .luftfrittierprofi.zahestafind.com
 .zahnpflegerabatt.de
+.zainabchemicals.com
 .zalieroo.de
 .zalo-web.me
 .zaloweb.me

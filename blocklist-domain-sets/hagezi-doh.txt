@@ -195,7 +195,6 @@
 .catdns.org
 .alidns.cb1999.top
 .alidns2.cb1999.top
-.dns2.cbio.top
 .doh.ccb-net.it
 .dns.cctld.kg
 .anycast.censurfridns.dk
@@ -896,6 +895,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1452,4 +1452,5 @@
 .dns.zfsystem.tech
 .doh.zknt.org
 .zougloub.eu
+.dns.zui.lol
 .dns.zzuhacker.cn

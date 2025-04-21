@@ -655,7 +655,6 @@
 .altadefinizione01.life
 .altadefinizione01.love
 .altadefinizione01.name
-.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -964,6 +963,7 @@
 .arenabg.ch
 .arenabg.com
 .arenahd.com
+.arenda123.ru
 .argenteam.net
 .argentinawarez.com
 .arishabd.net
@@ -1050,6 +1050,7 @@
 .audiostuff.ro
 .audiotracer.com
 .audiozonetorrents.com
+.aurastresser.com
 .aurora-raws.com
 .aussietorrents.com
 .autobitx.com
@@ -1227,6 +1228,7 @@
 .bhlegend.com
 .bhpt4vip.com
 .bhuiyan-online.com
+.biberona.com
 .bibliotik.me
 .big-boss-tracker.net
 .bigbbs.eu
@@ -7337,7 +7339,6 @@
 .redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
-.redditsport.cc
 .redecanais.zip
 .redecanaistv.zip
 .ica1616.redirectme.net
@@ -7733,6 +7734,7 @@
 .sexy-pics.us
 .wriz-v2-booter.sfbaywhalewatching.com
 .sflix.to
+.sflix.tube
 .sflix2.to
 .diva.sfsu.edu
 .sganime.org
@@ -9977,6 +9979,7 @@
 .wiflix.org
 .wiflix.pw
 .wiflix.voto
+.wild-bytes.org
 .wilmaa.com
 .win7dl.org
 .win7games.com
@@ -10045,6 +10048,7 @@
 .x-torrent.net
 .x1337x.eu
 .x1337x.ws
+.x264.me
 .x265movies.cc
 .x265movies.co
 .retracker.x2k.ru
@@ -10082,6 +10086,7 @@
 .tracker.xiaoduola.xyz
 .xider.hu
 .dyndns.xionxiii.ovh
+.xlist.ro
 .xmovie8.pro
 .xmovies.ws
 .xmovies8.fm
@@ -10181,6 +10186,7 @@
 .yify-torrent.cc
 .yify-torrent.org
 .yify-torrents.com
+.yifyhdtorrent.com
 .yifymovies.xyz
 .yifymovietorrent.com
 .yifystatus.com
@@ -10218,6 +10224,7 @@
 .torrents.yourexotic.com
 .yournetcommunications.net
 .yourptflixmovies.com
+.yourserie.com
 .yoursports.stream
 .youserials.com
 .youtorrent.com
@@ -10359,6 +10366,7 @@
 .zonesega.com
 .zonestreaming.info
 .zonestreaming.rip
+.zonetelechargement.to
 .forever-tracker.zooki.xyz
 .free-tracker.zooki.xyz
 .public-tracker.zooki.xyz
