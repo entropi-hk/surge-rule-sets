@@ -340,7 +340,6 @@
 .doh.battle.christmas
 .bazooki-infra.dev
 .bdns.io
-.bdns.nu
 .bdns.pro
 .beapasswpn.com
 .dns.beardic.cn
@@ -511,6 +510,7 @@
 .alidns.cb1999.top
 .alidns2.cb1999.top
 .cbentertainment.online
+.dns2.cbio.top
 .doh.ccb-net.it
 .vpn.ccnt.fr
 .dns.cctld.kg
@@ -822,6 +822,7 @@
 .dns.csswg.org
 .ct-vpn.com
 .cubedns.com
+.cubixpvp.net
 .qual.cuprum.ru
 .curd.io
 .cv-unfiltered.xyz
@@ -2166,7 +2167,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
