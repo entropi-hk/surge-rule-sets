@@ -283,6 +283,7 @@
 .tk-beta.amazon-adsystem.com
 .tk-eu.amazon-adsystem.com
 .tk-gamma.amazon-adsystem.com
+.trace.app-performance.music.amazon.dev
 .ts.amazon-adsystem.com
 .ts-gamma.amazon-adsystem.com
 .unagi.amazon.ae

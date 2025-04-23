@@ -363,7 +363,6 @@
 .94hiphop.com
 .960303.xyz
 .9anime.ru
-.9anime.to
 .9anime.zone
 .9animetv.to
 .9divx.com
@@ -5155,6 +5154,7 @@
 .retracker.lanta.me
 .laola1.tv
 .video.laola1.at
+.lapache.info
 .lapak21.com
 .latinbit.com
 .pt.lax.mx
@@ -6754,6 +6754,7 @@
 .phoenix-warez.ws
 .phook.org
 .pianosheets.org
+.pianyuan.net
 .picktorrent.com
 .picotorrent.org
 .tracker.picotorrent.one
