@@ -1093,6 +1093,7 @@
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
 .im-in-the-thick-of-it-everybody-knows.dynorex.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .vpn.dzarlax.dev
 .dzhot.us
@@ -1120,6 +1121,7 @@
 .eduacation.lol
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .elephantvpn.com
@@ -2083,6 +2085,7 @@
 .miniprox.info
 .netcup.mismat.ch
 .mitmproxy.org
+.mkslcl.xyz
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mo0on15.com
@@ -2563,6 +2566,7 @@
 .pm1239-bd.xyz
 .pm7051-br.xyz
 .pm9352-bd.xyz
+.xcxx.pointed.cc
 .pointtoserver.com
 .polandgrows.com
 .polargrizzly.com
