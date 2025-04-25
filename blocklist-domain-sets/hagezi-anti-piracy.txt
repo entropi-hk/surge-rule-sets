@@ -232,7 +232,6 @@
 .3dmgame.com
 .warezanet.3dn.ru
 .3dsdb.com
-.3dsiso.com
 .3dsroms.org
 .bt.3kb.xyz
 .tracker.3moredays.com
@@ -438,7 +437,6 @@
 .aerotwitter.com
 .aerowa.cc
 .afdah.com
-.afdah.info
 .afdah.live
 .afdah.org
 .afdah.to
@@ -700,7 +698,6 @@
 .androidrookies.com
 .andropalace.org
 .andyday.tv
-.ani-tsuzuki.net
 .anicloud.domains
 .anicloud.io
 .anidb.info
@@ -964,7 +961,6 @@
 .arenabg.ch
 .arenabg.com
 .arenahd.com
-.arenda123.ru
 .argenteam.net
 .argentinawarez.com
 .arishabd.net
@@ -1051,7 +1047,6 @@
 .audiostuff.ro
 .audiotracer.com
 .audiozonetorrents.com
-.aurastresser.com
 .aurora-raws.com
 .aussietorrents.com
 .autobitx.com
@@ -1229,7 +1224,6 @@
 .bhlegend.com
 .bhpt4vip.com
 .bhuiyan-online.com
-.biberona.com
 .bibliotik.me
 .big-boss-tracker.net
 .bigbbs.eu
@@ -1297,7 +1291,6 @@
 .bitsources.com
 .bitsparadise.info
 .bitspyder.net
-.tracker.bittalk.org
 .tracker.bittor.pw
 .tracker.bittor.xyz
 .bittorent.biz
@@ -2274,7 +2267,6 @@
 .cricfree.stream
 .cricfree.sx
 .cricfree.to
-.cricfree.tv
 .cricfrees.com
 .crichd.ac
 .crichd.at
@@ -2530,10 +2522,8 @@
 .dflix.live
 .bm.dfnbd.net
 .bn.dfnbd.net
-.cm.dfnbd.net
 .em.dfnbd.net
 .srl.dfnbd.net
-.torrent.dfnbd.net
 .tube.dfnbd.net
 .tv.dfnbd.net
 .dfox.it
@@ -2815,7 +2805,6 @@
 .dx-team.org
 .tracker.dxdhd.com
 .dylan-park.com
-.dynamic-universe.com
 .irrenhaus.dyndns.dk
 .tracker.dyne.org
 .aam-bt.dyns.cx
@@ -3703,7 +3692,6 @@
 .timcityparadize.free.fr
 .warezdownload.free-bb.com
 .free-boot.xyz
-.free-movie-s.com
 .free-movies.to
 .free-mp3-download.net
 .free-proxy.fr
@@ -4450,7 +4438,6 @@
 .share.hkg-fansub.info
 .bt.hliang.com
 .hlscat.com
-.hlusoe.info
 .hobby-hacker.com
 .hoerbuch.us
 .hoerspielprojekt.de
@@ -4827,7 +4814,6 @@
 .jetanimes.com
 .jetload.net
 .jhakkas.live
-.jhalmuri.com
 .jhalmuri.xyz
 .tracker.jiesen.life
 .jimmyr.com
@@ -5155,7 +5141,6 @@
 .retracker.lanta.me
 .laola1.tv
 .video.laola1.at
-.lapache.info
 .lapak21.com
 .latinbit.com
 .pt.lax.mx
@@ -5936,7 +5921,6 @@
 .mp3-club.ru
 .mp3-daddy.com
 .mp3-find.com
-.mp3-juice.icu
 .mp3-juice.org
 .mp3-juices.net
 .mp3-juices.ws
@@ -6007,7 +5991,6 @@
 .multicanais.nz
 .multicanais.today
 .multicanaishd.online
-.multreactor.ru
 .mults.info
 .munki.org
 .murmurs.com
@@ -6156,7 +6139,7 @@
 .fcpic.nesbbs.com
 .nesfiles.com
 .cnc.net.bd
-.enjoy.net.bd
+.www.enjoy.net.bd
 .futeboldahora.net.br
 .futeboltotal.net.br
 .greenbytes.net.bd
@@ -6278,7 +6261,6 @@
 .h4.trakx.nibba.trade
 .nicemoviezion.pro
 .nicoblog.org
-.nightmarestresser.com
 .niktu.com
 .nima4k.org
 .nineoneone.nl
@@ -6701,7 +6683,6 @@
 .passwordscity.net
 .patalpuri.com
 .tpb.patatje.eu
-.patchfree.com
 .patchsoftwares.com
 .patoghu.com
 .patup.com
@@ -6755,7 +6736,6 @@
 .phoenix-warez.ws
 .phook.org
 .pianosheets.org
-.pianyuan.net
 .picktorrent.com
 .picotorrent.org
 .tracker.picotorrent.one
@@ -7345,6 +7325,7 @@
 .redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
+.redditsport.cc
 .redecanais.zip
 .redecanaistv.zip
 .ica1616.redirectme.net
@@ -9021,7 +9002,6 @@
 .torrentvalley.com
 .torrentvault.org
 .torrentvery.com
-.torrentvibes.com
 .torrentvideos.com
 .torrentview9.net
 .torrentway.com
@@ -9647,7 +9627,6 @@
 .vidclouds.icu
 .vidembed.net
 .videobin.co
-.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info

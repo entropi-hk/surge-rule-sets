@@ -72,6 +72,7 @@
 .dns.354688.xyz
 .doh.360.cn
 .dot.360.cn
+.3bbb.me
 .3dcosas.xyz
 .3dns.eu
 .3jjxxl.tech
@@ -422,6 +423,7 @@
 .bloquer.fr
 .rfree1.blue-shield.at
 .rfree2.blue-shield.at
+.bluegray.us
 .bluemood.me
 .bluesnap.com
 .blufvpn.com
@@ -552,6 +554,7 @@
 .citizenvpn.com
 .dns.clanless.ovh
 .dns.clanto.cloud
+.classicpen.us
 .cleanbrowsing.org
 .clearvpn.com
 .clickwork7secure.com
@@ -770,6 +773,7 @@
 .cool-proxy.net
 .coolbits.org
 .coolproxy.org
+.coproxy.io
 .corecloak.com
 .doh.cornes.me
 .corsproxy.io
@@ -806,6 +810,7 @@
 .croxyproxy.com
 .croxyproxy.net
 .croxyproxy.rocks
+.croxyproxycom.org
 .croxyproxys.com
 .croxyproxyvpn.com
 .crushus.com
@@ -872,6 +877,7 @@
 .deproxyserver.com
 .desbloquearredes.online
 .desec.io
+.desertsand.us
 .adguard.lege.despagne.net
 .doh-primary-pool.detoxifypornblocker.com
 .dns.dev-umbrellagov.com
@@ -955,7 +961,6 @@
 .hel01.dnscry.pt
 .hkg01.dnscry.pt
 .hkg02.dnscry.pt
-.hrk01.dnscry.pt
 .isb01.dnscry.pt
 .ist01.dnscry.pt
 .jhb01.dnscry.pt
@@ -1107,6 +1112,7 @@
 .easyproxy.tech
 .easyvpn.com
 .easyvpn.zone
+.eblan.pro
 .ebookdz.com
 .ebumna.net
 .ecoweb-network.com
@@ -1119,6 +1125,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .eduacation.lol
+.educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
 .dns.efficientdocuments.com
@@ -1258,6 +1265,7 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
+.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -1514,6 +1522,7 @@
 .dns.guardmydns.com
 .guardster.com
 .guavi.com
+.guestappearance.us
 .dns2.guidocioni.it
 .dns.gutwe.in
 .gvirabi.com
@@ -1545,7 +1554,6 @@
 .betternet-backend.herokuapp.com
 .heroproxy.com
 .httpdns-push.heytapmobile.com
-.hfgx.shop
 .hiddendigital.info
 .hiddenproxy.net
 .hide.me
@@ -1897,6 +1905,7 @@
 .dns.kxy.ink
 .kyoheitensai.com
 .agh.kyusang.win
+.l-am-sigma.pro
 .dns.l337.site
 .adamz2eso.l5.ca
 .lablancer.com
@@ -2014,10 +2023,12 @@
 .mailproxy.info
 .mainprox.com
 .mainssh.com
+.maintainbrain.us
 .dns.maitrekuc.fr
 .mallocapp.com
 .mallocprivacy.com
 .dns.mandre.dev
+.mapspublications.us
 .maqgie.xyz
 .dns.marasov.id
 .dns.marbledfennec.net
@@ -2497,6 +2508,7 @@
 .peekproxy.com
 .check.peer2profit.site
 .penkun0286.xyz
+.penrepair.us
 .fuchur.pentament.de
 .peoplesproxy.com
 .pepetio.xyz
@@ -2985,6 +2997,7 @@
 .sakirdakproxy.tk
 .samj.codes
 .cloud.samutz.com
+.sandmining.us
 .sandparticles.us
 .saoudiproxy.info
 .dns.sarak.as
@@ -3268,6 +3281,7 @@
 .surfcovertly.com
 .surfdoge.pro
 .surfeasy.com
+.surfeasy.mobi
 .surfly.com
 .surfmenow.com
 .surfmo.com
@@ -3731,6 +3745,7 @@
 .uvpn.me
 .dns.vaioswolke.xyz
 .doh.valscosmos.com
+.valuepremium.us
 .vanilcraft.ru
 .tor.vasi.li
 .dns.vault81.de
@@ -3926,6 +3941,7 @@
 .webxify.com
 .webypass.info
 .dns.wechat.com
+.wedding-present.us
 .wellpoint.com
 .wevpn.com
 .doh.wewitro.net
@@ -3955,6 +3971,7 @@
 .wobti.com
 .wonderland.ws
 .clearweb.woodbridge.club
+.woodenclock.us
 .workbypass.com
 .workdigi.com
 .workhost.eu

@@ -321,7 +321,6 @@
 .dougtreadwell.com
 .doyleandprendergast.com
 .dp76.com
-.dray-dns.de
 .drayddns.com
 .dropfiles.net
 .drunkensailor.org
@@ -606,7 +605,6 @@
 .ham-radio-op.net
 .hamshack.info
 .happyforever.com
-.happyminecraft.com
 .hatenboer.org
 .hbmc.net
 .health-carereform.com
@@ -909,8 +907,6 @@
 .musterihizmetleri.com
 .mwop.net
 .my.to
-.my-vigor.de
-.my-wan.de
 .my03.com
 .myactivedirectory.com
 .myaddr.dev
