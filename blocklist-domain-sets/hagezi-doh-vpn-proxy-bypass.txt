@@ -297,7 +297,6 @@
 .atris.cyou
 .dohtrial.att.net
 .atvsh.ir
-.dns.auapi.fun
 .aurora-softworks.xyz
 .auto-aufladen.de
 .avanquestusa.com
@@ -327,6 +326,7 @@
 .doh1.b-cdn.net
 .doh2.b-cdn.net
 .freevpnme.b-cdn.net
+.hola-client-cdn4.b-cdn.net
 .b-dns.se
 .b0xedpr0x.cyou
 .dns.b33.space
@@ -1102,7 +1102,6 @@
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
 .im-in-the-thick-of-it-everybody-knows.dynorex.com
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .vpn.dzarlax.dev
 .dzhot.us
@@ -1126,11 +1125,13 @@
 .dns.edgeburnmedia.com
 .edgedcircles.com
 .edgy-dns.com
+.dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .eduacation.lol
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .elephantvpn.com
@@ -1372,7 +1373,6 @@
 .freevpnplanet.com
 .freevpnsoftware.net
 .freewebproxy.eu
-.freewebproxyserver.net
 .www-server.freewebsproxy.com
 .freexite.com
 .freeyouproxytube.com
@@ -2580,7 +2580,6 @@
 .pkrreaperr.me
 .pktriot.net
 .pkw-aufladen.de
-.placenetworks.com
 .plainproxies.com
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
@@ -3240,10 +3239,8 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
-.eu1-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
-.proxy1.startpage.com
 .proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
@@ -3311,6 +3308,7 @@
 .surfly.com
 .surfmenow.com
 .surfmo.com
+.minfort.surfnet.ca.surfnet.ca
 .surfonym.com
 .surfshark.app
 .surfshark.be
@@ -3333,6 +3331,7 @@
 .surfsuark.com
 .surfwebsite.org
 .dns.surobe.com
+.surprise.pics
 .surtshark.com
 .dns.sv-zauner.at
 .dns.svoi.dev

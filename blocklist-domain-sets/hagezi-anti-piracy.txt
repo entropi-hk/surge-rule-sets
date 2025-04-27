@@ -2775,6 +2775,7 @@
 .kamikazee.duckdns.org
 .thinking.duckdns.org
 .tr4ck3r.duckdns.org
+.tracker.ducks.party
 .duckwad.net
 .dudestream.com
 .tracker.dump.cl
@@ -4960,7 +4961,6 @@
 .kickasstorrentcr.top
 .kickasstorrents.cr
 .kickasstorrents.pw
-.kickasstorrents.to
 .open.kickasstracker.com
 .kickassunblock.com
 .kickassunblock.info
@@ -5245,7 +5245,6 @@
 .limetorrents.asia
 .limetorrents.at
 .limetorrents.buzz
-.limetorrents.cc
 .limetorrents.co
 .limetorrents.info
 .limetorrents.lol
@@ -7325,7 +7324,6 @@
 .redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
-.redditsport.cc
 .redecanais.zip
 .redecanaistv.zip
 .ica1616.redirectme.net
