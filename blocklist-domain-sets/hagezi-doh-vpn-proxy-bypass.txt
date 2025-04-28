@@ -327,7 +327,6 @@
 .doh2.b-cdn.net
 .freevpnme.b-cdn.net
 .hola-client-cdn4.b-cdn.net
-.b-dns.se
 .b0xedpr0x.cyou
 .dns.b33.space
 .i.am.selling.b33r.us
@@ -1565,6 +1564,7 @@
 .hide.mn
 .hide-me.org
 .hide-my-ip.com
+.hide-my-ip.org
 .hideallip.com
 .hideandgo.com
 .hideapplication.com
@@ -2162,6 +2162,7 @@
 .dns.vmath.my.id
 .ssl-proxy.my-addr.com
 .my-proxy.com
+.my-safe-net.com
 .myatris.sbs
 .mybestvpn.info
 .mycelium.site
@@ -2444,6 +2445,7 @@
 .sandbox.opendns.com
 .opengw.net
 .resolver4.dns.openinternet.io
+.openips.cc
 .ns1.opennameserver.org
 .ns2.opennameserver.org
 .ns3.opennameserver.org
@@ -3308,7 +3310,6 @@
 .surfly.com
 .surfmenow.com
 .surfmo.com
-.minfort.surfnet.ca.surfnet.ca
 .surfonym.com
 .surfshark.app
 .surfshark.be
