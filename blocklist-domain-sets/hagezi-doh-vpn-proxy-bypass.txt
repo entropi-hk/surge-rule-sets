@@ -168,7 +168,6 @@
 .adultproxy.men
 .advancedvpn.com
 .aerodrorne.vip
-.affcdn.net
 .affsoft.cc
 .shield.afixer.app
 .agmath.xyz
@@ -1101,6 +1100,7 @@
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
 .im-in-the-thick-of-it-everybody-knows.dynorex.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .vpn.dzarlax.dev
 .dzhot.us
@@ -3243,7 +3243,6 @@
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com
@@ -3521,6 +3520,7 @@
 .trust.zone
 .trustedproxies.com
 .truta.org
+.trxnfor.com
 .dns.tryk.app
 .doh.ibr.cs.tu-bs.de
 .tubeprox.com
