@@ -224,7 +224,6 @@
 .dns.anon.no
 .anonine.com
 .anonproxy.eu
-.anonproxy.org
 .anonvpn.io
 .anonwebproxy.com
 .anonymitynetwork.com
@@ -237,7 +236,6 @@
 .anonymous-proxy-servers.net
 .anonymousblog.info
 .anonymouse.org
-.anonymousengine.com
 .anonymousvpn.info
 .anonymousvpn.org
 .anonymox.net
@@ -380,7 +378,6 @@
 .bingle.icu
 .bingle.pw
 .ns3.bit-trail.nl
-.bit123.biz
 .dns.bitdefender.net
 .fra-dns.bitdefender.net
 .iow-dns.bitdefender.net
@@ -1065,7 +1062,6 @@
 .dontblockme.org
 .dontfilter.us
 .dns.dooks.uk
-.doomshadow.com
 .dot.pub
 .dns.dotnet.win
 .dotvpn.com
@@ -1097,7 +1093,6 @@
 .dvprovider.icu
 .dns.dyn1.de
 .ueni.dyndns.org
-.resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
 .im-in-the-thick-of-it-everybody-knows.dynorex.com
 .gustamadh.dynv6.net
@@ -1391,7 +1386,6 @@
 .doh.futa.app
 .doh.futa.gg
 .g-a-y.pro
-.gabstorm.com
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .galeben.fr
@@ -1470,8 +1464,6 @@
 .global-proxy.com
 .globalchatinc.com
 .globalssh.net
-.globaltrx.com
-.globalvpn.info
 .dns.api.globus.org
 .dns.api.preview.globus.org
 .dns.api.integration.globuscs.info
@@ -1501,7 +1493,6 @@
 .vpn.gosami.xyz
 .gostarlight.xyz
 .gotrusted.com
-.gowork.info
 .gpreport.us
 .dot.libredns.gr.com
 .gracarno.com
@@ -1511,7 +1502,6 @@
 .gratisproxy.nl
 .gratisvpn.com
 .greatestfreeproxy.com
-.greenpass.info
 .greenproxy.net
 .greenssh.com
 .dnsblock.grisumedia.de
@@ -2052,7 +2042,6 @@
 .masterssh.com
 .masthisis.ir
 .dns.mateo.ovh
-.adsadkjsadjksakldjxx.math-solver.online
 .dns.mathewakhil.online
 .mathhelpnow.site
 .mathlearning.tech
@@ -2181,7 +2170,6 @@
 .myprivateproxy.net
 .myproxy.ca
 .myproxy.help
-.myproxy.info
 .myproxy.link
 .myproxy.lol
 .myproxysite.org
@@ -2306,7 +2294,6 @@
 .dns.ningkelle.id
 .ninjabrowse.com
 .ninjacloak.com
-.ninjaproxy.eu
 .ninjavpn.io
 .ninjaweb.xyz
 .nirbytes.com
@@ -2534,7 +2521,6 @@
 .perfect-privacy.com
 .perfectvpn.net
 .perlproxy.com
-.dns.pernika.net
 .darya.persiannit.net
 .persianreserve.ir
 .personalvpn.biz
@@ -2598,7 +2584,6 @@
 .pm9352-bd.xyz
 .xcxx.pointed.cc
 .pointtoserver.com
-.polandgrows.com
 .polargrizzly.com
 .polaris.cx
 .polisitogel.accountant
@@ -2676,7 +2661,6 @@
 .prohome.info
 .prointern.info
 .project-evoex.de
-.propage.info
 .dns.propheci.xyz
 .prostovpn.org
 .vpn-api.proton.me
@@ -2741,14 +2725,12 @@
 .proxy-best.com
 .proxy-bypass.com
 .proxy-german.de
-.proxy-internet.info
 .proxy-n-vpn.com
 .proxy-search.com
 .proxy-seller.com
 .proxy-site.net
 .proxy-works.com
 .proxy-youtube.com
-.proxy-youtube.net
 .proxy0101.com
 .proxy2014.net
 .proxy2link.com
@@ -3190,7 +3172,6 @@
 .scienceandmore.spacetechnology.net
 .spacevpn.io
 .spanish101.college
-.spanproxy.com
 .sparklabs.com
 .doh-01.spectrum.com
 .doh-02.spectrum.com
@@ -3363,7 +3344,6 @@
 .dns1.techeasy.org
 .vpn.technicule.info
 .doh.technochat.in
-.technofix.ir
 .dns.technologycage.com
 .dns.technostriker.com
 .rx.techomespace.com
@@ -3506,7 +3486,6 @@
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
-.travelvpn.info
 .travelvpn.net
 .ns.trcnet.fi
 .consumervpn.trendmicro.com
@@ -3641,7 +3620,6 @@
 .unblocked4u.net
 .unblocked4u.org
 .unblocked5.com
-.unblocked9.info
 .unblockedarabic.com
 .unblockedbay.com
 .unblockedbook.net
@@ -3798,7 +3776,6 @@
 .videonew.online
 .videoproxy.site
 .videounblock.com
-.videounblocked.com
 .videounblocker.net
 .vidproxy.com
 .viewyoutube.net
@@ -4013,7 +3990,6 @@
 .my.worksheetsforteachers.org
 .noturmotherlol.worksheetsforteachers.org
 .pdf.worksheetsforteachers.org
-.workstudyplay.com
 .worldgravityapp.com
 .worldvpn.net
 .worldwideproxy4u.win
@@ -4097,7 +4073,6 @@
 .yxorproxy.com
 .adg.yybyy.wiki
 .dns.daemon.za.net
-.zacebookpk.com
 .adguard.zachitect.com
 .zagbit.com
 .zakaria.website

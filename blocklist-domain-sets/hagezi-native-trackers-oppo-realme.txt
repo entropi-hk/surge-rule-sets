@@ -103,10 +103,6 @@
 .guif-eu.coloros.com
 .icosa-sg.coloros.com
 .icota-eu.coloros.com
-.ifota.coloros.com
-.ifota-eu.coloros.com
-.ifota-in.coloros.com
-.ifota-term.coloros.com
 .ifrus.coloros.com
 .ifrus-eu.coloros.com
 .ifrus-in.coloros.com

@@ -83,7 +83,6 @@
 .authorizeddns.org
 .autoipset.com
 .avandns.com
-.awiki.org
 .ax.lt
 .b0ne.com
 .b0tnet.com
@@ -230,7 +229,6 @@
 .darktech.org
 .davidsagar.com
 .dd-dns.de
-.ddns.cam
 .ddns.info
 .ddns.me
 .ddns.mobi
@@ -454,7 +452,6 @@
 .eurotank.ro
 .eva.hk
 .everton.com
-.evils.in
 .expired-dns.com
 .ez-ip.net
 .ezua.com

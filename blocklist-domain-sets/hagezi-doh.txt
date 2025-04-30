@@ -490,7 +490,6 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
-.resolver2.dyndnsinternetguide.com
 .gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
@@ -1057,7 +1056,6 @@
 .dns.peb-schmidt.de
 .fuchur.pentament.de
 .pepetio.xyz
-.dns.pernika.net
 .darya.persiannit.net
 .dns.pesaventofilippo.com
 .dns.petqa.ru
