@@ -490,7 +490,6 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -853,7 +852,6 @@
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mo0on15.com
-.moamao.shop
 .dnstls.mobik.com
 .ps1.modr.club
 .dns.molinero.dev
