@@ -328,7 +328,6 @@
 .64dd.org
 .6ahddutb1ucc3cp.ru
 .6box.me
-.6stream.xyz
 .6streams.tv
 .bit-torrents.6x.to
 .warez-fusion.6x.to
@@ -545,7 +544,6 @@
 .altadefinizione.clinic
 .altadefinizione.club
 .altadefinizione.co
-.altadefinizione.codes
 .altadefinizione.coffee
 .altadefinizione.com
 .altadefinizione.community
@@ -565,7 +563,6 @@
 .altadefinizione.fm
 .altadefinizione.forsale
 .altadefinizione.futbol
-.altadefinizione.golf
 .altadefinizione.group
 .altadefinizione.haus
 .altadefinizione.icu
@@ -584,7 +581,6 @@
 .altadefinizione.live
 .altadefinizione.lol
 .altadefinizione.ma
-.altadefinizione.market
 .altadefinizione.me
 .altadefinizione.mov
 .altadefinizione.navy
@@ -640,7 +636,6 @@
 .altadefinizione01.homes
 .altadefinizione01.icu
 .altadefinizione01.im
-.altadefinizione01.immo
 .altadefinizione01.in
 .altadefinizione01.it
 .altadefinizione01.life
@@ -871,12 +866,14 @@
 .apkdone.com
 .apkfolks.io
 .apkfuture.com
+.apkged.com
 .apkgeek.net
 .apkgod.net
 .apkgw.com
 .apkhome.io
 .apkhome.net
 .apkhouse.com
+.apkilimitado.com
 .apkity.com
 .apklite.me
 .apklite.org
@@ -885,7 +882,9 @@
 .apkmaniafull.com
 .apkmate.com
 .apkmb.com
+.apkmine.com
 .apkmirrorfull.com
+.apkmodbrasil.com
 .apkmodct.com
 .apkmodea.com
 .apkmodget.com
@@ -905,6 +904,7 @@
 .apkrabi.com
 .apkremix.com
 .apkshub.com
+.apksim.com
 .apksoul.net
 .apkspure.com
 .apksum.com
@@ -1995,6 +1995,7 @@
 .cnetworkbd.net
 .321movies.co.uk
 .althub.co.za
+.an1.co.in
 .apk4all.co.in
 .apkpure.co.in
 .mirror.aptus.co.tz
@@ -2484,6 +2485,7 @@
 .dendox.org
 .azn-project.depthstrike.com
 .derechosmadretierra.org
+.descargaapk.com
 .descargagame.com
 .descargasfull.com
 .desfichiers.com
@@ -4790,6 +4792,8 @@
 .javtorrent.me
 .javtorrent.re
 .tracker.jdx3.org
+.jenny-mod.cc
+.jennymodapk.info
 .jeremylee.sh
 .jetanime.cc
 .jetanimes.com
@@ -5484,7 +5488,10 @@
 .mazedanetworks.net
 .mazepa.to
 .mazetorrents.net
+.mcead.com
+.mceapk.com
 .mcnbd.com
+.mcpedl.org
 .mcplexbangla.com
 .down.mdiaload.com
 .mdk.cab
@@ -5619,6 +5626,7 @@
 .milliontorrent.pl
 .mindwarppavilion.org
 .newvoyages.mine.nu
+.minecrapk.com
 .nipponsei.minglong.org
 .tracker.minglong.org
 .prestige.minimafia.nl
@@ -5698,14 +5706,17 @@
 .modlist.in
 .modlmh.com
 .modok.ru
+.modpree.com
 .modpure.tv
 .modradar.cc
 .modradar.com
 .mods-app.com
 .mods4u.in
+.modsapk.us
 .modsmaniac.com
 .modsofapk.com
 .modtoco.com
+.modw.net
 .modxda.com
 .modyolo.com
 .modzozo.com
@@ -6341,6 +6352,7 @@
 .ntrace.in
 .retracker.nts.su
 .web1.nugs.net
+.nullclash.org
 .nulleb.com
 .nulled.cx
 .nulled.to
@@ -6354,10 +6366,14 @@
 .nulljungle.com
 .nullphp.net
 .nullphpscript.com
+.nulls.cc
 .nulls.gg
 .nulls-clash.com
 .nullsclash.net
+.nullsclashapks.com
 .nullscriptfullz.com
+.nullsroyale.net
+.nullsservers.com
 .nunflix.live
 .nunflix.org
 .nunuyy.cc
@@ -10252,6 +10268,7 @@
 .tracker.zokio.net
 .zona.plus
 .zona-musical.com
+.zonacraft.net
 .zonatorrent.org
 .zonatorrent.tv
 .zond.org
