@@ -41,6 +41,7 @@
 .cl-sysupgrade-api.vivoglobal.com
 .cl-vcode-api.vivoglobal.com
 .cl-vcode-od.vivoglobal.com
+.cl-weather.vivoglobal.com
 .cname-ali-asia-stsdk.vivoglobal.com
 .cname-asia-st-exappupgrade.vivoglobal.com
 .cname-asia-stsdk09.vivoglobal.com
@@ -127,7 +128,6 @@
 .kz-vcode-or.vivoglobal.com
 .kz-weather.vivoglobal.com
 .monitor-stsdk.vivoglobal.com
-.mx-cota.vivoglobal.com
 .mx-domaincfg.vivoglobal.com
 .mx-err-up.vivoglobal.com
 .mx-onrt-stsdk.vivoglobal.com

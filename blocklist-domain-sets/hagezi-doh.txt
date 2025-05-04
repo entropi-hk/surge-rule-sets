@@ -333,9 +333,6 @@
 .dns.dns-53.uk
 .dns.dns-53.us
 .dns-free.link
-.dns1.dns-ga.de
-.dns2.dns-ga.de
-.doh.dns-ga.de
 .dns.dns-over-https.com
 .dns0.eu
 .doh.dns4all.eu
@@ -614,7 +611,6 @@
 .dns.hanahira.dev
 .adguard.haneulo.com
 .dns.hanmey.de
-.hanniel.tech
 .dns.hannielzhang.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
@@ -888,7 +884,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1337,7 +1332,6 @@
 .dot.tooli.ca
 .nsc.torgues.net
 .doh.totoro.pub
-.dns.tracker.ink
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net

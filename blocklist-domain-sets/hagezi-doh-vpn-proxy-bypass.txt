@@ -215,6 +215,7 @@
 .ammmae150.news
 .amnezia.org
 .doh.amonsul.net
+.an-us.pro
 .anachem.online
 .ananoos.com
 .anchorfree.net
@@ -370,7 +371,6 @@
 .bettervpn.com
 .bgvpn.com
 .bi-tree.ru
-.bia2dige.ir
 .bigma.org
 .bingle.icu
 .bingle.pw
@@ -426,7 +426,6 @@
 .bmetrics.org
 .dns.bmwhocking.com
 .dns.bobstrecansky.com
-.boda-vip.net
 .bodvpn.com
 .dns.bofh.in
 .boghag.party
@@ -751,10 +750,8 @@
 .webproxy.com.de
 .dns.comff.net
 .rammerhead.command.enterprises
-.commonapp.college
 .commons.host
 .easy-vpn.comodo.com
-.compsci.college
 .comss.one
 .comss.ru
 .confirmedvpn.com
@@ -827,7 +824,6 @@
 .cubixpvp.net
 .qual.cuprum.ru
 .curd.io
-.cv-unfiltered.xyz
 .dns.cwlys.com
 .cyberghostvpn.com
 .cybershield.cc
@@ -912,9 +908,6 @@
 .dns.dns-53.uk
 .dns.dns-53.us
 .dns-free.link
-.dns1.dns-ga.de
-.dns2.dns-ga.de
-.doh.dns-ga.de
 .dns.dns-over-https.com
 .dns-savage.com
 .dns0.eu
@@ -1210,7 +1203,6 @@
 .tenhh.farted.net
 .fastestvpn.com
 .fastestvpn.info
-.fastfoxvpn.com
 .fastfreeproxy.info
 .fastp.org
 .fastpro.info
@@ -1318,7 +1310,6 @@
 .freecanadavpn.com
 .freecavpn.com
 .hkname.freecdn.one
-.freecloudvpn.com
 .freeconnect.link
 .freedevpn.com
 .freedom.cx
@@ -1350,7 +1341,6 @@
 .freesupervpn.com
 .freesurfproxy.com
 .freetrialvpn.com
-.freeukvpn.com
 .freevideoproxy.com
 .freevmess.com
 .freevpn.cloud
@@ -1386,12 +1376,10 @@
 .g-a-y.pro
 .cluster-0.gac.edu
 .cluster-1.gac.edu
-.galeben.fr
 .dns.gamban.com
 .adguard.gambini.org
 .proxy.gamecove.net
 .obamna.gamefr.xyz
-.gameroz1.ir
 .gamers-nor.com
 .gamingssh.com
 .dns.beta.gandi.net
@@ -1517,6 +1505,7 @@
 .dns2.guidocioni.it
 .dns.gutwe.in
 .gvirabi.com
+.gwardgxd.baby
 .gwopboyded.com
 .gztech.me
 .h-vpn.org
@@ -1527,13 +1516,11 @@
 .dns.hanahira.dev
 .adguard.haneulo.com
 .dns.hanmey.de
-.hanniel.tech
 .dns.hannielzhang.com
 .happy-vpn.com
 .harbaletsstudy.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
-.fair.hashable.org
 .query.hdns.io
 .ordns.he.net
 .us-ny-alula.heliumcloud.cc
@@ -1546,7 +1533,6 @@
 .betternet-backend.herokuapp.com
 .heroproxy.com
 .httpdns-push.heytapmobile.com
-.hiddendigital.info
 .hiddenproxy.net
 .hide.me
 .hide.mn
@@ -1554,7 +1540,6 @@
 .hide-my-ip.com
 .hide-my-ip.org
 .hideallip.com
-.hideandgo.com
 .hideapplication.com
 .hidebuzz.com
 .hidebuzz.me
@@ -1615,7 +1600,6 @@
 .holax.io
 .beta.holyunblocker.org
 .kyrgyzstan-travel.home.kg
-.mythica.home.kg
 .home-server.store
 .homemail.info
 .homeproxy.com
@@ -1681,7 +1665,6 @@
 .icpsuawn1zy5amys.com
 .tienpham.id.vn
 .idcloak.com
-.idealvpn.com
 .idolproxy.com
 .adguard.shuting.idv.tw
 .ietors.com
@@ -2181,7 +2164,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -2532,6 +2514,7 @@
 .photonsecure.com
 .phpbido.com
 .phproxysite.com
+.malachi.is.dumb.physiosagart.de
 .doh.centraleu.pi-dns.com
 .dot.centraleu.pi-dns.com
 .doh.pi-dns.com
@@ -2832,6 +2815,7 @@
 .ptoserver.com
 .publicdnsserver.com
 .publicproxy.org
+.puckerbucket.xyz
 .timeisblind.puffballofevil.com
 .dns.pumpkinvrar.com
 .pupilproxy.com
@@ -3479,7 +3463,6 @@
 .doh.totoro.pub
 .touchvpn.net
 .towervpn.com
-.dns.tracker.ink
 .tradeadspace.info
 .trafflink.xyz
 .traffmonetizer.com

@@ -70,7 +70,6 @@
 .seeks.hsbp.org
 .search.jpope.org
 .jsearch.pw
-.search.kiwitalk.de
 .search.kokomo.cloud
 .trovu.komun.org
 .search.laksith.dev

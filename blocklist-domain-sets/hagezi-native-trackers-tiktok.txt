@@ -74,7 +74,9 @@
 .ads.tiktok.tv
 .ads-api.tiktok.com
 .ads-frontier.tiktok.com
+.ads-service.tiktok.com
 .ads-sg.tiktok.com
+.ads-useast2a.tiktok.com
 .analytics.tiktok.com
 .analytics-attribution.tiktok.com
 .analytics-attribution-va.tiktok.com
@@ -193,7 +195,6 @@
 .rtc-logger.tiktokv.us
 .rtc-logger-i18n.tiktokv.com
 .rtc-logger-ie.tiktokv.eu
-.rtc-logger-ttp2.tiktokv.us
 .rtc-logger-va.tiktokv.com
 .rtlog.tiktokv.com
 .rtlog-i18n.tiktokv.com
@@ -215,6 +216,7 @@
 .rtlog16-normal-useast2a.tiktokv.com
 .rtlog16-normal-useast5.tiktokv.us
 .rtlog16-normal-useast8.tiktokv.us
+.rtlog16-normal-useastred.tiktokv.eu
 .rtlog16-tmp-normal-useast1a.tiktokv.com
 .rtlog17-normal.tiktokv.com
 .rtlog17-normal-alisg.tiktokv.com
