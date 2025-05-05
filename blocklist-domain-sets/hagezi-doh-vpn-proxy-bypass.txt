@@ -897,7 +897,6 @@
 .divalane.com
 .divaloo.com
 .divavu.com
-.dltuykfgp.top
 .hihohornsluttlekidspop.dmdistribution.net
 .dns.expert
 .dns.google
@@ -1086,7 +1085,6 @@
 .ueni.dyndns.org
 .adbox-v9.dynipv6.de
 .im-in-the-thick-of-it-everybody-knows.dynorex.com
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .vpn.dzarlax.dev
 .dzhot.us
@@ -1253,6 +1251,7 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
+.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -1706,7 +1705,6 @@
 .instantunblock.com
 .intego.com
 .dns.interhub.cc
-.interncloud.info
 .internetcloak.com
 .intervpn.com
 .intl-alliance.com
@@ -1721,7 +1719,6 @@
 .iportal.me
 .ipprotectionauth.goog
 .ipredator.se
-.iprivatevpn.com
 .iprovpn.com
 .iproyal.com
 .ipsharkk.com
@@ -1850,7 +1847,6 @@
 .doh.killtw.im
 .blog.kimiblock.top
 .kingsurfproxy.com
-.kinoshka.su
 .kirushop.xyz
 .dns1.klcd.eu
 .dns2.klcd.eu
@@ -1870,7 +1866,6 @@
 .notebooks.kozow.com
 .kproxy.asia
 .kproxy.com
-.kproxy.in
 .kproxysite.com
 .dart.kpsn.org
 .adblock.krctech.dev
@@ -1979,7 +1974,6 @@
 .lukscasino-542-tr.xyz
 .lukscasino-929-tr.xyz
 .dns.luma-medien.com
-.power.lumeacopiilorploiesti.ro
 .lumes.jp
 .luminati.io
 .luminatinet.com
@@ -2024,7 +2018,6 @@
 .masthisis.ir
 .dns.mateo.ovh
 .dns.mathewakhil.online
-.mathhelpnow.site
 .mathlearning.tech
 .mathnotes.help
 .mathnotes.icu
@@ -2059,7 +2052,6 @@
 .dns.mestdag.fr
 .metal-masters.us
 .metalinjection.us
-.mfho.cc
 .dns.mh4ckt3mh4ckt1c4s.xyz
 .mhany.xyz
 .esel.stusta.mhn.de
@@ -2164,6 +2156,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -2215,7 +2208,6 @@
 .nathanielgavin.lol
 .vpn.nbvalente.fr
 .vpn.ncapi.io
-.ne1.ca
 .dns.neeb.it
 .needunblock.com
 .nekoray.org
@@ -2366,7 +2358,6 @@
 .oneproxy.biz
 .oneproxy.xyz
 .onestreaming.org
-.onevanalla.site
 .onion.am
 .onion.cab
 .onion.casa
@@ -2578,7 +2569,6 @@
 .polisitogel.limo
 .polisitogel.living
 .polisitogel.luxe
-.polisitogel.show
 .polisitogel.webcam
 .loilonote.poo.li
 .science-exp.port0.org
@@ -2693,7 +2683,6 @@
 .proxy.cc
 .proxy.gd
 .proxy.lol
-.proxy.nu
 .proxy.org
 .proxy.red
 .proxy.rocks
@@ -2713,12 +2702,10 @@
 .proxy-works.com
 .proxy-youtube.com
 .proxy0101.com
-.proxy2014.net
 .proxy2link.com
 .proxy2you.com
 .proxy4down.com
 .proxy4free.me
-.proxy4freedom.com
 .proxy62.com
 .proxy7.club
 .proxyadult.org
@@ -2854,7 +2841,6 @@
 .dot.quickline.ch
 .quickprox.com
 .quickproxies.com
-.quicksilvervpn.com
 .dns.quiet.rocks
 .quintex.com
 .ant.dns.qwer.pw
@@ -2955,7 +2941,6 @@
 .ea-dns.rubyfish.cn
 .uw-dns.rubyfish.cn
 .yoursuper.rude.li
-.adg.rueiliu.space
 .rumpelsepp.org
 .doh.runsel.id
 .rushproxy.com
@@ -3463,6 +3448,7 @@
 .doh.totoro.pub
 .touchvpn.net
 .towervpn.com
+.dns.tracker.ink
 .tradeadspace.info
 .trafflink.xyz
 .traffmonetizer.com

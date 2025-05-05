@@ -626,6 +626,7 @@
 .altadefinizione01.life
 .altadefinizione01.love
 .altadefinizione01.name
+.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -4502,7 +4503,6 @@
 .invalid.pw
 .ionbooter.com
 .app.iosgods.com
-.iosmirror.cc
 .iosninja.io
 .iosvizor.com
 .47.ip-51-68-199.eu
@@ -4738,7 +4738,6 @@
 .kawaiifu.com
 .kayoanime.com
 .kazinetwork.net
-.kaztorka.org
 .kbnonlinebd.net
 .kcnawatch.org
 .0d.kebhana.mx
@@ -4759,7 +4758,6 @@
 .keysmovie.us
 .khinsider.com
 .khulnaflix.net
-.khulnatv.live
 .kickass.cm
 .kickass.so
 .kickass.to
@@ -4959,7 +4957,6 @@
 .layarkaca21.com
 .layarkaca21.ru
 .layarkita.xyz
-.layarlebar24.digital
 .layarlebar24.site
 .layer-4.com
 .layer13.net
@@ -5052,7 +5049,6 @@
 .limetorrents.asia
 .limetorrents.at
 .limetorrents.buzz
-.limetorrents.info
 .limetorrents.lol
 .limetorrents.online
 .limetorrents.so
@@ -5147,7 +5143,6 @@
 .lookmovie2.site
 .lookmovie2.to
 .lookmoviess.com
-.lordfilmhd.lol
 .qg.lorzl.gq
 .losmovies.app
 .losmovies.com
@@ -5418,7 +5413,6 @@
 .tracker.metal-torrents.com
 .metal-tracker.com
 .metalarea.org
-.metalbits.org
 .meteor-stresser.com
 .metroidconstruction.com
 .metromedia.digital
@@ -5628,7 +5622,6 @@
 .movieroom.is
 .movierot.com
 .movierr.online
-.movierr.site
 .movierulzhd.gold
 .movies.cab
 .movies-d.com
@@ -5687,7 +5680,6 @@
 .moviesub.net
 .moviesus.net
 .movieswatch.xyz
-.movieswbb.com
 .moviesyify.org
 .movieszone.org
 .movietly.com
@@ -5715,7 +5707,6 @@
 .mp3-club.ru
 .mp3-daddy.com
 .mp3-find.com
-.mp3-juice.org
 .mp3-juices.net
 .mp3-juices.ws
 .mp3000.net
@@ -5767,7 +5758,6 @@
 .tracker.msg.vg
 .msilab.ru
 .tracker.msm8916.com
-.msmonlinebd.com
 .retracker.local.msn-net.ru
 .mt-fun.com
 .ln.mtahost.co
@@ -5813,7 +5803,6 @@
 .myasiantv.to
 .myauto.to
 .mybadbits.org
-.mybdix.com
 .mybdplex.com
 .mybite.org
 .mybittorrent.com
@@ -5951,10 +5940,8 @@
 .netcitybd.com
 .netcode.live
 .netcomisp.net
-.netemx.pl
 .netexpressbd.com
 .netfilme.com
-.netfreex.online
 .netinfobd.com
 .bingemaster.netlify.app
 .cleanbay.netlify.app
@@ -6141,7 +6128,6 @@
 .noxx.is
 .noxx.to
 .tracker.npupt.com
-.tracker.nrx.me
 .nsanedown.com
 .nsaneforums.com
 .nsmbhd.net
@@ -6171,7 +6157,6 @@
 .nulledwarez.org
 .nullforums.net
 .nulljungle.com
-.nullphp.net
 .nullphpscript.com
 .nulls.cc
 .nulls.gg
@@ -6257,7 +6242,6 @@
 .oklivetv.com
 .bt.okmp3.ru
 .ol-am.top
-.olala123-warez.com
 .olamovies.autos
 .olamovies.download
 .olamovies.hair
@@ -6712,10 +6696,8 @@
 .share.popgo.org
 .popsnap.net
 .popuw.com
-.pornbay.org
 .pornbits.net
 .pornevo.com
-.pornleech.io
 .pornograd.net
 .pornolab.net
 .pornorip.net
@@ -6896,7 +6878,6 @@
 .putlocker.to
 .putlocker.vc
 .putlocker.vip
-.putlocker-free.club
 .putlocker-new.site
 .putlocker123.io
 .putlocker123.me
@@ -7090,7 +7071,6 @@
 .redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
-.redditsport.cc
 .redecanais.zip
 .redecanaistv.zip
 .ica1616.redirectme.net

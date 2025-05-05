@@ -1,4 +1,8 @@
+.vhs.wwstat.com.dsa.dnsv1.com.cn
+.vhs.wwstat.com.eo.unicomcdn.com.cn
 .az.appstore.vivo.com.cn
+.vhs.wwstat.com.ctdns.cn
+.vhs.wwstat.com.eo.dnse0.com
 .asia-abeacdataonrt-stsdk.vivoglobal.com
 .asia-abeacdataort-stsdk.vivoglobal.com
 .asia-ad-mkt-vivofs.vivoglobal.com
@@ -210,3 +214,4 @@
 .tr-weather.vivoglobal.com
 .err.up.vivoglobal.com
 .xn-ex-adreq-asa-c5b.vivoglobal.com
+.vhs.wwstat.com
