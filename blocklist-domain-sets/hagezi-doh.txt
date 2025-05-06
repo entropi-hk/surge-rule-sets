@@ -883,7 +883,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1330,7 +1329,6 @@
 .dot.tooli.ca
 .nsc.torgues.net
 .doh.totoro.pub
-.dns.tracker.ink
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
