@@ -1252,7 +1252,6 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
-.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -3040,6 +3039,7 @@
 .setupvpn.com
 .dns.sev.monster
 .sf-helper.com
+.sfmcut.com
 .pates.services.sfr.fr.casepp.sfr.fr
 .www-8.shaammy.ir
 .d2.shabi.icu
