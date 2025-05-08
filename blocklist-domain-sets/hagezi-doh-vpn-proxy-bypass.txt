@@ -117,7 +117,6 @@
 .922proxy.com
 .dns.9999.sg
 .99proxy.com
-.9w9.org
 .dns.a47.me
 .doh.aaaab3n.moe
 .adb.aadityakushwaha.com
@@ -188,7 +187,6 @@
 .alidns.com
 .aliveproxies.com
 .httpdns-sc.aliyuncs.com
-.alleesph.online
 .dns.alloxr.info
 .vps.alloxr.info
 .allunblocked.com
@@ -410,7 +408,6 @@
 .us1.blissdns.net
 .blocka.net
 .blockaway.net
-.blockawayproxy.net
 .blockedsiteaccess.com
 .doh.blockerdns.com
 .blockless.com
@@ -1252,6 +1249,7 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
+.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -3445,6 +3443,7 @@
 .doh.totoro.pub
 .touchvpn.net
 .towervpn.com
+.dns.tracker.ink
 .tradeadspace.info
 .trafflink.xyz
 .traffmonetizer.com
