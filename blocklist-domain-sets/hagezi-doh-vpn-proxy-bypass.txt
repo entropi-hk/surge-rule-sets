@@ -519,7 +519,6 @@
 .ibuki.cgnat.net
 .dns.chadeyron.fr
 .changemyip.com
-.changemyip.uk
 .chaos-system.de
 .dns.charraud.eu
 .dns.chenu.ch
@@ -1075,7 +1074,6 @@
 .punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
-.vpschito.duckdns.org
 .dukun.de
 .dutchproxy.nl
 .dvprovider.icu
@@ -1249,7 +1247,6 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
-.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -1308,7 +1305,6 @@
 .freecavpn.com
 .hkname.freecdn.one
 .freeconnect.link
-.freedevpn.com
 .freedom.cx
 .freedome-vpn.net
 .freedomproxy.com
@@ -2154,6 +2150,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3182,16 +3179,11 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
-.eu-proxy.startpage.com
-.eu1-browse.startpage.com
 .eu2-browse.startpage.com
-.proxy.startpage.com
-.proxy1.startpage.com
-.proxy2.startpage.com
+.error.proxy.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com
-.us-proxy.startpage.com
 .us1-browse.startpage.com
 .us2-browse.startpage.com
 .dns.startupstack.tech

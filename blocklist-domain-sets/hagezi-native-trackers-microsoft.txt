@@ -28,7 +28,6 @@
 .adsdkprod.azureedge.net
 .adsdkpreprod.afd.azureedge.net
 .adsdkprod.afd.azureedge.net
-.adsdkprprod.ec.azureedge.net
 .msadsscale.azureedge.net
 .cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 .location-microsoft-com.b-0005.b-msedge.net
@@ -396,6 +395,7 @@
 .rawtelemetry-east.servicebus.windows.net
 .rawtelemetry-west.servicebus.windows.net
 .ss-telemetry.servicebus.windows.net
+.swiftanalyticsprod.servicebus.windows.net
 .wayfinderanalytics.servicebus.windows.net
 .c.xbox.com
 .o.xbox.com
