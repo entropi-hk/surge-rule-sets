@@ -624,7 +624,6 @@
 .altadefinizione01.life
 .altadefinizione01.love
 .altadefinizione01.name
-.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -4317,7 +4316,6 @@
 .hydrahd.ac
 .hydrahd.cc
 .hydrahd.com
-.hydrax.is
 .hydrostress.com
 .hyperproxy.net
 .hypertor.com
@@ -4594,11 +4592,9 @@
 .izalukaj.pl
 .izofile.com
 .tracker.j99.info
-.jaceklocal.tv
 .t.jaekr.sh
 .jagobd.com
 .jakartarestaurant.com
-.jakianetbd.com
 .jalshaghor.com
 .jamendo.com
 .jamez.org
@@ -5034,7 +5030,6 @@
 .limetorrents.asia
 .limetorrents.at
 .limetorrents.buzz
-.limetorrents.lol
 .limetorrents.online
 .limetorrents.so
 .limetorrents.to
@@ -5835,7 +5830,6 @@
 .myp2p.at
 .myp2p.biz
 .myp2px.eu
-.mypanlss.store
 .mypartage.com
 .ns3109441.mypdns.org
 .mypiratebay.net
@@ -7056,6 +7050,7 @@
 .redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
+.redditsport.cc
 .redecanais.zip
 .redecanaistv.zip
 .ica1616.redirectme.net

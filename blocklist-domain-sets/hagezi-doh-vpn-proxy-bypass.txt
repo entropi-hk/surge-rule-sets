@@ -1658,6 +1658,7 @@
 .icpsuawn1zy5amys.com
 .tienpham.id.vn
 .idcloak.com
+.idinahui.pro
 .idolproxy.com
 .adguard.shuting.idv.tw
 .ietors.com
@@ -1851,7 +1852,6 @@
 .proxy.kokecoco.me
 .www-proxy.kokecoco.me
 .adguard.konikoni428.com
-.www-proxy.konstl01.xyz
 .doh.kooman.org
 .korzhov.dev
 .dns.kosan.moe
@@ -1879,6 +1879,7 @@
 .lablancer.com
 .doh.lacontrevoie.fr
 .www-proxy.ladifsoftware.com
+.laflame.us
 .lantern.io
 .largero.com
 .larpicidecentralproxy.org
@@ -1934,8 +1935,6 @@
 .linkmefree.net
 .linkmetube.com
 .dns.linkr.ninja
-.omar.linxy.eu
-.omarcreatedthis.linxy.eu
 .lionssh.com
 .quickvpn.lipisoft.com
 .africadns1.liquidtelecom.net
@@ -2150,7 +2149,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3181,6 +3179,8 @@
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
+.proxy1.startpage.com
+.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com

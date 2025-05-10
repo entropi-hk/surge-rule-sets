@@ -111,7 +111,6 @@
 .mcs-ttp2.us.tiktok.com
 .mssdk.us.tiktok.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
-.monitoring-op-ttp2.tiktokd.org
 .ad.tiktokv.com
 .ad.tiktokv.us
 .ad-format.tiktokv.us
@@ -174,8 +173,6 @@
 .log22-applog-useast2a.tiktokv.com
 .log22-normal.tiktokv.com
 .log22-normal-alisg.tiktokv.com
-.log22-normal-c-useast1a.tiktokv.com
-.log22-normal-c-useast2a.tiktokv.com
 .log22-normal-useast1a.tiktokv.com
 .log22-normal-useast2a.tiktokv.com
 .log3-normal-c-alisg.tiktokv.com

@@ -916,7 +916,6 @@
 .myftp.info
 .myftp.org
 .myhome-server.de
-.myhomeschoolfamily.com
 .myip.org
 .myiphost.com
 .myjino.ru
