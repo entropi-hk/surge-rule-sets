@@ -410,3 +410,4 @@
 .mcs16-normal-no1a.tiktokw.eu
 .mssdk.tiktokw.eu
 .mssdk.tiktokw.us
+.mssdk16-normal-useastred.tiktokw.eu
