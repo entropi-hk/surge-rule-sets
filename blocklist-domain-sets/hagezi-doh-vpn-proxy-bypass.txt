@@ -1245,6 +1245,7 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
+.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -1645,7 +1646,6 @@
 .vd.i81.ru
 .vpn.i81.ru
 .beepboopbop.iamadeveloper.dev
-.dns.iamanuragh.in
 .dns.iamninja.ru
 .iblocker.info
 .ibvpn.com
@@ -2147,6 +2147,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3977,6 +3978,7 @@
 .xvpn.io
 .dns.xwdmw.xyz
 .v2.xx3210766.live
+.ya-krutoi.pro
 .dns.yameenassotally.com
 .2.dnscrypt-cert.browser.yandex.net
 .dns.yandex.ru

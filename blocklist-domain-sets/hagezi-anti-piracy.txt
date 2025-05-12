@@ -4940,6 +4940,7 @@
 .kuroiru.co
 .tracker.kuroy.me
 .ts.kurtubba.com
+.kuyhaa.me
 .kuyhaa-me.site
 .kwik.si
 .tr.kxmp.ml
@@ -7073,6 +7074,7 @@
 .redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
+.redditsport.cc
 .redecanais.zip
 .redecanaistv.zip
 .ica1616.redirectme.net
@@ -8354,7 +8356,6 @@
 .thesefiles.com
 .thesegalleries.com
 .theserials.com
-.tracker.theshow.click
 .thesilentlibrary.com
 .theskyiscrape.com
 .thesoap2day.com
@@ -9964,7 +9965,6 @@
 .zetorrents.io
 .zetracker.net
 .zeus-net.pw
-.zhongzicili.com
 .zhongzishenqi.com
 .tracker.zhuqiy.top
 .zipcodeshop.com
@@ -9976,7 +9976,6 @@
 .zipnetbd.com
 .zippyshare.com
 .zippyshare.day
-.zipwarez.com
 .bt.zlofenix.org
 .zlotracker.org
 .zmovie.ru
@@ -9998,8 +9997,6 @@
 .zone-telechargement.me
 .zone-telechargement1.com
 .zone-torrent.net
-.zone-warez.com
-.1ww.zones-telechargement1.com
 .zonesega.com
 .zonestreaming.info
 .zonestreaming.rip
@@ -10015,7 +10012,6 @@
 .zorbixdream.live
 .zorox.to
 .zorrostream.org
-.zorrostream.site
 .zorrostream.ws
 .zourtube.com
 .movies.zsw.ca
