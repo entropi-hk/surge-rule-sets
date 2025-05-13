@@ -345,6 +345,7 @@
 .94hiphop.com
 .960303.xyz
 .9anime.ru
+.9anime.to
 .9anime.zone
 .9animetv.to
 .9divx.com
@@ -2397,6 +2398,7 @@
 .descargaapk.com
 .descargagame.com
 .descargasfull.com
+.descargatepelis.com
 .desfichiers.com
 .deshonlinebd.com
 .desi6.com
@@ -5675,6 +5677,7 @@
 .moviesm4u.net
 .moviesmobile.net
 .moviesmod.dev
+.moviesmod.email
 .moviesmod.space
 .moviesnipipay.me
 .moviespur.info
@@ -7074,7 +7077,6 @@
 .redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
-.redditsport.cc
 .redecanais.zip
 .redecanaistv.zip
 .ica1616.redirectme.net

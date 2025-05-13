@@ -3175,8 +3175,6 @@
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
-.proxy1.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com
