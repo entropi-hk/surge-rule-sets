@@ -335,7 +335,6 @@
 .doh.battle.christmas
 .bazooki-infra.dev
 .bdns.io
-.bdns.link
 .bdns.pro
 .beapasswpn.com
 .dns.beardic.cn
@@ -1515,7 +1514,6 @@
 .adguard.hartley.cloud
 .query.hdns.io
 .ordns.he.net
-.us-ny-alula.heliumcloud.cc
 .sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 .dns.hellozhao.com
 .helphideme.com
@@ -1646,6 +1644,7 @@
 .vd.i81.ru
 .vpn.i81.ru
 .beepboopbop.iamadeveloper.dev
+.dns.iamanuragh.in
 .dns.iamninja.ru
 .iblocker.info
 .ibvpn.com
@@ -3175,6 +3174,7 @@
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
+.proxy1.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com
