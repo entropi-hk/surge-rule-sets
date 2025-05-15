@@ -236,6 +236,7 @@
 .dns.cmrg.net
 .adguard.aa4.co.uk
 .pihole.datamatter.co.za
+.www.dnsadguard.co.uk
 .dns.gayanalysing.co.uk
 .dns.gi.co.id
 .ag.hostme.co.il
@@ -612,6 +613,7 @@
 .adguard.hartley.cloud
 .query.hdns.io
 .ordns.he.net
+.us-ny-alula.heliumcloud.cc
 .dns.hellozhao.com
 .dns.henek.ovh
 .httpdns-push.heytapmobile.com

@@ -345,7 +345,6 @@
 .94hiphop.com
 .960303.xyz
 .9anime.ru
-.9anime.to
 .9anime.zone
 .9animetv.to
 .9divx.com
@@ -627,6 +626,7 @@
 .altadefinizione01.life
 .altadefinizione01.love
 .altadefinizione01.name
+.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -2027,6 +2027,7 @@
 .triangle.com.bd
 .vidnaija.com.ng
 .wormsblast.com.pl
+.yt1s.com.co
 .www.midea123.z-media.com.cn
 .zenkimex.com.mx
 .comandofilmetorrent.com
@@ -4748,6 +4749,7 @@
 .kcnawatch.org
 .0d.kebhana.mx
 .tracker.keepfrds.com
+.keepvid.online
 .keke.re
 .kemono.su
 .data.kenecolor.com
@@ -7076,7 +7078,6 @@
 .redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
-.redditsport.cc
 .redecanais.zip
 .redecanaistv.zip
 .ica1616.redirectme.net
@@ -7284,6 +7285,7 @@
 .save-free.com
 .saveas.co
 .savebt.com
+.savefrom.bz
 .saveig.in
 .saveitfrom.com
 .sbaofficial.com
@@ -7788,6 +7790,7 @@
 .ssrmovies.win
 .sssinsta.com
 .sssinstagram.com
+.ssyoutube.com
 .stadium-live.biz
 .stafaband.info
 .stagatv.com
@@ -7814,6 +7817,7 @@
 .steamunderground.net
 .steamunlocked.net
 .steelwarez.com
+.steptodown.com
 .tracker.stfu.ca
 .stggege.org
 .stiftung-imai.de
@@ -9779,6 +9783,8 @@
 .xyz566.com
 .xyzbooter.net
 .torrentum.y0.pl
+.y2mate.nu
+.en.y2mate.is
 .y2meta.my
 .y4apk.com
 .garaje.ya.com
@@ -9875,6 +9881,9 @@
 .tr3.ysagin.top
 .yseries.tv
 .yst.ac
+.yt1d.app
+.yt1d.com
+.yt1s.is
 .yt1s.net
 .ytanime.tv
 .ytbdownload.com
