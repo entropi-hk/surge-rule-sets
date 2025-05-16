@@ -73,6 +73,7 @@
 .123movies.mx
 .123movies.online
 .123movies.pics
+.123movies.promo
 .123movies.review
 .123movies.sale
 .123movies.sc
@@ -89,6 +90,7 @@
 .123movies4u.fun
 .123movies4u.life
 .123movies4u.net
+.123movies4u.pro
 .123moviesbq.com
 .123moviesc.cyou
 .123moviesfree.love
@@ -101,6 +103,7 @@
 .123moviesgo.tv
 .123movieshd.top
 .123movieshub.cloud
+.123movieshub.cyou
 .123movieshub.it
 .123movieshub.sc
 .123movieshub.tech
@@ -116,6 +119,7 @@
 .123moviest.org
 .123moviesto.co
 .123moviesto.pro
+.123moviestofree.com
 .123moviestv.me
 .123moviestv.net
 .123movieswww.com
@@ -150,6 +154,7 @@
 .141jav.com
 .147job.com
 .16mag.net
+.1clickdown.com
 .1ddl.org
 .1fbdown.net
 .1fichier.com
@@ -182,9 +187,11 @@
 .22-hd.com
 .tracker.23794.top
 .23movies.xyz
+.24-download.com
 .24-hd.com
 .240x320.ru
 .24h.tv
+.24urban.com
 .24warez.ru
 .2bbit.com
 .2bcalvi.com
@@ -215,6 +222,7 @@
 .pcd.345.pl
 .345movie.net
 .365livesport.com
+.365watchtv.com
 .36dm.com
 .3dmgame.com
 .warezanet.3dn.ru
@@ -298,12 +306,14 @@
 .4realtorrentz.com
 .4shared.com
 .4stream.gg
+.4watch.net
 .18kara.50webs.com
 .tracker1.520.jp
 .tracker.52pt.site
 .admin.52ywp.com
 .54new.com
 .5movierulz.vc
+.5movies.buzz
 .5movies.cloud
 .5movies.fm
 .5movies.live
@@ -318,6 +328,7 @@
 .64dd.org
 .6ahddutb1ucc3cp.ru
 .6box.me
+.6stream.xyz
 .6streams.tv
 .bit-torrents.6x.to
 .warez-fusion.6x.to
@@ -384,6 +395,7 @@
 .bt.acg.gg
 .tracker.acg.gg
 .acgnx.se
+.acgnxtracker.com
 .acgsou.com
 .open.acgtracker.com
 .acid-play.com
@@ -416,6 +428,7 @@
 .aerotwitter.com
 .aerowa.cc
 .afdah.com
+.afdah.info
 .afdah.live
 .afdah.org
 .afdah.to
@@ -457,6 +470,7 @@
 .alienflix.net
 .aliez.me
 .aliez.tv
+.alifanet.com
 .iptv.aliflailabd.com
 .alivedownload.com
 .all-animes.com
@@ -467,9 +481,11 @@
 .alldebrid.fr
 .alldebrid.it
 .alldj.org
+.alleenretail.org
 .allesanddro.de
 .allesender.de
 .allfreeapk.com
+.allfreesoftware.org
 .allhd.tv
 .alliance4creativity.com
 .allin1.cx
@@ -626,7 +642,7 @@
 .altadefinizione01.life
 .altadefinizione01.love
 .altadefinizione01.name
-.altadefinizione01.photo
+.altadefinizione01.online
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -644,8 +660,10 @@
 .altermind.net
 .alterupload.com
 .tracker.altrosky.nl
+.stress.alwaysdata.net
 .amaderforum.net
 .amaderftp.net
+.amazing-news.se
 .ambassadorddl.site
 .ambits.org
 .amcomputers.org
@@ -768,6 +786,7 @@
 .animet.ru
 .animetake.tv
 .animetoon.org
+.animetorrents.com
 .animetorrents.me
 .animetosho.org
 .animeua.club
@@ -936,6 +955,7 @@
 .arenabg.ch
 .arenabg.com
 .arenahd.com
+.arenda123.ru
 .argenteam.net
 .argentinawarez.com
 .arishabd.net
@@ -997,9 +1017,11 @@
 .attacker.tv
 .attackertv.net
 .attackertv.so
+.attractiveservices.com
 .atzenbunker.xyz
 .tracker.auctor.tv
 .audio.download
+.audio-track.com
 .audiobb.com
 .audiobit.ru
 .audiobookbay.is
@@ -1018,6 +1040,7 @@
 .audiostuff.ro
 .audiotracer.com
 .audiozonetorrents.com
+.aurastresser.com
 .aurora-raws.com
 .aussietorrents.com
 .autobitx.com
@@ -3562,6 +3585,7 @@
 .free-telecharger.top
 .free-telecharger.xyz
 .open.free-tracker.ga
+.free4pc.org
 .freebannedbooks.org
 .freebfg.org
 .freebookspot.es
@@ -4478,7 +4502,6 @@
 .indiaboat.art
 .indiankino.org
 .indietorrents.com
-.tracker2.indowebster.com
 .indown.io
 .indoxx1film.me
 .indoxxi.center
