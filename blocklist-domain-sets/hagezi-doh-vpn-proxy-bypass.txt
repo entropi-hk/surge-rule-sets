@@ -54,6 +54,7 @@
 .1clickvpn.com
 .1clickvpn.net
 .onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com
+.dns.23-4.cn
 .233py.com
 .dns.240527.xyz
 .24tunnel.com
@@ -399,6 +400,7 @@
 .bingle.pw
 .sunny-wolf-734.biologyscholar.org
 .ns3.bit-trail.nl
+.bit123.biz
 .dns.bitdefender.net
 .fra-dns.bitdefender.net
 .iow-dns.bitdefender.net
@@ -450,6 +452,7 @@
 .bmetrics.org
 .dns.bmwhocking.com
 .dns.bobstrecansky.com
+.boda-vip.net
 .bodvpn.com
 .dns.bofh.in
 .boghag.party
@@ -535,6 +538,7 @@
 .help.cartes.cl
 .casinovpn.com
 .dns.caspervk.net
+.catch.gift
 .catchen121299.top
 .catdns.org
 .alidns.cb1999.top
@@ -873,6 +877,7 @@
 .dns.csa-rz.de
 .dns.csaonline.de
 .r8gjg2-8000.csb.app
+.pltw.csproject.org
 .dns.csswg.org
 .grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws
 .ct-vpn.com
@@ -1144,6 +1149,7 @@
 .punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
+.vpschito.duckdns.org
 .georgetown.duia.us
 .dukun.de
 .dutchproxy.nl
@@ -1183,6 +1189,7 @@
 .edgedcircles.com
 .edgy-dns.com
 .dns.editechstudio.com
+.edpuzzle.space
 .dns.tuna.tsinghua.edu.cn
 .eduacation.lol
 .educationdean.us
@@ -1327,6 +1334,7 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
+.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -1454,6 +1462,7 @@
 .doh.futa.gg
 .dogs.fuzzylookups.com
 .g-a-y.pro
+.gabstorm.com
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
@@ -1566,6 +1575,7 @@
 .performance.gosami.xyz
 .vpn.gosami.xyz
 .gostarlight.xyz
+.fisdinstructure.gotroot.pw
 .gotrusted.com
 .fractioncaculator.govt.hu
 .gpreport.us
@@ -1594,6 +1604,7 @@
 .guestappearance.us
 .dns2.guidocioni.it
 .intertravel.guillaumevanstrydonck.be
+.gumm.org
 .dns.gutwe.in
 .gvirabi.com
 .gwardgxd.baby
@@ -1601,6 +1612,7 @@
 .gztech.me
 .h-vpn.org
 .schoolnotes.h0rst.us
+.h0w.cc
 .gopeople.hackquest.com
 .dns.hahnjo.de
 .dns.haka.se
@@ -1631,6 +1643,7 @@
 .betternet-backend.herokuapp.com
 .heroproxy.com
 .httpdns-push.heytapmobile.com
+.hiddendigital.info
 .hiddenproxy.net
 .hide.me
 .hide.mn
@@ -2300,6 +2313,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3923,6 +3937,7 @@
 .utunnel.io
 .uvpn.me
 .dns.vaioswolke.xyz
+.www-proxy.valentiin.com
 .doh.valscosmos.com
 .valuepremium.us
 .vanilcraft.ru
