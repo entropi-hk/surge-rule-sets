@@ -501,7 +501,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .dns.eliv.kr
@@ -544,7 +543,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -1438,5 +1436,4 @@
 .dns.zfsystem.tech
 .doh.zknt.org
 .zougloub.eu
-.dns.zui.lol
 .dns.zzuhacker.cn
