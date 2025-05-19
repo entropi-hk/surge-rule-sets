@@ -1992,7 +1992,6 @@
 .adguard.kiboko.it
 .kickassproxy.com
 .doh.kidzonet.io
-.kilabit.info
 .kiliclar.lol
 .doh.killtw.im
 .blog.kimiblock.top
@@ -2339,7 +2338,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3061,6 +3059,7 @@
 .quickproxies.com
 .dns.quiet.rocks
 .quintex.com
+.quotivatehub.com
 .ant.dns.qwer.pw
 .dog.dns.qwer.pw
 .frog.dns.qwer.pw
@@ -3102,6 +3101,7 @@
 .dns.reckoningslug.name
 .redhoodie.site
 .redproxy.info
+.redschool.info
 .redshieldvpn.com
 .dns.redvau.lt
 .reezus.us
@@ -3134,6 +3134,7 @@
 .riseup.net
 .rnblyatclub.online
 .skibidirizz.robinhud.com
+.rocketprox.com
 .rocketube.online
 .rockwell.website
 .dns.roedel.cloud
@@ -3146,6 +3147,7 @@
 .dns.rootlab.top
 .roskomnadzorgorivadu.ru
 .dns.rotunneling.net
+.roundrockisd.online
 .o.rsaikat.com
 .au.rslvr.eu
 .bg.rslvr.eu
@@ -3531,6 +3533,7 @@
 .switch.ch
 .switchvpn.com
 .switchvpn.net
+.swordvpn.com
 .dns.sy.st
 .dns.syaifullah.com
 .symlexvpn.com
@@ -3659,6 +3662,7 @@
 .tlsext.com
 .tlz.asia
 .tmhhd.tk
+.tnvpn.com
 .d.toairs.com
 .tokit.site
 .tonvpn.com
@@ -3706,6 +3710,7 @@
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
+.travelvpn.info
 .travelvpn.net
 .ns.trcnet.fi
 .consumervpn.trendmicro.com
@@ -3794,6 +3799,7 @@
 .unblock2d.com
 .unblock3d.biz
 .unblock4you.com
+.unblockableproxy.org
 .unblockaccess.com
 .unblockandsurf.com
 .unblockanime.com
@@ -4003,6 +4009,7 @@
 .videonew.online
 .videoproxy.site
 .videounblock.com
+.videounblocked.com
 .videounblocker.net
 .vidproxy.com
 .viewyoutube.net
@@ -4038,6 +4045,7 @@
 .vpn-free.com
 .vpn-free.download
 .vpn-professional.company
+.vpn-quick.com
 .vpn4all.com
 .vpn99.net
 .vpnaccounts.com
@@ -4193,6 +4201,8 @@
 .whyproxy.com
 .dns.wibenson.cloud
 .widevpn.com
+.wiefy.com
+.hellotaka.wiki.gd
 .wikimedia-dns.org
 .wiksa.com
 .dns-1.wil.cloud
@@ -4255,6 +4265,7 @@
 .dns.xlion.tw
 .xn--durhre-yxa.de
 .xperienc.com
+.xsfwow.com
 .hailey-complex.xst.cl
 .dns.xuming.studio
 .dns.xusqui.com
@@ -4290,6 +4301,7 @@
 .youproxything.com
 .youproxytube.com
 .your-dns.run
+.your-freedom.de
 .yourcheat.com
 .yourinternetproxy.info
 .youtube-proxy.com
@@ -4301,6 +4313,7 @@
 .yovbak.com
 .yoyovpn.org
 .ytcroxyproxy.com
+.yui.cat
 .dns.yuu-g.net
 .yuvelirtut.website
 .yuyuproxy.com
@@ -4330,6 +4343,7 @@
 .zerotier.com
 .zerotunnel.com
 .zerovpn-app.com
+.zexusdigital.online
 .dns.zfsystem.tech
 .zippyproxy.com
 .doh.zknt.org

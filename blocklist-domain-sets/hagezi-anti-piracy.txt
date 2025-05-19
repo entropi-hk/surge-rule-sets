@@ -644,7 +644,6 @@
 .altadefinizione01.love
 .altadefinizione01.name
 .altadefinizione01.online
-.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -7142,6 +7141,7 @@
 .rapidstresser.com
 .rapload.org
 .rarbg.buzz
+.rarbg.cc
 .rarbg.club
 .rarbg.com
 .rarbg.gg
@@ -7151,6 +7151,7 @@
 .rarbg.to
 .rarbg.tw
 .rarbg2018.org
+.rarbg2019.org
 .rarbg2020.org
 .rarbgaccess.org
 .rarbgaccessed.org
@@ -7228,6 +7229,7 @@
 .redstream.online
 .redump.org
 .redvido.com
+.redwarez.xyz
 .dpiui.reedlan.com
 .reelsdownload.co
 .reevown.com
@@ -7250,6 +7252,7 @@
 .repackov.net
 .reprobate.se
 .request.rip
+.requestcracks.com
 .reqzone.com
 .bt.rer.lol
 .ipv4.rer.lol
@@ -7322,6 +7325,7 @@
 .rojadirecta.me
 .rojadirecta.top
 .rojadirecta.video
+.rojadirecta.watch
 .rojadirectaenvivo.club
 .rojadirectaes.org
 .rojadirectahd.online
@@ -7386,8 +7390,10 @@
 .ryuanime.com
 .s.to
 .s0ft4pc.com
+.s2dfree.cc
 .s2dfree.de
 .s2dfree.is
+.s2dfree.nl
 .s2dfree.to
 .s4softwares.com
 .sabnzbd.org
@@ -7417,6 +7423,7 @@
 .santost12.xyz
 .sastatus.com
 .sat-extreme.pl
+.satclubbing.info
 .satiq.net
 .fs.satrong.live
 .saturninternetbd.com
@@ -7448,7 +7455,9 @@
 .scenep2p.com
 .scenepirates.com
 .scenerace.net
+.scenereactor.net
 .scenesource.me
+.scenespot.net
 .sceneunderground.org
 .scenex.me
 .schoener-fernsehen.com
@@ -7511,6 +7520,7 @@
 .serialheaven.com
 .serialkeysfree.org
 .serialkeysoftware.com
+.serialnews.com
 .serialnews.net
 .serialno.tv
 .serialnumber.in
@@ -7623,6 +7633,7 @@
 .sharingcode.com
 .sharingzone.net
 .sharkdownloads.com
+.sharkstresser.com
 .members.shaw.ca
 .shawty.club
 .shellife.eu
@@ -7636,6 +7647,7 @@
 .udp-tracker.shittyurl.org
 .tracker.shkinev.me
 .shnflac.net
+.shogiroom.com
 .shokweb.com
 .shopdoc.ru
 .showbox.media
@@ -7661,6 +7673,7 @@
 .simplestorrent.com
 .simplestream.in
 .simplywatch.tv
+.simpsonai.tv
 .simpsonitos.com
 .simpsonsua.tv
 .sindresorhus.com
@@ -7706,6 +7719,7 @@
 .tracker.skyts.net
 .sladinki007.net
 .slam.ws
+.sleek.to
 .slidemovies.org
 .slider.kz
 .slosoul.eu
@@ -7761,6 +7775,7 @@
 .soaper.cc
 .soaper.live
 .soaper.top
+.soaper.tv
 .soaper.vip
 .soaperpage.com
 .soapertv.cc
@@ -7770,12 +7785,14 @@
 .socceron.org
 .socceronline.me
 .soccerstreamlinks.com
+.soccerstreams.app
 .soccerstreams.football
 .soccerstreams.net
 .soccerstreams100.io
 .soccerstreamshd.com
 .soccerworldcup.me
 .socialplug.io
+.tracker.societyglitch.com
 .sockshare.ac
 .sockshare.net
 .sockshares.tv
@@ -7791,9 +7808,12 @@
 .softmp3.org
 .softmupparna.net
 .softpilot.win
+.softreflex.com
 .softsclub.com
+.softserialskey.com
 .softtorrents.org
 .software-free.net
+.softwarebits.net
 .softwarecrackworks.com
 .softwareheritage.org
 .softwarehomes.in
@@ -7830,6 +7850,7 @@
 .solidz.com
 .some-stuffs.com
 .somosmovies.com
+.songslover.cam
 .songswave.com
 .sonofshun.com
 .sosulki.net
@@ -7932,6 +7953,7 @@
 .sssinsta.com
 .sssinstagram.com
 .ssyoutube.com
+.st-tracker.eu
 .stadium-live.biz
 .stafaband.info
 .stagatv.com
@@ -7979,12 +8001,14 @@
 .stream2watch.is
 .stream2watch.one
 .stream2watch.ws
+.stream4u.io
 .streamanimetv.net
 .streamboox.com
 .streamcenter.cc
 .streamcloud.cx
 .streamcloud.my
 .streamcomplet.com
+.streamcomplet.io
 .streamcomplet.me
 .streamcomplets.net
 .streamdeouf.rip
@@ -8020,14 +8044,17 @@
 .streamingcommunity.be
 .streamingcommunity.bet
 .streamingcommunity.bike
+.streamingcommunity.bio
 .streamingcommunity.black
 .streamingcommunity.boutique
 .streamingcommunity.cam
 .streamingcommunity.capital
 .streamingcommunity.center
 .streamingcommunity.charity
+.streamingcommunity.cheap
 .streamingcommunity.city
 .streamingcommunity.click
+.streamingcommunity.cloud
 .streamingcommunity.club
 .streamingcommunity.co
 .streamingcommunity.codes
@@ -8039,6 +8066,7 @@
 .streamingcommunity.de
 .streamingcommunity.dev
 .streamingcommunity.dog
+.streamingcommunity.eu
 .streamingcommunity.expert
 .streamingcommunity.fm
 .streamingcommunity.fr
@@ -8209,6 +8237,7 @@
 .swatchseries.is
 .swatchseries.ru
 .swatchseries.to
+.swebits.org
 .sweet-paris.com
 .swetracker.org
 .swetv.org
@@ -8235,6 +8264,7 @@
 .rt.tace.ru
 .taiwebs.com
 .tajpata.com
+.takeback.org
 .takemetal.org
 .takerhatwifi.com
 .tracker.tallpenguin.org
@@ -8308,6 +8338,7 @@
 .tapochek.net
 .taringa.net
 .tarjetaroja.me
+.tarjetarojaenvivo.me
 .tarjetarojatvhd.com
 .tracker.tasvideos.org
 .tata.to
@@ -8356,6 +8387,7 @@
 .terbit21.club
 .terbit21.co
 .terbit21.me
+.terbit21.online
 .tetrasoftbd.com
 .tfile.me
 .tracker.tfile.co
@@ -8503,6 +8535,7 @@
 .thesefiles.com
 .thesegalleries.com
 .theserials.com
+.tracker.theshow.click
 .thesilentlibrary.com
 .theskyiscrape.com
 .thesoap2day.com
@@ -8539,6 +8572,7 @@
 .tigerblack.net
 .tikmovies.com
 .time2watch.in
+.time2watch.tv
 .time4tv.top
 .timenai.com
 .timepassbd.com
@@ -8610,6 +8644,7 @@
 .topmoviesonline.org
 .topnet.in
 .topnow.se
+.toppmovies.com
 .topseda.ir
 .topsitestreaming.info
 .topsrs.day
@@ -8676,6 +8711,7 @@
 .torrent9.is
 .torrent9.ph
 .torrent9.pl
+.torrent9.sh
 .torrent9.site
 .torrent9.so
 .torrent9.to
@@ -8700,6 +8736,7 @@
 .torrentday.com
 .torrentdb.li
 .torrentdia.com
+.torrentdia100.com
 .torrentdia101.com
 .torrentdia103.com
 .torrentdia104.com
@@ -8810,6 +8847,7 @@
 .torrents.to
 .torrents-csv.ml
 .torrents-game.net
+.torrents-nn.cn
 .torrents-proxy.com
 .torrents-time.com
 .torrents-zone.com
@@ -8850,6 +8888,7 @@
 .torrentvalley.com
 .torrentvault.org
 .torrentvery.com
+.torrentvibes.com
 .torrentvideos.com
 .torrentview9.net
 .torrentway.com
@@ -8863,6 +8902,7 @@
 .torrentz.pl
 .torrentz.pro
 .torrentz.ws
+.torrentz2.cc
 .torrentz2.eu
 .torrentz2.is
 .torrentz2.nz
@@ -9291,6 +9331,7 @@
 .unionpeer.org
 .uniquedownloadbd.com
 .uniquenetbd.com
+.uniqueonlinebd.com
 .uniquestream.net
 .uniquestream.vip
 .uniquewarez.com
@@ -9389,6 +9430,7 @@
 .vedohd.uno
 .vegamovies.ist
 .vegamovies.ngo
+.vegamovies.vg
 .velocinator.tv
 .veoble.com
 .veranime.top
@@ -9509,6 +9551,7 @@
 .vmovee.cc
 .vmovee.me
 .vmovee.watch
+.vod78d.club
 .vodfilms.rip
 .vodlocker.to
 .vodly.to
@@ -9524,6 +9567,7 @@
 .voirfilms.io
 .voirfilms.tel
 .voirfilms.ws
+.voirfilmstreaming.online
 .voirfilmvf.co
 .voirserie.co
 .voirseries.com
@@ -9629,6 +9673,7 @@
 .warezportal.com
 .warezrocker.net
 .warezscene.org
+.warezserbia.org
 .warezstore.com
 .warezstore.org
 .warezteam.ws
@@ -10003,6 +10048,7 @@
 .youmoviz.tv
 .younetu.com
 .youplex.site
+.youpornbook.com
 .static.202.35.76.144.clients.your-server.de
 .static.54.161.216.95.clients.your-server.de
 .yourbittorrent.com
@@ -10030,6 +10076,7 @@
 .ytbdownload.com
 .ytmp3.cc
 .ytmp3.top
+.ytmp3juices.cc
 .ytmp4.is
 .ytorrent.org
 .ytricks.co
@@ -10040,11 +10087,13 @@
 .yts.digital
 .yts.io
 .yts.la
+.yts.lat
 .yts.lc
 .yts.life
 .yts.lt
 .yts.ms
 .yts.mx
+.yts.pl
 .yts.pm
 .yts.re
 .yts.rs
@@ -10068,6 +10117,7 @@
 .yunnx.com
 .yuppow.com
 .yuptorrents.com
+.yuwabits.net
 .home.yxgz.club
 .6ffc826b.yyv.co
 .z-lib.org
@@ -10091,6 +10141,7 @@
 .zamunda.ch
 .zamunda.net
 .zamunda.se
+.zanimesonline.com
 .zaniob.com
 .zaycev.net
 .zbigz.com
@@ -10172,3 +10223,4 @@
 .tr.zukizuki.org
 .zumods.com
 .zxcmovies.com
+.zxonlinebd.com

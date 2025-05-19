@@ -1223,6 +1223,7 @@
 .spdyn.de
 .spectrumnet.bg
 .spelar.se
+.spr.io
 .sql01.com
 .sqlconcepts.com
 .squirly.info
