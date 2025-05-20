@@ -501,6 +501,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .dns.eliv.kr
@@ -695,6 +696,7 @@
 .green2.jnraptor.net
 .dns.joey01245.nl
 .adguard.johanliebert.top
+.johneldenring.lol
 .opencdn.jomodns.com
 .adguard1.jsanagustin.net
 .dns.jstockley.com
@@ -727,6 +729,7 @@
 .adg.khon.dev
 .adguard.kiboko.it
 .doh.kidzonet.io
+.kilabit.info
 .doh.killtw.im
 .blog.kimiblock.top
 .dns1.klcd.eu
@@ -881,6 +884,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1123,7 +1127,6 @@
 .at.pzhg.me
 .vpsus3.pzhg.me
 .doh.qis.io
-.qqmcfw.tech
 .ns1.qquack.org
 .dns.qrtz.club
 .hostdare.qtxd.net

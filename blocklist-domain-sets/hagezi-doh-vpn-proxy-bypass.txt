@@ -285,6 +285,7 @@
 .iron-dot-cobalt-antenna-219709.appspot.com
 .vpn.appsverse.com
 .dns.aquilenet.fr
+.locval.araminimichael.ch
 .arcai.com
 .proof.major.archanet.org
 .doh.archuser.org
@@ -333,6 +334,7 @@
 .sakura-site-rammerhead.ax1951.com
 .axaxa.fun
 .anyralnestridentrodinfisxu.ayrnatales.net
+.learn.azimei.cn
 .teachers.azimei.cn
 .azirevpn.com
 .doh.azoris.ovh
@@ -397,6 +399,7 @@
 .bi-tree.ru
 .bigjimmy.xyz
 .bigma.org
+.binance.info
 .carverd.bine.me
 .bingle.icu
 .bingle.pw
@@ -772,7 +775,6 @@
 .dns.colorfreedom.org
 .dns.7sec.com.br
 .anonymous-proxy.com.de
-.automisto24.com.ua
 .data.c-abogados.com.ar
 .dns.ceai.com.tw
 .dns.cloud88.com.au
@@ -827,6 +829,7 @@
 .dns.cooluc.com
 .coproxy.io
 .corecloak.com
+.real.coremindx.com
 .doh.cornes.me
 .corsproxy.io
 .cosmohacker.space
@@ -1200,6 +1203,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .elephantvpn.com
@@ -1360,7 +1364,6 @@
 .flyvpn.com
 .schoolnotes.followork.net
 .gateway.fomichev.cloud
-.footballinter.com
 .footlia.com
 .buy.footlooseandfancyrich.com
 .for-privacy.net
@@ -1608,6 +1611,7 @@
 .dns2.guidocioni.it
 .intertravel.guillaumevanstrydonck.be
 .gumm.org
+.domain.guojinloong.cn
 .dns.gutwe.in
 .gvirabi.com
 .gwardgxd.baby
@@ -1914,6 +1918,7 @@
 .px.jarnus.xyz
 .jayshaun.com
 .jcdns.fun
+.lowlow.jellyfl1x.es
 .jellyvpn.com
 .doh.jeroenhd.nl
 .jetbean.com
@@ -1936,6 +1941,7 @@
 .dns.joey01245.nl
 .vpn.jogjacloud.com
 .adguard.johanliebert.top
+.johneldenring.lol
 .johnkellyprivate.com
 .joker81fansbase.site
 .opencdn.jomodns.com
@@ -1992,6 +1998,7 @@
 .adguard.kiboko.it
 .kickassproxy.com
 .doh.kidzonet.io
+.kilabit.info
 .kiliclar.lol
 .doh.killtw.im
 .blog.kimiblock.top
@@ -2126,6 +2133,7 @@
 .pbs.lookids.com
 .lookingglass.site
 .lopana.com
+.edu.loskks.org
 .lotofabric.ru
 .loubonde.xyz
 .n5.lsasss.com
@@ -2338,6 +2346,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3039,7 +3048,6 @@
 .qaiik.info
 .doh.qis.io
 .qpoll.ir
-.qqmcfw.tech
 .ns1.qquack.org
 .dns.qrtz.club
 .hostdare.qtxd.net
@@ -3449,6 +3457,7 @@
 .stormproxies.com
 .dns.stormycloud.org
 .whatisfunanymore.com.strangled.net
+.getbacktowork.strangled.net
 .dns.strassmair.org
 .streamvia.com
 .streamvpn.com
@@ -3562,6 +3571,7 @@
 .dns.technologycage.com
 .dns.technostriker.com
 .rx.techomespace.com
+.tekirdagescortlar.com
 .dns.telekom.de
 .telleport.me
 .vpn-tw.teng.sh
@@ -4248,6 +4258,7 @@
 .x9fnzrtl4x8pynsf.com
 .adb-home.xaoimoon.fr
 .pub.xapktech.xyz
+.learn.xcloud.ar
 .doh.xcom.pro
 .xcomplus.com
 .xenergy.cc
@@ -4292,6 +4303,7 @@
 .sg.yepdns.com
 .yesbutno.wtf
 .ylink.info
+.alst.ynbbs.cc
 .yogavpn.com
 .yogawiki.in
 .youcanhide.net
