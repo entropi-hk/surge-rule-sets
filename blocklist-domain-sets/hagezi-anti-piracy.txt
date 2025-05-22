@@ -644,6 +644,7 @@
 .altadefinizione01.love
 .altadefinizione01.name
 .altadefinizione01.online
+.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -1623,6 +1624,7 @@
 .canna.tf
 .canna.to
 .canna-power.to
+.threads.canofsocks.com
 .capcutmod.io
 .capcutmodapk.id
 .carapax.net
@@ -3650,7 +3652,6 @@
 .free-telecharger.top
 .free-telecharger.xyz
 .open.free-tracker.ga
-.free4pc.org
 .freebannedbooks.org
 .freebfg.org
 .freebookspot.es
@@ -9786,6 +9787,7 @@
 .webstresser.com
 .webtor.io
 .webtorrent.io
+.tracker.webtorrent.dev
 .webtorrents.com
 .webwarez.net
 .weeabooter.com

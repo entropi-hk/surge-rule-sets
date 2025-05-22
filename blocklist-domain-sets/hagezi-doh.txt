@@ -1154,7 +1154,6 @@
 .family.rabbitdns.org
 .security.rabbitdns.org
 .dns.api.rackspacecloud.com
-.dns.rafn.is
 .ns.ral9005.org
 .emby.rasp.tv
 .dns.rayanbab.com
