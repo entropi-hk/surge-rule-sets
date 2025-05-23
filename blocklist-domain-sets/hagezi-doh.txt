@@ -501,7 +501,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .dns.eliv.kr
@@ -544,6 +543,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -596,7 +596,6 @@
 .google-public-dns-a.google.com
 .google-public-dns-b.google.com
 .performance.gosami.xyz
-.dot.libredns.gr.com
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .dns.guard.io

@@ -644,7 +644,6 @@
 .altadefinizione01.love
 .altadefinizione01.name
 .altadefinizione01.online
-.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -1248,6 +1247,7 @@
 .bitchil.com
 .bitcine.app
 .bitcity.hu
+.tracker.bitcoinindia.space
 .bitcomet.com
 .bitcorea.org
 .bitcountry.com
@@ -3652,6 +3652,7 @@
 .free-telecharger.top
 .free-telecharger.xyz
 .open.free-tracker.ga
+.free4pc.org
 .freebannedbooks.org
 .freebfg.org
 .freebookspot.es
@@ -6803,6 +6804,7 @@
 .plusnetbd.com
 .pluspremieres.com
 .plygig.com
+.tracker.pmman.tech
 .pmtorrents.com
 .pobieramy24.pl
 .pobieramy24.xyz
