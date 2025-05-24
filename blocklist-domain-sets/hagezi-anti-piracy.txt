@@ -644,6 +644,7 @@
 .altadefinizione01.love
 .altadefinizione01.name
 .altadefinizione01.online
+.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
@@ -3652,7 +3653,6 @@
 .free-telecharger.top
 .free-telecharger.xyz
 .open.free-tracker.ga
-.free4pc.org
 .freebannedbooks.org
 .freebfg.org
 .freebookspot.es
@@ -5691,6 +5691,7 @@
 .moriyashrine.org
 .morpheustvhd.com
 .wg.mortis.me
+.motchill.cm
 .motivationalhacks.com
 .motogpstream.me
 .motorworld.net
@@ -9772,6 +9773,7 @@
 .wearechecking.live
 .wearethereal.ninja
 .nunflix-firebase.web.app
+.h4g3z1-anti.piracy.web.app
 .webbul.net
 .webcatalog.io
 .megawarez.webcindario.com

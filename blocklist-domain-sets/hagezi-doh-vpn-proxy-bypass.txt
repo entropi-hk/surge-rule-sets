@@ -1103,6 +1103,7 @@
 .b.safe.ns.dnslify.com
 .dnslow.me
 .dns.dnsoverhttps.net
+.dnstunnel.run
 .adblock-dot.dnswarden.com
 .adult-filter-dot.dnswarden.com
 .doh.asia.dnswarden.com
@@ -1201,6 +1202,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .elephantvpn.com
@@ -3427,7 +3429,6 @@
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
-.proxy1.startpage.com
 .proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
@@ -3664,7 +3665,6 @@
 .tnvpn.com
 .d.toairs.com
 .tokit.site
-.app.tollgatevillagetn.com
 .tonvpn.com
 .toolara.net
 .dot.tooli.ca
@@ -4146,6 +4146,7 @@
 .waselpro.com
 .watchunblocked.com
 .dns.engineer.web.id
+.h4g3z1-doh-vpn-proxy-bypass.web.app
 .doh.this.web.id
 .1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 .webbrowser.live

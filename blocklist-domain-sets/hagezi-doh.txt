@@ -501,6 +501,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .dns.eliv.kr
@@ -1380,6 +1381,7 @@
 .dns.warma.me
 .dns.warpnine.de
 .dns.engineer.web.id
+.h4g3z1-doh.web.app
 .doh.this.web.id
 .doh.webnmail.de
 .dns.wechat.com
