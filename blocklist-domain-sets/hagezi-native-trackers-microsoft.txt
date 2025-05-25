@@ -356,6 +356,7 @@
 .word-telemetry.wac.trafficmanager.net
 .win-global-asimov-leafs-events-data.trafficmanager.net
 .dc.services.visualstudio.com
+.h4g3z1-native.winoffice.web.app
 .activity.windows.com
 .ceuswatcab01.blob.core.windows.net
 .ceuswatcab02.blob.core.windows.net

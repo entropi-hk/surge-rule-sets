@@ -210,6 +210,7 @@
 .tr-onrt-stsdk.vivoglobal.com
 .tr-ort-stsdk.vivoglobal.com
 .tr-p.vivoglobal.com
+.tr-pnrt-stsdk.vivoglobal.com
 .tr-romsp-unifyconfig.vivoglobal.com
 .tr-st-sl.vivoglobal.com
 .tr-st-sysupgrade.vivoglobal.com
@@ -224,4 +225,5 @@
 .xn-ex-adreq-asa-c5b.vivoglobal.com
 .zasc-vcode-api.vivoglobal.com
 .zasc-vcode-od.vivoglobal.com
+.h4g3z1-native.vivo.web.app
 .vhs.wwstat.com

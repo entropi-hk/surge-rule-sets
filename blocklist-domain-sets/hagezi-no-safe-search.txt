@@ -24,7 +24,6 @@
 .search.bluelock.org
 .boomle.com
 .search.bowlman.org
-.searx.catfluori.de
 .search.aol.co.uk
 .websearch.excite.co.jp
 .searx.com.au
@@ -170,6 +169,7 @@
 .lx.vern.cc
 .wg.vern.cc
 .searx.vitanetworks.link
+.h4g3z1-nosafesearch.web.app
 .webcrawler.com
 .searx.wegeeks.win
 .wiby.me

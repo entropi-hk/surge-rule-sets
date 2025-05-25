@@ -107,3 +107,4 @@
 .uba.huaweicloud.com
 .logserver.nzxcloud.cn
 .logservice.vmall.com
+.h4g3z1-native.huawei.web.app

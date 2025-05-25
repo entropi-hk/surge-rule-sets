@@ -13,3 +13,4 @@
 .nudge.lgtvcommon.com
 .rdl.lgtvcommon.com
 .wiseconfig.lgtvcommon.com
+.h4g3z1-native.lgwebos.web.app

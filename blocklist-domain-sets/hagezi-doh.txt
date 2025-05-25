@@ -110,7 +110,6 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
-.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -501,7 +500,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .dns.eliv.kr
@@ -884,7 +882,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1196,7 +1193,6 @@
 .rumpelsepp.org
 .doh.runsel.id
 .agh-yz.russel053.com
-.drs.rustsword.com
 .dns1.ryan-palmer.com
 .dns1.saferbfc.org
 .dns2.saferbfc.org
