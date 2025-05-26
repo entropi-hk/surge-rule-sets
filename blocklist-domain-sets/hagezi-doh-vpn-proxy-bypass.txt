@@ -349,6 +349,7 @@
 .doh2.b-cdn.net
 .freevpnme.b-cdn.net
 .hola-client-cdn4.b-cdn.net
+.b-dns.se
 .dns.b33.space
 .i.am.selling.b33r.us
 .dns.b612.me
@@ -366,6 +367,7 @@
 .plant-selection.baumgardner.us
 .bazooki-infra.dev
 .bdns.io
+.bdns.nu
 .bdns.pro
 .beapasswpn.com
 .dns.beardic.cn
@@ -1198,10 +1200,12 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .elephantvpn.com
 .elgatobypasses.org
+.eliatofani.ovh
 .dns.eliv.kr
 .emban-networks.com
 .emeraldeyex.dev
@@ -1397,7 +1401,6 @@
 .freebypassproxy.com
 .freecanadavpn.com
 .freecavpn.com
-.hkname.freecdn.one
 .freeconnect.link
 .freedom.cx
 .freedome-vpn.net
@@ -2335,6 +2338,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
