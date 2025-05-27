@@ -869,6 +869,7 @@
 .apkmirrorfull.com
 .apkmodbrasil.com
 .apkmodct.com
+.apkmoddone.com
 .apkmodea.com
 .apkmodget.com
 .apkmodgo.com
@@ -4300,6 +4301,7 @@
 .hicartoon.to
 .hidraplay.tv
 .torrent.hificode.in
+.tracker.hifimarket.in
 .tracker.hifitechindia.com
 .high-way.me
 .highlightstore.me

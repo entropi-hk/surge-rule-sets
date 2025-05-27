@@ -1340,7 +1340,6 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
-.dns.fizz.studio
 .flarquix.xyz
 .flashpull.com
 .flashput.net
@@ -1804,7 +1803,6 @@
 .rhp.ilove4ndan.com
 .ilumu.com
 .ilysk.lol
-.dns.imaicool.com
 .noads.imbuffering.com
 .dns.imchristian.de
 .dns.immanuelschaffer.de
@@ -2338,7 +2336,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3421,7 +3418,6 @@
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com
