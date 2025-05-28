@@ -97,7 +97,6 @@
 .notfound-google.404.mn
 .doh.42l.fr
 .bannana.web-doge.42web.io
-.dns.444723.xyz
 .46sdzf3zdg1dxg2.us
 .4everproxy.com
 .ns2.4netguides.org
@@ -115,8 +114,6 @@
 .i-ready.69.mu
 .71745718.online
 .7713.info
-.doh.774445.xyz
-.dns.775467.xyz
 .777schoolutilities.website
 .777surfer.info
 .dns.7vpn.com
@@ -124,7 +121,6 @@
 .87826100.xyz
 .dns.886886886.xyz
 .dns.888654.xyz
-.dns.8887744.xyz
 .8888.google
 .8proxy.com
 .8v9m.com
@@ -363,7 +359,6 @@
 .jp-dns1.bancuh.com
 .sg-dns1.bancuh.com
 .base99.com
-.doh.battle.christmas
 .plant-selection.baumgardner.us
 .bazooki-infra.dev
 .bdns.io
@@ -1803,6 +1798,7 @@
 .rhp.ilove4ndan.com
 .ilumu.com
 .ilysk.lol
+.dns.imaicool.com
 .noads.imbuffering.com
 .dns.imchristian.de
 .dns.immanuelschaffer.de
@@ -3418,6 +3414,7 @@
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
 .error.proxy.startpage.com
+.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com

@@ -632,7 +632,6 @@
 .altadefinizione01.love
 .altadefinizione01.name
 .altadefinizione01.online
-.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site
