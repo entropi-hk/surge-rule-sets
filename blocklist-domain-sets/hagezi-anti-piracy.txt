@@ -190,6 +190,7 @@
 .24h.tv
 .24urban.com
 .24warez.ru
+.2600.com
 .2bbit.com
 .2bcalvi.com
 .2ddl.it
@@ -632,6 +633,7 @@
 .altadefinizione01.love
 .altadefinizione01.name
 .altadefinizione01.online
+.altadefinizione01.photo
 .altadefinizione01.plus
 .altadefinizione01.promo
 .altadefinizione01.site

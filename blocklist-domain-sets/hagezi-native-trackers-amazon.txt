@@ -1,3 +1,4 @@
+.227.amazon-adsystem.com
 .aan.amazon.co.jp
 .aan.amazon.com
 .aan.amazon.co.uk
@@ -107,6 +108,7 @@
 .assoc-msdk-eu.amazon-adsystem.com
 .assoc-msdk-us.amazon-adsystem.com
 .at-beta.amazon-adsystem.com
+.ateu.amazon-adsystem.com
 .atfe.amazon-adsystem.com
 .at-gamma-us-east.amazon-adsystem.com
 .atue.amazon-adsystem.com
@@ -124,6 +126,7 @@
 .cdn-a.amazon-adsystem.com
 .cdn-d.amazon-adsystem.com
 .cdn-t.amazon-adsystem.com
+.com.amazon-adsystem.com
 .d3p8zr0ffa9t17.cloudfront.net
 .da-cdn.amazon-adsystem.com
 .device-metrics-us-2.amazon.com
@@ -221,6 +224,7 @@
 .monitoring.il-central-1.amazonaws.com
 .monitoring.me-central-1.amazonaws.com
 .monitoring.me-south-1.amazonaws.com
+.monitoring.prod.cloudwatch.amazonaws.com
 .monitoring.sa-east-1.amazonaws.com
 .monitoring.us-east-1.amazonaws.com
 .monitoring.us-east-2.amazonaws.com
@@ -244,6 +248,7 @@
 .new-telemetry.insights.video.a2z.com
 .origin-sq-tungsten-ts.amazon-adsystem.com
 .paa-reporting-advertising.amazon
+.ppp.amazon-adsystem.com
 .pri1-3ps.amazon-adsystem.com
 .pri1-id-eu.amazon-adsystem.com
 .pri1-id-fe.amazon-adsystem.com
