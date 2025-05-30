@@ -3603,7 +3603,6 @@
 .free-telecharger.top
 .free-telecharger.xyz
 .open.free-tracker.ga
-.free4pc.org
 .freebannedbooks.org
 .freebfg.org
 .freebookspot.es
