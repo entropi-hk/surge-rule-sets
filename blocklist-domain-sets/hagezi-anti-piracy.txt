@@ -3603,6 +3603,7 @@
 .free-telecharger.top
 .free-telecharger.xyz
 .open.free-tracker.ga
+.free4pc.org
 .freebannedbooks.org
 .freebfg.org
 .freebookspot.es
@@ -9388,7 +9389,6 @@
 .vidclouds.icu
 .vidembed.net
 .videobin.co
-.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info
