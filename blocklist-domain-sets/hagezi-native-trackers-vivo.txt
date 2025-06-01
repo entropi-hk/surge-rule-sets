@@ -82,6 +82,7 @@
 .eu-pnrt-stsdk.vivoglobal.com
 .eu-romsp-unifyconfig.vivoglobal.com
 .eu-st-sl.vivoglobal.com
+.eu-stsdk.vivoglobal.com
 .eu-timesync.vivoglobal.com
 .eu-vcode-api.vivoglobal.com
 .eu-vcode-od.vivoglobal.com
@@ -207,6 +208,7 @@
 .tr-cota.vivoglobal.com
 .tr-domaincfg.vivoglobal.com
 .tr-err-up.vivoglobal.com
+.tr-gdpr-vgc-datacenter.vivoglobal.com
 .tr-onrt-stsdk.vivoglobal.com
 .tr-ort-stsdk.vivoglobal.com
 .tr-p.vivoglobal.com

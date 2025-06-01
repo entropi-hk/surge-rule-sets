@@ -1,4 +1,3 @@
-.227.amazon-adsystem.com
 .aan.amazon.co.jp
 .aan.amazon.com
 .aan.amazon.co.uk
@@ -126,7 +125,6 @@
 .cdn-a.amazon-adsystem.com
 .cdn-d.amazon-adsystem.com
 .cdn-t.amazon-adsystem.com
-.com.amazon-adsystem.com
 .d3p8zr0ffa9t17.cloudfront.net
 .da-cdn.amazon-adsystem.com
 .device-metrics-us-2.amazon.com
@@ -248,7 +246,6 @@
 .new-telemetry.insights.video.a2z.com
 .origin-sq-tungsten-ts.amazon-adsystem.com
 .paa-reporting-advertising.amazon
-.ppp.amazon-adsystem.com
 .pri1-3ps.amazon-adsystem.com
 .pri1-id-eu.amazon-adsystem.com
 .pri1-id-fe.amazon-adsystem.com
