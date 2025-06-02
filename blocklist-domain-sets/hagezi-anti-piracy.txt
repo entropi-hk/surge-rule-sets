@@ -3603,7 +3603,6 @@
 .free-telecharger.top
 .free-telecharger.xyz
 .open.free-tracker.ga
-.free4pc.org
 .freebannedbooks.org
 .freebfg.org
 .freebookspot.es
@@ -6725,6 +6724,7 @@
 .plusbox.tv
 .plusnetbd.com
 .pluspremieres.com
+.tracker.plx.im
 .plygig.com
 .tracker.pmman.tech
 .pmtorrents.com

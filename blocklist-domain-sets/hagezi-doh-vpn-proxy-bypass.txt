@@ -1480,6 +1480,7 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -2834,6 +2835,7 @@
 .sleepykirby.ofmdirect.com
 .okado.online
 .okayfreedom.com
+.dns.olpploiopkuyhiopsfrt.info
 .olympicproxy.net
 .omegaproxy.com
 .adguard.oms-ctr.ru

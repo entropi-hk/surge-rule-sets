@@ -539,6 +539,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -990,6 +991,7 @@
 .dns.odinpl.com
 .dns.ofdoom.net
 .okado.online
+.dns.olpploiopkuyhiopsfrt.info
 .adguard.oms-ctr.ru
 .one.one.one.one
 .doh.onedns.net
