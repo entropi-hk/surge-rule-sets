@@ -57,6 +57,7 @@
 .onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com
 .dns.23-4.cn
 .233py.com
+.kazuma-fumo.24-7.ro
 .dns.240527.xyz
 .24tunnel.com
 .educational-site.24x7.hk
@@ -87,6 +88,7 @@
 .doh.360.cn
 .dot.360.cn
 .3bbb.me
+.haihu-by-scrsa.3cm.us
 .3dcosas.xyz
 .3dns.eu
 .3jjxxl.tech
@@ -258,7 +260,6 @@
 .doh.amonsul.net
 .home.amq.ro
 .an-us.pro
-.anachem.online
 .ananoos.com
 .anchorfree.net
 .dns.andrewnw.xyz
@@ -408,7 +409,6 @@
 .bdns.pro
 .beapasswpn.com
 .dns.beardic.cn
-.shop.beautydiskount.ru
 .bebasid.com
 .bebra.ai
 .justhost.bedro.cloud
@@ -584,6 +584,7 @@
 .register.cakk.us
 .calculusproblems.online
 .solve.proof.california-red.com
+.dns.caliph.dev
 .callies-online.site
 .bananakun.camdvr.org
 .canadaproxy.info
@@ -623,6 +624,7 @@
 .dns.cert.ee
 .area.world.cervezamolay.com
 .cfdjb.org
+.suken.cfmr.ro
 .ibuki.cgnat.net
 .dns.chadeyron.fr
 .core.goal.challengepursuit.com
@@ -630,6 +632,7 @@
 .chaos-system.de
 .dismantled.charbel.cl
 .dns.charraud.eu
+.ougonokaze.cheftayebeh.ir
 .dns.chenu.ch
 .freedns.kiuo-utopias.chickenkiller.com
 .mathhomeworkplus.chickenkiller.com
@@ -1096,6 +1099,7 @@
 .dns.dns-53.uk
 .dns.dns-53.us
 .dns-free.link
+.secure-dns.dns-ga.de
 .dns.dns-over-https.com
 .dns-savage.com
 .dns0.eu
@@ -1204,6 +1208,7 @@
 .v.dnscrypt.uk
 .dnsforfamily.com
 .dnsforge.de
+.dnsguard.pub
 .dns.dnshome.de
 .jiyuu.dnsitalia.org
 .doh.dnslify.com
@@ -1791,6 +1796,7 @@
 .ycsd-instructure.happyforever.com
 .yessir.happyforever.com
 .harbaletsstudy.com
+.monkeydoo.hardsoft.nu
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
 .dylanigotchu.hbmc.net
@@ -1799,6 +1805,7 @@
 .chimpanzinibananini.hec.to
 .dogebyvcsa.hec.to
 .hooda.math.hec.to
+.nodamirai.hec.to
 .us-ny-alula.heliumcloud.cc
 .sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 .sage.skills.hellasinside.com
@@ -2010,6 +2017,7 @@
 .indo-ssh.com
 .dns.indust.me
 .dns.indybanipal.com
+.the.infocommthailand.com
 .dns.inforlogia.com
 .doh.infracell.net
 .infvpn.com
@@ -2934,6 +2942,7 @@
 .os4work.com
 .edu.osobi.ro
 .osobiacademy.osobi.ro
+.tails.ospa.fi
 .ospylac.com
 .osqcsmm.shop
 .this.is.for.lightspeedpal.ostrovsky.sk
@@ -3349,6 +3358,7 @@
 .purevpn-tools.com
 .pushokey.com
 .pushvpn.com
+.start.puto.me
 .pxaa.com
 .pyproxy.com
 .doh.pyry.me
@@ -3464,6 +3474,7 @@
 .lexiapowerup.ricksolinas.com
 .dns.rin.sh
 .elishawisabaddie.rinet.fi
+.next.rinet.ai
 .ringvpn.com
 .riseup.net
 .rnblyatclub.online
@@ -3792,10 +3803,8 @@
 .browse.startpage.com
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
-.error.proxy.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
-.us-browse.startpage.com
 .us1-browse.startpage.com
 .us2-browse.startpage.com
 .dns.startupstack.tech
@@ -3883,6 +3892,7 @@
 .surfshark.sk
 .surfsharkbiz.com
 .surfsharkdeals.com
+.dns.surfsharkdns.com
 .surfsharkstatus.com
 .surfshell.io
 .surfsjark.com
@@ -4382,6 +4392,7 @@
 .utube.cc
 .utunnel.io
 .uvpn.me
+.v.recipes
 .edge-v6x.v6.rocks
 .greenzone.v6.army
 .lawless-zone.v6.rocks

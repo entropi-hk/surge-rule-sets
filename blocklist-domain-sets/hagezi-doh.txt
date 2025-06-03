@@ -181,6 +181,7 @@
 .c-dns.com
 .dns.cabbage.zone
 .dns.cahlen.com
+.dns.caliph.dev
 .callies-online.site
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
@@ -329,6 +330,7 @@
 .dns.dns-53.uk
 .dns.dns-53.us
 .dns-free.link
+.secure-dns.dns-ga.de
 .dns.dns-over-https.com
 .dns0.eu
 .doh.dns4all.eu
@@ -435,6 +437,7 @@
 .v.dnscrypt.uk
 .dnsforfamily.com
 .dnsforge.de
+.dnsguard.pub
 .dns.dnshome.de
 .doh.dnslify.com
 .a.ns.dnslify.com
@@ -1274,6 +1277,7 @@
 .doh.sunoaki.net
 .dns.superstefan.win
 .dns.surfshark.com
+.dns.surfsharkdns.com
 .dns.surobe.com
 .dns.sv-zauner.at
 .dns.svoi.dev
@@ -1353,6 +1357,7 @@
 .urology.wiki
 .dns.koala.us.to
 .adfree.usableprivacy.net
+.v.recipes
 .dns.vaioswolke.xyz
 .doh.valscosmos.com
 .tor.vasi.li
