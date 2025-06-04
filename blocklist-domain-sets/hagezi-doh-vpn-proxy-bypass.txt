@@ -590,8 +590,6 @@
 .canadaproxy.info
 .cantblockthis.org
 .cantfindme.org
-.idea.read.capella-technologies.com
-.focus.lab.capetownblogger.com
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
 .carebuzz.io
@@ -634,6 +632,7 @@
 .dns.charraud.eu
 .ougonokaze.cheftayebeh.ir
 .dns.chenu.ch
+.ilikefeet.chickenkiller.com
 .freedns.kiuo-utopias.chickenkiller.com
 .mathhomeworkplus.chickenkiller.com
 .mathiseasy.chickenkiller.com
@@ -657,7 +656,6 @@
 .cienen.com
 .kusogakill.cinedemedianoche.cl
 .doh.cippapp.com
-.ciproxy.de
 .canadianshield.cira.ca
 .dns.circl.lu
 .circumvent.it
@@ -877,6 +875,8 @@
 .12bucklemyshoe.kalbas.com.vn
 .auditing.lepetitprince.com.np
 .logisticsacademy.logistica.com.mx
+.encryption.madereramilano.com.ar
+.manaututors.manausclass.com.br
 .packetyo.nanbang.com.tr
 .dns.netraptor.com.au
 .new-proxy.com.de
@@ -955,7 +955,6 @@
 .croxy.network
 .croxy.org
 .croxy.red
-.croxy.rocks
 .croxy-proxy.com
 .croxyproxy.best
 .croxyproxy.blog
@@ -1013,7 +1012,6 @@
 .danhcan.top
 .dns.home.daniil.it
 .adguard.dantynes.cyou
-.darkfat.com
 .darknet.to
 .proxy.darkvpn.com
 .mail.data.haus
@@ -1101,7 +1099,6 @@
 .dns-free.link
 .secure-dns.dns-ga.de
 .dns.dns-over-https.com
-.dns-savage.com
 .dns0.eu
 .doh.dns4all.eu
 .dns4me.net
@@ -1285,7 +1282,6 @@
 .dutchproxy.nl
 .dvprovider.icu
 .dns.dyn1.de
-.netnotworking.dynamicnetwork.ro
 .ueni.dyndns.org
 .adbox-v9.dynipv6.de
 .sagamihara.dynv6.net
@@ -1330,7 +1326,6 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
-.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1363,7 +1358,6 @@
 .dns.enzonix.com
 .eonvpn.com
 .epicbrowser.com
-.epix.epicgamer.org
 .123-24.eport.gr
 .bl.eq.md
 .shield1.eranext.net
@@ -1392,6 +1386,7 @@
 .ewon.biz
 .bio.write.examinedbytopmen.com
 .expatshield.com
+.cool.explosionlearning.org
 .expressapisv2.net
 .expressvpn.com
 .expressvpn.net
@@ -1446,6 +1441,7 @@
 .fbproxies.info
 .ns0.fdn.fr
 .ns1.fdn.fr
+.audit.feedcube.org
 .feeproxy.com
 .dns.fehlsprache.de
 .trains.fenac.nl
@@ -1485,7 +1481,6 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
-.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -1515,7 +1510,6 @@
 .rf4.forestberrypi.com
 .www-rf4.forestberrypi.com
 .forestvpn.com
-.proxy.forkbomb.xyz
 .www-proxy.formen.cc
 .fortniters.info
 .forwardproxie.com
@@ -1616,6 +1610,7 @@
 .doh.futa.gg
 .cats.fuzzylookups.com
 .dogs.fuzzylookups.com
+.foxes.fuzzylookups.com
 .g-a-y.pro
 .gabstorm.com
 .cluster-0.gac.edu
@@ -1747,6 +1742,7 @@
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .wow.grupompr.com
+.minionsandgru.grupopilar.cl
 .vps.grussenmeyer.com
 .gsdkhjgsbgsdsjhvdskjlg.ru
 .gamgasyoppakuteri-zenttodabi.gslb.info
@@ -2373,6 +2369,7 @@
 .loubonde.xyz
 .bolt.louis-ip.com
 .eiken-jp.lozan.com
+.koolaid.lozan.com
 .worldwaronehistory.lozan.com
 .n5.lsasss.com
 .ltlxvxjjmvhn.me
@@ -2479,6 +2476,7 @@
 .dns.mestdag.fr
 .metal-masters.us
 .metalinjection.us
+.info.metropolitanstaffingsolutions.com
 .fucklightspeed.mgotz.com
 .dns.mh4ckt3mh4ckt1c4s.xyz
 .mhany.xyz
@@ -3935,6 +3933,7 @@
 .tailscale.com
 .talk2m.com
 .mass.prep.tanenbaumchat.org
+.please-man-i-need-it-just-watch-dexterrrr.tar.nz
 .tbjr6.com
 .tbunet.com
 .its-spatter.blood-spatter.tcm-studios.info
@@ -4488,6 +4487,7 @@
 .vload.net
 .vobas.com
 .dns.vod11.xyz
+.tools.vonar.ch
 .vonvpn.com
 .vpn0109.voodonline.fr
 .lanschool.leno.vopros.kz
