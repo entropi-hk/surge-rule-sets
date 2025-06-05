@@ -880,7 +880,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1316,6 +1315,7 @@
 .doh.tiarap.org
 .jp.tiarap.org
 .tigrons.ru
+.timedns.net
 .timmes.nl
 .adb.timnichollsphotography.com
 .dns.tipsy.coffee
