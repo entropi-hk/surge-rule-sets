@@ -2422,6 +2422,7 @@
 .tv.dfnbd.net
 .dfox.it
 .mixes.dfx.at
+.tracker.zhuqiy.dgj055.icu
 .dhakaftp.com
 .dhakaiptv.com
 .dhakamovie.com
@@ -5668,7 +5669,6 @@
 .moviestars.to
 .moviestowatch.cc
 .moviestreamhd.org
-.moviestube.icu
 .moviesub.net
 .moviesus.net
 .movieswatch.xyz
@@ -5739,7 +5739,6 @@
 .mp4hydra.top
 .mp4mania1.net
 .mrdeni.com
-.mrgamingstreams.app
 .mrtwig.net
 .mrunblock.bond
 .mrunblock.pro
@@ -5958,7 +5957,6 @@
 .nettv-premium.com
 .netu.tv
 .network.rip
-.networkstress.com
 .networkstress.xyz
 .networkstresser.com
 .networkstresser.net
@@ -6145,7 +6143,6 @@
 .nulleb.com
 .nulled.cx
 .nulled.to
-.nulled-script.club
 .nulled-scripts.cc
 .nulledbuilds.com
 .nulledfree.pw
@@ -6162,7 +6159,6 @@
 .nullscriptfullz.com
 .nullsroyale.net
 .nullsservers.com
-.nunflix.live
 .nunflix.org
 .nunuyy.cc
 .piratestreaming.nuovo.live
@@ -6684,7 +6680,6 @@
 .popcornflix.com
 .popcornflix.run
 .popcornflix.site
-.popcornmovies.to
 .popcorntime.app
 .popcorntime.is
 .popcorntime.sh
@@ -6771,7 +6766,6 @@
 .programaswarez.com
 .progressivetorrents.com
 .projapoti.live
-.projectfreetv.ag
 .projectfreetv.sx
 .projectfreetv.watch
 .projectfreetv.xyz
@@ -6895,7 +6889,6 @@
 .putlockergo.co
 .putlockerhd.co
 .putlockerhd.io
-.putlockerr.is
 .putlockers.ag
 .putlockers.am
 .putlockers.bar
@@ -7242,6 +7235,7 @@
 .ryjer.com
 .ryuanime.com
 .s.to
+.s-telecharger.com
 .s0ft4pc.com
 .s2dfree.cc
 .s2dfree.de
@@ -9319,6 +9313,7 @@
 .vidclouds.icu
 .vidembed.net
 .videobin.co
+.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info

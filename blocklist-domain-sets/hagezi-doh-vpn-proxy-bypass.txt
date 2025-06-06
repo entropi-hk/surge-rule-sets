@@ -46,6 +46,7 @@
 .12vpx.com
 .liverpoolontop.1337.cx
 .canva.login.1337.cx
+.goal.music.1337.cx
 .dns.13evl.com
 .14-88.pro
 .16yd.com
@@ -638,6 +639,7 @@
 .mathhomeworkplus.chickenkiller.com
 .mathiseasy.chickenkiller.com
 .nathanlikesgames.chickenkiller.com
+.oluka.chickenkiller.com
 .whydidiask.chickenkiller.com
 .dns.chilimac.net
 .imisstheoldkanye.chillcrew.net
@@ -909,6 +911,7 @@
 .comss.one
 .comss.ru
 .circlegeometry.conexioncircular.cl
+.moremathat.conexioncircular.cl
 .confirmedvpn.com
 .concitedll.conifera.cl
 .dns1.conne.net
@@ -927,6 +930,7 @@
 .dns.cooluc.com
 .coproxy.io
 .corecloak.com
+.core.mind.corega.ro
 .real.coremindx.com
 .doh.cornes.me
 .corsproxy.io
@@ -1555,6 +1559,7 @@
 .freehiddenvpn.gq
 .freehollandproxy.nl
 .freelux.world
+.atom.area.freemath.ch
 .freemicvpn.com
 .freenetproject.org
 .freenomisratelimitingme.cf
@@ -1905,6 +1910,7 @@
 .dns.hoody.com
 .schoolmath.hop.sh
 .keithchung.hopto.org
+.pranaynaygames123.hopto.org
 .dns.horcrux.vip
 .dns.internal.hosmatic.com
 .hostless.club
@@ -1923,7 +1929,6 @@
 .hoxx.net
 .hoyofun.xyz
 .ajmal.hpc.tw
-.studyhubs.hqcloud.de
 .greenbeandean.hs.vc
 .be.hse.tw
 .code.edu.hse.tw
@@ -1974,6 +1979,7 @@
 .idolproxy.com
 .adguard.shuting.idv.tw
 .ietors.com
+.heb1.ignorelist.com
 .subscribe-to-vcsa.ignorelist.com
 .test52139.ignorelist.com
 .worldbookonline.ignorelist.com
@@ -2102,7 +2108,6 @@
 .tj.jamesxue.xyz
 .janathanmahes-mysharepoint.com
 .dns.janl.eu
-.study.japhar.com
 .px.jarnus.xyz
 .transit.javierblog.com
 .state.gov.jaycloudlab.com
@@ -2513,13 +2518,10 @@
 .mockblock.com
 .sage.area.modeemi.net
 .ps1.modr.club
-.www-nsc.moebh.me
 .mojtreker.ru
 .edu.moldeo.org
 .history-of-earth.moldeo.org
 .only-shooting-stars-breakthe.moldeo.org
-.study.moldeo.org
-.use.moldeo.org
 .dns.molinero.dev
 .naganohara-yoimiya.momokko.moe
 .dns.momou.ch
@@ -2530,6 +2532,7 @@
 .zrh1-ns01.monzoon.net
 .dns.moonssif.com
 .aahfgdd.mooo.com
+.aleks.readtheory.com.mooo.com
 .propeller.catapzlt.rohu.mooo.com
 .morbitzer.de
 .morevpn.com
@@ -2675,7 +2678,6 @@
 .needunblock.com
 .z-brokethescaler.neighborhoodcloud.com
 .nekoray.org
-.qwertyabc123.nekros.info
 .smart.quiz.nelsonshack.com
 .adguard.neon0404.space
 .neonos.me
@@ -2702,7 +2704,6 @@
 .newipnow.com
 .newproxylist.net
 .newshosting.com
-.nextgen.nex.sh
 .doh.luigi.nexific.it
 .dns.nextdns.io
 .dns1.nextdns.io
@@ -2770,7 +2771,6 @@
 .o2comm-prd.norton.com
 .spoc.norton.com
 .the.norushcharge.com
-.dns.norvig.dk
 .notapr0xy.com
 .easyschool.notesninjas.com
 .dns.notjakob.com
@@ -2781,11 +2781,9 @@
 .gov.major.novacorp.com
 .dns.novali.date
 .novatech.fun
-.novembeer.ru
 .dns.novg.net
 .nice.noviolencia.ar
 .nowcache.com
-.nowhiteflags.xyz
 .noyourmean.xyz
 .dns.npe.bz
 .dns.npsolution.it
@@ -2838,6 +2836,7 @@
 .omegaproxy.com
 .adguard.oms-ctr.ru
 .onconnect.info
+.skills.field.cftc-devoteam.one.pl
 .one.one.one.one
 .doh.onedns.net
 .doh-pure.onedns.net
@@ -3259,7 +3258,6 @@
 .proxyduke.lol
 .proxyelite.info
 .proxyen.com
-.proxyer.net
 .proxyfactory.io
 .proxyfish.com
 .proxyforfree.eu
@@ -3337,7 +3335,6 @@
 .public-is-wonderful.publicvm.com
 .puckerbucket.xyz
 .dontgetthisblocked.puffballofevil.com
-.timeisblind.puffballofevil.com
 .dns.pumpkinvrar.com
 .pupilproxy.com
 .puredns.org
@@ -3445,7 +3442,6 @@
 .dns.renardyre.com
 .dns.repinger.com
 .repocket.co
-.travelreprap.reprap.eu
 .dns.repressoh.it
 .restaurantgift.us
 .dnspub.restena.lu
@@ -3515,6 +3511,7 @@
 .s4m.xyz
 .scienceforkids.saahee.cn
 .math.sachhot.com
+.desmos.saf-eng.com
 .safe-inet.com
 .safeguardianvpn.com
 .safenetbrowser.com
@@ -3571,7 +3568,6 @@
 .dot.seby.io
 .sec-tunnel.com
 .dns.sec511.com
-.quiz.teach.secold.com
 .secretbrowser.net
 .secretproxy.org
 .secretsline.biz
@@ -4103,11 +4099,11 @@
 .home.sso.toythieves.com
 .portal.sso.toythieves.com
 .tpymainx01.ru
-.dns.tracker.ink
 .tradeadspace.info
 .linewize.tradekinginternational.com
 .trafflink.xyz
 .traffmonetizer.com
+.bio.goal.trans.am
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
