@@ -2143,6 +2143,11 @@
 .adguard.johanliebert.top
 .johneldenring.lol
 .johnkellyprivate.com
+.child.joindns4.eu
+.child-noads.joindns4.eu
+.noads.joindns4.eu
+.protective.joindns4.eu
+.unfiltered.joindns4.eu
 .joker81fansbase.site
 .opencdn.jomodns.com
 .jongserver.xyz
@@ -3893,8 +3898,6 @@
 .surtshark.com
 .dns.sv-zauner.at
 .dns.svoi.dev
-.popteeee-oawhnefoua-foaebaouef.swanndvr.net
-.popteeeeee-sajoiwejfo-huhu.swanndvr.net
 .ramm-ume-pro.swanndvr.net
 .rammerhead-10.swanndvr.net
 .swapip.com
@@ -3960,7 +3963,6 @@
 .thebestproxy.info
 .thebestvpn.com
 .ixl-tw6f.thebrittainlawfirm.com
-.thisisnotagamewebsite.thebrittainlawfirm.com
 .dns.thebuckners.org
 .theclickcheck.com
 .thecodeil.com
@@ -4099,6 +4101,7 @@
 .home.sso.toythieves.com
 .portal.sso.toythieves.com
 .tpymainx01.ru
+.dns.tracker.ink
 .tradeadspace.info
 .linewize.tradekinginternational.com
 .trafflink.xyz
@@ -4126,7 +4129,6 @@
 .arxthegoat.ts0880.es
 .doh.ibr.cs.tu-bs.de
 .tubeprox.com
-.tubeunblock.me
 .tubeunblock.net
 .tujenasnaszato.xyz
 .tunnelbear.com
@@ -4164,7 +4166,6 @@
 .ugdsoft.com
 .uinlive-time.com
 .webproxy.uk.com
-.uktvproxy.com
 .ukwebproxy.eu
 .debate.major.ulrik.net
 .ultimatepro.us
@@ -4663,7 +4664,6 @@
 .learn.whitespaceairwaves.org
 .whoer.net
 .whoisping.com
-.whyproxy.com
 .dns.wibenson.cloud
 .widevpn.com
 .wiefy.com
@@ -4707,7 +4707,6 @@
 .wossow.com
 .wproxy.net
 .home.wriedts.de
-.writingessaypros.com
 .wtools.eu
 .ns2.wuyouss.com
 .ns3.wuyouss.com

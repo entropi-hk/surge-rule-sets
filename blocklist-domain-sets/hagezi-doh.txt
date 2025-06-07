@@ -692,6 +692,11 @@
 .dns.joey01245.nl
 .adguard.johanliebert.top
 .johneldenring.lol
+.child.joindns4.eu
+.child-noads.joindns4.eu
+.noads.joindns4.eu
+.protective.joindns4.eu
+.unfiltered.joindns4.eu
 .opencdn.jomodns.com
 .adguard1.jsanagustin.net
 .dns.jstockley.com
@@ -1324,6 +1329,7 @@
 .dot.tooli.ca
 .nsc.torgues.net
 .doh.totoro.pub
+.dns.tracker.ink
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
