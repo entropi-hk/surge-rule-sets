@@ -394,6 +394,7 @@
 .alpenfluss.at
 .alpenrose-mode.com
 .alpenwolken.de
+.alpexoplus.com
 .alphabetk.com
 .alphabetw.com
 .alphagamers.de
@@ -411,7 +412,6 @@
 .alro-stahlbau.de
 .alter48.fr
 .alterinvest.fr
-.alternatef.com
 .alternatei.com
 .alternative-markets.com
 .alternativeplacement.com
@@ -2275,7 +2275,6 @@
 .chaps-herrenmode.de
 .characterh.com
 .chargetiede.shop
-.charismatico.com
 .charmdaily.com
 .charmsvision.com
 .chartistake.com
@@ -2474,6 +2473,7 @@
 .fitnesstogether.co.uk
 .hildathelabel.co.uk
 .homegymsupply.co.uk
+.horizonsmusic.co.uk
 .labubu.co.uk
 .leathershire.co.uk
 .luxeparfum.co.uk
@@ -3113,6 +3113,7 @@
 .degeschirr.com
 .degnerwelpen.de
 .degussa.website
+.degussa-goldhandel.ac
 .dehaag-tech.de
 .deharaldsoldie.shop
 .deharaldsoldieava.shop
@@ -3142,6 +3143,7 @@
 .deingartenguru.com
 .deinglueckswinkel.shop
 .deinhandwerkershop.de
+.deinheizoel.de
 .deinheizoelprofi24.de
 .deini.com
 .deinliebesmensch.de
@@ -3929,6 +3931,7 @@
 .energeticw.com
 .energfahrrad.de
 .energie-thuleweit.de
+.energieheizen.de
 .energieheld24.com
 .energiekick.at
 .energiesparlampen.shop
@@ -4143,7 +4146,6 @@
 .europeanpharm.net
 .europharmacyonline.com
 .europharmsonline.com
-.europharmx.com
 .europillsonline.com
 .europrofitspro.com
 .euroshopping.store
@@ -4328,6 +4330,7 @@
 .familiarm.net
 .familiarn.com
 .familienbegleiterin.de
+.family-pills.com
 .familyhistoryjamaica.com
 .familynow.club
 .famiud.store
@@ -4632,7 +4635,6 @@
 .floriansteiner.net
 .floriantrading.com
 .floriluxe.de
-.floryday.com
 .floveme.com
 .flow-electric.de
 .flow-tex.de
@@ -5039,6 +5041,7 @@
 .gartenlands.com
 .gartenlandschaftladen.com
 .gartenmachtshop.de
+.gartenmaschinen-arbeitsgerate.shop
 .gartenpflegeshop.com
 .gartenplus24.com
 .gartenrabatt.com
@@ -5779,7 +5782,6 @@
 .haushaltskoenig.de
 .haushaltsproduktede.com
 .haushaltsreich.de
-.hausladende.com
 .hauslager.com
 .hausmobel-de.com
 .hausonline24.com
@@ -5920,6 +5922,9 @@
 .heizoeljetzt.de
 .heizoelonline24.com
 .heizoelpro.de
+.heizoelprofi.de
+.heizoelpunkt.de
+.heizoelsofort.de
 .heizoelsolutions.com
 .heizoelsolutions.net
 .heizoelspar.de
@@ -6040,7 +6045,6 @@
 .highlandshotels.net
 .highluxury.sk
 .highluxurystore.co
-.highqualitestoys.com
 .hightqualitywear.com
 .hihstore.com
 .hijabsalma.shop
@@ -7326,6 +7330,13 @@
 .kunstlaufweg.de
 .kunstpfadfinder.de
 .kunstpfadkarte.de
+.kunstpfadnetz.de
+.kunstpfadrouten.de
+.kunstpfadweg.de
+.kunstreiseplan.de
+.kunstreiseweg.de
+.kunststrecke.de
+.kunststreifzug.de
 .kunsttourweg.de
 .kunstumweg.de
 .kunstverlauf.de
@@ -8540,7 +8551,6 @@
 .mobel-welt.com
 .mobelimfreien.com
 .mobelmagie.com
-.mobelneu.com
 .mobelniedrigerpreis.com
 .mobelprada-de.com
 .mobelsessel.com
@@ -9017,7 +9027,6 @@
 .nbynicole.com
 .ncases.com
 .nchen.de
-.ndfinitee.com
 .neary.de
 .necessityi.com
 .necessoul.com
@@ -9251,6 +9260,7 @@
 .norsacke.com
 .norsk-apotek24.com
 .norskeapotek.net
+.northcapitalinvest.com
 .northfacegreeceshops.com
 .northfaceoutletstoreus.com
 .northwaveoff.com
@@ -9353,7 +9363,11 @@
 .ocycling.com
 .odlorabatt.com
 .oel-direkt.de
+.oelheizung24.de
+.oeljetzt.de
+.oelonlineshop.de
 .oelpreisfinder.de
+.oelschnell.de
 .oesterreichischeapotheke.com
 .ofenbrnholz.com
 .ofendeutschland.com
@@ -9374,7 +9388,6 @@
 .officesuppliesmaster.com
 .slimvitaxdietgummies.officialdealsite.com
 .officialnursery.com
-.officialrebrand.shop
 .officialyamato.co
 .officialyeti.com
 .offizielleprodukte.shop
@@ -10246,6 +10259,7 @@
 .prime-e-bike.eu
 .prime-moda.com
 .prime-smog.com
+.primecapitals.de
 .primecargotransit.com
 .primeclubs.store
 .primecoffeezone.com
@@ -10386,7 +10400,6 @@
 .fr.puprime.online
 .purawerk-gmbh.de
 .pureloveov.best
-.purelywhitedeluxe.com
 .pureprefer.com
 .purexx-tech.de
 .purku.top
@@ -10545,6 +10558,7 @@
 .rasen24h.com
 .rasenmaherwendik.de
 .rasenmuller.de
+.rasenpro.com
 .rasenprofis.net
 .rasenshop24.com
 .rasentrak.com
@@ -11024,7 +11038,6 @@
 .safir.com
 .sagaenterprizes.com
 .sagenverkauf.com
-.saint-blanc.com
 .saintjamesireland.com
 .saintjamesoutlet.at
 .sakaziq.com
@@ -11058,7 +11071,6 @@
 .salesconsulter.de
 .saleshopplus.com
 .saleshyanne.com
-.salesoilcooler.com
 .salesportshoe.com
 .salespumpe.com
 .salesroaster.com
@@ -11134,7 +11146,6 @@
 .sanuknz.com
 .sanukoutlet.store
 .sanuksalecanada.com
-.sanuksandalen.de
 .sanukschoenen.com
 .sanukschuhe.de
 .sanuksuomi.net
@@ -11750,6 +11761,7 @@
 .sofie-boutiques.de
 .sofort-kreditt.com
 .sofortfinanz.com
+.sofortheizoel.de
 .soft-handel.de
 .softelektro.com
 .softpulse.digital
@@ -13047,6 +13059,7 @@
 .traunsberger-garten.de
 .traunsbergergarten.de
 .travano.de
+.travel-24.eu
 .travel-and-jobs.com
 .traveledgy.com
 .travelhotel2u.com
@@ -13469,6 +13482,7 @@
 .vatan.at
 .vatlab.cc
 .vatradecoin.net
+.vauclinmotoculture.de
 .vaudeberlin.de
 .vaudefabrikverkauf.de
 .vavaplay.com
@@ -14073,7 +14087,6 @@
 .wildlingshoessverige.com
 .wildlingshoesuk.com
 .wildlingshoeswien.at
-.wildmodesoldes.com
 .wildschytz.shop
 .wilfriedngatchi.com
 .wilhelmfoodshop.com
