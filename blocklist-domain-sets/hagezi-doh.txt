@@ -497,7 +497,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh

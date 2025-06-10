@@ -48,6 +48,7 @@
 .idiagnostics-devices-qa.apple.com
 .idiagnostics-devices-reno.apple.com
 .idiagnostics-ft.apple.com
+.idiagnostics-it2.apple.com
 .idiagnostics-mdn1.apple.com
 .idiagnostics-qa.apple.com
 .idiagnostics-reno.apple.com

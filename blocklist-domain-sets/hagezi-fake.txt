@@ -1926,7 +1926,6 @@
 .brunetsludmila.com
 .brushshope.com
 .brutaka.com
-.bs2best.at
 .bs2site.at
 .bsc-network.de
 .bsc-network.net
@@ -2179,7 +2178,6 @@
 .castaria.com
 .castellipesados.com
 .castolonios.de
-.castromb.com
 .cataldoonlinedeeur.shop
 .catalia.de
 .catalunyafarm.com
@@ -2480,12 +2478,14 @@
 .luxurydupes.co.uk
 .onitsukasouthafrica.co.za
 .owala.co.at
+.pacsunsouthafrica.co.za
 .prettylittlething.co.za
 .silvanass.co.uk
 .stussyindiastore.co.in
 .teddith.co.uk
 .tom-ford.co.za
 .my.topmarkets.co.uk
+.uggs-southafrica.co.za
 .vanss.co.at
 .veja.co.at
 .co-bot.ltd
@@ -3634,6 +3634,7 @@
 .eaepp.com
 .eafengrowkniveshub.com
 .earlynoon.com
+.earnavioat.works
 .eartischleuchten.com
 .easehabits1.com
 .easies.de
@@ -6434,7 +6435,6 @@
 .ilovemlmsk.pics
 .ilsejacobsendeutschland.de
 .ilsemunchen.de
-.ilumina.center
 .imadjassem.com
 .imaginationh.com
 .imaginte.com
@@ -9263,6 +9263,7 @@
 .northcapitalinvest.com
 .northfacegreeceshops.com
 .northfaceoutletstoreus.com
+.northmd.com
 .northwaveoff.com
 .northwavestore.com
 .nortonf.com
@@ -9355,7 +9356,6 @@
 .obstkistefreiburg.shop
 .ocayo.de
 .occasionak.com
-.occasionk.com
 .ochsner-agrarhandel.com
 .ocinboutique.de
 .octa-trade.com
@@ -9388,6 +9388,7 @@
 .officesuppliesmaster.com
 .slimvitaxdietgummies.officialdealsite.com
 .officialnursery.com
+.officialrebrand.shop
 .officialyamato.co
 .officialyeti.com
 .offizielleprodukte.shop
@@ -9530,6 +9531,7 @@
 .onlinereorg.com
 .onlinerezeptfrei.de
 .onlinernews.click
+.onlineshop-eu.shop
 .de.onlineshopoutlet.ru
 .onlinesmoby.shop
 .onlinetopgarden.com
@@ -9736,6 +9738,7 @@
 .outletbodycare.com
 .outletchristmasgifts.com
 .outletdance.com
+.outletdegap.de
 .outletesprit.com
 .outletfish.com
 .outletheaters.com
@@ -9798,6 +9801,7 @@
 .packclopenburg.com
 .packingbagsshop.com
 .packlogistic.com
+.packsoutdoor.com
 .paganidesignstore.com
 .www.buy-bitcoin.pagedemo.co
 .pagesneakers.com
@@ -9873,6 +9877,7 @@
 .patrimoinesolution.com
 .patrioticy.com
 .patriziabeni.com
+.paul-joses.de
 .paulidesign.shop
 .paulinasinger.com
 .pavan.top
@@ -10222,6 +10227,7 @@
 .preferenct.com
 .fmlpr.preis-meister.com
 .rotln.preis-meister.com
+.preisglueck24.de
 .preistech.de
 .prelovesov.live
 .premiata-deutschland.com
@@ -10236,6 +10242,7 @@
 .premiumfeuer.shop
 .premiumgkvxpxxsy.com
 .premiuminvestclub.com
+.premiumpricepills.com
 .premiumpricepills24hr.com
 .premiumvip-spot.com
 .premiumyields1.com
@@ -10400,6 +10407,7 @@
 .fr.puprime.online
 .purawerk-gmbh.de
 .pureloveov.best
+.purelywhitedeluxe.com
 .pureprefer.com
 .purexx-tech.de
 .purku.top
@@ -10482,6 +10490,7 @@
 .rabar.net
 .rabatt-disney.de
 .rabattarkk.de
+.rabattbacken.com
 .rabattbekleidung.de
 .rabattdamen.de
 .rabattdekoobjekte.de
@@ -10681,7 +10690,9 @@
 .relevantf.com
 .reli-lex.de
 .remainderk.com
+.remediesinstantstore.com
 .remediesonlinestore.com
+.remedyinternationalshop.com
 .reminora.com
 .remote-arbeiten.com
 .remote-arbeitt.com
@@ -10751,6 +10762,7 @@
 .retaileropenair.com
 .retentionh.com
 .rethinkitstudios.shop
+.retour-lager.de
 .retourenheld.io
 .retro-stage.de
 .retrogamingshop.de
@@ -10907,6 +10919,7 @@
 .ronovia.de
 .rontis.de
 .roof-tube.com
+.roofpanelsshop.com
 .roominabox.shop
 .roomosa.homes
 .rootsandwings.at
@@ -10995,6 +11008,7 @@
 .rwcstore.com
 .rx-10.com
 .rx-budapest.com
+.rx-ezy.com
 .rx-pharma.net
 .rx-qualityshop.com
 .rx-sales-store.biz
@@ -11060,6 +11074,7 @@
 .saleforoutdoor.com
 .salegermaniatools.com
 .salehomeus.com
+.salejerseysshop.com
 .saleladyfad.com
 .salelanawelpen.de
 .salelovesilver.com
@@ -11071,6 +11086,7 @@
 .salesconsulter.de
 .saleshopplus.com
 .saleshyanne.com
+.salesoilcooler.com
 .salesportshoe.com
 .salespumpe.com
 .salesroaster.com
@@ -11105,6 +11121,7 @@
 .salomonfinlandoutlet.com
 .salomongermany.de
 .salomonosterreich.at
+.salomonoutletgermany.de
 .salomonoutletireland.com
 .salomonoutletstoresusa.com
 .salomonphilippinestore.com
@@ -11146,6 +11163,7 @@
 .sanuknz.com
 .sanukoutlet.store
 .sanuksalecanada.com
+.sanuksandalen.de
 .sanukschoenen.com
 .sanukschuhe.de
 .sanuksuomi.net
@@ -11286,6 +11304,7 @@
 .schweissplattenzubehoerde.shop
 .scilulustore.com
 .scootbike.de
+.scooterduck.de
 .scopesaccessories.com
 .scorecope.com
 .screenacy.co
@@ -11505,6 +11524,7 @@
 .shopfashion2023.com
 .shopfasts.shop
 .shopfloragalora.com
+.shopfreude24.de
 .shopgamefishing.com
 .shopgenusswelt.de
 .shopgrillssales.com
@@ -11548,6 +11568,7 @@
 .shopping-paradise.net
 .shopping-seks.de
 .shoppingdeautopecas.com
+.shoppingharmonie.de
 .shoppingsmart.store
 .shoppocski.com
 .shoppyy.de
@@ -11637,6 +11658,7 @@
 .sixtrading.net
 .skanehome.com
 .skate-erlebnis.com
+.skateboardhandpick.com
 .skateboardingscooter.de
 .skatedeluxesale.shop
 .skatedometrade.com
@@ -11765,6 +11787,7 @@
 .soft-handel.de
 .softelektro.com
 .softpulse.digital
+.softshelljacketsde.com
 .software-onsale.com
 .softwarebilliger1.de
 .softwaredealz.shop
@@ -11793,6 +11816,7 @@
 .solobit.co
 .solofa.de
 .soloq.de
+.solovair-deutschland.de
 .solovairargentina.com
 .solovairbelgique.com
 .solovairbelgium.net
@@ -11866,6 +11890,7 @@
 .sparkingde.shop
 .sparklemycar.com
 .sparprime.com
+.spartraum24.de
 .spazioconcept.com
 .specializeg.com
 .specialmdassortment.com
@@ -11883,6 +11908,7 @@
 .speedypartsdeava.shop
 .speelgoed-outlet.com
 .spefication.com
+.speichergarten.com
 .speichern-fahrrad.com
 .spena24.de
 .sperry-deutschland.com
@@ -11897,6 +11923,7 @@
 .spielzeug-ente.com
 .spielzeug-kaufen.net
 .spielzeugeneu.de
+.spielzeugneue.com
 .spielzeugopa.shop
 .spielzeugsde.com
 .spielzeugsport.com
@@ -11907,6 +11934,7 @@
 .spinnrutede.com
 .spiralo.de
 .spiretime.com
+.spirits-official.com
 .spiritualsalt.co
 .splendiday.com
 .splendris-pharmaceuticals.de
@@ -11986,6 +12014,7 @@
 .stablegrowthexchange.com
 .stadtmode.com
 .stadtplan-local.com
+.stadtrand.store
 .stahlwandpoolde.com
 .stalloneinnovations.com
 .stamer-hofmann.de
@@ -12420,6 +12449,7 @@
 .systv-racks.de
 .sztuka-handel.de
 .the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
+.t4trade.com
 .tabexofficial.com
 .tabletopdeo.de
 .tablets-today.org
@@ -12587,6 +12617,7 @@
 .termoidraulica.de
 .terra-tools24.de
 .terragaming.com
+.terranio-home.com
 .terrapro.cn
 .terzio23.de
 .teslabonus.org
@@ -13106,6 +13137,7 @@
 .trikotfachshop.com
 .trikots-onshop.com
 .trikotsale.de
+.trilavora.com
 .trillant.com
 .trimzy.de
 .triton-online.com
@@ -13184,9 +13216,11 @@
 .tupperware-de.shop
 .tupperware-osterreich.com
 .tupperware-uaeonline.com
+.tuppoutlet.shop
 .tuppsale-eu.shop
 .turbo-finanz.com
 .turbolidlcraft.com
+.turbopanzerung.de
 .turboplanter.at
 .turngod.com
 .turolloy.com
@@ -13413,6 +13447,7 @@
 .usshopoutdoor.com
 .ussolesensation.com
 .usstylesite.com
+.usstylishtreasure.com
 .ustiquemasejoy.shop
 .ustoolsale.com
 .usualfurniture.com
@@ -13566,6 +13601,7 @@
 .verkaufenhardwaretools.com
 .verkaufer-team.de
 .verkauffahrradbike.com
+.verkaufgarten.com
 .verkaufmode.de
 .verkehrsbande.com
 .verkettet-dogs.com
@@ -13933,6 +13969,7 @@
 .webermode.com
 .weberoutlet.com
 .webinar-universe.com
+.webmedshelp.com
 .webmremedies.com
 .dogiweb.webnode.it
 .mes-scpi-de-gre-a-gre.webnode.fr
@@ -14087,6 +14124,7 @@
 .wildlingshoessverige.com
 .wildlingshoesuk.com
 .wildlingshoeswien.at
+.wildmodesoldes.com
 .wildschytz.shop
 .wilfriedngatchi.com
 .wilhelmfoodshop.com
@@ -14102,6 +14140,7 @@
 .windelnschritte.de
 .windelwissendeava.shop
 .windendew.de
+.windmillknifeshop.com
 .windyys.com
 .wine-investments.com
 .winecfm.com
@@ -14172,6 +14211,7 @@
 .womanism.de
 .women-vintage.com
 .womenfarmsale.com
+.womenshop-plus.com
 .womensjewelry.store
 .womma.de
 .wonderdream.co
@@ -14199,6 +14239,7 @@
 .world-coin.eu
 .worldchinesemedia.com
 .worldcompanyregister.org
+.worldsgreatpills.com
 .wornos.de
 .wos-tech.de
 .wotoba.de
@@ -14491,6 +14532,7 @@
 .zubehorfahrrad.com
 .zubehorgeschaft.com
 .zubehorobjektive.de
+.zubehorstiefel.com
 .zuedy.de
 .zuhausegutes.com
 .zuhauseunddekor.com
