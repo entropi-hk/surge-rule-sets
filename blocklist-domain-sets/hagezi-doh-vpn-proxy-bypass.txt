@@ -1303,6 +1303,7 @@
 .doh.eddi.net
 .dns.edgeburnmedia.com
 .edgedcircles.com
+.dns.edgy.network
 .edgy-dns.com
 .dns.editechstudio.com
 .edpuzzle.space
@@ -1311,7 +1312,6 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
-.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -2480,7 +2480,6 @@
 .propeller.catapzlt.rohu.mooo.com
 .morbitzer.de
 .morevpn.com
-.dns.moulticast.net
 .movieproxy.com
 .moyazyinomoyasi.com
 .vpn.mozilla.org
@@ -2562,6 +2561,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
