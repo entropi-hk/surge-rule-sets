@@ -212,6 +212,7 @@
 .affenzahn-promo.shop
 .affenzahnde.shop
 .affenzahne.shop
+.affenzahne-de.shop
 .affidabileelec.com
 .afltool.com
 .aflycatus.com
@@ -281,6 +282,7 @@
 .aktivall.de
 .store.aktuellerezensionen.de
 .al-handel.de
+.al-nassr.shop
 .alaffia24.de
 .alanwilson.shop
 .albadistribucionava.shop
@@ -336,6 +338,7 @@
 .alldiegutendinge-24.de
 .alle-hebel.de
 .allekaufen.com
+.allekaufhauser.com
 .allesanhanger.com
 .allesbois.de
 .allesescooter.de
@@ -403,6 +406,7 @@
 .alphamed-medical.com
 .alphamuscle.is
 .alphaskin.de
+.alphateamcars.shop
 .alpine-vista.com
 .alpiner-stil.com
 .alpineskiequipment.com
@@ -412,6 +416,7 @@
 .alro-stahlbau.de
 .alter48.fr
 .alterinvest.fr
+.alternatef.com
 .alternatei.com
 .alternative-markets.com
 .alternativeplacement.com
@@ -660,7 +665,6 @@
 .aquaticsarea.com
 .aquaticscategory.com
 .aquaticsportscp.com
-.aquaticsstoreus.com
 .aquavibespro.com
 .aquinoexpress.com
 .arabhieen.com
@@ -882,6 +886,7 @@
 .autobahn88shop.com
 .autobahnfahrschule.at
 .autochromatic.com
+.autocolourbankde.shop
 .autodailyreport.com
 .autodisco.de
 .autohaus-vacha.com
@@ -1438,6 +1443,7 @@
 .bforinplatm.com
 .bfxoption.com
 .bgtcchem.shop
+.bgukd.shop
 .biabe.de
 .bicicletemagazin.com
 .bicycleair-pumpde.com
@@ -1534,6 +1540,7 @@
 .billigwerkzeug.com
 .billigwohnmobel.com
 .billtcom.pro
+.billydeals24.de
 .biltaskerabatt.com
 .bimeritas-deutschland.de
 .binamax.com
@@ -1673,11 +1680,13 @@
 .blue-mart.shop
 .bluebellalingerie.com
 .blueblom.com
+.blueboltchargers.com
 .bluehend-land.de
 .bluelock.store
 .blueoceanproject.de
 .bluepeaksfinance.com
 .blueribbon.site
+.blueskycargoes.com
 .bluestyleshop.com
 .blum-film.de
 .blumen-guete.de
@@ -1799,6 +1808,7 @@
 .bozok.at
 .bp-direct.com
 .bp-heizoel.de
+.bp-mineraloel.de
 .bp-mineraloele.com
 .bpgroupe.com
 .bpo-partners.com
@@ -2145,6 +2155,7 @@
 .shop73002.carlsplace.org
 .carmenparra.com
 .carni-shop.com
+.carnso.de
 .carokissen.shop
 .carolinebeck.org
 .carolyndozier.com
@@ -2154,6 +2165,7 @@
 .carragamo.com
 .carrelage-paulay.com
 .carriageglobal.com
+.carrottoptuning.shop
 .carshades.at
 .ytjef.carsonarchitectsinc.com
 .carstruckstoy.com
@@ -2175,6 +2187,7 @@
 .hausler.casaify.top
 .cascade-luzern.shop
 .caseetepen.com
+.caseyandcompade.shop
 .cash-offshore.com
 .casira.de
 .casiva.de
@@ -2680,6 +2693,7 @@
 .componsite.com
 .compositeoutdoorsnew.com
 .compostione.com
+.compostmountain.com
 .comprafacilss.com
 .compreimagazine.com
 .compressfit.de
@@ -2947,6 +2961,7 @@
 .dackelfreude.shop
 .dackelwelpen.at
 .daddeln.net
+.dadofthree.com
 .daenemarkshop.shop
 .dafloxx.de
 .dagle.de
@@ -3064,6 +3079,8 @@
 .dealbabyware.com
 .dealcoxfurniture.com
 .dealerdevin.shop
+.dealfieberde.de
+.dealhimmelde.de
 .dealira.com
 .dealit-quick-nl.com
 .dealmanias.com
@@ -3209,7 +3226,6 @@
 .dentrotecde.shop
 .dentrotecdeeu.shop
 .deonline-boutique.com
-.deoutdoorstore.com
 .depanten-gel.site
 .deparcart.com
 .depeople-work.xyz
@@ -3369,6 +3385,7 @@
 .diliving.com
 .diluma24.de
 .dima-sport.de
+.dimbers.de
 .dimensiok.com
 .dimina-shop.com
 .dimprice.de
@@ -3398,9 +3415,12 @@
 .discountecoluxe.com
 .discounted.bike
 .discountfahrradde.com
+.discountfieber.de
+.discountheldende.de
 .discountoutlie.com
 .discountsrc.com
 .discountsshoe.com
+.discounttraumde.de
 .discoverculture.com
 .discoversm.com
 .discustsion.com
@@ -3496,6 +3516,7 @@
 .dotmalls.com
 .dotuant.com
 .doublecapitals.com
+.douglas-sale.de
 .douglasperfume.de
 .dougllas.com
 .dougllass.com
@@ -4097,6 +4118,8 @@
 .euergutesbrennholz.com
 .eufahrradteile.de
 .eufm.eu
+.snipes-eu.eufootwear.com
+.snipes-eur.eufootwear.com
 .eugadneu.de
 .euisabelmarant.de
 .eukram.com
@@ -4107,6 +4130,7 @@
 .eumeds.net
 .eumeds24.com
 .eumedz.com
+.euoutletsshoesonline.com
 .eupills.com
 .euprofits.com
 .euquiksilver.de
@@ -4591,6 +4615,7 @@
 .fivesixgroup.com
 .fix-finanz.com
 .fixtaxi.at
+.fjallbris.de
 .fjallravensale.de
 .fjallravensoutlet.com
 .fjallravensweden.com
@@ -4648,7 +4673,6 @@
 .flowoon.com
 .fluctuatek.com
 .flugwaren.de
-.flurdieleart.com
 .flwoertime.de
 .flyfishing-sale.com
 .flyhighshop.de
@@ -4663,6 +4687,7 @@
 .fnpmarkets.co
 .fnshopbso.com
 .fnshopbvx.com
+.fohlers.de
 .fokoomall.com
 .fokusfinanz.com
 .foldcase.co
@@ -4778,6 +4803,7 @@
 .freemobile24.de
 .freepknmk.shop
 .freepogoar.shop
+.freeseem.com
 .freeshkaov.shop
 .freeteck.shop
 .freetxvs.best
@@ -4830,7 +4856,6 @@
 .fritzo.de
 .frmedicaments.net
 .frmusicland.com
-.froddo-prada.de
 .frohe-herzen.de
 .frontaley.com
 .frontrunningbot.net
@@ -5257,6 +5282,7 @@
 .giessweinat.at
 .giessweinschuhe.com
 .giftbestsellers.com
+.giftcard-hub.com
 .giftedlux.com
 .giftessentiel.com
 .gifthobby.com
@@ -6162,6 +6188,7 @@
 .home-moebel.com
 .home-stylish.com
 .home-trend24.de
+.home36.shop
 .homechelsea.com
 .homecookies.at
 .homecrestview.com
@@ -6502,6 +6529,7 @@
 .improbuehne.de
 .impruneta.de
 .impulsa.shop
+.imregen.de
 .in-sachen-garten24.de
 .inaia.fr
 .inauguratei.com
@@ -6553,7 +6581,6 @@
 .inkjet.de
 .inkolo-gmbh.de
 .inktv-hengels.com
-.innenleuch.com
 .innerekraft.at
 .innet24.de
 .inno64model.com
@@ -6656,6 +6683,7 @@
 .iq-metric.com
 .iq-minute.com
 .iq-online-test.com
+.iqcenter.net
 .iqcheckup.com
 .iqtradeoptions.com
 .ireneackerson.com
@@ -7012,6 +7040,7 @@
 .kaufenozemp25mg.com
 .kauffahrradzubehoer.com
 .kaufhardware.com
+.kaufharmonie.shop
 .kaufhaus-des-westens.com
 .kaufhausaccessoires.com
 .kaufhausde.online
@@ -7197,6 +7226,7 @@
 .knifeboker.com
 .knifegearzone.com
 .knifemasteroff.com
+.knifeswordsale.com
 .knighthill-musik.com
 .knivebestech.com
 .kniveboker.com
@@ -7506,6 +7536,7 @@
 .layssard.com
 .lazarus24.de
 .lazys-marketing.de
+.lbtinc.com
 .lc-markt.co
 .lcg.com
 .lcmotivee.com
@@ -7595,6 +7626,7 @@
 .lernerei.at
 .lernkompass24.de
 .lernspielzeugneu.de
+.lertins.de
 .leselounge-berlin.de
 .lespetitsde.shop
 .letfli.com
@@ -7979,6 +8011,7 @@
 .lynxmarket.org
 .ma-kaminholz.de
 .ma-parapharmacie-fr.net
+.maaapsale.shop
 .mabanco.com
 .machershop.net
 .machineland.de
@@ -8123,6 +8156,7 @@
 .marionmaurer.com
 .marivaro.com
 .markeair.com
+.markenboss.de
 .market-discounts.com
 .market24prime.shop
 .marketbarogmbh.de
@@ -8178,6 +8212,7 @@
 .masri-trans.de
 .massimolutti.de
 .massive-deals.com
+.masterbaushop.de
 .mastercareerlink.online
 .mastercurbs.com
 .mastermoveis.store
@@ -8312,6 +8347,7 @@
 .mege-tech.de
 .mehsam-transport.com
 .meiergartenbau.de
+.meierschweiz.ch
 .meierwien.at
 .meikemode.de
 .meimiou.store
@@ -8323,6 +8359,7 @@
 .mein-gartentor.de
 .mein-gewaechshaus-shop.de
 .mein-holz.store
+.mein-kleines-baby.de
 .mein-thermenwartung.at
 .mein-vintage-kleid.de
 .meindlosterreich.at
@@ -8428,6 +8465,7 @@
 .metricgurus.com
 .metzingen-fashion.de
 .meulisch.com
+.mewens.de
 .mewlovear.best
 .meyen-garten.com
 .meyen-garten24.de
@@ -8734,6 +8772,7 @@
 .mooxishop.de
 .moozin.de
 .mopolodenim.de
+.moragos.de
 .morgencharles.business
 .morgentau-brautmoden.de
 .morii.nl
@@ -8760,6 +8799,7 @@
 .motorcyclecastlex.com
 .motorcyclezesty.com
 .motorrad-levy-elsa.com
+.motorrader24.de
 .motorraders.de
 .motorsensen-shop.com
 .motzenerdistribution.com
@@ -9206,7 +9246,6 @@
 .nilnook.de
 .nime24.de
 .ninamodehaus.de
-.nine-west.de
 .ninelife.at
 .ninelife.de
 .nineraiment.com
@@ -9271,6 +9310,7 @@
 .norsacke.com
 .norsk-apotek24.com
 .norskeapotek.net
+.norsky.de
 .northcapitalinvest.com
 .northfacegreeceshops.com
 .northfaceoutletstoreus.com
@@ -9373,6 +9413,7 @@
 .octeno.de
 .ocycling.com
 .odlorabatt.com
+.mkt.oeamtc.at
 .oel-direkt.de
 .oelheizung24.de
 .oeljetzt.de
@@ -9685,6 +9726,7 @@
 .ospharma.com
 .osprey-suomi.com
 .ospreysuomi.net
+.ossiladende.shop
 .ostrava.nl
 .ostrumam.com
 .ostrumgroup.com
@@ -10132,7 +10174,6 @@
 .pmpkp.com
 .png-group.net
 .pnladvanced.com
-.poalarhealth.com
 .poascontrst.com
 .pociath.com
 .pocofficial.com
@@ -10234,6 +10275,7 @@
 .preferenct.com
 .fmlpr.preis-meister.com
 .rotln.preis-meister.com
+.preishaide.de
 .preistech.de
 .prelovesov.live
 .premiata-deutschland.com
@@ -10411,6 +10453,7 @@
 .fr.puprime.net
 .fr.puprime.online
 .purawerk-gmbh.de
+.pureglowde.com
 .pureloveov.best
 .purelywhitedeluxe.com
 .pureprefer.com
@@ -10439,6 +10482,7 @@
 .qihaobuy.com
 .qiotltd.com
 .qlepy.com
+.qlodus.de
 .qolasam.com
 .qovlaty.com
 .qredhaus.de
@@ -10452,7 +10496,6 @@
 .qualitatkaufhaus.com
 .quality-kitchen-online.com
 .qualitygadgetshop.com
-.qualityhouse-us.com
 .qualitytophome.com
 .quantomarketing.com
 .quantum-ai.io
@@ -10665,7 +10708,6 @@
 .regonius.net
 .regosunglasses.com
 .regtek-kauf.de
-.rehaubrandstore.com
 .rehdergmbh.com
 .reifen-kanal.com
 .reifen-schneider24.com
@@ -10867,11 +10909,11 @@
 .robo-center.com
 .robo-fx.co
 .robofund.net
+.robogarten.shop
 .roboter-maeher.com
 .robynbruce.shop
 .rochobbies.com
 .rockanutritionava.shop
-.rockehemden.com
 .rockemsoc.top
 .rockportbootsireland.com
 .rockportjapan.com
@@ -11054,7 +11096,6 @@
 .safir.com
 .sagaenterprizes.com
 .sagenverkauf.com
-.saint-blanc.com
 .saintjamesireland.com
 .saintjamesoutlet.at
 .sakaziq.com
@@ -11245,6 +11286,8 @@
 .schmit-mode.com
 .schmitzs.de
 .schmuckverka.com
+.schnaeppchenkoenigde.de
+.schnaeppchenschatz24.de
 .schnappchenmarkt.com
 .schnappchenshop.com
 .schnappi-deal.de
@@ -11255,6 +11298,7 @@
 .schneiderdusseldorf.de
 .schneidermode.com
 .schneidersalzburg.at
+.schneiderundlang.de
 .schneidervienna.at
 .schnell-markt.de
 .schnell-schwanger-werden.com
@@ -11566,6 +11610,7 @@
 .shopping-seks.de
 .shoppingdeautopecas.com
 .shoppingsmart.store
+.shopplanetde.de
 .shoppocski.com
 .shoppyy.de
 .shopraidlight.com
@@ -11668,6 +11713,7 @@
 .skielka-designschmuck.shop
 .skiequipmentsneu.com
 .skiingskilful.com
+.skijersey.de
 .skik2.de
 .skill-path-way-de.works
 .skillcraftifypro-deu.com
@@ -11786,6 +11832,7 @@
 .softwarebilliger1.de
 .softwaredealz.shop
 .sogevis.com
+.sohoohair.de
 .soideverteilung.com
 .sol-staking.com
 .sola-mode.de
@@ -12112,6 +12159,7 @@
 .stock-swim.com
 .stockbestus.com
 .stockcamping.com
+.stockerpoints.com
 .stockinfernopro.com
 .stockingfilla.com
 .stocks-views.com
@@ -12212,7 +12260,6 @@
 .stuffwallpaper.com
 .stuhleangebote.com
 .stuhleclient.com
-.stuhlesessel.com
 .stuhlgaeng.de
 .stussy-berlin.de
 .stussy-de.de
@@ -12241,6 +12288,7 @@
 .stylefatface.com
 .stylehighheel.com
 .stylereduction.com
+.styles-western.com
 .stylesofparis.com
 .stylessunny.com
 .stylestroller.com
@@ -12596,7 +12644,6 @@
 .tensiostore.com
 .tentssaleshop.com
 .teodoroautopecas.com
-.teppichedeko.com
 .terange.com
 .terea-polen.com
 .terminatei.com
@@ -12763,6 +12810,7 @@
 .thk-elektro24.de
 .thl-handel.de
 .thmbrennholz.at
+.thomann2025de.shop
 .thomannz.shop
 .thomas-electronic.shop
 .thomascarolyn.com
@@ -12853,6 +12901,7 @@
 .tktxkaufen.de
 .tlcsalesar.shop
 .tlinkxde.works
+.tlodus.de
 .tnewsrefresh.com
 .tntroyal.com
 .tobias-leben.de
@@ -12944,7 +12993,6 @@
 .topflexibility.com
 .topgardencenter.com
 .topglas.shop
-.tophousesgoods.com
 .topideaberlin.com
 .topillstore.com
 .topledlightstore.com
@@ -13231,7 +13279,6 @@
 .tyreschwalbe.com
 .tyrwien.at
 .tyu-trade.com
-.tzshoptrade.com
 .u-inv.com
 .uaedisscount.com
 .uastudioshop.com
@@ -13380,7 +13427,6 @@
 .yzyshoes.us.com
 .usa-food-store.de
 .usabicycleus.com
-.usafadmagic.com
 .usaoutdoordecor.com
 .usapharmacyshop24.com
 .usapharmashop.online
@@ -13573,6 +13619,7 @@
 .venzaniberlin.de
 .veok.de
 .vera-mode.com
+.veradam.com
 .veralo.de
 .veramodehaus.de
 .veranoclothing.de
@@ -13580,6 +13627,7 @@
 .verbraucher-profis.de
 .vereinsbedarf-bhutta.shop
 .verifizierungamericanexpress.com
+.vering-24.de
 .veripro.de
 .verkauf-rezeptfrei.de
 .verkaufelektro.com
@@ -13631,6 +13679,7 @@
 .vetenade.com
 .vetntilate.com
 .vettuma.com
+.vewens.de
 .vex-group.pro
 .vex-network.com
 .vexor17.com
@@ -13689,6 +13738,7 @@
 .vilora.nl
 .vilova.nl
 .vilow.de
+.vimoraberlin.com
 .vincet-tech.de
 .vinero.at
 .vinissage.de
@@ -13816,6 +13866,7 @@
 .vorase.de
 .vorela.de
 .voring.de
+.vormans.de
 .voroda.de
 .vorodaa.de
 .voroly.de
@@ -13917,6 +13968,7 @@
 .watchesreplica.is
 .watchesstore.co
 .watchfaceshub.com
+.watchharbor.de
 .watercupvogue.com
 .waterkant.shop
 .watermotionod.com
@@ -14020,6 +14072,7 @@
 .werbeartikel-kostenlos.com
 .weretail.site
 .werisee.com
+.werkboxpro.com
 .werkraumgrn.de
 .werkstattdile.de
 .werkvoorraden.com
@@ -14252,6 +14305,7 @@
 .x-water.shop
 .x24customs.de
 .xacartapps.com
+.xartens.de
 .xatix-beratung.de
 .xaviercabrita.shop
 .xcapitalltd.org
@@ -14265,6 +14319,7 @@
 .xerofootwearuk.com
 .xeroschweiz.com
 .xeroshoesaustralia.com
+.xewens.de
 .xflyrc.com
 .xfr-financial.com
 .xhfadacai.com
@@ -14306,6 +14361,7 @@
 .xo-trier.de
 .xobeautysupply.com
 .xohapro.com
+.xohlers.de
 .xpertmarket.com
 .xpmarkets.com
 .fr.xpoken.com
@@ -14349,6 +14405,7 @@
 .yeezy-450.com
 .yeezyadidas.de
 .yeezys.co
+.yelars.de
 .yem.foundation
 .yenki-derm.eu
 .yhealing.top

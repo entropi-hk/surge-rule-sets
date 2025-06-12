@@ -866,7 +866,6 @@
 .encryption.madereramilano.com.ar
 .manaututors.manausclass.com.br
 .packetyo.nanbang.com.tr
-.dns.netraptor.com.au
 .new-proxy.com.de
 .proxy.com.de
 .proxy-service.com.de
@@ -1312,6 +1311,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1462,6 +1462,7 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -1569,6 +1570,7 @@
 .freevpnplanet.com
 .freevpnsoftware.net
 .freewebproxy.eu
+.freewebproxyserver.net
 .freexite.com
 .freeyouproxytube.com
 .freeyoutube.net
@@ -3710,6 +3712,7 @@
 .browse.startpage.com
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
+.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
