@@ -191,6 +191,7 @@
 .maws-aax-apse-rtb.amazon-adsystem.com
 .maws-aax-eu-rtb-adx.amazon-adsystem.com
 .maws-aax-eu-rtb.amazon-adsystem.com
+.maws-aax-fe-sin.amazon-adsystem.com
 .maws-aax-us-east-rtb-adx.amazon-adsystem.com
 .maws-aax-us-east-rtb.amazon-adsystem.com
 .maws-aax-us-east-test4.amazon-adsystem.com
