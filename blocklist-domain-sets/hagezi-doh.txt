@@ -718,6 +718,7 @@
 .dns.kawa.tf
 .dns.kebree.fr
 .dns.keke125.com
+.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de
@@ -883,7 +884,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1426,7 +1426,6 @@
 .your-dns.run
 .yovbak.com
 .dns.yuu-g.net
-.yuvelirtut.website
 .adg.yybyy.wiki
 .dns.daemon.za.net
 .adguard.zachitect.com
