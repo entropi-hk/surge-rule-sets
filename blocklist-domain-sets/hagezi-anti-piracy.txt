@@ -2660,6 +2660,7 @@
 .duboku.tv
 .duboku.vip
 .cutscloud.duckdns.org
+.joczo.duckdns.org
 .kamikazee.duckdns.org
 .thinking.duckdns.org
 .tr4ck3r.duckdns.org
@@ -9288,7 +9289,6 @@
 .vidcloud9.com
 .vidembed.net
 .videobin.co
-.videocop.com
 .tracker.videodrugproject.com
 .videoelephantbd.com
 .admin.videoenpoche.info
