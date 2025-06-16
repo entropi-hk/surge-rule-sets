@@ -93,6 +93,7 @@
 .happy-sun-587.3kh0.org
 .3proxy.de
 .dns.3wv.de
+.3x.nz
 .dns.4-the.win
 .notfound-google.404.mn
 .doh.42l.fr
@@ -279,6 +280,7 @@
 .anonymous-proxy-servers.net
 .anonymousblog.info
 .anonymouse.org
+.anonymousengine.com
 .anonymousvpn.info
 .anonymousvpn.org
 .anonymox.net
@@ -337,6 +339,7 @@
 .atozproxy.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .stevenisafemboy.auraria.org
 .auto-aufladen.de
 .use.autoglass.my
@@ -577,10 +580,12 @@
 .notes.sage.california-red.com
 .dns.caliph.dev
 .callies-online.site
+.tor.calyxinstitute.org
 .bananakun.camdvr.org
 .canadaproxy.info
 .cantblockthis.org
 .cantfindme.org
+.idea.read.capella-technologies.com
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
 .carebuzz.io
@@ -894,9 +899,11 @@
 .6922.yugadiluitel.com.np
 .dns.comff.net
 .rammerhead.command.enterprises
+.commonapp.college
 .commons.host
 .easy-vpn.comodo.com
 .math.tests.comprotusjuguetes.com
+.compsci.college
 .pluhster.computersforpeace.net
 .comss.one
 .comss.ru
@@ -955,6 +962,7 @@
 .croxyproxy.com
 .croxyproxy.net
 .croxyproxy.rocks
+.croxyproxy.us
 .croxyproxys.com
 .croxyproxyvpn.com
 .crushus.com
@@ -983,6 +991,7 @@
 .curd.io
 .amir1.cuza16.ro
 .cozy.cuza16.ro
+.cv-unfiltered.xyz
 .dns.cwlys.com
 .vocab.real.cyberbeatnation.net
 .cyberghostvpn.com
@@ -2577,7 +2586,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -2791,7 +2799,6 @@
 .sleepykirby.ofmdirect.com
 .okado.online
 .okayfreedom.com
-.dns.olpploiopkuyhiopsfrt.info
 .olympicproxy.net
 .omegaproxy.com
 .adguard.oms-ctr.ru
@@ -3336,7 +3343,6 @@
 .mahiro-9.1project.r-o-o-t.net
 .resolver.r0cket.net
 .r1bnc.com
-.resolve2.r9x.cc
 .ra4wvpn.com
 .dns.rabbitdns.org
 .family.rabbitdns.org
@@ -3728,9 +3734,7 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
-.eu1-browse.startpage.com
 .eu2-browse.startpage.com
-.proxy1.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
@@ -4736,6 +4740,7 @@
 .cheifsarebad.zenrelax.ro
 .zenrows.com
 .zenvpn.net
+.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .zerotier.com
 .zerotunnel.com

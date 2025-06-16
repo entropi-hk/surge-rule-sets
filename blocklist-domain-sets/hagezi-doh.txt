@@ -105,6 +105,7 @@
 .adguardhome.atakorah.com
 .atris.cyou
 .dohtrial.att.net
+.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -886,7 +887,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -997,7 +997,6 @@
 .dns.odinpl.com
 .dns.ofdoom.net
 .okado.online
-.dns.olpploiopkuyhiopsfrt.info
 .adguard.oms-ctr.ru
 .one.one.one.one
 .doh.onedns.net
@@ -1151,7 +1150,6 @@
 .tiger.dns.qwer.pw
 .resolver.r0cket.net
 .r1bnc.com
-.resolve2.r9x.cc
 .dns.rabbitdns.org
 .family.rabbitdns.org
 .security.rabbitdns.org
@@ -1436,6 +1434,7 @@
 .zburger.top
 .zdn.ro
 .dns.zemows.industries
+.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .dns.zfsystem.tech
 .doh.zknt.org
