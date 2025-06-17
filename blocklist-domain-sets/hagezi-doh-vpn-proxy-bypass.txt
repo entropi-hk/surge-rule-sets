@@ -383,6 +383,7 @@
 .dns.b612.me
 .dns.b72.com
 .baconmania.click
+.bookpog.bad.mn
 .westhamforever.bad.mn
 .purchase.badrag.net
 .veryvery.badrag.net
@@ -1012,10 +1013,12 @@
 .friedeggs.dagmaar.com
 .dns.dallinbryce.com
 .danhcan.top
+.danielrcrawfordfanpage.danielrcrawford.com
 .dns.home.daniil.it
 .adguard.dantynes.cyou
 .darknet.to
 .proxy.darkvpn.com
+.canvaixlwork.dasboard.net
 .mail.data.haus
 .ns.data.haus
 .plans.datacommunicationsinc.com
@@ -1053,6 +1056,7 @@
 .adguard.lege.despagne.net
 .doh-primary-pool.detoxifypornblocker.com
 .dns.dev-umbrellagov.com
+.portal.devicars.com
 .learn.devmon.ru
 .study.know.devreler.com
 .dewassh.net
@@ -1100,6 +1104,10 @@
 .dns.dns-53.uk
 .dns.dns-53.us
 .dns-free.link
+.dns1.dns-ga.de
+.dns2.dns-ga.de
+.dns3.dns-ga.de
+.doh.dns-ga.de
 .secure-dns.dns-ga.de
 .dns.dns-over-https.com
 .dns0.eu
@@ -1233,6 +1241,8 @@
 .doh.us.dnswarden.com
 .dnswebvsn.com
 .do-39574-tr.xyz
+.googolclasroom.dob.jp
+.pleaseworkughhfd.dob.jp
 .doh.beauty
 .doh.buzz
 .doh.li
@@ -1285,6 +1295,7 @@
 .dvprovider.icu
 .dns.dyn1.de
 .ueni.dyndns.org
+.resolver1.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
@@ -1292,6 +1303,7 @@
 .data.math.dyvniy.com
 .vpn.dzarlax.dev
 .dzhot.us
+.vpngermany.dzzz.info
 .dnscache.e-utp.net
 .please-please-please-watch-you-or.dexter.e1racecar.com
 .earnapp.com
@@ -1375,7 +1387,6 @@
 .armorrush.eu.org
 .dns.fullaccesstointernet.jp.eu.org
 .dns.mayx.eu.org
-.arashi.net.eu.org
 .rammerhead.eu.org
 .sukidayo.eu.org
 .eurproxy.com
@@ -1435,6 +1446,7 @@
 .fasttime.info
 .fastusaproxy.com
 .fastvpn.im
+.fastvpn.me
 .favoriteshoes.us
 .history.essay.fayknowles.com
 .fbproxies.info
@@ -1479,7 +1491,6 @@
 .fishproxy.com
 .fitnessdepotprices.com
 .fixproxy.com
-.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -1487,6 +1498,7 @@
 .flashputon.net
 .flashvpn.li
 .dns.flatuslifir.is
+.abdulv2.flazzard.com
 .vps.fleuryk.ovh
 .dns.flightspace.net
 .dns01.flm9.net
@@ -1544,6 +1556,7 @@
 .freecanadavpn.com
 .freecavpn.com
 .freeconnect.link
+.freedevpn.com
 .freedom.cx
 .freedome-vpn.net
 .freedomproxy.com
@@ -1573,6 +1586,7 @@
 .freesupervpn.com
 .freesurfproxy.com
 .freetrialvpn.com
+.freeukvpn.com
 .freevideoproxy.com
 .freevmess.com
 .freevpn.cloud
@@ -1624,6 +1638,7 @@
 .zxyp.02.garmanage.com
 .gas.education
 .gatcha.org
+.myincredibleweightlossjounrney.gblandscape.com
 .gecko.fun
 .geckovpn.xyz
 .geekproxy.com
@@ -1692,6 +1707,7 @@
 .global-proxy.com
 .globalchatinc.com
 .globalssh.net
+.globaltrx.com
 .dns.api.globus.org
 .dns.api.preview.globus.org
 .dns.api.integration.globuscs.info
@@ -1717,7 +1733,6 @@
 .dns-tunnel-check.googlezip.net
 .tunnel.googlezip.net
 .goosevpn.com
-.performance.gosami.xyz
 .vpn.gosami.xyz
 .gostarlight.xyz
 .fisdinstructure.gotroot.pw
@@ -1774,6 +1789,7 @@
 .adguard.haneulo.com
 .dns.hanmey.de
 .dns.hannielzhang.com
+.classroom.haoqiw.com
 .happy-vpn.com
 .amirsuck.happyforever.com
 .cars.happyforever.com
@@ -1788,6 +1804,7 @@
 .monkeydoo.hardsoft.nu
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
+.fair.hashable.org
 .dylanigotchu.hbmc.net
 .query.hdns.io
 .ordns.he.net
@@ -1807,6 +1824,7 @@
 .heroproxy.com
 .httpdns-push.heytapmobile.com
 .hiddendigital.info
+.hiddendragon.site
 .hiddenproxy.net
 .hide.me
 .hide.mn
@@ -1890,6 +1908,7 @@
 .homevpn.info
 .homevpn.org
 .homeworkhelp.click
+.7aisfulloftalent.hondascooterparts.com
 .honeygain.me
 .dns.hoody.com
 .schoolmath.hop.sh
@@ -1954,9 +1973,11 @@
 .icitek.com
 .mask.icloud.com
 .mask-h2.icloud.com
+.lab.clever.icp-seigyo.com
 .icpsuawn1zy5amys.com
 .tienpham.id.vn
 .idcloak.com
+.idealvpn.com
 .curry.idemonch.cl
 .class.recap.idiaga.com
 .idolproxy.com
@@ -1968,6 +1989,7 @@
 .youreagoodmanarthurmorgan.ignorelist.com
 .dns.ihaveacloud.com
 .hellotaka.iiiii.info
+.yozora.iiiii.info
 .iij.jp
 .ikarosalpha.xyz
 .dns.ikataruto.com
@@ -2030,9 +2052,11 @@
 .ipchanging.com
 .ipfreely.io
 .ipinator.com
+.iplama.com
 .iportal.me
 .ipprotectionauth.goog
 .ipredator.se
+.iprivatevpn.com
 .iprovpn.com
 .iproyal.com
 .ipsharkk.com
@@ -2046,6 +2070,7 @@
 .c.is-very.fun
 .d.is-very.fun
 .dns.is0mino.com
+.tylerknowskungfu.isageek.net
 .mickedi.isgood.host
 .dns.ishan.pw
 .ishark.com
@@ -2203,6 +2228,7 @@
 .hr.komor.bid
 .adguard.konikoni428.com
 .bak2skewl.konpan.ch
+.www-proxy.konstl01.xyz
 .doh.kooman.org
 .korzhov.dev
 .dns.kosan.moe
@@ -2302,6 +2328,7 @@
 .limevpn.com
 .limitlessproxy.com
 .silly.lindhesidan.se
+.yozora.lindhesidan.se
 .theman.lingxi-ai.net
 .www-pa.linkall.uk
 .linkideo.com
@@ -2459,6 +2486,7 @@
 .microvpn.com
 .interstellar.midnite.space
 .www-proxy.migastep.com
+.rammerdaze.miguelarevalo.es
 .dns.mihanentalpo.me
 .dns.mikeliu.org
 .mikezhang.xyz
@@ -2586,6 +2614,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -2799,6 +2828,7 @@
 .sleepykirby.ofmdirect.com
 .okado.online
 .okayfreedom.com
+.dns.olpploiopkuyhiopsfrt.info
 .olympicproxy.net
 .omegaproxy.com
 .adguard.oms-ctr.ru
@@ -2894,6 +2924,7 @@
 .proxy.ordentlichbreit.de
 .learning.orestpena.com
 .resolver.dnsprivacy.org.uk
+.oliverdiepiogreedycheckers.sponsorafuture.org.uk
 .dns.oryxlabs.com
 .os4work.com
 .edu.osobi.ro
@@ -3352,6 +3383,7 @@
 .boxcat.radio-zvez.info
 .radmin-vpn.com
 .radmin-vpn.org
+.7afootball.rainbowcup.com
 .ns.ral9005.org
 .rapidprivacy.com
 .rapidproxy.org
@@ -3584,6 +3616,7 @@
 .fair-hawk-609.shuttlemath.com
 .fair-lake-387.shuttlemath.com
 .deep-hawk-892.shuttleproxy.com
+.sical.s.ical.sic.al
 .doh.sidnlabs.nl
 .pigs.siglent.ru
 .dns.silen.org
@@ -4082,6 +4115,7 @@
 .dns.twnic.tw
 .twoproxy.net
 .adguard.twotigers.xyz
+.rammerheadisok.tx2600.net
 .dns.txq.life
 .typaza.com
 .typeracer.gq
@@ -4602,6 +4636,7 @@
 .pirate.wildsurf.net
 .windscribe.com
 .windscribe.net
+.thirteen13.windsormetalbattery.com
 .buy.wine-software.com
 .use.winterhouse.info
 .wireguard.com
@@ -4740,7 +4775,6 @@
 .cheifsarebad.zenrelax.ro
 .zenrows.com
 .zenvpn.net
-.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .zerotier.com
 .zerotunnel.com

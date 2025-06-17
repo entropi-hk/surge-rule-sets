@@ -2356,6 +2356,7 @@
 .dats.site
 .daveking.com
 .bt.davka.info
+.daxiv.com
 .dbbians.com
 .dbgo.fun
 .dbgt.com
@@ -2376,6 +2377,7 @@
 .ddlbase.net
 .ddlcenter.com
 .ddlseries.net
+.ddlsite.com
 .ddlspot.com
 .ddlvalley.me
 .ddnbd.com
@@ -2418,6 +2420,7 @@
 .delves.tv
 .demoniak.be
 .demonii.com
+.open.demonii.si
 .demonoid.com
 .demonoid.is
 .demonoid.ph
@@ -2454,11 +2457,13 @@
 .dflix.live
 .bm.dfnbd.net
 .bn.dfnbd.net
+.cm.dfnbd.net
 .em.dfnbd.net
 .tube.dfnbd.net
 .tv.dfnbd.net
 .dfox.it
 .mixes.dfx.at
+.tracker-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakaftp.com
 .dhakaiptv.com
@@ -2683,6 +2688,7 @@
 .droskop.com
 .drumkitx.com
 .drunkenslug.com
+.tracker.ds.is
 .ds2play.com
 .open.dstud.io
 .dtvd.net
@@ -2773,6 +2779,7 @@
 .eddie4.nl
 .edels-stube.eu
 .edgeemu.net
+.edgeoftheworld.net
 .edmag.net
 .tracker.sjtu.edu.cn
 .aarinfantasy.edwardk.info
@@ -2850,6 +2857,7 @@
 .bt.emuparadise.org
 .emuplay.fr
 .encodeking.com
+.tracker.encrypted-data.xyz
 .energy-torrent.com
 .eneyida.tv
 .engbookspdf.net
@@ -2952,6 +2960,7 @@
 .eurostreaming.guru
 .eurostreaming.haus
 .eurostreaming.homes
+.eurostreaming.info
 .eurostreaming.ink
 .eurostreaming.irish
 .eurostreaming.it
@@ -2959,6 +2968,7 @@
 .eurostreaming.live
 .eurostreaming.loans
 .eurostreaming.lol
+.eurostreaming.love
 .eurostreaming.makeup
 .eurostreaming.mba
 .eurostreaming.me
@@ -3002,6 +3012,7 @@
 .eurostreaming.us
 .eurostreaming.vg
 .eurostreaming.vip
+.eurostreaming.vision
 .eurostreaming.vote
 .eurostreaming.voto
 .eurostreaming.voyage
@@ -3200,6 +3211,7 @@
 .fileshunt.com
 .filespace.com
 .filespayouts.com
+.filestream.me
 .filetracker.pl
 .filetram.com
 .fileupload.pw
@@ -3248,6 +3260,7 @@
 .filmitorrent-org.site
 .filmix.biz
 .filmix.fun
+.filmize.tv
 .filmlicious.co
 .filmlicious.net
 .filmlush.com
@@ -3377,6 +3390,7 @@
 .filmstreaming.pw
 .filmstreaming.red
 .filmstreaming.rip
+.filmstreaming.sbs
 .filmstreaming.se
 .filmstreaming.sh
 .filmstreaming.site
@@ -3466,6 +3480,7 @@
 .flixhq.to
 .flixhub.net
 .flixjar.com
+.flixpad.net
 .flixta.cc
 .flixtor.ch
 .flixtor.id
@@ -3481,6 +3496,7 @@
 .flixtor.vc
 .flixtor.win
 .flixwatch.site
+.flixwave.me
 .flixwave.to
 .flixy.org
 .flmsdown.net
@@ -3494,6 +3510,7 @@
 .fmhy.net
 .fmhy.xyz
 .fmnetworks.net
+.fmovie.sc
 .fmovie.ws
 .fmoviefree.net
 .fmovies.baby
@@ -3640,6 +3657,7 @@
 .freeoldies.com
 .freepeer.org
 .freeroms.com
+.freerus.ru
 .freeserials.com
 .freesoft-board.to
 .freestreams-live1.com
@@ -3687,6 +3705,7 @@
 .ftflix.com
 .ftp.pet
 .ftp2web.com
+.ftpbd.com
 .ftpbd.net
 .ftuapps.dev
 .fubo.tv
@@ -3698,6 +3717,7 @@
 .fulldownloads.com
 .fullfileaccess.com
 .fullfilmstream.co
+.fullfilmstream.net
 .fulllengthaudiobooks.net
 .fullmoviefilm.org
 .fullmoviehd4k.com
@@ -3728,6 +3748,8 @@
 .futebolgratis.net
 .futecell.com
 .futemax.app
+.futemax.cl
+.futemax.gratis
 .futemax.ink
 .futplayhd.live
 .futplayhd.net
@@ -3809,6 +3831,7 @@
 .gbwhatspro.com
 .tracker.gcrenwp.top
 .tracker.gcvchp.com
+.gdekino.me
 .gdrivedl.xyz
 .gdrivemovies.xyz
 .gdtorrent.com
@@ -3969,7 +3992,9 @@
 .goojara.ch
 .goojara.to
 .gophie.cam
+.retracker.gorcomnet.ru
 .gostream.eu
+.gostream.is
 .gostream.site
 .gostream.to
 .gostream-hd.xyz
@@ -3987,6 +4012,7 @@
 .tracker.greatposterwall.com
 .tk.greedland.net
 .tk2.greedland.net
+.greek-torrent.net
 .greek-tracker.com
 .greencracks.com
 .greetingsonlinebd.com
@@ -4165,6 +4191,7 @@
 .hd4fun.com
 .tracker.hdarea.club
 .tracker.hdarea.co
+.tracker.hdatmos.club
 .hdaudiobooks.net
 .tracker.hdbd.us
 .hdbest.net
@@ -4378,6 +4405,7 @@
 .movies.iatout.fr
 .ibdplex.net
 .ibooks.to
+.iboxbd.online
 .trackers.ibzu.me
 .icefilms.info
 .icefilms-info.com
@@ -4406,6 +4434,7 @@
 .iktin.ru
 .ikwilthepiratebay.org
 .ilcorsaronero.info
+.ilcorsaronero.link
 .ilefilms.com
 .ilf.net
 .ilgeniodellostreaming.bar
@@ -4443,6 +4472,7 @@
 .ilgeniodellostreaming.monster
 .ilgeniodellostreaming.net
 .ilgeniodellostreaming.org
+.ilgeniodellostreaming.party
 .ilgeniodellostreaming.pics
 .ilgeniodellostreaming.pictures
 .ilgeniodellostreaming.pl
@@ -4564,6 +4594,7 @@
 .iptvonly.tv
 .iptvprova.com
 .iptvsource.com
+.iptvstream.tv
 .tracker.ipv6tracker.org
 .tracker.ipv6tracker.ru
 .download.iq24.pl
@@ -4625,6 +4656,7 @@
 .italiafilm.fun
 .italiaserie.cc
 .itcnbd.com
+.itmn.org
 .itnetzone.com
 .itoma.info
 .itorrent.tv
@@ -4645,6 +4677,7 @@
 .t.jaekr.sh
 .jagobd.com
 .jakartarestaurant.com
+.jakianetbd.com
 .jalshaghor.com
 .jamendo.com
 .jamez.org
@@ -4749,6 +4782,7 @@
 .kat.ph
 .kat.rip
 .kat.to
+.katastrofa.com
 .katcr.to
 .katfile.com
 .kati3kat.tube
