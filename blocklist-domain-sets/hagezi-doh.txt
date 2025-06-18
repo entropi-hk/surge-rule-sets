@@ -492,6 +492,7 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .resolver1.dyndnsinternetguide.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -522,6 +523,7 @@
 .armorrush.eu.org
 .dns.fullaccesstointernet.jp.eu.org
 .dns.mayx.eu.org
+.arashi.net.eu.org
 .sukidayo.eu.org
 .dns.extrawdw.net
 .fra1.eyecay.xyz
@@ -547,6 +549,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -597,6 +600,7 @@
 .dns.google.com
 .google-public-dns-a.google.com
 .google-public-dns-b.google.com
+.performance.gosami.xyz
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .dns.guard.io
@@ -889,7 +893,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
