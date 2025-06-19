@@ -2624,6 +2624,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3788,6 +3789,7 @@
 .browse.startpage.com
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
+.proxy1.startpage.com
 .proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
