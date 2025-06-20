@@ -6,6 +6,7 @@
 .dns.0x55.net
 .1010000.online
 .108023.xyz
+.arevmadethis.120v.ac
 .123-proxy.net
 .123-proxy.org
 .123000123.xyz
@@ -112,6 +113,8 @@
 .family.5ososea.com
 .kids.5ososea.com
 .dns.688447.xyz
+.blacknig-ger.69.mu
+.chickenzestyhawktuahbigblacknigfattass.69.mu
 .i-ready.69.mu
 .71745718.online
 .7713.info
@@ -289,6 +292,7 @@
 .anonypost.com
 .anonyproxy.biz
 .anonysurf.com
+.know.core.antidemon.com
 .antpeak.com
 .antycenzor.pl
 .secure.anudeep.me
@@ -631,6 +635,7 @@
 .dns.chenu.ch
 .gooberman123.com.chickenkiller.com
 .ilikefeet.chickenkiller.com
+.jordanmadethis.chickenkiller.com
 .freedns.kiuo-utopias.chickenkiller.com
 .mathhomeworkplus.chickenkiller.com
 .mathiseasy.chickenkiller.com
@@ -878,6 +883,7 @@
 .logisticsacademy.logistica.com.mx
 .encryption.madereramilano.com.ar
 .manaututors.manausclass.com.br
+.grid.brain.marcenes.com.br
 .packetyo.nanbang.com.tr
 .dns.netraptor.com.au
 .new-proxy.com.de
@@ -1495,8 +1501,8 @@
 .firstcontact.site
 .fishproxy.com
 .fitnessdepotprices.com
+.chart.books.fivepals.com
 .fixproxy.com
-.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -1746,6 +1752,7 @@
 .fisdinstructure.gotroot.pw
 .gotrusted.com
 .fractioncaculator.govt.hu
+.gowork.info
 .gpreport.us
 .gracarno.com
 .doge.gracyjohns.cl
@@ -2167,6 +2174,7 @@
 .judua3rtinpst0s.xyz
 .abcya.jumpingcrab.com
 .cmms.jumpingcrab.com
+.everyonewantstocrackshawnp.jumpingcrab.com
 .mathissofun.jumpingcrab.com
 .study-history.jumpingcrab.com
 .ups.jumpingcrab.com
@@ -2790,6 +2798,7 @@
 .novatech.fun
 .dns.novg.net
 .nice.noviolencia.ar
+.poiuytrewq.novipro.ca
 .nowcache.com
 .noyourmean.xyz
 .dns.npe.bz
@@ -3108,7 +3117,6 @@
 .ixl.potomacriversafetycommittee.org
 .doh.powerdns.org
 .poxy.pl
-.dns.aeiou.pp.ua
 .dns.ha-dvin.pp.ua
 .dns.korzhyk.pp.ua
 .lindung.pp.ua
@@ -3891,6 +3899,7 @@
 .dns.sv-zauner.at
 .dns.svoi.dev
 .poptee-liawheufhwae-awef.swanndvr.net
+.popteeeee-lkshfeakwueh-ew.swanndvr.net
 .ramm-ume-pro.swanndvr.net
 .rammerhead-10.swanndvr.net
 .swapip.com
@@ -4136,6 +4145,7 @@
 .tvone.info
 .dmvontop.twilightparadox.com
 .rylandmadethisjustkidding.twilightparadox.com
+.schoology2.twilightparadox.com
 .spacetechnology.twilightparadox.com
 .twingate.com
 .twinklestarknights.com
@@ -4441,6 +4451,7 @@
 .vipuserpro.vercel.app
 .vipusersxero.vercel.app
 .zyronirbinter.vercel.app
+.gov.skills.veriler.com
 .veripn.com
 .viatun.com
 .videocollage.us
