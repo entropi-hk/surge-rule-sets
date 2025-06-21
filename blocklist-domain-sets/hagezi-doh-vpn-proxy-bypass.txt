@@ -1306,7 +1306,6 @@
 .ueni.dyndns.org
 .resolver1.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
-.gustamadh.dynv6.net
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
@@ -1350,7 +1349,6 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
-.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -2632,7 +2630,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -2955,6 +2952,7 @@
 .this.is.for.lightspeedpal.ostrovsky.sk
 .thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
 .dns.oszx.co
+.interstellar.otil.cl
 .topic.idea.ottosulbmec.com
 .ourproxy.net
 .dns.ours.luxe
@@ -3797,8 +3795,6 @@
 .browse.startpage.com
 .eu-browse.startpage.com
 .eu2-browse.startpage.com
-.proxy1.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com

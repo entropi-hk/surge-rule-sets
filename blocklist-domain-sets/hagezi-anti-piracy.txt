@@ -2473,6 +2473,7 @@
 .mixes.dfx.at
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
+.tr-zhuqiy-2.dgj055.icu
 .tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
@@ -4330,7 +4331,6 @@
 .torrents.hikarinokiseki.com
 .hikaritv.xyz
 .himovies.sx
-.himovies.to
 .himovies.tv
 .hindilinks4u.io
 .hindilinks4u.to
@@ -5715,6 +5715,7 @@
 .movieroom.is
 .movierot.com
 .movierr.online
+.movierr.site
 .movierulzhd.gold
 .movies.cab
 .movies-d.com
@@ -5862,6 +5863,7 @@
 .muchshare.net
 .muhammadniaz.net
 .multi-torrent.ru
+.multiapkclub.com
 .multicanais.cl
 .multicanais.com
 .multicanais.fans
@@ -6010,6 +6012,7 @@
 .kpgtorrent.neocities.org
 .nepu.to
 .nerealus.lt
+.download.nerocloud.me
 .fcpic.nesbbs.com
 .nesfiles.com
 .cnc.net.bd
@@ -6133,6 +6136,7 @@
 .h4.trakx.nibba.trade
 .nicemoviezion.pro
 .nicoblog.org
+.nightmarestresser.com
 .niktu.com
 .nima4k.org
 .nineoneone.nl
@@ -6281,6 +6285,7 @@
 .tracker.nyaa.uk
 .nyaatorrents.info
 .nyaatorrents.org
+.t.nyaatracker.com
 .tr.nyacat.pw
 .nyafilmer.lol
 .nyafilmer.vip
@@ -6454,6 +6459,7 @@
 .sport-video.org.ua
 .tracker.swateam.org.uk
 .torrent.org.cn
+.tvunderground.org.ru
 .vega.org.uk
 .orion.si
 .orionoid.com
@@ -7243,6 +7249,7 @@
 .rexdl.com
 .rezi.one
 .rezka.ag
+.rf.ws
 .ezis-amarftp.rf.gd
 .store.rg-adguard.net
 .rg-mechanics.club
@@ -7647,6 +7654,7 @@
 .sitelike.org
 .sitenable.info
 .siteunblocked.info
+.sitosenzanome.it
 .sitostreaming.com
 .sittingonclouds.net
 .sjcrack.com
@@ -7908,6 +7916,7 @@
 .107.189.10.20.sslip.io
 .ssonlinebd.com
 .ssrmovies.com
+.ssrmovies.meme
 .ssrmovies.win
 .sssinsta.com
 .sssinstagram.com
@@ -8459,7 +8468,6 @@
 .thepiratebay10.org
 .thepiratebay11.org
 .thepiratebay2.to
-.thepiratebay3.org
 .thepiratebay3.to
 .thepiratebay9.info
 .thepiratebay9.net
