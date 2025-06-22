@@ -8,6 +8,8 @@
 .qt2-ngfts.lge.com
 .ad.lgsmartad.com
 .us.lgsmartad.com
+.aic.ads.lgtvcommon.com
+.eic.ads.lgtvcommon.com
 .cdpbeacon.lgtvcommon.com
 .homeprv.lgtvcommon.com
 .nudge.lgtvcommon.com

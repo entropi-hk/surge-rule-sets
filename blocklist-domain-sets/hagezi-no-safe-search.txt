@@ -47,6 +47,7 @@
 .search.dr460nf1r3.org
 .wgl.frail.duckdns.org
 .dynabyte.ca
+.searx.elukerio.org
 .searx.ericaftereric.top
 .search.ethibox.fr
 .eulie.de
