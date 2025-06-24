@@ -491,7 +491,6 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
-.resolver1.dyndnsinternetguide.com
 .gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
@@ -505,7 +504,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -940,7 +938,6 @@
 .adguard.neon0404.space
 .dns.neowutran.ovh
 .dns.aa.net.uk
-.doh.infotek.net.id
 .doh.max.net.id
 .ns.net.kg
 .dns.netvpn.net
@@ -1038,7 +1035,6 @@
 .dns.us-phoenix-1.oraclecloud.com
 .resolver.dnsprivacy.org.uk
 .dns.oryxlabs.com
-.dns.oszx.co
 .dns.ours.luxe
 .dns.ourvau.lt
 .1a.ns.ozer.im
