@@ -491,6 +491,7 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net

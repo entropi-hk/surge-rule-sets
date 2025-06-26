@@ -199,6 +199,7 @@
 .research.africa.com
 .gov.goal.agilewhitecloud.com
 .agmath.xyz
+.ebooks-edu.agmlabs.com
 .wha.agmlabs.com
 .ahadns.net
 .blitz.ahadns.com
@@ -862,6 +863,7 @@
 .budget.chodos.com.ar
 .dns.cloud88.com.au
 .about.cmbazan.com.ar
+.state.lab.covi.com.ar
 .croxyproxy.com.in
 .echan.faizinternational.com.np
 .info.faizinternational.com.np
@@ -952,6 +954,7 @@
 .c.cpfrx.info
 .e.cpfrx.info
 .www.i.cpfrx.info
+.teste.g.crabdance.com
 .rammerhead.crackerstreams.org
 .cracksite.info
 .crawlbase.com
@@ -1303,6 +1306,7 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .adbox-v9.dynipv6.de
+.gustamadh.dynv6.net
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
@@ -1750,6 +1754,7 @@
 .gowork.info
 .gpreport.us
 .gracarno.com
+.basic.idea.gracesiefer.com
 .doge.gracyjohns.cl
 .graef.in
 .grammarhelpers.com
@@ -1905,6 +1910,7 @@
 .holavpnrussia.com
 .holavpnworld.com
 .holax.io
+.hi.hollandweather.net
 .beta.holyunblocker.org
 .kyrgyzstan-travel.home.kg
 .home-server.store
@@ -1991,6 +1997,7 @@
 .class.recap.idiaga.com
 .idolproxy.com
 .adguard.shuting.idv.tw
+.teste.g.ignorelist.com
 .heb1.ignorelist.com
 .subscribe-to-vcsa.ignorelist.com
 .test52139.ignorelist.com
@@ -2200,6 +2207,7 @@
 .katonetwork.com
 .kavkaz.monster
 .dns.kawa.tf
+.base.train.kdits.ca
 .ram.kdot.cam
 .dns.kebree.fr
 .keenow.com
@@ -2327,6 +2335,7 @@
 .dns.levonet.sk
 .lewsha.lol
 .dns2.lezainski.com
+.kagurabachilover.lgmnow.com
 .dns.lgprk.com
 .dns.liberador.net
 .libertyvpn.net
@@ -2838,6 +2847,7 @@
 .sleepykirby.ofmdirect.com
 .okado.online
 .okayfreedom.com
+.tokyo-by-scrsa.okzk.com
 .dns.olpploiopkuyhiopsfrt.info
 .olympicproxy.net
 .omegaproxy.com
@@ -3423,6 +3433,7 @@
 .interhead.recca.cl
 .rammerstellar.recca.cl
 .dns.reckoningslug.name
+.vladimirloljk.lollipopyum.liveastheman.reconectar.cl
 .ixl.recruitment7.com
 .redhoodie.site
 .redproxy.info
@@ -3466,6 +3477,7 @@
 .rnblyatclub.online
 .blob.ro0t.hm
 .blobx.ro0t.hm
+.reallysmart.robertofreire.ca
 .skibidirizz.robinhud.com
 .topdown.robtop.xyz
 .topyea.robtop.xyz
@@ -3595,6 +3607,7 @@
 .serkanarslan.com
 .privatnas.servebeer.com
 .serverhoya.com
+.harrypotter.serverpit.com
 .serverssh.net
 .assets-prod-a230.s3.serverwild.com
 .pod.servicegrup.ro
@@ -3784,6 +3797,7 @@
 .ams2.startpage.com
 .browse.startpage.com
 .eu-browse.startpage.com
+.eu1-browse.startpage.com
 .eu2-browse.startpage.com
 .proxy1.startpage.com
 .proxy2.startpage.com
@@ -4023,6 +4037,7 @@
 .doh.tiarap.org
 .jp.tiarap.org
 .prestonhitgrandmasterinyorkmate.tice-industries.com
+.world.guide.ticinostudio.com
 .tigervpn.com
 .tigrons.ru
 .tikvpn.com
@@ -4658,6 +4673,7 @@
 .wiksa.com
 .dns-1.wil.cloud
 .dns-2.wil.cloud
+.tests.excel.wild1.net
 .wildproxy.info
 .education.wildsurf.net
 .pirate.wildsurf.net
