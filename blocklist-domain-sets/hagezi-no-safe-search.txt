@@ -138,7 +138,6 @@
 .searx.ch
 .searx.info
 .searx.ir
-.searx.ninja
 .searx.org
 .searx.ru
 .searx.run

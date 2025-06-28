@@ -308,7 +308,6 @@
 .vaes-fe.amazon-adsystem.com
 .vaes-na-preprod.amazon-adsystem.com
 .vaes-na.amazon-adsystem.com
-.vaes.amazon-adsystem.com
 .vfw-ap-gamma.amazon-adsystem.com
 .vfw-ap.amazon-adsystem.com
 .vfw-eu-gamma.amazon-adsystem.com

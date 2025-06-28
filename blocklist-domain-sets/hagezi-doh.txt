@@ -504,6 +504,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -890,6 +891,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1436,7 +1438,6 @@
 .zdn.ro
 .dns.zemows.industries
 .adguard-kartoffel.zernico.de
-.dns.zfsystem.tech
 .doh.zknt.org
 .zougloub.eu
 .dns.zzuhacker.cn
