@@ -616,7 +616,6 @@
 .dns.cert.ee
 .area.world.cervezamolay.com
 .cfdjb.org
-.suken.cfmr.ro
 .ibuki.cgnat.net
 .dns.chadeyron.fr
 .core.goal.challengepursuit.com
@@ -785,7 +784,6 @@
 .10bestvpn.co.uk
 .adguard.aa4.co.uk
 .akashiro.co.id
-.googie.anchorchain.co.za
 .antidnsvpn.co.cc
 .binhexsolutions.co.uk
 .btunnel.co.in
@@ -812,7 +810,6 @@
 .onlineproxy.co.uk
 .alvaromarzogarbayo.pimp.co.za
 .pooblet.co.za
-.proxay.co.uk
 .proxify.co.uk
 .proxywebsite.co.uk
 .quickproxy.co.uk
@@ -877,7 +874,6 @@
 .auditing.lepetitprince.com.np
 .logisticsacademy.logistica.com.mx
 .encryption.madereramilano.com.ar
-.manaututors.manausclass.com.br
 .grid.brain.marcenes.com.br
 .packetyo.nanbang.com.tr
 .dns.netraptor.com.au
@@ -902,7 +898,6 @@
 .webproxy.com.de
 .6922.yugadiluitel.com.np
 .dns.comff.net
-.rammerhead.command.enterprises
 .commonapp.college
 .commons.host
 .easy-vpn.comodo.com
@@ -993,11 +988,9 @@
 .cubedns.com
 .qual.cuprum.ru
 .curd.io
-.amir1.cuza16.ro
 .cozy.cuza16.ro
 .cv-unfiltered.xyz
 .dns.cwlys.com
-.vocab.real.cyberbeatnation.net
 .cyberghostvpn.com
 .cybershield.cc
 .cybersilent.com
@@ -1066,7 +1059,6 @@
 .mainframe.dewed.de
 .dns.dgea.fr
 .dialertoserver.com
-.utopia.tests.dianmarisa.com
 .dns.diarbagus.id
 .dev.dietpc.org
 .help.dietpc.org
@@ -1092,7 +1084,6 @@
 .divaloo.com
 .divavu.com
 .coolgams.dk-condos.com
-.hihohornsluttlekidspop.dmdistribution.net
 .kahoot.it.dmtr.ru
 .easydomain.dnet.hu
 .dns.expert
@@ -1342,7 +1333,6 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
-.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1380,7 +1370,6 @@
 .doh.ersei.net
 .dns.esnube.es
 .mylo.estic.org
-.ela.edu.estudiomenoyo.com
 .eth.link
 .opennic1.eth-services.de
 .proxy.eti.pw
@@ -1407,7 +1396,6 @@
 .dns.extrawdw.net
 .extremevpn.com
 .fra1.eyecay.xyz
-.ezwebsites.ezwebsites.com
 .f0lga.tech
 .use.f4.is
 .dns.f4a.fun
@@ -1538,7 +1526,6 @@
 .we-need-more.foxgateway.com
 .bokkinauuu.fpr.net
 .cosmogamy.fpr.net
-.zi000.fpr.net
 .fproxy.net
 .frandcomfort.us
 .know.orbit.frawst.com
@@ -1757,7 +1744,6 @@
 .greenssh.com
 .dnsblock.grisumedia.de
 .dns.grqu.de
-.wow.grupompr.com
 .minionsandgru.grupopilar.cl
 .vps.grussenmeyer.com
 .gamgasyoppakuteri-zenttodabi.gslb.info
@@ -1814,10 +1800,6 @@
 .dylanigotchu.hbmc.net
 .query.hdns.io
 .ordns.he.net
-.chimpanzinibananini.hec.to
-.dogebyvcsa.hec.to
-.hooda.math.hec.to
-.nodamirai.hec.to
 .us-ny-alula.heliumcloud.cc
 .sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 .sage.skills.hellasinside.com
@@ -1940,7 +1922,6 @@
 .hoyofun.xyz
 .ajmal.hpc.tw
 .greenbeandean.hs.vc
-.be.hse.tw
 .code.edu.hse.tw
 .hshh.org
 .hsselite.com
@@ -1995,7 +1976,6 @@
 .youreagoodmanarthurmorgan.ignorelist.com
 .dns.ihaveacloud.com
 .hellotaka.iiiii.info
-.yozora.iiiii.info
 .iij.jp
 .ikarosalpha.xyz
 .dns.ikataruto.com
@@ -2091,7 +2071,6 @@
 .smellypay.isreally.pro
 .stuffyschicken.isreallycool.lol
 .itopvpn.com
-.itsayx.online
 .pdns.itxe.net
 .ivacy.com
 .ivacyvpn.com
@@ -2117,12 +2096,9 @@
 .tesutorender.jake.eu
 .jamesisbald.xyz
 .tj.jamesxue.xyz
-.janathanmahes-mysharepoint.com
 .dns.janl.eu
 .transit.javierblog.com
 .state.gov.jaycloudlab.com
-.jayshaun.com
-.starving-kids.jaytex.org
 .woodshop.jbworks.com
 .jcdns.fun
 .lowlow.jellyfl1x.es
@@ -2202,7 +2178,6 @@
 .dns.kebree.fr
 .keenow.com
 .keepanonymous.com
-.dns.keke125.com
 .doh.kekew.info
 .doh.kel.pe
 .kepard.com
@@ -2223,7 +2198,6 @@
 .blog.kimiblock.top
 .kingsurfproxy.com
 .howto.piano.kiptrak.com
-.good.kje.us
 .dns1.klcd.eu
 .dns2.klcd.eu
 .klcknerrip.com
@@ -2337,7 +2311,6 @@
 .limevpn.com
 .limitlessproxy.com
 .silly.lindhesidan.se
-.yozora.lindhesidan.se
 .theman.lingxi-ai.net
 .www-pa.linkall.uk
 .linkideo.com
@@ -2364,7 +2337,6 @@
 .localtonet.com
 .locaproxy.com
 .lochridge.org
-.browser.lolo.pro
 .adguard.londonwebnerd.cloud
 .doh.dns1.lonet.org
 .doh.phdns1.lonet.org
@@ -2390,7 +2362,6 @@
 .luminati.io
 .luminatinet.com
 .lurk.info
-.the.luxflow.net
 .orau.lz0724.com
 .addns1.m-it.ro
 .mabuktogel.builders
@@ -2416,7 +2387,6 @@
 .mainssh.com
 .maintainbrain.us
 .dns.maitrekuc.fr
-.we.make-it.ro
 .course.quiz.makovecz.com
 .mallocapp.com
 .mallocprivacy.com
@@ -2624,7 +2594,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io

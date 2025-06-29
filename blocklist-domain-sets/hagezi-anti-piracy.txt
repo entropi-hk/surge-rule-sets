@@ -2106,8 +2106,6 @@
 .crackcrew.com
 .crackdb.com
 .crackdb.org
-.cracked.io
-.cracked.to
 .cracked-games.org
 .crackedfully.com
 .crackedme.com
@@ -2118,7 +2116,6 @@
 .crackedversion.com
 .crackfind.com
 .crackhash.org
-.crackhell.com
 .crackhub.site
 .crackingpatching.com
 .crackingpremium.com
@@ -2248,8 +2245,6 @@
 .cybermania.ws
 .cybernetbd.com
 .cybernetcommunications.net
-.cyberphoenix.org
-.capital.cyberserver.hu
 .cybervm.io
 .cyberwares.ru
 .cyberwarez.info
@@ -2286,7 +2281,6 @@
 .darkbooter.com
 .darkbox.to
 .darkdata.net
-.darkino.co
 .darklight.to
 .darkmachine.pl
 .darkmahou.com
@@ -2870,9 +2864,7 @@
 .europixhd.site
 .europixhd.top
 .eurostreaming.actor
-.eurostreaming.app
 .eurostreaming.archi
-.eurostreaming.autos
 .eurostreaming.bar
 .eurostreaming.be
 .eurostreaming.beauty
@@ -2880,7 +2872,6 @@
 .eurostreaming.bet
 .eurostreaming.bid
 .eurostreaming.bike
-.eurostreaming.bio
 .eurostreaming.biz
 .eurostreaming.boo
 .eurostreaming.capital
@@ -2891,7 +2882,6 @@
 .eurostreaming.club
 .eurostreaming.co
 .eurostreaming.coffee
-.eurostreaming.college
 .eurostreaming.com
 .eurostreaming.credit
 .eurostreaming.cyou
@@ -2975,7 +2965,6 @@
 .everydayjones.com
 .everythingmoe.com
 .everythingmoe.org
-.evil-stress.xyz
 .evilinc.info
 .evillagectg.com
 .evillinks.de
@@ -3049,7 +3038,6 @@
 .f4freesoftware.com
 .f5movies.co
 .f5q.ru
-.download.f60s.com
 .fairytales.org
 .tv.fanclub.rocks
 .muds.fandom.com
@@ -3291,7 +3279,6 @@
 .filmsenzalimiti.me
 .filmsenzalimiti.name
 .filmsenzalimiti.net
-.filmsenzalimiti.page
 .filmsenzalimiti.uno
 .filmsenzalimiti.vg
 .filmsenzalimiti.ws
@@ -3403,12 +3390,10 @@
 .flashbit.cc
 .flashfilmes.org
 .flashfilms-hd.com
-.flashfilms-hd.top
 .flashnetbd.com
 .flashtorrents.org
 .flenix.net
 .flextorrents.com
-.flicksoccer.com
 .flickystream.com
 .flixanity.xyz
 .flixdump.com
@@ -3762,7 +3747,6 @@
 .gaytorrent.ru
 .gazellegames.net
 .gazipurns.com
-.gbapp.pk
 .gbapps.net
 .gbatemp.net
 .hh.gbdev.io
@@ -3795,7 +3779,6 @@
 .getcomics.info
 .getcomics.org
 .ip.getcrazy.me
-.getfbvid.com
 .getfreegames.net
 .getgamez.net
 .getintopc.com
@@ -3872,7 +3855,6 @@
 .gnutellaforums.com
 .go123.stream
 .go123movies.one
-.go123movies.watch
 .go2load.com
 .goatd.me
 .god-games.com
@@ -4046,7 +4028,6 @@
 .guardaserie.watch
 .guardaserie.website
 .guardaserie.ws
-.guardaserie.wtf
 .guardaserie.xyz
 .guardaserie01.click
 .guardaserie01.fm
@@ -4085,7 +4066,6 @@
 .happy-mod.com
 .tracker.happyfappy.org
 .happyhippo.net
-.happymod.com
 .happymod.pro
 .happyroms.com
 .hardstresser.com
@@ -4205,7 +4185,6 @@
 .hejo.tv
 .hellenic-world.net
 .hellenicwave.net
-.helloitbd.com
 .helltorrents.com
 .henbt.com
 .hentaisun.com
@@ -4258,7 +4237,6 @@
 .hitboss.com
 .hitfile.net
 .tracker.hitpt.com
-.hitsfilms.net
 .hitsports.pro
 .hitzwarez.net
 .tracker.hiyj.cn
@@ -4273,7 +4251,6 @@
 .hollymoviehd.cc
 .hollymoviehd.com
 .hollymoviehd-official.com
-.bt.home-ix.ru
 .bbs.homefei.net
 .homemadeporntorrents.com
 .hon3yhd.net
@@ -4528,7 +4505,6 @@
 .download.iq24.pl
 .torrent.iq24.pl
 .upload.iq24.pl
-.iqcrew.net
 .iraniantorrents.com
 .tracker.iriseden.fr
 .tracker.iro.moe
@@ -4630,7 +4606,6 @@
 .jhakkas.live
 .jhalmuri.com
 .jhalmuri.xyz
-.tracker.jiesen.life
 .jimmyr.com
 .torrent.jiwang.cc
 .jkanime.net
@@ -4639,7 +4614,6 @@
 .jmbsoft.com
 .join4films.com
 .jojoy.io
-.jokerguide.com
 .jokerlivestream.com
 .jokerlivestream.me
 .jokerlivestream.net
@@ -4824,7 +4798,6 @@
 .kinonadzor.net
 .kinorun.com
 .kinos.to
-.kinotochka.org
 .kinotracker.org
 .kinotron.top
 .kinoua.pro
@@ -4838,7 +4811,6 @@
 .kinox.digital
 .kinox.direct
 .kinox.express
-.kinox.fun
 .kinox.fyi
 .kinox.gratis
 .kinox.io
@@ -4918,7 +4890,6 @@
 .kubhd.com
 .kuiken.co
 .kukaj.io
-.kukaj.si
 .kukaj.sk
 .kukaj-to.cz
 .kukajto.io
@@ -5152,7 +5123,6 @@
 .lovemovie.org
 .lovesyour.tv
 .lovethescene.net
-.warez.loxblog.com
 .lrepacks.net
 .lshunters.tv
 .lucida.su
