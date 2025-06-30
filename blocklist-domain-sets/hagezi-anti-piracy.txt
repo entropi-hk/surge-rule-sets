@@ -5542,7 +5542,6 @@
 .movie2k.to
 .movie2kproxy.com
 .movie4k.ag
-.movie4k.is
 .movie4k.org
 .movie4k.sx
 .movie4k.to
@@ -5562,7 +5561,6 @@
 .moviee.tv
 .moviefiles.org
 .movieforfree.co
-.moviefreak.xyz
 .moviegaga.to
 .moviegamesmore.net
 .movieglide.com
@@ -5653,7 +5651,6 @@
 .movieszone.org
 .movietly.com
 .movietorrent.co
-.movietown.org
 .movieuniverse.li
 .movieuniverse.se
 .movieunlimited.net
@@ -5721,7 +5718,6 @@
 .mrunblock.pro
 .ettv.mrunblock.bar
 .losmovies.mrunblock.casa
-.torrentdownloads.mrunblock.xyz
 .mrunlock.space
 .mscracks.com
 .mserver.link
@@ -5756,7 +5752,6 @@
 .musicsaz.com
 .musicstream.cc
 .mutaz.pro
-.mutstreams.com
 .muxiv.com
 .mvgroup.org
 .mxroom.com
@@ -5990,7 +5985,6 @@
 .nfohump.com
 .nfomation.net
 .nfonews.com
-.nfoogle.com
 .bt.nfshost.com
 .ng4you.com
 .ngb.to
@@ -6124,7 +6118,6 @@
 .nullclash.org
 .nulleb.com
 .nulled.cx
-.nulled.to
 .nulled-scripts.cc
 .nulledbuilds.com
 .nulledfree.pw
@@ -6215,7 +6208,6 @@
 .oklivetv.com
 .bt.okmp3.ru
 .ol-am.top
-.olamovies.autos
 .olamovies.download
 .olamovies.hair
 .olamovies.shop
@@ -6237,7 +6229,6 @@
 .omgtorrent.cz
 .omgtorrent.me
 .omgwtfnzbs.me
-.retracker.omsk.ru
 .ddn.oncast.me
 .onceddl.net
 .onebigtorrent.org
@@ -6357,7 +6348,6 @@
 .ns389251.ovh.net
 .vps-dd0a0715.vps.ovh.net
 .ovh-booter.com
-.oxtorrent.cc
 .oxtorrent.co
 .oxtorrent.com
 .oxtorrent.me
@@ -6525,8 +6515,6 @@
 .piratebay-proxy.to
 .piratebay-proxylist.com
 .piratebay-proxylist.net
-.piratebay1.info
-.piratebay1.live
 .piratebay1.xyz
 .piratebayblocked.com
 .piratebaylive.com
@@ -6611,7 +6599,6 @@
 .planetgames.fr
 .bt.planetq.net
 .platinmods.com
-.bt.play-skill.com
 .playary.com
 .playdede.tv
 .playersklub.tv
@@ -7048,7 +7035,6 @@
 .redditnbastreams.org
 .redditnflstreams.net
 .redditnhlstreams.com
-.redditsoccerstreams.org
 .redditsoccerstreams.tv
 .redditsoccerstreams.xyz
 .redecanais.zip
@@ -7199,7 +7185,6 @@
 .rsload.net
 .rsoccerstreams.com
 .rsoccerstreams.net
-.rth77.ru
 .rtorrent.net
 .rulu.co
 .rune-server.org
@@ -7302,7 +7287,6 @@
 .sdcv.pl
 .sdmega.com
 .sdtoons.in
-.thepiratebay.se.net
 .search-torrent.com
 .searchcracks.com
 .seasonvar.ru
@@ -7473,8 +7457,6 @@
 .bt.shinsen-subs.org
 .shipofharkinian.com
 .shiro.is
-.tracker.shittyurl.org
-.udp-tracker.shittyurl.org
 .tracker.shkinev.me
 .shnflac.net
 .shogiroom.com
@@ -7494,7 +7476,6 @@
 .pj.sidewalkcrusaders.com
 .aus.sierules.com
 .sifara.com
-.silentstress.wtf
 .siliconguide.com
 .siluhd.com
 .simfileshare.net
@@ -7610,7 +7591,6 @@
 .soaperpage.com
 .soapertv.cc
 .soapgate.org
-.socagol.tv
 .socceron.name
 .socceron.org
 .socceronline.me
@@ -7681,7 +7661,6 @@
 .sonofshun.com
 .sosulki.net
 .soul-anime.us
-.soundpark.space
 .bnbteasytracker.sourceforge.net
 .sourcetv.info
 .media.southlinkbd.com
@@ -7726,7 +7705,6 @@
 .sport365.sx
 .sportbit.org
 .sportend.com
-.sporthd.live
 .sportlemon.be
 .sportlemon.com
 .sportlemon.live
@@ -7751,8 +7729,6 @@
 .sportsonline.to
 .v3.sportsonline.sx
 .sportstream.tv
-.sportstreamshd.com
-.sportsurge.app
 .sportsurge.net
 .sportyhunter.com
 .sportzonline.pw
@@ -7766,7 +7742,6 @@
 .srrxxx.com
 .srstop.link
 .tracker.srv00.com
-.sserial.net
 .107.189.10.20.sslip.io
 .ssonlinebd.com
 .ssrmovies.com
@@ -7901,7 +7876,6 @@
 .streamingcommunity.lol
 .streamingcommunity.me
 .streamingcommunity.media
-.streamingcommunity.movie
 .streamingcommunity.net
 .streamingcommunity.nl
 .streamingcommunity.one
@@ -7927,15 +7901,12 @@
 .streamingcommunity.vg
 .streamingcommunity.vin
 .streamingcommunity.vip
-.streamingcommunity.watch
 .streamingcommunity.work
 .streamingcommunity.xyz
 .streamingdivx.ch
 .streaminggratuit.cc
 .streamingsenzalimiti.net
-.streamingseries.cam
 .streamingseries.rip
-.streamingvf.casa
 .streamingvf.rip
 .streamit.ws
 .streamiz.rip
@@ -8126,7 +8097,6 @@
 .tantifilm.org
 .tantifilm.ph
 .tantifilm.pink
-.tantifilm.pro
 .tantifilm.run
 .tantifilm.sbs
 .tantifilm.shop
@@ -8215,7 +8185,6 @@
 .the-piratebay.org
 .the-potato.net
 .the-underdogs.org
-.the-zomb.com
 .the123movies.eu
 .the7sky.org
 .bt1.the9.com
@@ -8384,7 +8353,6 @@
 .tikmovies.com
 .time2watch.in
 .time2watch.tv
-.time4tv.top
 .timenai.com
 .timepassbd.com
 .timepassbd.live
@@ -8530,7 +8498,6 @@
 .torrentbd.com
 .torrentbd.net
 .torrentbit.net
-.torrentbits.ro
 .torrentbox.com
 .torrentbox.sx
 .torrentbutler.eu
@@ -8628,7 +8595,6 @@
 .torrentproxies.com
 .torrentproxy.io
 .torrentqq27.com
-.torrentqq29.com
 .torrentqq49.com
 .torrentqq71.com
 .torrentquest.com
@@ -8928,7 +8894,6 @@
 .uira.live
 .thepiratebay.uk.net
 .uk-pirate-bay.com
-.uk-unblock.xyz
 .uknova.com
 .ukpass.co
 .ukpirate.click
@@ -9073,7 +9038,6 @@
 .kinox.unblockit.black
 .kinox.unblockit.day
 .kinox.unblockit.mov
-.kinox.unblockit.ong
 .newalbumreleases.unblockit.bet
 .newalbumreleases.unblockit.blue
 .newalbumreleases.unblockit.cat
@@ -9086,7 +9050,6 @@
 .newalbumreleases.unblockit.ist
 .newalbumreleases.unblockit.kim
 .newalbumreleases.unblockit.me
-.newalbumreleases.unblockit.name
 .newalbumreleases.unblockit.nz
 .newalbumreleases.unblockit.onl
 .newalbumreleases.unblockit.uno
@@ -9096,7 +9059,6 @@
 .unblockpiratebay.net
 .unblockproject.icu
 .unblockproject.ink
-.unblockproject.space
 .ettv.unblockproject.top
 .unblocksource.net
 .unblockthe.net

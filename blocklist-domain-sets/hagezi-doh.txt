@@ -503,6 +503,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -546,6 +547,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -888,6 +890,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1352,7 +1355,6 @@
 .uncensoreddns.org
 .dns.unerror.network
 .ines.zfn.uni-bremen.de
-.galileo.math.unipd.it
 .resolver.unstoppable.io
 .dns.unx.io
 .urology.wiki
