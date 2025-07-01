@@ -527,7 +527,6 @@
 .fra1.eyecay.xyz
 .dns.f4a.fun
 .jp1.f7b6h9.tk
-.dns.f97.xyz
 .pdns.faelix.net
 .rdns.faelix.net
 .dns.faked.org
@@ -1355,6 +1354,7 @@
 .uncensoreddns.org
 .dns.unerror.network
 .ines.zfn.uni-bremen.de
+.galileo.math.unipd.it
 .resolver.unstoppable.io
 .dns.unx.io
 .urology.wiki
@@ -1394,7 +1394,6 @@
 .dns-1.wil.cloud
 .dns-2.wil.cloud
 .adguard.wirimij.nl
-.clearweb.woodbridge.club
 .home.wriedts.de
 .ns2.wuyouss.com
 .ns3.wuyouss.com

@@ -2031,6 +2031,7 @@
 .mywebpages.comcast.net
 .comcentral.com
 .comebackdownload.com
+.comicaso.space
 .comicat.org
 .comicextra.com
 .comick.io
@@ -2069,6 +2070,8 @@
 .trace.corrupt-net.org
 .corsaro.red
 .corsflix.net
+.cosmic332.com
+.cosmicscans.asia
 .cosmobox.org
 .cosmoneo.com
 .cotapers.org
@@ -4706,6 +4709,7 @@
 .kbnonlinebd.net
 .kcnawatch.org
 .0d.kebhana.mx
+.kedimanga.com
 .tracker.keepfrds.com
 .keepvid.online
 .keke.re
@@ -4874,6 +4878,8 @@
 .kokodayo.site
 .koli.services
 .kolompc.com
+.komiksin.net
+.komikstation.org
 .komodoisland.net
 .koora-live.io
 .kooralivs.com
@@ -5224,6 +5230,7 @@
 .mangakakalot.tv
 .mangamura.org
 .manganelo.tv
+.mangaokusana.com
 .mangapark.net
 .mangapoisk.io
 .mangareader.tv
@@ -7496,6 +7503,7 @@
 .sitosenzanome.it
 .sitostreaming.com
 .sittingonclouds.net
+.siyahmelek.pro
 .sjcrack.com
 .skidrow-games.com
 .skidrowcodex.net
@@ -9239,7 +9247,6 @@
 .videoneat.com
 .videospider.in
 .videothek.cx
-.videotiktok.tv
 .vider.info
 .vider.love
 .vidhog.com
@@ -9911,7 +9918,6 @@
 .tracker.zerobytes.xyz
 .zerodollarmovies.com
 .media.zerointernet.net
-.proxy.zeronet.dev
 .zeropaid.com
 .zerotracker.com
 .zetorrents.biz
@@ -9954,10 +9960,6 @@
 .zonesega.com
 .zonestreaming.info
 .zonestreaming.rip
-.forever-tracker.zooki.xyz
-.free-tracker.zooki.xyz
-.public-tracker.zooki.xyz
-.tracker-v6.zooki.xyz
 .zoomonlinebd.net
 .zooqle.com
 .zoozle.org

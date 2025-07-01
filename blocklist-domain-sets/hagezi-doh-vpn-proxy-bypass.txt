@@ -1409,7 +1409,6 @@
 .shark-pan.f5.si
 .socchanpxy.f5.si
 .jp1.f7b6h9.tk
-.dns.f97.xyz
 .idea.lab.fabriquilla25.com
 .faceless.me
 .proxy.facil.wtf
@@ -4297,6 +4296,7 @@
 .ines.zfn.uni-bremen.de
 .guh.uniall.tk
 .unifiedvpn.com
+.galileo.math.unipd.it
 .universityproxy.net
 .unkn0wngb.lol
 .unknownproxy.com
@@ -4651,7 +4651,6 @@
 .wobti.com
 .lilliwnnapfeswa9z.wolnoscwkieszeni.pl
 .wonderland.ws
-.clearweb.woodbridge.club
 .woodenclock.us
 .shop.woodworker.cl
 .workbypass.com
@@ -4762,7 +4761,6 @@
 .zalmos.com
 .learning.zanity.net
 .bananakun.zapto.org
-.hudzonlzzzzzhj.zavoj.ch
 .tststststststststststststststststststststs.zavoj.ch
 .xyz.zaylovesparker.xyz
 .zburger.top
