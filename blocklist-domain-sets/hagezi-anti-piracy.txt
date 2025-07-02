@@ -922,7 +922,6 @@
 .arabp2p.net
 .arabseries.org
 .araditracker.com
-.arc018.to
 .archivx.to
 .arconaitv.us
 .area51.to
@@ -3853,6 +3852,7 @@
 .gmovies.xyz
 .gmt-max.org
 .gnetworkbd.com
+.gnula.life
 .gnula.nu
 .gnula.su
 .gnutellaforums.com
@@ -5436,6 +5436,7 @@
 .mkvcage.com
 .mkvcage.ws
 .mkvcinemas.kim
+.mkvcinemas.men
 .mkvcinemas.red
 .mkvdrama.org
 .mkvking.me
@@ -7948,6 +7949,7 @@
 .streamwatch.online
 .streamwatchfree.com
 .streamway.org
+.streamwish.to
 .streamwoop.club
 .streamwoop.com
 .streamwoop.net
@@ -8915,6 +8917,7 @@
 .ultimate-warez.eu
 .ultimateshare.net
 .ultimatestremioaddons.club
+.ultpreplayer.com
 .ultracine.live
 .ultracine.net
 .ultracine.vip
@@ -9238,6 +9241,7 @@
 .vidcloud.us
 .vidcloud1.com
 .vidcloud9.com
+.vide.cx
 .vidembed.net
 .videobin.co
 .videocop.com
@@ -9973,6 +9977,5 @@
 .ultra.zt.ua
 .ztracker.hu
 .tr.zukizuki.org
-.zumods.com
 .zxcmovies.com
 .zxonlinebd.com

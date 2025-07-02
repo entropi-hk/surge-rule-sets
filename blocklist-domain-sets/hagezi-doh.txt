@@ -503,7 +503,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -527,6 +526,7 @@
 .fra1.eyecay.xyz
 .dns.f4a.fun
 .jp1.f7b6h9.tk
+.dns.f97.xyz
 .pdns.faelix.net
 .rdns.faelix.net
 .dns.faked.org
@@ -601,7 +601,6 @@
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .dns.guard.io
-.dns.guardmydns.com
 .dns2.guidocioni.it
 .dns.gutwe.in
 .gztech.me
@@ -889,7 +888,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
