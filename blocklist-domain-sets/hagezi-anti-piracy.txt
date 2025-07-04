@@ -654,6 +654,7 @@
 .ambits.org
 .amcomputers.org
 .amedia.biz
+.amedia.so
 .americansoccerarchives.com
 .amrbd.com
 .an1.com
@@ -4596,7 +4597,6 @@
 .italiaserie.cc
 .itcnbd.com
 .itmn.org
-.itnetzone.com
 .itoma.info
 .itorrent.tv
 .itorrent.ws
@@ -4773,7 +4773,6 @@
 .kickassanime.mx
 .kickassanime.rs
 .kickassto.cc
-.kickassto.co
 .kickasstorrent.bid
 .kickasstorrent.cr
 .kickasstorrent.eu
@@ -5064,7 +5063,6 @@
 .line-net.ru
 .link-base.org
 .linkbucks.com
-.linkgalleries.net
 .linkomanija.net
 .tracker.linkomanija.org
 .linkr.top
@@ -5230,7 +5228,6 @@
 .macked.app
 .macnulled.com
 .macoscrack.com
-.macserial.com
 .macserialjunkie.com
 .macsoftdownload.com
 .macsourceports.com
@@ -5296,7 +5293,6 @@
 .master-prez.com
 .masterani.me
 .masterboot.net
-.masterflix.online
 .masterkreatif.com
 .masterof13fps.com
 .masters-tb.com
@@ -5378,6 +5374,7 @@
 .megakino.red
 .megakino.rip
 .megakino.show
+.megakino.si
 .megakino.style
 .megakino.tax
 .megakino.team
@@ -5519,7 +5516,6 @@
 .modapkcloud.com
 .modapkdown.com
 .modapp.org
-.modcombo.com
 .modded-1.com
 .moddedguru.com
 .modder.me
@@ -5596,7 +5592,6 @@
 .movie-forum.co
 .movie-web.me
 .movie2k.to
-.movie2kproxy.com
 .movie4k.ag
 .movie4k.org
 .movie4k.sx
@@ -5773,7 +5768,6 @@
 .mrtwig.net
 .mrunblock.pro
 .ettv.mrunblock.bar
-.losmovies.mrunblock.casa
 .mrunlock.space
 .mscracks.com
 .mserver.link
@@ -6208,7 +6202,6 @@
 .nyaa.net
 .nyaa.si
 .tracker.nyaa.uk
-.nyaatorrents.info
 .nyaatorrents.org
 .t.nyaatracker.com
 .tr.nyacat.pw
@@ -6530,7 +6523,6 @@
 .pianosheets.org
 .picktorrent.com
 .picotorrent.org
-.picturesetc.net
 .pie321.tv
 .piecejointe.net
 .pig2pig.com
@@ -6662,7 +6654,6 @@
 .planetgames.fr
 .bt.planetq.net
 .platinmods.com
-.playary.com
 .playdede.tv
 .playersklub.tv
 .playertv.net
@@ -8461,6 +8452,7 @@
 .tikmovies.com
 .time2watch.in
 .time2watch.tv
+.time4tv.shop
 .timenai.com
 .timepassbd.com
 .timepassbd.live
@@ -9802,6 +9794,7 @@
 .xmovies8.si
 .xn--80a4b.com
 .xn--950bz4kqroyzjblb.com
+.tracker.xn--djrq4gl4hvoi.top
 .xn--firstrowsport-8xe.eu
 .budvartrekker.xn-s.eu
 .hd-hu.xn-s.eu

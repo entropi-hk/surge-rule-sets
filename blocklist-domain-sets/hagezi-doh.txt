@@ -814,6 +814,7 @@
 .mabuktogel.marketing
 .mabuktogel.properties
 .mabuktogel.solutions
+.mailkyb.co
 .dns.maitrekuc.fr
 .dns.mandre.dev
 .dns.maolaohei.xyz
