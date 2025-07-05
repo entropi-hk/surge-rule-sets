@@ -2592,6 +2592,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3836,6 +3837,7 @@
 .f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com
 .fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com
 .session.proxy2.startpage.com
+.proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
 .us2-browse.startpage.com
@@ -4057,7 +4059,6 @@
 .thexite.net
 .dns.thiz.top
 .threeproxy.net
-.king.thronos.eu
 .okwhattheflip.thuis.vlaanderen
 .thundervpnwin.com
 .tiafun.com
@@ -4835,7 +4836,6 @@
 .zburger.top
 .zcoup.com
 .zdn.ro
-.test.zecro.de
 .dns.zemows.industries
 .zen44.com
 .zend2.com

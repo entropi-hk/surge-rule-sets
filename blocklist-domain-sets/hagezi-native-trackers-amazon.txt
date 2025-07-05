@@ -298,6 +298,9 @@
 .vfw-us-west.amazon-adsystem.com
 .vfw-us.amazon-adsystem.com
 .vfw.amazon-adsystem.com
+.vfwm-us.amazon-adsystem.com
+.vfwm.amazon-adsystem.com
+.vfws.amazon-adsystem.com
 .wms-eu.amazon-adsystem.com
 .wms-fe.amazon-adsystem.com
 .wms-in.amazon-adsystem.com

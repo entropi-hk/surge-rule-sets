@@ -82,7 +82,6 @@
 .logbak.hicloud.com
 .logservice.hicloud.com
 .logservice1.hicloud.com
-.logtransform.hicloud.com
 .adx-dra.op.hicloud.com
 .adx-dre.op.hicloud.com
 .adx-drru.op.hicloud.com
