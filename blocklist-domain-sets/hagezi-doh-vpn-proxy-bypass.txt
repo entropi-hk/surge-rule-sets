@@ -1484,7 +1484,6 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
-.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -2592,7 +2591,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
