@@ -1631,7 +1631,6 @@
 .blackdiamondsalestore.shop
 .blackforestathletics-apparel.com
 .blackgurlzsmagickloset.com
-.blacksheepsports.shop
 .bladebasics.com
 .blaesshuhn-konstanz.shop
 .blakecompute.com
@@ -1784,6 +1783,7 @@
 .boxhandschuhede.com
 .boxing-us.com
 .boxinvesting.com
+.boxspringpro.com
 .boxx-container.com
 .bozok.at
 .bp-direct.com
@@ -1955,6 +1955,7 @@
 .buenoschuhe.de
 .buerozauber.de
 .building-toysshop.com
+.buildmaterialstore.com
 .builikee.com
 .buitifo-fashion.com
 .bullbit.net
@@ -2088,6 +2089,7 @@
 .cannabisonlinebestellen.com
 .cannedgoods-shop.com
 .cannexo-tech.de
+.cannondalegeschaft.com
 .canoefans.com
 .cantaiyi.com
 .canvasvista.com
@@ -2642,7 +2644,6 @@
 .commercewealth.com
 .commiodity.com
 .commoditye.com
-.commodityk.com
 .commodityt.com
 .commoditytopbuzzy.com
 .commodore-power-shop.de
@@ -4367,7 +4368,6 @@
 .feederruten.com
 .feedingweaning.com
 .feelalivi.com
-.feelamused.com
 .feelrational.com
 .feeltrade.com
 .fehuna-tech.de
@@ -4712,7 +4712,6 @@
 .freemobile24.de
 .freepknmk.shop
 .freepogoar.shop
-.freeseem.com
 .freeshkaov.shop
 .freetxvs.best
 .freeworkhub.com
@@ -5033,7 +5032,6 @@
 .gelbente.de
 .geld-ausleihen.com
 .geldway.com
-.gelmalls.com
 .gemhearingaids.com
 .gemoneo.com
 .gena-tech.de
@@ -5166,7 +5164,6 @@
 .getyourpillshere.com
 .gexchain.com
 .gfore-suomi.com
-.gforedeutschland.de
 .gforefinland.com
 .gforeosterreich.com
 .gforesuomi.com
@@ -6254,6 +6251,7 @@
 .hydrip.de
 .hydrogearworld.com
 .hygienecleanshop.com
+.hyip.com
 .hype-handel.de
 .hypelaced.co
 .hypersneakers.online
@@ -6429,7 +6427,6 @@
 .inetzteil.de
 .inexpensivy.com
 .inferright.com
-.inferutmati.com
 .infineink.com
 .infinitediamond.com
 .infinitrade.com
@@ -6500,7 +6497,6 @@
 .intelilawllp.com
 .intelligents.store
 .intellisynex.com
-.intentionalk.com
 .inter-investissement-holding.com
 .interactionm.com
 .interactivecoins.com
@@ -6547,6 +6543,7 @@
 .investsecuritiesgroup.com
 .invisiblen.com
 .invisishieldlab.com
+.invitationy.com
 .invogue.at
 .io-ny.eu
 .iojewellery.com
@@ -7268,6 +7265,7 @@
 .labelyourlife.shop
 .labnicear.best
 .labq22.in
+.labubu-lounge.de
 .labububox.store
 .labubuofficials.de
 .lacavepatrimoniale.com
@@ -8632,6 +8630,7 @@
 .motiofit.shop
 .motivatew.com
 .motoculturedirecte.com
+.motoenthusiastsbase.com
 .motoequishop.com
 .motogorilla.shop
 .motorcyclecastlex.com
@@ -8879,6 +8878,7 @@
 .natinpop.com
 .national-bicycle.com
 .nationalstemcellbank.org
+.nativediscount.com
 .natur-held.de
 .natura-zuda.de
 .naturalcosmeticssales.com
@@ -9256,6 +9256,7 @@
 .ofenbrnholz.com
 .ofendeutschland.com
 .ofenholzprofi.de
+.ofenrohr.eu
 .ofenzaubeer.com
 .ofenzauber.com
 .offashoes.com
@@ -9337,6 +9338,7 @@
 .on-cloudoutletfactory.com
 .on-handel.com
 .on-on.co
+.on-outlet.shop
 .on-runningschweiz.com
 .on-shoes.shop
 .onaustria.at
@@ -9877,6 +9879,7 @@
 .phoenix-elektro.com
 .phoenix-market.com
 .phonekong.com
+.phonesrefurb.com
 .phontix.store
 .photo-schmiede24.de
 .photoschneider.de
@@ -10635,6 +10638,7 @@
 .revolutionracesweet.com
 .revolutionraoe.com
 .revomarkt.com
+.revorro.com
 .rewards.app
 .rextrade.de
 .reyfinances.com
@@ -10705,6 +10709,7 @@
 .rlradious.com
 .rmtechshop.com
 .rmurns.com
+.rnfeff.shop
 .roamanwear.com
 .roasterprada.de
 .robelshoes.at
@@ -11010,6 +11015,7 @@
 .sanuknz.com
 .sanukoutlet.store
 .sanuksalecanada.com
+.sanuksandalen.de
 .sanukschoenen.com
 .sanukschuhe.de
 .sanuksuomi.net
@@ -12076,7 +12082,6 @@
 .stylishlytop.com
 .stylishmirror.com
 .stylishshoesus.com
-.stylow.de
 .subbstantial.com
 .subhmobiles.com
 .subscrsidewa.com
@@ -12213,7 +12218,6 @@
 .swedishwild.shop
 .sweetsaltysale.com
 .sweetsf.online
-.swimgearnew.com
 .swimoret.com
 .swimsuitfield.com
 .swimsuitmen.com
@@ -12325,6 +12329,7 @@
 .tbbodega.com
 .tbdress.com
 .tbyyf.com
+.tbz-versand.de
 .tcgsonlineshop.com
 .tchibode.shop
 .tchiboutlets.shop
@@ -12658,6 +12663,7 @@
 .tk-kontor.de
 .tkeesdeutschland.de
 .tkkfrms.net
+.tklbyt.shop
 .tkonline.shop
 .tktxkaufen.de
 .tlcsalesar.shop
@@ -12792,7 +12798,6 @@
 .toy-boxsales.com
 .toycartruck.com
 .toyevs.store
-.toyfigurenew.com
 .toyhang.store
 .toymr.com
 .toyquality.com
@@ -12923,6 +12928,7 @@
 .trikotfachshop.com
 .trikots-onshop.com
 .trikotsale.de
+.trilavora.com
 .trillant.com
 .trimzy.de
 .triton-online.com
@@ -13142,6 +13148,7 @@
 .urbanoutletstores.com
 .urbmale.cc
 .urdotx.com
+.urnsey.shop
 .350yeezy.us.com
 .adidas.us.com
 .coachoutlet-store.us.org
@@ -13158,7 +13165,6 @@
 .yeezyadidass.us.com
 .yeezyslides.us.com
 .yeezyy.us.com
-.yzyshoes.us.com
 .usa-food-store.de
 .usabicycleus.com
 .usaoutdoordecor.com
@@ -13513,6 +13519,7 @@
 .vivobarefootbrasil.net
 .vivobarefootde.com
 .vivobarefootgermany.de
+.vivobarefootonlinestore.shop
 .vivobarefootosterreich.at
 .vivobarefootsaleoutlet.de
 .vivobarefootschuhede.com
@@ -13674,6 +13681,7 @@
 .wasserpumpede.de
 .wassersheriff.at
 .wasserspender-deutschland.de
+.watardrops.store
 .watch-fakes.to
 .watchcod-mc.shop
 .watchesbuy.to
@@ -14282,6 +14290,7 @@
 .zubehorobjektive.de
 .zuedy.de
 .zuhausegutes.com
+.zuhauseunddekor.com
 .zuhaushop.de
 .zuhiog.com
 .zukunftkredit.com
