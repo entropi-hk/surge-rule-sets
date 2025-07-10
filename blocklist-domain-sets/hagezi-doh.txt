@@ -167,7 +167,6 @@
 .adguard.bonsirven.eu
 .doh.bortzmeyer.fr
 .cloudns.bosco.ovh
-.dns.braene.com
 .dns.brahma.world
 .bravedns.com
 .dns.brembeck.cloud
@@ -547,7 +546,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
