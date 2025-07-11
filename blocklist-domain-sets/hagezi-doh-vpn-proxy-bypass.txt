@@ -79,7 +79,6 @@
 .2ub.top
 .30t.online
 .doh.30x.me
-.351242444.xyz
 .dns.354688.xyz
 .doh.360.cn
 .dot.360.cn
@@ -519,6 +518,7 @@
 .full.boxathome.net
 .vectorgpt.boxathome.net
 .boxpn.com
+.dns.braene.com
 .dns.brahma.world
 .bramka-proxy.pl
 .bravedns.com
@@ -1490,6 +1490,7 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -4324,7 +4325,6 @@
 .vocab.tktt.jp
 .dns.tls-data.de
 .tlsext.com
-.tlz.asia
 .tnvpn.com
 .d.toairs.com
 .prr.toma.cl
