@@ -174,6 +174,7 @@
 .adl.adfilter.net
 .per.adfilter.net
 .syd.adfilter.net
+.adfiltro.fun
 .adfreedns.top
 .adfreeproxy.com
 .adguard.io
@@ -336,7 +337,6 @@
 .atlasvpn.com
 .atozproxy.com
 .dohtrial.att.net
-.dns.auapi.fun
 .stevenisafemboy.auraria.org
 .auto-aufladen.de
 .use.autoglass.my
@@ -785,6 +785,7 @@
 .us.doh.cloudveil.org
 .prep.clever.cloudworkonline.com
 .dns.cmrg.net
+.doh.cnetwork.cloud
 .10bestvpn.co.uk
 .adguard.aa4.co.uk
 .akashiro.co.id
@@ -846,6 +847,7 @@
 .coinweb.info
 .4y5t.coke0.cc
 .jpdns.cola16.app
+.coloney3.com
 .coloredwool.us
 .dns.colorfreedom.org
 .dns.7sec.com.br
@@ -963,11 +965,14 @@
 .croxy.org
 .croxy.red
 .croxy-proxy.com
+.croxy-proxy.id
+.croxyproxy.app
 .croxyproxy.best
 .croxyproxy.com
 .croxyproxy.net
 .croxyproxy.rocks
 .croxyproxy.us
+.croxyproxy.vip
 .croxyproxys.com
 .croxyproxyvpn.com
 .crushus.com
@@ -1339,6 +1344,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1489,6 +1495,7 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -2252,6 +2259,7 @@
 .docs.google.l5.ca
 .quesosrammerhaha.l5.ca
 .lablancer.com
+.dns.labnekotest.site
 .doh.lacontrevoie.fr
 .field.ideas.ladanghijau.com
 .www-proxy.ladifsoftware.com
@@ -2660,6 +2668,7 @@
 .ne1.ca
 .bdedu.ne1.co
 .nrr.ne1.co
+.nebulaproxy.io
 .dns.neeb.it
 .needunblock.com
 .arain.neighborhoodcloud.com
@@ -2668,7 +2677,6 @@
 .smart.quiz.nelsonshack.com
 .adguard.neon0404.space
 .neonos.me
-.dns.neowutran.ovh
 .dns.aa.net.uk
 .doh.max.net.id
 .ns.net.kg
@@ -2991,6 +2999,7 @@
 .personalvpn.com
 .personaly.click
 .dns.pesaventofilippo.com
+.pesemes.ir
 .dns.petqa.ru
 .by-itrsa.pettica.com
 .adguard.pggns.de
@@ -3226,6 +3235,7 @@
 .proxycloud.net
 .proxycloyd.com
 .proxycompass.com
+.proxycroxy.site
 .proxydrop.com
 .proxydude.red
 .proxydude.xyz
@@ -3239,12 +3249,14 @@
 .proxygate.com
 .proxygizlen.com
 .proxygogo.info
+.proxygratis.id
 .proxyhash.net
 .proxyhub.in
 .proxyisp.com
 .proxyist.com
 .proxyium.com
 .proxyium.org
+.proxyiumi.com
 .proxyjet.io
 .proxylister.com
 .proxylistpro.com
@@ -3254,6 +3266,7 @@
 .proxynova.com
 .proxyof.com
 .proxyone.net
+.proxyorb.com
 .proxyoutlet.com
 .proxypal.net
 .proxypirates.com
@@ -4229,6 +4242,7 @@
 .rx.techomespace.com
 .dns.telekom.de
 .telleport.me
+.temproxy.com
 .vpn-tw.teng.sh
 .theunionforever.tenspot.net
 .tenta.com

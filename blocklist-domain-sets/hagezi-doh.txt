@@ -54,6 +54,7 @@
 .adl.adfilter.net
 .per.adfilter.net
 .syd.adfilter.net
+.adfiltro.fun
 .adfreedns.top
 .dns.adguard.com
 .dns-family.adguard.com
@@ -103,7 +104,6 @@
 .dns.asysec.com
 .adguardhome.atakorah.com
 .dohtrial.att.net
-.dns.auapi.fun
 .africa.avastdns.com
 .secure.avastdns.com
 .adguard.avdkishore.dev
@@ -231,6 +231,7 @@
 .ca.doh.cloudveil.org
 .us.doh.cloudveil.org
 .dns.cmrg.net
+.doh.cnetwork.cloud
 .adguard.aa4.co.uk
 .pihole.datamatter.co.za
 .www.dnsadguard.co.uk
@@ -502,6 +503,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -545,6 +547,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -752,6 +755,7 @@
 .dns.kxy.ink
 .agh.kyusang.win
 .dns.l337.site
+.dns.labnekotest.site
 .doh.lacontrevoie.fr
 .dns.lars-lehmann.net
 .dns.lashes-brow.ru
@@ -934,7 +938,6 @@
 .us-saj-w-p-1.nashkan.net
 .dns.neeb.it
 .adguard.neon0404.space
-.dns.neowutran.ovh
 .dns.aa.net.uk
 .doh.max.net.id
 .ns.net.kg
