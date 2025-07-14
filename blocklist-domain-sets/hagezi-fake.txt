@@ -204,6 +204,7 @@
 .affenzahn.baby
 .affenzahn-exclusive.shop
 .affenzahn-promo.shop
+.affenzahn-schuhe.com
 .affenzahnde.shop
 .affenzahne.shop
 .affenzahne-de.shop
@@ -5257,7 +5258,6 @@
 .glanz-mode.de
 .glanzberg-mode.de
 .glanzlampen.com
-.glaprestige.com
 .glassesde.com
 .glassesify.com
 .glassesstoreshop.com
@@ -9117,7 +9117,6 @@
 .niederlandeshop.de
 .niekewu-tech.de
 .nieparis-work.top
-.nifyanifest.com
 .nig.com
 .nightoperators.com
 .niholss.store
@@ -9298,7 +9297,6 @@
 .obstkistefreiburg.shop
 .ocayo.de
 .occasionak.com
-.occasionk.com
 .ochsner-agrarhandel.com
 .ocinboutique.de
 .octa-trade.com
@@ -9515,7 +9513,6 @@
 .onshoes-de.shop
 .onshoes-eu.com
 .more2water.onshopbase.com
-.onthonehand.com
 .ontimelive.com
 .onze-korting.com
 .ooctaviat.store
@@ -10699,7 +10696,6 @@
 .revolutionracesweet.com
 .revolutionraoe.com
 .revomarkt.com
-.revorro.com
 .rewards.app
 .rextrade.de
 .reyfinances.com
@@ -11628,6 +11624,7 @@
 .smartmarket26.com
 .smartplantivy.com
 .smartrasenmaher.com
+.smartsolve.ai
 .smartsteamershop.com
 .smartundgeizig.de
 .smartwerkzeug.com
@@ -12171,6 +12168,7 @@
 .sultanuhren.de
 .summaryu.com
 .summer-island.de
+.summerhill.co
 .summerknock.de
 .summers4sale.com
 .summervibes.de
@@ -14364,7 +14362,6 @@
 .zubehorobjektive.de
 .zuedy.de
 .zuhausegutes.com
-.zuhauseunddekor.com
 .zuhaushop.de
 .zuhiog.com
 .zukunftkredit.com

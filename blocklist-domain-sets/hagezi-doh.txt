@@ -62,6 +62,7 @@
 .adguard-dns.com
 .dns.adrianlam.com
 .aerodrorne.vip
+.affcdn.net
 .affsoft.cc
 .shield.afixer.app
 .ahadns.net
@@ -547,7 +548,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
