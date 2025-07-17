@@ -126,6 +126,7 @@
 .antivirus.bebasid.com
 .dns.bebasid.com
 .internetsehat.bebasid.com
+.justhost.bedro.cloud
 .dns.belnet.be
 .dns.bermeitinger.eu
 .bestwon203.com
@@ -477,6 +478,7 @@
 .takhtakh.domyah.net
 .dns.dooks.uk
 .dot.pub
+.ns1.dotls.org
 .dns.dotnet.win
 .dns.dremaxx.de
 .droyd.top
@@ -492,6 +494,8 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
+.resolver1.dyndnsinternetguide.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -504,6 +508,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -547,6 +552,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -567,6 +573,7 @@
 .dns.furrydns.de
 .doh.futa.app
 .doh.futa.gg
+.dns.futuredns.me
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
@@ -635,6 +642,7 @@
 .dns.hotta.page
 .doh.hottis.de
 .hshh.org
+.dns.huas.me
 .dns.hujiayucc.cn
 .ads.hunga1k47.com
 .doth.huque.com
@@ -864,6 +872,7 @@
 .dns.moonssif.com
 .morbitzer.de
 .dns.mrkaran.dev
+.msr177.com
 .dns.msxnet.ru
 .dns.mtoo.vip
 .ns.mtsoln.com
@@ -889,7 +898,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -935,7 +943,6 @@
 .us-saj-w-f-1.nashkan.net
 .us-saj-w-p-1.nashkan.net
 .dns.neeb.it
-.adguard.neon0404.space
 .dns.aa.net.uk
 .doh.max.net.id
 .ns.net.kg
@@ -1248,6 +1255,7 @@
 .dnsovertls3.sinodun.com
 .sitdns.com
 .dns.skrep.eu
+.dns.skrep.in
 .skydragoness.com
 .dns.slinkyman.net
 .dns.smartguard.io
