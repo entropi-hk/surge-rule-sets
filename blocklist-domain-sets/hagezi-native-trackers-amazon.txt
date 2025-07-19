@@ -301,6 +301,12 @@
 .vfwm-us.amazon-adsystem.com
 .vfwm.amazon-adsystem.com
 .vfws.amazon-adsystem.com
+.video-ads.a2z.com
+.vq-eu-west-1.amazon-adsystem.com
+.vq-fe-us-west-2.amazon-adsystem.com
+.vq-test-us-east-1.amazon-adsystem.com
+.vq-us-east-1.amazon-adsystem.com
+.vq-us-west-2.amazon-adsystem.com
 .wms-eu.amazon-adsystem.com
 .wms-fe.amazon-adsystem.com
 .wms-in.amazon-adsystem.com
