@@ -885,7 +885,6 @@
 .germany-proxy.com.de
 .btg.go4it.com.mx
 .doge.intinet.com.ar
-.dns.joaofidelix.com.br
 .12bucklemyshoe.kalbas.com.vn
 .auditing.lepetitprince.com.np
 .logisticsacademy.logistica.com.mx
@@ -1364,6 +1363,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -5185,6 +5185,7 @@
 .zougloub.eu
 .zpath.net
 .zpn.im
+.a.zpn.me
 .zproxy.de
 .zproxy.org
 .zscalertwo.net
