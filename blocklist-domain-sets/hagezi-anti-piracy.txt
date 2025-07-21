@@ -4234,6 +4234,7 @@
 .hdfreaks.cc
 .hdfull.lv
 .hdhome.org
+.hdhub4u.family
 .hdhublist.com
 .hdlivemovies.com
 .hdm.to
@@ -5672,6 +5673,7 @@
 .moonline.tv
 .moonline.ws
 .mooslo.com
+.moovbob.com
 .tracker.morethantv.me
 .moriyashrine.org
 .morpheustvhd.com
@@ -6082,6 +6084,7 @@
 .yify.netlify.app
 .tracker.netmap.top
 .netmatrixbd.com
+.netmirror.my
 .netmovies.to
 .netnaija.xyz
 .netonlinebd.com
@@ -7257,6 +7260,7 @@
 .respawn.ca
 .restricted-stresser.info
 .cdn.retget.ru
+.pybittrack.retiolus.net
 .retrogamechampion.com
 .retrogametalk.com
 .retrostic.com
@@ -8119,6 +8123,7 @@
 .streamingcommunity.vip
 .streamingcommunity.work
 .streamingcommunity.xyz
+.streamingcommunityz.boats
 .streamingcommunityz.city
 .streamingdivx.ch
 .streaminggratuit.cc
@@ -8188,6 +8193,7 @@
 .stresser.world
 .strikeout.im
 .strimsy.top
+.strumyk.net
 .strumyk.tv
 .stuckgamer.com
 .studentsharez.com
@@ -9018,6 +9024,7 @@
 .turbo.to
 .turbobit.cc
 .turbobit.net
+.turboplayers.xyz
 .turbotorrent.net
 .turcasbrasil.online
 .turkeytorrent.net
@@ -9126,6 +9133,7 @@
 .ufs.pt
 .piracitoplista.ugu.pl
 .uhdbits.org
+.uhdmovies.cat
 .uhdmovies.dad
 .uhdmovies.fyi
 .uhdmovies.us
@@ -9426,6 +9434,7 @@
 .vegamovies.ist
 .vegamovies.ngo
 .vegamovies.rs
+.vegamovies.ss
 .vegamovies.vg
 .velocinator.tv
 .veoble.com
