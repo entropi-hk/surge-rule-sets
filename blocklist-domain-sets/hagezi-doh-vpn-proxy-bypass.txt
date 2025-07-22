@@ -1665,6 +1665,7 @@
 .gas.education
 .gatcha.org
 .myincredibleweightlossjounrney.gblandscape.com
+.gclouddns.com
 .gecko.fun
 .geckovpn.xyz
 .geekproxy.com
@@ -2642,6 +2643,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -3171,6 +3173,8 @@
 .privatetunnel.com
 .privatevpn.com
 .privatewifi.com
+.de.dns.privex.io
+.nl.dns.privex.io
 .privoxy.org
 .pro-tower.com
 .chinesekidscheeksarentsafearoundme.procrastin.ar
@@ -4415,6 +4419,7 @@
 .dns.tipsy.coffee
 .titaniumnetwork.org
 .titantunnelvpn.com
+.tk31z.com
 .vocab.tktt.jp
 .dns.tls-data.de
 .tlsext.com
@@ -5140,7 +5145,6 @@
 .yogavpn.com
 .yogawiki.in
 .youcanhide.net
-.net01.youcef.io
 .youfreeproxytube.com
 .younblocked.com
 .youproxything.com

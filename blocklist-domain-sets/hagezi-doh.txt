@@ -491,7 +491,6 @@
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .dukun.de
-.dns.dyn1.de
 .ueni.dyndns.org
 .resolver1.dyndnsinternetguide.com
 .gustamadh.dynv6.net
@@ -550,7 +549,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -1121,6 +1119,8 @@
 .luxembourg.privacy-dns.pw
 .romania.privacy-dns.pw
 .orpi.privado.ovh
+.de.dns.privex.io
+.nl.dns.privex.io
 .project-evoex.de
 .dns.propheci.xyz
 .dns.psociety.de
