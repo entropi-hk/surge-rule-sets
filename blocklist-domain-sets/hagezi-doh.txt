@@ -491,6 +491,7 @@
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .dukun.de
+.dns.dyn1.de
 .ueni.dyndns.org
 .resolver1.dyndnsinternetguide.com
 .gustamadh.dynv6.net
@@ -500,12 +501,10 @@
 .easyhandshake.com
 .dns.eddi.net
 .doh.eddi.net
-.dns.edgy.network
 .edgy-dns.com
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -575,6 +574,7 @@
 .dns.gamban.com
 .adguard.gambini.org
 .dns.beta.gandi.net
+.gclouddns.com
 .adg.geili.me
 .geshido.vpn.geshido.ru
 .getdnsapi.net
@@ -1329,6 +1329,7 @@
 .timmes.nl
 .adb.timnichollsphotography.com
 .dns.tipsy.coffee
+.tk31z.com
 .dns.tls-data.de
 .d.toairs.com
 .dot.tooli.ca
@@ -1427,7 +1428,6 @@
 .ychen.cf
 .ychen.gq
 .sg.yepdns.com
-.net01.youcef.io
 .your-dns.run
 .yovbak.com
 .dns.yuu-g.net
@@ -1441,6 +1441,5 @@
 .adguard-kartoffel.zernico.de
 .doh.zknt.org
 .zougloub.eu
-.a.zpn.me
 .dns.zui.lol
 .dns.zzuhacker.cn

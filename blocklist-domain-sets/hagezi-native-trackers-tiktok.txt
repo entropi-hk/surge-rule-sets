@@ -1,4 +1,3 @@
-.p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 .frontier.byteoversea.com
 .gplog-sg.byteoversea.com
 .gplog-va.byteoversea.com
@@ -39,7 +38,6 @@
 .xlog-o.byteoversea.com
 .xlog-va.byteoversea.com
 .xlog-va-useast2a.byteoversea.com
-.p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 .abtest-ch.snssdk.com
 .analytics.snssdk.com
 .applog.snssdk.com
@@ -316,6 +314,7 @@
 .mcs.tiktokw.us
 .mcs-ie.tiktokw.eu
 .mcs-ie2.tiktokw.eu
+.mcs-ttp2.tiktokw.us
 .mssdk.tiktokw.eu
 .mssdk.tiktokw.us
 .h4g3z1-native.tiktok.web.app
