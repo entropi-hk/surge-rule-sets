@@ -63,7 +63,6 @@
 .dns.adrianlam.com
 .aerodrorne.vip
 .affcdn.net
-.affsoft.cc
 .shield.afixer.app
 .ahadns.net
 .blitz.ahadns.com
@@ -83,7 +82,6 @@
 .doh.angry.im
 .dns.anon.no
 .secure.anudeep.me
-.ad.anym0re.ru
 .doh.apad.pro
 .ag.apollohct.com
 .doh.dns.apple.com
@@ -505,6 +503,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
