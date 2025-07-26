@@ -62,6 +62,9 @@
 .sdfp.snssdk.com
 .tbm.snssdk.com
 .temai.snssdk.com
+.tnc3-aliec2.snssdk.com
+.tnc3-alisc1.snssdk.com
+.tnc3-bjlgy.snssdk.com
 .tobapplog.snssdk.com
 .toblog.snssdk.com
 .tsearch.snssdk.com
@@ -314,7 +317,6 @@
 .mcs.tiktokw.us
 .mcs-ie.tiktokw.eu
 .mcs-ie2.tiktokw.eu
-.mcs-ttp2.tiktokw.us
 .mssdk.tiktokw.eu
 .mssdk.tiktokw.us
 .h4g3z1-native.tiktok.web.app
