@@ -424,7 +424,6 @@
 .openvpnpptpserver.bese.info
 .bestaitool.news
 .bestfreevpn.com
-.bestproxy.xyz
 .bestssh.net
 .bestukvpn.com
 .bestvideoproxy.com
@@ -596,7 +595,6 @@
 .tor.calyxinstitute.org
 .bananakun.camdvr.org
 .canadaproxy.info
-.cantblockthis.org
 .cantfindme.org
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
@@ -785,7 +783,6 @@
 .dy58t8rwtsd9j.cloudfront.net
 .europe-west3-topvpn-873d5.cloudfunctions.net
 .voyage-s01.cloudku.technology
-.adguard.cloudmini.net
 .addition.chillyparrotmath.cloudns.ch
 .cloudnymous.com
 .dns-fr-psv1.cloudsides.com
@@ -914,7 +911,6 @@
 .surfshark.com.au
 .unblock-proxy.com.de
 .doh.viatech.com.tw
-.webproxy.com.de
 .6922.yugadiluitel.com.np
 .dns.comff.net
 .commonapp.college
@@ -939,7 +935,6 @@
 .dns.controld.com
 .freedns.controld.com
 .cool-proxy.net
-.coolbits.org
 .study.paper.coolcomputerguy.com
 .coolproxy.org
 .dns.cooluc.com
@@ -984,7 +979,6 @@
 .croxyproxy.com
 .croxyproxy.net
 .croxyproxy.rocks
-.croxyproxy.us
 .croxyproxy.vip
 .croxyproxys.com
 .croxyproxyvpn.com
@@ -1040,7 +1034,6 @@
 .darkfat.com
 .darknet.to
 .proxy.darkvpn.com
-.canvaixlwork.dasboard.net
 .mail.data.haus
 .ns.data.haus
 .plans.datacommunicationsinc.com
@@ -1108,7 +1101,6 @@
 .districtnewyork.com
 .divalane.com
 .divaloo.com
-.divavu.com
 .coolgams.dk-condos.com
 .kahoot.it.dmtr.ru
 .easydomain.dnet.hu
@@ -1319,7 +1311,6 @@
 .dvprovider.icu
 .dns.dyn1.de
 .ueni.dyndns.org
-.resolver1.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
 .gustamadh.dynv6.net
 .sagamihara.dynv6.net
@@ -1410,7 +1401,6 @@
 .armorrush.eu.org
 .dns.fullaccesstointernet.jp.eu.org
 .dns.mayx.eu.org
-.arashi.net.eu.org
 .rammerhead.eu.org
 .sukidayo.eu.org
 .eurproxy.com
@@ -1432,7 +1422,6 @@
 .f0lga.tech
 .use.f4.is
 .dns.f4a.fun
-.f4fp.com
 .cnamerannmertest.ints.f5.si
 .eqnar.ints.f5.si
 .rammer.ints.f5.si
@@ -1463,7 +1452,6 @@
 .fastfreeproxy.info
 .nuclearvp.global.ssl.fastly.net
 .fastp.org
-.fastpro.info
 .fastproxy.nl
 .fastproxy.org
 .fastproxynetwork.com
@@ -1761,7 +1749,6 @@
 .dns.google.com
 .google-public-dns-a.google.com
 .google-public-dns-b.google.com
-.dns-tunnel-check.googlezip.net
 .tunnel.googlezip.net
 .goosevpn.com
 .performance.gosami.xyz
@@ -1889,7 +1876,6 @@
 .hidessh.com
 .hidester.com
 .hidester.one
-.hidesurf.us
 .hidetheinternet.com
 .hidethisip.net
 .hidethistime.com
@@ -2338,7 +2324,6 @@
 .dns.lepilleur.com
 .dns.lermer.nl
 .lesuo.top
-.let-vpn.com
 .letscomply.online
 .letsvpn.world
 .testlinkimadernyoufatbitc.letz.dev
@@ -2464,7 +2449,6 @@
 .dns.mathewakhil.online
 .mathlearning.tech
 .mathnotes.help
-.mathnotes.icu
 .matterhero.org
 .maxfong.cc
 .dns.maybe.icu
@@ -2704,7 +2688,6 @@
 .nrr.ne1.co
 .nebulaproxy.io
 .dns.neeb.it
-.needunblock.com
 .arain.neighborhoodcloud.com
 .z-brokethescaler.neighborhoodcloud.com
 .nekoray.org
@@ -2762,7 +2745,14 @@
 .ninjavpn.io
 .ninjaweb.xyz
 .nirbytes.com
-.dns.nixnet.xyz
+.adblock.any.dns.nixnet.xyz
+.uncensored.any.dns.nixnet.xyz
+.adblock.lux1.dns.nixnet.xyz
+.uncensored.lux1.dns.nixnet.xyz
+.adblock.lv1.dns.nixnet.xyz
+.uncensored.lv1.dns.nixnet.xyz
+.adblock.ny1.dns.nixnet.xyz
+.uncensored.ny1.dns.nixnet.xyz
 .lux1.nixnet.xyz
 .lv1.nixnet.xyz
 .ny1.nixnet.xyz
@@ -2962,7 +2952,6 @@
 .osqcsmm.shop
 .this.is.for.lightspeedpal.ostrovsky.sk
 .thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
-.interstellar.otil.cl
 .topic.idea.ottosulbmec.com
 .ourproxy.net
 .dns.ours.luxe
@@ -3195,7 +3184,6 @@
 .provpn.info
 .provpnaccounts.com
 .prox.pw
-.prox.rocks
 .proxandthecity.com
 .proxbomb.com
 .proxery.com
@@ -3244,7 +3232,6 @@
 .proxy.yt
 .proxy-123.com
 .proxy-2014.com
-.proxy-2015.info
 .proxy-best.com
 .proxy-bypass.com
 .proxy-german.de
@@ -3456,7 +3443,6 @@
 .redproxy.info
 .applet.redragon.net
 .education.redragon.net
-.redschool.info
 .redshieldvpn.com
 .dns.redvau.lt
 .reezus.us
@@ -3729,7 +3715,6 @@
 .snowproxy.com
 .guard.sntrk.ru
 .dove.soapagent.com
-.dove.soapclient.com
 .socialnetworkinfo.us
 .socks-proxy.net
 .sockslist.us
@@ -3791,7 +3776,6 @@
 .sshstores.net
 .com.108.181.32.77.sslip.io
 .sslprivateproxy.com
-.sslpro.eu
 .sslpro.org
 .sslproxies.net
 .sslproxies.org
@@ -4361,7 +4345,6 @@
 .surfsharkdeals.com
 .dns.surfsharkdns.com
 .surfsharkstatus.com
-.surfshell.io
 .surfsjark.com
 .surfskip.com
 .surfsneaker.com
@@ -4382,7 +4365,6 @@
 .switchvpn.com
 .switchvpn.net
 .swordvpn.com
-.swoshsvpn.com
 .dns.sy.st
 .nexsos.syac.ca
 .dns.syaifullah.com
@@ -4579,7 +4561,6 @@
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
-.travelvpn.info
 .travelvpn.net
 .ns.trcnet.fi
 .consumervpn.trendmicro.com
@@ -5051,7 +5032,6 @@
 .vpnunlimited.com
 .vpnunlimitedapp.com
 .vpnuse.com
-.vpnv6.com
 .vpnvip.com
 .antispam.vpnvps.com
 .vpnwebsite.com
@@ -5082,7 +5062,6 @@
 .dns.warpnine.de
 .warpproxy.com
 .waselpro.com
-.watchunblocked.com
 .dns.engineer.web.id
 .h4g3z1-doh-vpn-proxy-bypass.web.app
 .how.learn.harimurti.web.id
@@ -5251,7 +5230,6 @@
 .yogavpn.com
 .yogawiki.in
 .youcanhide.net
-.youfreeproxytube.com
 .younblocked.com
 .youproxything.com
 .youproxytube.com
@@ -5299,7 +5277,6 @@
 .zerotunnel.com
 .zerovpn-app.com
 .zexusdigital.online
-.zippyproxy.com
 .doh.zknt.org
 .zonevpn.com
 .zoogvpn.com

@@ -226,7 +226,6 @@
 .api.cloudflareclient.com
 .cloudflareresolve.com
 .voyage-s01.cloudku.technology
-.adguard.cloudmini.net
 .dns-fr-psv1.cloudsides.com
 .dns.cloudtrust.solutions
 .ca.doh.cloudveil.org
@@ -491,7 +490,6 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
-.resolver1.dyndnsinternetguide.com
 .gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
@@ -521,7 +519,6 @@
 .armorrush.eu.org
 .dns.fullaccesstointernet.jp.eu.org
 .dns.mayx.eu.org
-.arashi.net.eu.org
 .sukidayo.eu.org
 .dns.extrawdw.net
 .fra1.eyecay.xyz
@@ -547,7 +544,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -894,6 +890,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -964,7 +961,14 @@
 .nicsezcheckfbi.gov
 .dns1.nielsdb.be
 .dns.ningkelle.id
-.dns.nixnet.xyz
+.adblock.any.dns.nixnet.xyz
+.uncensored.any.dns.nixnet.xyz
+.adblock.lux1.dns.nixnet.xyz
+.uncensored.lux1.dns.nixnet.xyz
+.adblock.lv1.dns.nixnet.xyz
+.uncensored.lv1.dns.nixnet.xyz
+.adblock.ny1.dns.nixnet.xyz
+.uncensored.ny1.dns.nixnet.xyz
 .lux1.nixnet.xyz
 .lv1.nixnet.xyz
 .ny1.nixnet.xyz
