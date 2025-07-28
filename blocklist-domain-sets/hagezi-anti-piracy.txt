@@ -5412,6 +5412,7 @@
 .megakino.mba
 .megakino.media
 .megakino.men
+.megakino.moi
 .megakino.mx
 .megakino.now
 .megakino.onl
@@ -10149,6 +10150,7 @@
 .zone-streaming.fr
 .zone-telechargement.al
 .zone-telechargement.com
+.zone-telechargement.diy
 .zone-telechargement.me
 .zone-telechargement1.com
 .zone-torrent.net
