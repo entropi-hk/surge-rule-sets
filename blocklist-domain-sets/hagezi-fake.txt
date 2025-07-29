@@ -20,7 +20,6 @@
 .24-modellstore.com
 .247-healthstore.com
 .247blue.de
-.247farmakeio.com
 .247onlinemeds.net
 .247pharm.net
 .247safegenerics.com
@@ -405,7 +404,6 @@
 .alsara-online.de
 .alter48.fr
 .alterinvest.fr
-.alternatef.com
 .alternatei.com
 .alternative-markets.com
 .alternativeplacement.com
@@ -442,6 +440,7 @@
 .amazonglobal.live
 .amazonliw.com
 .amazonspallet.com
+.amazwarehouse.com
 .ambestenkleider.com
 .ambitbio.com
 .ambitionk.com
@@ -742,6 +741,7 @@
 .arvato-entertainment.de
 .arwibon.us
 .arzi.de
+.arztebedarf.com
 .as-gruen24.de
 .ascelteria.com
 .ascreationdecor.com
@@ -921,6 +921,7 @@
 .avanturagmbh.de
 .avasuite.com
 .avaxmarkets.com
+.avdazzja.shop
 .avelu.de
 .avenado-home.de
 .avenaprime.com
@@ -1024,7 +1025,6 @@
 .bademodeschritte.com
 .badespielzeugstore.com
 .badezimmerbillig.de
-.badezimmershopde.com
 .badgyalbrand.com
 .badhaushalt.com
 .badspiegelonshop.com
@@ -2358,6 +2358,7 @@
 .civiliank.com
 .cizmesorel.com
 .cklogi.de
+.cklogistik.de
 .clairine.de
 .clairyskin.com
 .clapopular.com
@@ -2710,6 +2711,7 @@
 .cooffee.de
 .coogle.at
 .cook-on-the-bright-side.com
+.cookanddinesales.com
 .cookcope.com
 .cool-times.shop
 .cooling-ace.de
@@ -3164,7 +3166,6 @@
 .depickedwell.pro
 .depickedwell.site
 .depierone.com
-.depierrabatt.com
 .deplacer.com
 .depotsnow.com
 .der-einblick.de
@@ -3683,6 +3684,7 @@
 .ehletsandreabergwelpen.de
 .ehreer.com
 .eigensinnig-wien.shop
+.eimer-geraeten.com
 .ein-kaffee.de
 .einayah.com
 .einfacherkredit.com
@@ -3899,7 +3901,6 @@
 .enstocks3v.top
 .entdeckennatur.com
 .entermusic.it
-.enthusiastichaic.com
 .enthusiastip.com
 .entornobanoes.com
 .entornobanoeseur.shop
@@ -4805,6 +4806,7 @@
 .fullhousee.com
 .fulva24.de
 .fun-carrer.work
+.fundrock-group.de
 .funfiy.com
 .funjobs.online
 .de.funnyfuzzy.com
@@ -5050,7 +5052,6 @@
 .gelbente.de
 .geld-ausleihen.com
 .geldway.com
-.gelmalls.com
 .gemhearingaids.com
 .gemoneo.com
 .gena-tech.de
@@ -5401,7 +5402,6 @@
 .gotrixa.de
 .gourmandebusy.com
 .gourmetecke.com
-.govern1.com
 .gp-photo.shop
 .gplate.de
 .gpslocatorphone.com
@@ -5416,7 +5416,7 @@
 .graminator.net
 .grandado.com
 .grandaopecasautomotivas.com
-.grandcapital.net
+.fr.grandcapital.net
 .grandprixfactory.com
 .grandsteamers.com
 .grandwent.com
@@ -6466,7 +6466,6 @@
 .inetzteil.de
 .inexpensivy.com
 .inferright.com
-.inferutmati.com
 .infineink.com
 .infinitediamond.com
 .infinitrade.com
@@ -6683,6 +6682,7 @@
 .jeansrabatt.de
 .jefferycooper.com
 .jeffora.de
+.jehmrxht.shop
 .jeinn.com
 .jelly-cat-deutschland.de
 .jellycat-osterreich.at
@@ -6700,7 +6700,6 @@
 .jerseymonsters.com
 .jerseyneu.com
 .jerseyteamss.com
-.jessena.com
 .jessiccccy.shop
 .jetaxtrade.pro
 .jeulia.de
@@ -7159,6 +7158,7 @@
 .kochenbackenneu.de
 .kochenstein.de
 .kochkunsq.de
+.kochundschreinereu.shop
 .kochutensilienprofi.com
 .kodero.eu
 .kodex-versand.de
@@ -8033,7 +8033,6 @@
 .mamomi-shopping.de
 .man-investments.com
 .managementinvest.com
-.mancheap.com
 .mandalaverkauf.shop
 .manduca-baby.com
 .mango-sale.com
@@ -8468,6 +8467,7 @@
 .mininomade.de
 .miniwelpenparadies.com
 .minosec.com
+.minse.shop
 .mintchop.com
 .mintial.de
 .mipus-handel.de
@@ -9012,7 +9012,6 @@
 .nbynicole.com
 .ncases.com
 .nchen.de
-.ndfinitee.com
 .neary.de
 .necessityi.com
 .necessoul.com
@@ -9330,12 +9329,12 @@
 .objectivew.com
 .objektiverklick.de
 .obmarkets.com
+.obmxaofp.shop
 .obozboots.com
 .obroker.com
 .obstkistefreiburg.shop
 .ocayo.de
 .occasionak.com
-.occasionk.com
 .ochsner-agrarhandel.com
 .ocinboutique.de
 .octa-trade.com
@@ -9806,6 +9805,7 @@
 .paolopuppo.shop
 .papabau.com
 .papageienzuchtheim.de
+.papajule.com
 .papershredder-store.com
 .parakonz.de
 .parfumly.com
@@ -10325,7 +10325,6 @@
 .proupwholesale.com
 .provenxperts.com
 .proveri.de
-.providedes.com
 .proximitye.com
 .proximityi.com
 .prozess-profi.de
@@ -12030,6 +12029,7 @@
 .klarkwvk.stildahh.cyou
 .stilgut-wien.at
 .stillparadies.store
+.stilmark.de
 .stilovo.de
 .stilundschon.com
 .stilvollberlin.de
@@ -12223,6 +12223,7 @@
 .sunnyextensions.com
 .sunnyhomedesign.com
 .sunnylas.com
+.sunnymors.com
 .sunsavy.shop
 .sunshinemo.com
 .sunsirui.com
@@ -12362,7 +12363,6 @@
 .tabexofficial.com
 .tablegame.shop
 .tabletopdeo.de
-.tablets-today.org
 .tablets-world.com
 .tablewaredeal.com
 .tabulatey.com
@@ -12901,6 +12901,7 @@
 .toystom.com
 .tozido.de
 .tpcinvest.com
+.tqdjywjx.shop
 .trabo-garten.de
 .tracht-aporter.com
 .trachten-de.shop
@@ -12986,7 +12987,6 @@
 .travodo.de
 .traxxas-de.com
 .trd6.cc
-.treaderoutlet.com
 .treasuresshop.top
 .trena-trade.de
 .trencystore.com
@@ -12998,7 +12998,6 @@
 .trend-time.de
 .trendaloo.com
 .trendboutiquekoln.de
-.trendigerhaushalt.com
 .trendigetasche.com
 .trendito.de
 .trendofficially.com
@@ -14123,6 +14122,7 @@
 .wunschau.de
 .wunschfans.de
 .wurzelreich.shop
+.wuzmi.shop
 .wv-langen.de
 .ruckgabe.wwmode.de
 .wwwhamsterkiste.de
