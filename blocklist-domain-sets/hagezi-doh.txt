@@ -473,7 +473,6 @@
 .doh.xyz
 .doh.domreg.lt
 .takhtakh.domyah.net
-.dns.dooks.uk
 .dot.pub
 .ns1.dotls.org
 .dns.dotnet.win
@@ -501,7 +500,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -545,6 +543,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -895,7 +894,6 @@
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
-.doh-ca.naftalie.net
 .najiakeji.top
 .dns.nako.kr
 .www.chungocoai.name.vn
@@ -1436,6 +1434,7 @@
 .your-dns.run
 .yovbak.com
 .dns.yuu-g.net
+.yuvelirtut.website
 .adg.yybyy.wiki
 .dns.daemon.za.net
 .adguard.zachitect.com
