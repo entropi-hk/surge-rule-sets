@@ -500,6 +500,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -1431,6 +1432,7 @@
 .ychen.cf
 .ychen.gq
 .sg.yepdns.com
+.net01.youcef.io
 .your-dns.run
 .yovbak.com
 .dns.yuu-g.net

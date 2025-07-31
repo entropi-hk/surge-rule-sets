@@ -492,6 +492,7 @@
 .alldj.org
 .alleenretail.org
 .allesender.de
+.allevertakstream.space
 .allfreeapk.com
 .allfreesoftware.org
 .allhd.tv
@@ -4254,6 +4255,7 @@
 .hdvnbits.org
 .hdwatch.tv
 .ip-stresser-xbox.hdxba.com
+.tracker.healthcareindia.store
 .heavens-above.biz
 .heaventracker.org
 .heavytorrents.org
@@ -4298,9 +4300,10 @@
 .hianime.nz
 .hianime.sx
 .hianime.to
+.hianimes.ro
 .hicartoon.to
 .hidraplay.tv
-.torrent.hificode.in
+.hificode.in
 .tracker.hifimarket.in
 .tracker.hifitechindia.com
 .high-way.me
@@ -6527,6 +6530,7 @@
 .partidosenvivo.gratis
 .partis.si
 .passion-musique.net
+.passpulse.net
 .passthepopcorn.me
 .passthepopcorn.org
 .passwordscity.net
@@ -7379,7 +7383,6 @@
 .movies.samj.app
 .samlab.ws
 .sampledrive.in
-.tracker.samplicio.us
 .samsung-s5230.ru
 .sandrotracker.biz
 .sanet.lc
@@ -8070,6 +8073,7 @@
 .streamingcommunityz.city
 .streamingcommunityz.com
 .streamingcommunityz.date
+.streamingcommunityz.info
 .streamingdivx.ch
 .streaminggratuit.cc
 .streaminggratuit.rip
@@ -10177,5 +10181,6 @@
 .ztracker.hu
 .tr.zukizuki.org
 .zumods.com
+.tracker.zupix.online
 .zxcmovies.com
 .zxonlinebd.com
