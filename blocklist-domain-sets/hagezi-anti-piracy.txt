@@ -156,6 +156,7 @@
 .141jav.com
 .147job.com
 .16mag.net
+.1cinevood.kim
 .1clickdown.com
 .1ddl.org
 .1fbdown.net
@@ -1890,6 +1891,7 @@
 .cinemaindo.net
 .cinemalibero.cafe
 .cinemalux.cfd
+.cinemalux.cyou
 .cinemalux.icu
 .cinemamovies.pl
 .cinemanija.com
@@ -3714,6 +3716,7 @@
 .fullfileaccess.com
 .fullfilmstream.co
 .fullfilmstream.net
+.fullhdfilmizlesene.pw
 .fulllengthaudiobooks.net
 .fullmoviefilm.org
 .fullmoviehd4k.com
@@ -5081,6 +5084,8 @@
 .libgen.gs
 .libgen.is
 .libgen.li
+.libgen.me
+.libgen.pw
 .libgen.rs
 .libgen.st
 .boards.libre.io
@@ -9535,6 +9540,7 @@
 .vorek.co
 .vorek.pl
 .vortexnetwork.org
+.vost.pw
 .vostfr.stream
 .vostfree.cx
 .vostfree.online

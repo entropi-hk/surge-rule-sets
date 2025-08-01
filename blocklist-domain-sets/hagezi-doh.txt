@@ -256,6 +256,7 @@
 .dns.weixin.qq.com.cn
 .dns.redhosting.com.ar
 .doh.viatech.com.tw
+.dns.comeonjames.club
 .dns.comff.net
 .commons.host
 .comss.one
@@ -413,7 +414,6 @@
 .slc01.dnscry.pt
 .sof01.dnscry.pt
 .sto01.dnscry.pt
-.syd01.dnscry.pt
 .syd02.dnscry.pt
 .tbs01.dnscry.pt
 .tll01.dnscry.pt
@@ -500,7 +500,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -891,10 +890,10 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
+.doh-ca.naftalie.net
 .najiakeji.top
 .dns.nako.kr
 .www.chungocoai.name.vn
