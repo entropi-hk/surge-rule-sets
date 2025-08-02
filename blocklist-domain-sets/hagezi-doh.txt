@@ -490,6 +490,7 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -544,6 +545,7 @@
 .fidelius.top
 .dns.filipccz.eu
 .dns.fizz.studio
+.doh.flashstart.com
 .dns.flatuslifir.is
 .dns.flightspace.net
 .dns01.flm9.net
@@ -890,6 +892,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
