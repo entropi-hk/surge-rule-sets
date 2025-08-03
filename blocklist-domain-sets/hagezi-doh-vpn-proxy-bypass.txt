@@ -188,7 +188,6 @@
 .builtlikearat.advanced-orchestra.site
 .piie.advanced-orchestra.site
 .advancedvpn.com
-.aerodrorne.vip
 .affcdn.net
 .shield.afixer.app
 .research.africa.com
@@ -292,6 +291,7 @@
 .anura.pro
 .adbox-v10.any64.de
 .anyip.io
+.ad.anym0re.ru
 .vocab.real.anynall.com
 .doh.apad.pro
 .aplusvpn.com
@@ -589,7 +589,6 @@
 .zscaler.casarosalba.com
 .casinovpn.com
 .dns.caspervk.net
-.salyte.cassidycamp.work
 .theory.topic.cassidyd.com
 .suh.casucha.cl
 .catch.gift
@@ -622,7 +621,6 @@
 .ougonokaze.cheftayebeh.ir
 .dns.chenu.ch
 .gooberman123.com.chickenkiller.com
-.ilikefeet.chickenkiller.com
 .jordanmadethis.chickenkiller.com
 .freedns.kiuo-utopias.chickenkiller.com
 .mathhomeworkplus.chickenkiller.com
@@ -634,7 +632,6 @@
 .imisstheoldkanye.chillcrew.net
 .justbuiltdifferent.chillcrew.net
 .chillglobal.com
-.ishowspeed.chrishow.org
 .dns.christerwaren.fi
 .dns.christian.moe
 .christophbrem.com
@@ -651,7 +648,6 @@
 .doh.cippapp.com
 .canadianshield.cira.ca
 .dns.circl.lu
-.circoscampus.circosdesigns.com
 .circumvent.it
 .mus.cisco.com
 .ciscossh.com
@@ -816,7 +812,6 @@
 .secvpnproxy.co.cc
 .dns.spil.co.id
 .surfshark.co.za
-.surfvpn.co.cc
 .uk-proxy.co.uk
 .unblocksites.co.uk
 .academy.velolife.co.za
@@ -826,7 +821,6 @@
 .vpncrmerp.co.cc
 .vpnguide.co.cc
 .vpnmailvista.co.cc
-.vpnofanti.co.cc
 .vpnoffice.co.cc
 .webproxy.co.at
 .agh.workfordemo.co.in
@@ -882,20 +876,17 @@
 .proxy-site.com.de
 .proxyweb.com.es
 .purevpn.com.tw
-.use.purplefolder.com.np
 .dns.weixin.qq.com.cn
 .nya.qualitypaperindustries.com.np
 .dns.redhosting.com.ar
 .chat-isinterstellargood.safira.com.my
 .core.atom.san-ss.com.ar
-.cloudbarfbagisback.saugatnepal.com.np
 .mathvideos.sharmaraju.com.np
 .visit.sistemasplenario.com.ar
 .doge.sundblad.com.ar
 .surfshark.com.au
 .unblock-proxy.com.de
 .doh.viatech.com.tw
-.6922.yugadiluitel.com.np
 .dns.comeonjames.club
 .dns.comff.net
 .commonapp.college
@@ -913,7 +904,6 @@
 .dns1.conne.net
 .dns.connect.fail
 .connectionvpn.com
-.connorarebisexual.connorliam.com
 .constitutional.design
 .contassh.com
 .contentabc.com
@@ -927,7 +917,6 @@
 .proxysluts.coral-shop.ro
 .corecloak.com
 .core.mind.corega.ro
-.real.coremindx.com
 .doh.cornes.me
 .corsproxy.io
 .cosmohacker.space
@@ -949,8 +938,6 @@
 .crazyproxy.org
 .crazysurfer.info
 .createssh.com
-.createssh.net
-.creatine.wtf
 .criarssh.com
 .crownproxy.com
 .croxy.network
@@ -1040,13 +1027,11 @@
 .deep-henchman-excuse.cfd
 .deepwebvpn.net
 .doh.defaultroutes.de
-.edu.defdc.com
 .wutidontunderstand.defdc.com
 .defencevpn.com
 .defilter.us
 .dns.dekedin.me
 .adguard.dekonix.ru
-.use.delcarmen.cl
 .doh.denypradana.com
 .adguard.depieri.net
 .deproxyserver.com
@@ -1073,7 +1058,6 @@
 .dns.digitale-gesellschaft.ch
 .dns1.digitale-gesellschaft.ch
 .dns2.digitale-gesellschaft.ch
-.zxyp.03.digitalforest.my
 .dns.digitalsize.net
 .diglet.org
 .doge.dinprima.ro
@@ -1086,7 +1070,6 @@
 .districtnewyork.com
 .divalane.com
 .divaloo.com
-.coolgams.dk-condos.com
 .kahoot.it.dmtr.ru
 .easydomain.dnet.hu
 .dns.expert
@@ -1241,7 +1224,6 @@
 .do-39574-tr.xyz
 .googolclasroom.dob.jp
 .pleaseworkughhfd.dob.jp
-.snoop.dogdammit.com
 .doh.beauty
 .doh.buzz
 .doh.li
@@ -1277,7 +1259,6 @@
 .duba.net
 .bitly-galatikx.duckdns.org
 .home27.duckdns.org
-.huawaakiskokoa.duckdns.org
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
@@ -1344,13 +1325,11 @@
 .registry.electronicajck.com
 .dns.elemental.software
 .elephantvpn.com
-.sigma.elettro-pio.ch
 .elgatobypasses.org
 .eliatofani.ovh
 .dns.eliv.kr
 .emban-networks.com
 .emeraldeyex.dev
-.study.employeevantage.com
 .rutgerslineup.emtbiceland.is
 .status.emtbiceland.is
 .encrypt.me
@@ -1428,8 +1407,6 @@
 .dns.fancyorg.at
 .farewellkou.click
 .dns.farshidhakimy.de
-.dennisthemeance.farted.net
-.tenhh.farted.net
 .fastestvpn.com
 .fastestvpn.info
 .fastfoxvpn.com
@@ -1437,7 +1414,6 @@
 .nuclearvp.global.ssl.fastly.net
 .fastp.org
 .fastproxy.nl
-.fastproxy.org
 .fastproxynetwork.com
 .fastssh.com
 .fasttime.info
@@ -1452,7 +1428,6 @@
 .audit.feedcube.org
 .feeproxy.com
 .dns.fehlsprache.de
-.trains.fenac.nl
 .fezgate.ovh
 .ag.ff0x.ca
 .2.dnscrypt-cert.ffmuc.net
@@ -1489,7 +1464,6 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
-.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -1532,7 +1506,6 @@
 .small-kids.foxgateway.com
 .stop-it-now-stop-it-now.foxgateway.com
 .we-need-more.foxgateway.com
-.bokkinauuu.fpr.net
 .cosmogamy.fpr.net
 .fproxy.net
 .frandcomfort.us
@@ -1601,7 +1574,6 @@
 .freevpnsoftware.net
 .freewebproxy.eu
 .freexite.com
-.freeyouproxytube.com
 .freeyoutube.net
 .dns.freopc.fr
 .dns.freyja.pw
@@ -1636,7 +1608,6 @@
 .gamingssh.com
 .dns.beta.gandi.net
 .vocab.sage.garagepig.com
-.zxyp.02.garmanage.com
 .gas.education
 .gatcha.org
 .myincredibleweightlossjounrney.gblandscape.com
@@ -1757,7 +1728,6 @@
 .greenssh.com
 .dnsblock.grisumedia.de
 .dns.grqu.de
-.minionsandgru.grupopilar.cl
 .vps.grussenmeyer.com
 .gamgasyoppakuteri-zenttodabi.gslb.info
 .dns.guard.io
@@ -2615,7 +2585,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
