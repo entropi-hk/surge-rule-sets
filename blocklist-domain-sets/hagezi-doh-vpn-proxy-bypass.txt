@@ -1277,7 +1277,6 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .adbox-v9.dynipv6.de
-.gustamadh.dynv6.net
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
@@ -1319,6 +1318,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1464,6 +1464,7 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -1796,7 +1797,6 @@
 .httpdns-push.heytapmobile.com
 .hiddendigital.info
 .hiddendragon.site
-.hiddenproxy.net
 .hide.me
 .hide.mn
 .hide-me.org
@@ -1867,7 +1867,6 @@
 .holax.io
 .hi.hollandweather.net
 .beta.holyunblocker.org
-.kyrgyzstan-travel.home.kg
 .home-server.store
 .zone.homebrewer.org
 .tests.debate.homebrewology.org
@@ -1957,7 +1956,6 @@
 .subscribe-to-vcsa.ignorelist.com
 .test52139.ignorelist.com
 .worldbookonline.ignorelist.com
-.youreagoodmanarthurmorgan.ignorelist.com
 .dns.ihaveacloud.com
 .hellotaka.iiiii.info
 .iij.jp
@@ -2159,7 +2157,6 @@
 .kavkaz.monster
 .dns.kawa.tf
 .base.train.kdits.ca
-.ram.kdot.cam
 .dns.kebree.fr
 .keenow.com
 .keepanonymous.com
@@ -2186,20 +2183,17 @@
 .dns1.klcd.eu
 .dns2.klcd.eu
 .klcknerrip.com
-.anarchychessbetterthenregularchess.kmodem.org
 .login.knr.cl
 .knvpn.net
 .ko-18948-tr.xyz
 .www-proxy.kokecoco.me
 .hr.komor.bid
 .adguard.konikoni428.com
-.bak2skewl.konpan.ch
 .www-proxy.konstl01.xyz
 .doh.kooman.org
 .korzhov.dev
 .dns.kosan.moe
 .www-pro.kosite.net
-.nexo.koti.cf
 .koxy.de
 .atomic-silverfish-hegrigg-01e75fa6.koyeb.app
 .horrible-mala-mapmath-8d242314.koyeb.app
@@ -2242,7 +2236,6 @@
 .bensmells.laoxz.cn
 .ik-heet-henk.laptopy.nl
 .largero.com
-.thisforcinco.larrondoinstalaciones.cl
 .dns.lars-lehmann.net
 .larva.app
 .dns.lashes-brow.ru
@@ -2342,8 +2335,6 @@
 .n5.lsasss.com
 .ltlxvxjjmvhn.me
 .btg.ludopop.cl
-.kenkyu.luhu.jp
-.scrsa.luhu.jp
 .lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz
 .lukscasino-929-tr.xyz
@@ -2367,7 +2358,6 @@
 .mabuktogel.marketing
 .mabuktogel.properties
 .mabuktogel.solutions
-.banana123.macao.org
 .use.madefalva.ro
 .magiccloak.net
 .mahnor.com
@@ -2442,9 +2432,7 @@
 .metal-masters.us
 .metalinjection.us
 .info.metropolitanstaffingsolutions.com
-.fucklightspeed.mgotz.com
 .dns.mh4ckt3mh4ckt1c4s.xyz
-.mhany.xyz
 .esel.stusta.mhn.de
 .muli.stusta.mhn.de
 .securenet.mhsystems.net
@@ -2453,7 +2441,6 @@
 .dns.michelo.cl
 .doh.micronets.in
 .microvpn.com
-.interstellar.midnite.space
 .www-proxy.migastep.com
 .rammerdaze.miguelarevalo.es
 .dns.mihanentalpo.me
@@ -2486,7 +2473,6 @@
 .mockblock.com
 .sage.area.modeemi.net
 .ps1.modr.club
-.edu.moldeo.org
 .history-of-the-king-of-pop.moldeo.org
 .only-shooting-stars-breakthe.moldeo.org
 .dns.molinero.dev
@@ -2573,7 +2559,6 @@
 .myproxy.link
 .myproxy.lol
 .myproxysite.org
-.study-english-net.mysaol.com
 .myspaceunlock.com
 .mysteriumvpn.com
 .mytunneling.com
@@ -2585,6 +2570,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -2650,7 +2636,6 @@
 .dns.aa.net.uk
 .doh.max.net.id
 .ns.net.kg
-.dog.vpn.net.br
 .netaltr.com
 .unblocker.netlify.app
 .netnut.io
@@ -2699,17 +2684,6 @@
 .ninjavpn.io
 .ninjaweb.xyz
 .nirbytes.com
-.adblock.any.dns.nixnet.xyz
-.uncensored.any.dns.nixnet.xyz
-.adblock.lux1.dns.nixnet.xyz
-.uncensored.lux1.dns.nixnet.xyz
-.adblock.lv1.dns.nixnet.xyz
-.uncensored.lv1.dns.nixnet.xyz
-.adblock.ny1.dns.nixnet.xyz
-.uncensored.ny1.dns.nixnet.xyz
-.lux1.nixnet.xyz
-.lv1.nixnet.xyz
-.ny1.nixnet.xyz
 .doh.niyawe.de
 .njal.la
 .njtzzrvg0lwj3bsn.info
@@ -2753,7 +2727,6 @@
 .poiuytrewq.novipro.ca
 .nowcache.com
 .nowhiteflags.xyz
-.noyourmean.xyz
 .dns.npe.bz
 .dns.npsolution.it
 .nqma.net
@@ -2794,7 +2767,6 @@
 .octohide.com
 .octovpn.net
 .dns.odinpl.com
-.peepeepod.odoobooks.com
 .oeck.com
 .dns.ofdoom.net
 .sleepykirby.ofmdirect.com
@@ -2809,7 +2781,6 @@
 .one.one.one.one
 .doh.onedns.net
 .doh-pure.onedns.net
-.onedown.info
 .oneproxy.biz
 .oneproxy.xyz
 .onestreaming.org
@@ -2841,8 +2812,6 @@
 .espanolmath.ontariobsd.net
 .onweb.info
 .onyx7.com
-.benmani2341shark.oops.wtf
-.brocanyoustopaskingforlinks.oops.wtf
 .rammerhead.oops.wtf
 .uhm.sorry.oops.wtf
 .hk2.ooroot.com
@@ -2852,7 +2821,6 @@
 .sg2.ooroot.com
 .tw2.ooroot.com
 .jdsiojjifjis.oovb.com
-.zxyp.04.open-window.de
 .openbld.net
 .dns.opendns.com
 .2.dnscrypt-cert.opendns.com
@@ -2906,7 +2874,6 @@
 .this.is.for.lightspeedpal.ostrovsky.sk
 .thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
 .topic.idea.ottosulbmec.com
-.ourproxy.net
 .dns.ours.luxe
 .dns.ourvau.lt
 .proxy.outred.dev
@@ -2947,7 +2914,6 @@
 .pantavv.xyz
 .pantoto.xyz
 .panzend.xyz
-.use.paper.is
 .papervpn.info
 .paradise-human.shop
 .dns.pari.network
@@ -2982,16 +2948,13 @@
 .dns.pesaventofilippo.com
 .pesemes.ir
 .dns.petqa.ru
-.by-itrsa.pettica.com
 .adguard.pggns.de
 .phantompeer.com
 .dns.phillipjberry.net
-.falcs.photo-frame.com
 .gojoiscoolbutweird.photo-frame.com
 .photonsecure.com
 .phpbido.com
 .phproxysite.com
-.malachi.is.dumb.physiosagart.de
 .doh.centraleu.pi-dns.com
 .dot.centraleu.pi-dns.com
 .doh.pi-dns.com
@@ -3014,7 +2977,6 @@
 .pingproxy.com
 .pinkproxy.xyz
 .piraproxy.org
-.pirataproxy.com
 .piratebayproxy.co
 .education.pitlobra.ro
 .study.pitlobra.ro
@@ -3197,8 +3159,6 @@
 .proxy-youtube.com
 .proxy0101.com
 .proxy2link.com
-.proxy2you.com
-.proxy4down.com
 .proxy4free.me
 .proxy62.com
 .proxy7.club
@@ -3231,10 +3191,8 @@
 .proxyfree.org
 .proxygate.com
 .proxygizlen.com
-.proxygogo.info
 .proxygratis.id
 .proxyhash.net
-.proxyhub.in
 .proxyisp.com
 .proxyist.com
 .proxyium.com
@@ -3258,10 +3216,8 @@
 .proxyproxy.net
 .proxypx.com
 .proxypy.org
-.proxyrooms.com
 .proxyroxy.net
 .proxysan.info
-.proxyscope.com
 .proxyscrape.com
 .proxyserver.buzz
 .proxyserver.com
@@ -3322,8 +3278,6 @@
 .vpsus3.pzhg.me
 .qaiik.info
 .doh.qis.io
-.studyguidehistory.qlbv.vn
-.veryhotmoms.qlbv.vn
 .ns1.qquack.org
 .dns.qrtz.club
 .hostdare.qtxd.net
@@ -4239,7 +4193,7 @@
 .febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com
 .session.proxy2.startpage.com
 .130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com
-.ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com
+.proxy5.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
 .us2-browse.startpage.com

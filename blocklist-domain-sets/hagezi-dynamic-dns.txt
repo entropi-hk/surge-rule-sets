@@ -1117,7 +1117,6 @@
 .pointto.us
 .port0.org
 .port25.biz
-.portalindustries.org
 .portfwd.com
 .portmap.host
 .prettyweak.com

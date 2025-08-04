@@ -490,7 +490,6 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -545,6 +544,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
 .dns.flightspace.net
@@ -962,17 +962,6 @@
 .nicsezcheckfbi.gov
 .dns1.nielsdb.be
 .dns.ningkelle.id
-.adblock.any.dns.nixnet.xyz
-.uncensored.any.dns.nixnet.xyz
-.adblock.lux1.dns.nixnet.xyz
-.uncensored.lux1.dns.nixnet.xyz
-.adblock.lv1.dns.nixnet.xyz
-.uncensored.lv1.dns.nixnet.xyz
-.adblock.ny1.dns.nixnet.xyz
-.uncensored.ny1.dns.nixnet.xyz
-.lux1.nixnet.xyz
-.lv1.nixnet.xyz
-.ny1.nixnet.xyz
 .doh.niyawe.de
 .dns.njal.la
 .pi1.node15.com
