@@ -67,6 +67,7 @@
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
 .ahoj.email
+.adguard.ajinga.net
 .dns.albony.xyz
 .alidns.com
 .httpdns-sc.aliyuncs.com
@@ -490,6 +491,7 @@
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -500,7 +502,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -892,7 +893,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1147,6 +1147,7 @@
 .tiger.dns.qwer.pw
 .resolver.r0cket.net
 .r1bnc.com
+.resolve2.r9x.cc
 .dns.rabbitdns.org
 .family.rabbitdns.org
 .security.rabbitdns.org
