@@ -1047,6 +1047,7 @@
 .dns.peb-schmidt.de
 .fuchur.pentament.de
 .pepetio.xyz
+.dns.pernika.net
 .darya.persiannit.net
 .dns.pesaventofilippo.com
 .dns.petqa.ru
