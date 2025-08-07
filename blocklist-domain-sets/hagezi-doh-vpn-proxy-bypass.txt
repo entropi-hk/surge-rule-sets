@@ -137,6 +137,7 @@
 .dns-nyc.aaflalo.me
 .doh.dns.apple.com.v.aaplimg.com
 .aaronzweb.xyz
+.dns.aaytorr.com
 .learn.data.abbeydentist.com
 .abcproxy.com
 .adguard.abd.ong
@@ -210,6 +211,7 @@
 .akunssh.net
 .work.excel.albacetediario.com
 .dns.albony.xyz
+.sybau.alcrb.ru
 .aldhaferi.store
 .search.alemanaactiva.cl
 .class.craft.alerteqa.com
@@ -336,6 +338,7 @@
 .dohtrial.att.net
 .stevenisafemboy.auraria.org
 .auto-aufladen.de
+.jesusisking.autoluc.cl
 .mrrychrimisg7xv2mlqzp9sd4khjf.autoluc.cl
 .avanquestusa.com
 .vanheim.ff.avast.com
@@ -388,6 +391,7 @@
 .mass.church.baselinux.net
 .dogeproxiex.baselinux.net
 .nirbytesx.baselinux.net
+.lmfao.bassmanbenny.com
 .study.basutabi.com
 .gannonisgood.baumgardner.us
 .plant-selection.baumgardner.us
@@ -469,6 +473,7 @@
 .dot-sg.blahdns.com
 .dns.blaumer.dev
 .blewpass.com
+.some.bling.org
 .dogloafs.blinklab.com
 .labinternet.blinklab.com
 .craft.real.blinklab.com
@@ -778,6 +783,7 @@
 .10bestvpn.co.uk
 .adguard.aa4.co.uk
 .akashiro.co.id
+.iwpsy.anchorchain.co.za
 .antidnsvpn.co.cc
 .binhexsolutions.co.uk
 .btunnel.co.in
@@ -869,6 +875,7 @@
 .grid.brain.marcenes.com.br
 .packetyo.nanbang.com.tr
 .cluzeha.neikos.com.mx
+.gurt.neikos.com.mx
 .hicluzelol.neikos.com.mx
 .dns.netraptor.com.au
 .new-proxy.com.de
@@ -881,6 +888,7 @@
 .nya.qualitypaperindustries.com.np
 .dns.redhosting.com.ar
 .chat-isinterstellargood.safira.com.my
+.stfu.sagarshrestha1999.com.np
 .core.atom.san-ss.com.ar
 .mathvideos.sharmaraju.com.np
 .visit.sistemasplenario.com.ar
@@ -910,6 +918,7 @@
 .contentabc.com
 .dns.controld.com
 .freedns.controld.com
+.dwerk.conyser.cl
 .cool-proxy.net
 .study.paper.coolcomputerguy.com
 .coolproxy.org
@@ -1320,6 +1329,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1333,6 +1343,7 @@
 .emeraldeyex.dev
 .rutgerslineup.emtbiceland.is
 .status.emtbiceland.is
+.en-proxy.com
 .encrypt.me
 .endente.com
 .adguard.ender.fr
@@ -1354,6 +1365,7 @@
 .bl.eq.md
 .shield1.eranext.net
 .doh.ersei.net
+.es-proxy.com
 .dns.esnube.es
 .mylo.estic.org
 .eth.link
@@ -1745,6 +1757,7 @@
 .domain.guojinloong.cn
 .edu.gurdit.com
 .use.gurdit.com
+.guruproxy.net
 .dns.gutwe.in
 .gvirabi.com
 .gwopboyded.com
@@ -1887,6 +1900,7 @@
 .pranaynaygames123.hopto.org
 .dns.horcrux.vip
 .dns.internal.hosmatic.com
+.icu.hosteriafutaleufu.cl
 .hostless.club
 .dns.hostux.net
 .hotac.ir
@@ -2028,6 +2042,7 @@
 .ipredator.se
 .iprivatevpn.com
 .iprovpn.com
+.iproxy.lol
 .iproyal.com
 .ipsharkk.com
 .ipstopper.com
@@ -2054,8 +2069,10 @@
 .smellyal.isreally.pro
 .smellypay.isreally.pro
 .stuffyschicken.isreallycool.lol
+.it-proxy.org
 .itopvpn.com
 .pdns.itxe.net
+.iuproxy.com
 .ivacy.com
 .ivacyvpn.com
 .ivnkn.xyz
@@ -2134,6 +2151,7 @@
 .dns.jupitrdns.com
 .juproxy.com
 .justahotm3ss.xyz
+.sdiybt.justanothersite.net
 .ad.justincounts.com
 .dns.justinnetworkingsolutions.com
 .ihate.justlearning.net
@@ -2414,6 +2432,7 @@
 .mega123proxy.com
 .helpdesk.megaingenieria.com
 .meganerd.nl
+.megaproxy.biz
 .megaproxy.com
 .megaproxylist.net
 .mehide.org
@@ -3040,6 +3059,7 @@
 .virga.pp.ua
 .zxcvb.pp.ua
 .ppira.com
+.pproxy.org
 .pq7hdf.com
 .pr0xy.com
 .dns.pragmasec.nl
@@ -3072,9 +3092,11 @@
 .romania.privacy-dns.pw
 .privacyprotector.eu
 .privado.io
+.dns.privado.ovh
 .orpi.privado.ovh
 .privadovpn.com
 .examccctestedd.privatedns.org
+.bashandfishterminal.privateimport.jp
 .privateinternetaccess.com
 .privateproxy.me
 .privatesurfforme.net
@@ -3193,6 +3215,7 @@
 .proxygate.com
 .proxygizlen.com
 .proxygratis.id
+.proxyguide.net
 .proxyhash.net
 .proxyisp.com
 .proxyist.com
@@ -3379,6 +3402,7 @@
 .rhys1901.biz
 .ricko.is
 .lexiapowerup.ricksolinas.com
+.1337.righes.ch
 .dns.rin.sh
 .ringvpn.com
 .riseup.net
@@ -4397,6 +4421,7 @@
 .theunblock.net
 .thevpncompany.net
 .thexite.net
+.doh.thio.me
 .dns.thiz.top
 .threeproxy.net
 .okwhattheflip.thuis.vlaanderen
@@ -4527,6 +4552,7 @@
 .typaza.com
 .typeracer.gq
 .ad.tzockt.beer
+.u-proxy.com
 .u8sj3.com
 .ubint.net
 .ublocker.info
@@ -4715,7 +4741,31 @@
 .unvpn.org
 .dns.unx.io
 .updatedproxies.com
+.uproxy.asia
+.uproxy.blue
+.uproxy.casa
+.uproxy.cc
+.uproxy.ch
+.uproxy.club
+.uproxy.dev
+.uproxy.help
+.uproxy.how
+.uproxy.io
+.uproxy.lol
+.uproxy.me
 .uproxy.online
+.uproxy.page
+.uproxy.site
+.uproxy.soy
+.uproxy.top
+.uproxy.vip
+.uproxy.xyz
+.uproxy2.biz
+.uproxy2.com
+.uproxy2.info
+.uproxy2.net
+.uproxy2.org
+.uproxy2.xyz
 .ur-browser.com
 .urban-vpn.com
 .url10.org
@@ -5004,6 +5054,7 @@
 .dns.wechat.com
 .wedding-present.us
 .wellpoint.com
+.weproxy.me
 .portal.werder.li
 .wevpn.com
 .doh.wewitro.net

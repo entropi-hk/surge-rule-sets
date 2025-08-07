@@ -39,6 +39,7 @@
 .dns-gcp.aaflalo.me
 .dns-nyc.aaflalo.me
 .doh.dns.apple.com.v.aaplimg.com
+.dns.aaytorr.com
 .adguard.abd.ong
 .dns.abdullahabas.de
 .doh.abraservice.xyz
@@ -502,6 +503,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -1112,6 +1114,7 @@
 .las-vegas.privacy-dns.pw
 .luxembourg.privacy-dns.pw
 .romania.privacy-dns.pw
+.dns.privado.ovh
 .orpi.privado.ovh
 .de.dns.privex.io
 .nl.dns.privex.io
@@ -1313,6 +1316,7 @@
 .dns.thegoodsource.net
 .dns.therifleman.name
 .blocker.thethorsens.org
+.doh.thio.me
 .dns.thiz.top
 .doh.tiar.app
 .dot.tiar.app
