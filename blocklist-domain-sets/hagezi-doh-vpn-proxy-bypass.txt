@@ -213,6 +213,7 @@
 .dns.albony.xyz
 .sybau.alcrb.ru
 .aldhaferi.store
+.dnsnl.alekberg.net
 .search.alemanaactiva.cl
 .class.craft.alerteqa.com
 .alhapi.com
@@ -258,6 +259,7 @@
 .anchorfree.net
 .dns.andrewnw.xyz
 .angle.goal.andrewshomelabs.com
+.androvpn.com
 .doh.angry.im
 .animeproxy.net
 .aniscartujo.com
@@ -638,6 +640,7 @@
 .imisstheoldkanye.chillcrew.net
 .justbuiltdifferent.chillcrew.net
 .chillglobal.com
+.chinagrows.com
 .dns.christerwaren.fi
 .dns.christian.moe
 .christophbrem.com
@@ -664,6 +667,7 @@
 .classicpen.us
 .cleanbrowsing.org
 .clearvpn.com
+.clickapp.info
 .clickwork7secure.com
 .procedures.clientview.com
 .cloaker.ca
@@ -819,6 +823,7 @@
 .secvpnproxy.co.cc
 .dns.spil.co.id
 .surfshark.co.za
+.surfvpn.co.cc
 .uk-proxy.co.uk
 .unblocksites.co.uk
 .academy.velolife.co.za
@@ -828,6 +833,7 @@
 .vpncrmerp.co.cc
 .vpnguide.co.cc
 .vpnmailvista.co.cc
+.vpnofanti.co.cc
 .vpnoffice.co.cc
 .webproxy.co.at
 .agh.workfordemo.co.in
@@ -896,6 +902,7 @@
 .surfshark.com.au
 .unblock-proxy.com.de
 .doh.viatech.com.tw
+.webproxy.com.de
 .dns.comeonjames.club
 .dns.comff.net
 .commonapp.college
@@ -1329,7 +1336,6 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
-.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1477,7 +1483,6 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
-.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com

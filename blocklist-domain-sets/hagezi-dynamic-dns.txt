@@ -3,6 +3,7 @@
 .0x.no
 .100mountain.com
 .10dv.com
+.10x.es
 .120v.ac
 .1337.cx
 .16-b.it
@@ -92,6 +93,7 @@
 .authorizeddns.us
 .autoipset.com
 .avandns.com
+.awiki.org
 .ax.lt
 .b0ne.com
 .b0tnet.com
@@ -125,6 +127,7 @@
 .blogdns.net
 .blogdns.org
 .blogsite.org
+.blogsite.xyz
 .blogsyte.com
 .bloodforthebloodgod.com
 .bloom.us

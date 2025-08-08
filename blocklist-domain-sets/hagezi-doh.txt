@@ -70,6 +70,7 @@
 .ahoj.email
 .adguard.ajinga.net
 .dns.albony.xyz
+.dnsnl.alekberg.net
 .alidns.com
 .httpdns-sc.aliyuncs.com
 .alleesph.online
@@ -503,7 +504,6 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -547,7 +547,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
 .dns.flightspace.net
