@@ -280,6 +280,7 @@
 .digitalgroupe.com
 .dip.jp
 .ditchyourip.com
+.diyplans.org
 .dlinkddns.com
 .dmtr.ru
 .dnet.hu
@@ -449,6 +450,7 @@
 .echoparklake.com
 .edns.biz
 .effers.com
+.eiresol.com
 .elchemi.com
 .elitter.net
 .embeddedonline.org
@@ -494,6 +496,7 @@
 .faqserv.com
 .farted.net
 .fartit.com
+.fatdiary.org
 .fdns.uk
 .fearpenguins.com
 .feste-ip.net
