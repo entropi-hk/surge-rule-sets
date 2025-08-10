@@ -1022,6 +1022,7 @@
 .net-freaks.com
 .netcabo.pt
 .netdorm.com
+.netlord.de
 .netmask.ca
 .networkguru.com
 .networkoutpost.com
@@ -1269,6 +1270,7 @@
 .sne.jp
 .socialadhesion.com
 .softether.net
+.solfa.org
 .solidmation.com
 .sonnish.com
 .soon.it
@@ -1332,6 +1334,7 @@
 .thatip.com
 .thddns.net
 .the-button.com
+.theblacklist.org
 .thehomeserver.net
 .themcmillans.org
 .thenest.org
@@ -1352,6 +1355,7 @@
 .trailsendlodge.org
 .trickip.net
 .trickip.org
+.trieditmyself.com
 .tru.io
 .truthvid.com
 .tscng.org
