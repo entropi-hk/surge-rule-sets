@@ -9861,6 +9861,7 @@
 .wobno.fr
 .wobno.net
 .wonderfulsubs.com
+.wookastreaming.fr
 .downloadmovietorrent.wordpress.com
 .japanesetorrents.wordpress.com
 .overdoss.wordpress.com
@@ -10019,11 +10020,13 @@
 .yeshd.net
 .yesmovies.ag
 .yesmovies.at
+.yesmovies.gg
 .yesmovies.love
 .yesmovies.mn
 .yesmovies.mom
 .yesmovies.movie
 .yesmovies.pm
+.yesmovies.sh
 .yesmovies.so
 .yesmovies.tech
 .yesmovies.to
