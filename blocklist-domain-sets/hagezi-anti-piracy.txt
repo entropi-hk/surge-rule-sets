@@ -1915,6 +1915,7 @@
 .cinemalux.lat
 .cinemamovies.pl
 .cinemanija.com
+.cinemaos.tech
 .cinemastore.hu
 .cinemathek.net
 .cinematik.net
@@ -4829,6 +4830,7 @@
 .katmoviehd.ac
 .katmoviehd.fi
 .katmoviehd.nl
+.katmoviehd.run
 .katmoviehd.vin
 .katunblock.com
 .katushka.net

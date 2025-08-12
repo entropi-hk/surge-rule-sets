@@ -480,7 +480,6 @@
 .dot.pub
 .ns1.dotls.org
 .dns.dotnet.win
-.dns.dremaxx.de
 .droyd.top
 .doh.dscloud.me
 .agh.dshubham.xyz
@@ -506,6 +505,7 @@
 .dns.editechstudio.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -843,7 +843,6 @@
 .meganerd.nl
 .httpdns.meituan.com
 .dns.melvin2204.nl
-.mendozasdelivery.com
 .testaghome.meshkov.info
 .dns.mestdag.fr
 .dns.mh4ckt3mh4ckt1c4s.xyz
@@ -895,6 +894,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1107,7 +1107,6 @@
 .zxcvb.pp.ua
 .dns.pragmasec.nl
 .dns2.prima-solusindo.com
-.dns.princex.net
 .princez.uk
 .agh.printk.info
 .hungary.privacy-dns.pw
