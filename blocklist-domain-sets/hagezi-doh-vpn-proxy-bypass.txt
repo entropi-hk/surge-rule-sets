@@ -430,7 +430,6 @@
 .bestvpnrating.com
 .bestvpnserver.com
 .bestvpnssh.com
-.bestwon203.com
 .bestyouproxytube.com
 .bestyoutubeproxy.info
 .www-proxy.bettercallghaith.wiki
@@ -1304,6 +1303,7 @@
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
+.gustamadh.dynv6.net
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
@@ -1503,7 +1503,6 @@
 .dns.flatuslifir.is
 .abdulv2.flazzard.com
 .vps.fleuryk.ovh
-.dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
 .ns2.flodns.net
@@ -2019,7 +2018,6 @@
 .adblock.indianets.net
 .indiaproxy.win
 .indo-ssh.com
-.dns.indust.me
 .dns.indybanipal.com
 .the.infocommthailand.com
 .dns.inforlogia.com
@@ -2490,6 +2488,7 @@
 .rammerdaze.miguelarevalo.es
 .dns.mihanentalpo.me
 .dns.mikeliu.org
+.mikezhang.xyz
 .dns.milkpie.one
 .farmhouse.mills-family.us
 .aiden-major.minecraftnoob.com
@@ -4393,7 +4392,7 @@
 .fb90d67e62e07ca6733db0f5aa8b7d21d0d8ff3b-m.proxy2.startpage.com
 .febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com
 .session.proxy2.startpage.com
-.proxy3.startpage.com
+.130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com
 .proxy5.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
@@ -4434,6 +4433,7 @@
 .dns.suhaila.dev
 .resolver.sunet.se
 .sunnygyl.com
+.doh.sunoaki.net
 .craft.sage.sunsmoke.org
 .sunvpn.net
 .bigbugpoppearblack.super-modding.quest

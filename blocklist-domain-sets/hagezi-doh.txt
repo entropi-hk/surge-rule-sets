@@ -130,7 +130,6 @@
 .justhost.bedro.cloud
 .dns.belnet.be
 .dns.bermeitinger.eu
-.bestwon203.com
 .ns3.bit-trail.nl
 .dns.bitdefender.net
 .fra-dns.bitdefender.net
@@ -494,6 +493,7 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -550,7 +550,6 @@
 .dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
-.dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
 .ns2.flodns.net
@@ -670,7 +669,6 @@
 .dns2.in-berlin.de
 .dns.inclusioproject.com
 .adblock.indianets.net
-.dns.indust.me
 .dns.indybanipal.com
 .dns.inforlogia.com
 .doh.infracell.net
@@ -852,6 +850,7 @@
 .doh.micronets.in
 .dns.mihanentalpo.me
 .dns.mikeliu.org
+.mikezhang.xyz
 .dns.milkpie.one
 .netcup.mismat.ch
 .doh.mmmalia.com
@@ -1275,6 +1274,7 @@
 .dns.suhaila.dev
 .resolver.sunet.se
 .sunnygyl.com
+.doh.sunoaki.net
 .dns.superstefan.win
 .dns.surfshark.com
 .dns.surfsharkdns.com
