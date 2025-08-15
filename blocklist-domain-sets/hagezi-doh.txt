@@ -891,6 +891,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1395,7 +1396,6 @@
 .dns-2.wil.cloud
 .adguard.wirimij.nl
 .home.wriedts.de
-.ns2.wuyouss.com
 .ns3.wuyouss.com
 .wyx.cloud
 .adb-home.xaoimoon.fr
