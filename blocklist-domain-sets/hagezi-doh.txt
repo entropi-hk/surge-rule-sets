@@ -500,7 +500,6 @@
 .easyhandshake.com
 .dns.eddi.net
 .doh.eddi.net
-.edgy-dns.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
 .dns.efficientdocuments.com
@@ -547,7 +546,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
 .dns01.flm9.net
@@ -891,7 +889,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .n0.eu
 .dns.n23.io
@@ -1038,7 +1035,6 @@
 .dns-ovh.panszelescik.pl
 .paradise-human.shop
 .dns.pari.network
-.pashagame456.com
 .a.passcloud.xyz
 .i.passcloud.xyz
 .dns.pccoach.nl
@@ -1396,6 +1392,7 @@
 .dns-2.wil.cloud
 .adguard.wirimij.nl
 .home.wriedts.de
+.ns2.wuyouss.com
 .ns3.wuyouss.com
 .wyx.cloud
 .adb-home.xaoimoon.fr
