@@ -1953,6 +1953,7 @@
 .clipmovie.org
 .clonebits.org
 .clonehub.org
+.tracker.cloudbase.store
 .cloudboxes.io
 .cloudtorrents.com
 .cloudvideo.tv
@@ -2981,6 +2982,7 @@
 .1.tracker.eu.org
 .2.tracker.eu.org
 .3.tracker.eu.org
+.4.tracker.eu.org
 .euro2024direct.ru
 .euroddl.com
 .euroemu.net
@@ -4809,7 +4811,6 @@
 .jurnal-portal.ru
 .justdubs.org
 .justinwb.com
-.tracker.justseed.it
 .juststream.mom
 .jutone.com
 .blog.jxzmz.org
@@ -4830,7 +4831,6 @@
 .karanpc.com
 .karsannet.com
 .kastatus.com
-.kat.am
 .kat.li
 .kat.ph
 .kat.rip
@@ -5218,7 +5218,6 @@
 .liteapke.com
 .liteapks.com
 .liteapks.mobi
-.live-kooora.com
 .live-kooora-tv.com
 .live-kooora-tv.net
 .live-koora.online
@@ -5491,7 +5490,6 @@
 .megakino.bar
 .megakino.bid
 .megakino.bio
-.megakino.biz
 .megakino.co
 .megakino.dev
 .megakino.farm
@@ -5559,7 +5557,6 @@
 .mejortorrentt.org
 .melen.net
 .melomaniacos.com
-.melomovie.site
 .merlinwz.com
 .mes-ddl.com
 .mes-meilleurs-films.fr
@@ -5707,7 +5704,6 @@
 .monflix.rip
 .tracker.monikadesign.uk
 .tracker.monitorit4.me
-.monkeystream.net
 .monlive.info
 .zephir.monocul.us
 .mononoke-bt.org
@@ -5881,7 +5877,6 @@
 .mp3-juice.org
 .mp3-juices.net
 .mp3-juices.ws
-.mp3000.net
 .mp3db.pro
 .mp3fast.online
 .mp3flac.site
@@ -6282,7 +6277,6 @@
 .nopaystation.com
 .nopremium.pl
 .nordic-t.org
-.nordicbits.org
 .nordicone.tv
 .nortex.cc
 .nosteamgames.ro
@@ -6308,7 +6302,6 @@
 .nox.to
 .nox.tv
 .noxe.live
-.noxx.is
 .noxx.to
 .tracker.npupt.com
 .nsanedown.com
@@ -6535,7 +6528,6 @@
 .bt.orzx.im
 .osthir.net
 .otaku-streamers.com
-.otakustv.com
 .otakuworks.com
 .oteupload.com
 .otorrents.com
@@ -6606,7 +6598,6 @@
 .papadustream.co
 .papflix.com
 .papystreaming.com
-.papystreaming.onl
 .papystreaming.stream
 .parag.rs
 .paranetinfo.com
@@ -6688,7 +6679,6 @@
 .piracyproxy.net
 .piratbit.fun
 .piratbit.top
-.pirate.lk
 .pirate.trade
 .pirate-bay.info
 .pirate-bay.net
@@ -6815,7 +6805,6 @@
 .playersklub.tv
 .playertv.net
 .playhydrax.com
-.playit.pk
 .playmods.app
 .playmods.co
 .playmods.net
@@ -6832,7 +6821,6 @@
 .plixi.com
 .plugintorrent.com
 .plusbox.tv
-.plusnetbd.com
 .pluspremieres.com
 .tracker.plx.im
 .plygig.com
@@ -6897,7 +6885,6 @@
 .pouet.net
 .pow7.com
 .videosracing.power-heberg.com
-.powerbits.org
 .powerddl.com
 .powernetbd.com
 .powershare-bg.com
@@ -6950,7 +6937,6 @@
 .profullcrack.com
 .profullversion.com
 .progenic.com
-.progmetalzone.com
 .warez.programasfull.com
 .programaswarez.com
 .progressivetorrents.com
@@ -6987,7 +6973,6 @@
 .tpb.proxyduck.info
 .thepiratebay-org.proxydude.red
 .thepiratebay-org.proxydude.xyz
-.proxygalaxy.me
 .proxygalaxy.pw
 .proxyindex.net
 .proxypirate.ml
@@ -7047,7 +7032,6 @@
 .putlocker.digital
 .putlocker.fyi
 .putlocker.host
-.putlocker.how
 .putlocker.io
 .putlocker.is
 .putlocker.kz
@@ -7189,9 +7173,9 @@
 .rarbg.gg
 .rarbg.is
 .rarbg.live
-.rarbg.me
 .rarbg.to
 .rarbg.tw
+.9.rarbg.me
 .rarbg2018.org
 .rarbg2019.org
 .rarbg2020.org
@@ -7383,19 +7367,16 @@
 .rojadirectaenhd.live
 .rojadirectaenvivo.club
 .rojadirectaenvivo.com
-.rojadirectaenvivo.life
 .rojadirectaenvivo.watch
 .rojadirectaenvivotv.me
 .rojadirectaes.org
 .rojadirectahd.online
-.rojadirectahdenvivo.com
 .rojadirectai.me
 .rojadirectaorg.com
 .rojadirectas.org
 .rojadirectatv.at
 .rojadirectatv.top
 .rojadirectatv.tv
-.rojadirectatv.uno
 .rojadirectatvhd.me
 .rojadirectatvhd.site
 .rojadirectatvs.com
@@ -8048,6 +8029,7 @@
 .starshare.ro
 .startseite.cc
 .startseite.to
+.tracker.startwork.cv
 .stealth.si
 .steam-repacks.com
 .steamgg.net
@@ -8326,7 +8308,6 @@
 .swteam.ws
 .syfiles.com
 .bestoflinks.synology.me
-.ibksturm.synology.me
 .syria-live.us
 .sidewinderx.sytes.net
 .thebazaar.sytes.net

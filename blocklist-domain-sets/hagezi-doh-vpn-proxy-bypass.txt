@@ -1459,6 +1459,7 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -1901,7 +1902,6 @@
 .www.pleaseinput.html-5.me
 .httpdserver.info
 .dns.huas.me
-.task.edu.hueteinterpreting.com
 .hugeph.art
 .dns.hujiayucc.cn
 .ads.hunga1k47.com
@@ -1940,7 +1940,6 @@
 .idcloak.com
 .idealvpn.com
 .curry.idemonch.cl
-.class.recap.idiaga.com
 .idolproxy.com
 .adguard.shuting.idv.tw
 .heb1.ignorelist.com
@@ -2006,7 +2005,6 @@
 .math.hamburger.ip-ddns.com
 .pp.hamburger.ip-ddns.com
 .skibidi-rizz-gyatt-fanum-tax-sigma.hamburger.ip-ddns.com
-.real.facts.ipachuca.com
 .ipbuzz.net
 .ipcamouflage.com
 .ipchanging.com
@@ -2053,16 +2051,12 @@
 .ivacyvpn.com
 .ivnkn.xyz
 .ivpn.net
-.music.theory.ivyu.net
 .iwantproxy.com
 .iweb365.info
 .iweb365.net
 .iwebproxy.com
-.seigetime.ix.tc
-.tridecagram.ix.tc
 .ixl.plus
 .bruh.j82.org
-.cells.school.jaaax.com
 .sso.jaaax.net
 .hub.study.jaaax.net
 .jabber-germany.de
@@ -2073,7 +2067,6 @@
 .tesutorender.jake.eu
 .jamesisbald.xyz
 .tj.jamesxue.xyz
-.dns.janl.eu
 .transit.javierblog.com
 .state.gov.jaycloudlab.com
 .woodshop.jbworks.com
@@ -2093,13 +2086,11 @@
 .dns.jinwoo.dev
 .dns.jiyi.eu
 .jkdns.me
-.info.data.jksol.net
 .vps.jmarkin.ru
 .adg.jnorton.us
 .green2.jnraptor.net
 .vps1.jnraptor.net
 .vps2.jnraptor.net
-.narp.fr.to.joe.dj
 .dns.joey01245.nl
 .vpn.jogjacloud.com
 .adguard.johanliebert.top
@@ -2119,7 +2110,6 @@
 .abcya.jumpingcrab.com
 .cmms.jumpingcrab.com
 .everyonewantstocrackshawnp.jumpingcrab.com
-.ikmyabcs.jumpingcrab.com
 .mathissofun.jumpingcrab.com
 .study-history.jumpingcrab.com
 .ups.jumpingcrab.com
@@ -2217,7 +2207,6 @@
 .kyoheitensai.com
 .agh.kyusang.win
 .dns.l337.site
-.classroom.google.com.l5.ca
 .docs.google.l5.ca
 .quesosrammerhaha.l5.ca
 .lablancer.com
@@ -2272,8 +2261,6 @@
 .lesuo.top
 .letscomply.online
 .letsvpn.world
-.testlinkimadernyoufatbitc.letz.dev
-.verynicewebsite.letz.dev
 .dns.levonet.sk
 .lewsha.lol
 .dns2.lezainski.com
@@ -2290,7 +2277,6 @@
 .limevpn.com
 .limitlessproxy.com
 .silly.lindhesidan.se
-.theman.lingxi-ai.net
 .www-pa.linkall.uk
 .linkideo.com
 .linkmefree.net
@@ -2324,13 +2310,10 @@
 .doh.phdns3.lonet.org
 .doh.phdns4.lonet.org
 .doh.phdns5.lonet.org
-.pbs.lookids.com
 .lookingglass.site
 .lopana.com
 .edu.loskks.org
 .bolt.louis-ip.com
-.koolaid.lozan.com
-.worldwaronehistory.lozan.com
 .n5.lsasss.com
 .ltlxvxjjmvhn.me
 .btg.ludopop.cl
@@ -2366,11 +2349,9 @@
 .mainssh.com
 .maintainbrain.us
 .dns.maitrekuc.fr
-.course.quiz.makovecz.com
 .mallocapp.com
 .mallocprivacy.com
 .dns.mandre.dev
-.wiki.manica.org
 .dns.maolaohei.xyz
 .mapspublications.us
 .maqgie.xyz
@@ -2384,7 +2365,6 @@
 .doh.maskab.com
 .maskedip.com
 .paper.train.massalin.com
-.sage.know.massloading.net
 .master-clock.us
 .masters-of-cloud.de
 .masterssh.com
@@ -2428,7 +2408,6 @@
 .httpdns.meituan.com
 .dns.melvin2204.nl
 .membean.cf
-.recap.utopia.menorahscrazyblog.com
 .researchedu.mesaayuda.net
 .testaghome.meshkov.info
 .dns.mestdag.fr
@@ -2456,8 +2435,6 @@
 .hihihi.minecraftnoob.com
 .insta.minecraftnoob.com
 .nibba.minecraftnoob.com
-.sigmagoongoonbaby.minecraftnoob.com
-.math.minetest.land
 .dynamitefor.miningsteel.cl
 .lasersfor.miningsteel.cl
 .miniprox.com
@@ -2502,7 +2479,6 @@
 .moyazyinomoyasi.com
 .vpn.mozilla.org
 .dns.mrkaran.dev
-.atom.bio.mrlewburger.com
 .sail.msg.boats
 .msr177.com
 .dns.msxnet.ru
@@ -2516,7 +2492,6 @@
 .in.multiverse.college
 .dns.murgi.de
 .this-is-for-wave-bru.music-menges.si
-.sci.brain.musictherapyinscotland.com
 .dns.muxinghe.cn
 .muxyuji.ru
 .d.apemlegit.my.id
@@ -2532,7 +2507,6 @@
 .my-proxy.com
 .my-safe-net.com
 .myatris.sbs
-.mybestvpn.info
 .mycelium.site
 .1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com
 .abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
@@ -2549,7 +2523,6 @@
 .family.mydns.network
 .freedom.mydns.network
 .paranoia.mydns.network
-.notes.church.myezlife.com
 .myhalo.online
 .myhidden.info
 .newhomeowners.org.myhousesetup.com
@@ -2578,10 +2551,9 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
-.n0.eu
 .dns.n23.io
-.study.sci.nabim.com
 .doh-ca.naftalie.net
 .najiakeji.top
 .dns.nako.kr
@@ -2638,7 +2610,6 @@
 .arain.neighborhoodcloud.com
 .z-brokethescaler.neighborhoodcloud.com
 .nekoray.org
-.smart.quiz.nelsonshack.com
 .neonos.me
 .dns.aa.net.uk
 .doh.max.net.id
@@ -2727,10 +2698,8 @@
 .easyschool.notesninjas.com
 .dns.notjakob.com
 .notlong.com
-.login.howto.notredamearena.com
 .notvpn.io
 .amp.nov.su
-.gov.major.novacorp.com
 .dns.novali.date
 .novatech.fun
 .dns.novg.net
@@ -2742,8 +2711,6 @@
 .dns.npsolution.it
 .nqma.net
 .ns3.com
-.ns3.cx
-.ns3.link
 .dnscache0.ns71.net
 .ns8469rfvth42.xyz
 .nslookup.io
@@ -2753,7 +2720,6 @@
 .quick-tiger-997.nstabiology.org
 .nsv4w.com
 .ntwrkh.pro
-.tech.vocab.nucktech.com
 .nucleusvpn.com
 .dns.nullgate.net
 .nullsbrawly.xyz
@@ -2822,7 +2788,6 @@
 .onlineproxy.us
 .adguard.onlyfriends.info
 .fun.onlytruelegendscanseethe.pics
-.espanolmath.ontariobsd.net
 .onweb.info
 .onyx7.com
 .rammerhead.oops.wtf
@@ -2886,7 +2851,6 @@
 .osqcsmm.shop
 .this.is.for.lightspeedpal.ostrovsky.sk
 .thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
-.topic.idea.ottosulbmec.com
 .dns.ours.luxe
 .dns.ourvau.lt
 .proxy.outred.dev
@@ -2905,7 +2869,6 @@
 .dns.paesa.es
 .incognito-static-version.pages.dev
 .unblockit.pages.dev
-.dingdong.pakasak.com
 .vpn-ru-msk.pakharenko.ru
 .skills.notes.pakla.pl
 .paladinvpn.com
@@ -2921,7 +2884,6 @@
 .pango-paas.co
 .pankvyh.xyz
 .panmill.xyz
-.panskeet.xyz
 .dns.panszelescik.pl
 .dns-ovh.panszelescik.pl
 .pantavv.xyz
@@ -2931,7 +2893,6 @@
 .paradise-human.shop
 .dns.pari.network
 .parkviewenglish.buzz
-.info.lab.paskud.net
 .a.passcloud.xyz
 .i.passcloud.xyz
 .kleep.paulopedron.com
@@ -2987,7 +2948,6 @@
 .adguard.piekacz.pl
 .dns.pierzchlewicz.pl
 .dns1.pietjacobs.be
-.mind.gov.ping24.com
 .pingproxy.com
 .pinkproxy.xyz
 .piraproxy.org
@@ -3034,7 +2994,6 @@
 .polisitogel.luxe
 .polisitogel.show
 .polisitogel.webcam
-.teach.essay.porcineplacenta.com
 .science-exp.port0.org
 .doh.port53.dk
 .croze.port82.net
@@ -3046,7 +3005,6 @@
 .cdn.postsupport.co
 .content.postsupport.co
 .potatovpn.io
-.ixl.potomacriversafetycommittee.org
 .doh.powerdns.org
 .poxy.pl
 .dns.ha-dvin.pp.ua
@@ -3073,7 +3031,6 @@
 .smart.sage.premierleaguepoints.com
 .premiumproxy.net
 .presidentalhistory.wiki
-.class.bio.prettybirdserver.com
 .dns2.prima-solusindo.com
 .primeproxy23.info
 .primevpn.pro
@@ -3265,7 +3222,6 @@
 .proxythis.info
 .proxytime.net
 .proxytitan.com
-.proxytoplay.com
 .proxyturbo.com
 .proxyunblock.site
 .proxyunblocker.org
@@ -3292,7 +3248,6 @@
 .purevpn-tools.com
 .pushokey.com
 .pushvpn.com
-.jesus-christ-morgan-your-the-bay-harbour-butcher.pwm.hu
 .pxaa.com
 .pyproxy.com
 .doh.pyry.me
@@ -3355,7 +3310,6 @@
 .ixlclever.raspberryip.com
 .rateavon.je
 .ratecuts.us
-.read.coach.ratnikov.com
 .dns.rayanbab.com
 .rayneau.fr
 .rayobyte.com
@@ -3616,6 +3570,7 @@
 .siteunblock.org
 .siteunblock.xyz
 .siteunblocked.icu
+.siteunblocked.lol
 .siteunblocked.space
 .siteunblocked.website
 .siteunblocked.xyz
