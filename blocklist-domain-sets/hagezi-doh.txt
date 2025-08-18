@@ -14,7 +14,6 @@
 .dns.354688.xyz
 .doh.360.cn
 .dot.360.cn
-.3dcosas.xyz
 .3dns.eu
 .3jjxxl.tech
 .dns.3wv.de
@@ -502,7 +501,6 @@
 .doh.eddi.net
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -546,7 +544,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
 .dns01.flm9.net
@@ -889,7 +886,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -1263,7 +1259,6 @@
 .dns.stirringphoto.com
 .dns.stormycloud.org
 .dns.strassmair.org
-.dns.stvsk.ml
 .doh.sublime9.xyz
 .doh.suche.org
 .dns.suhaila.dev

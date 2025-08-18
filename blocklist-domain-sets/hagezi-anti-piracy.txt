@@ -2451,7 +2451,6 @@
 .demonoid.pw
 .inferno.demonoid.me
 .demons-eye.me
-.demozoo.org
 .dendox.org
 .deporte-libre.click
 .azn-project.depthstrike.com
@@ -6882,7 +6881,6 @@
 .poshbd.net
 .potlockermovies.com
 .potuk.com
-.pouet.net
 .pow7.com
 .videosracing.power-heberg.com
 .powerddl.com
@@ -7494,7 +7492,7 @@
 .sbnetworkbd.com
 .tracker.sbsub.com
 .tracker.tntvillage.scambioetico.org
-.scene.org
+.files.scene.org
 .scene-inspired.eu
 .scene-project.com
 .scene-rls.net
@@ -7758,7 +7756,6 @@
 .skyll.net
 .skymovieshd.credit
 .skymovieshd.land
-.skymovieshd.social
 .skynetbd.net
 .skynetchowmuhani.com
 .tpb.skynetcloud.site
@@ -7767,7 +7764,6 @@
 .skytorrents.lol
 .skytorrents.to
 .tracker.skyts.cn
-.tracker.skyts.net
 .sladinki007.net
 .slam.ws
 .sleek.to
@@ -8128,7 +8124,6 @@
 .streamingcommunity.eu
 .streamingcommunity.expert
 .streamingcommunity.fm
-.streamingcommunity.fr
 .streamingcommunity.gay
 .streamingcommunity.gold
 .streamingcommunity.golf
@@ -8288,7 +8283,6 @@
 .supremesecurityteam.com
 .surrealmoviez.info
 .susflix.tv
-.tracker.sushirave.net
 .susmovies.lol
 .suspic.com
 .suteki-yume.net
@@ -8368,7 +8362,6 @@
 .tantifilm.motorcycles
 .tantifilm.net
 .tantifilm.network
-.tantifilm.nl
 .tantifilm.one
 .tantifilm.org
 .tantifilm.ph
@@ -8414,7 +8407,6 @@
 .teamos-hkrg.com
 .teatv.xyz
 .tec2.net
-.tech-pro.it
 .techanywhere.com
 .techbigs.com
 .techclips.net
@@ -8438,7 +8430,6 @@
 .telegrampremiumapk.com
 .94-227-232-84.access.telenet.be
 .telepisodes.org
-.telerium.biz
 .telerium.lol
 .tennis.stream
 .tenvoi.com
@@ -8995,8 +8986,6 @@
 .totalsportek.at
 .totalsportek.me
 .totalsportek.one
-.totalsportek.pro
-.totalsportek.to
 .totalsporteks.net
 .totaltorrents.com
 .tracker.totheglory.im
@@ -9139,7 +9128,6 @@
 .tweakhome.app
 .tweakshub.net
 .tweakspy.com
-.twilight.ws
 .twilightkisses.com
 .twilightsporn.com
 .twilighttorrents.net
@@ -9246,7 +9234,6 @@
 .unblocked.lol
 .unblocked.pw
 .unblocked.to
-.unblocked.win
 .1337x.unblocked.llc
 .2ddl.unblocked.llc
 .apnaview.unblocked.llc
@@ -9374,7 +9361,6 @@
 .unblockninja.com
 .ettv.unblocknow.surf
 .unblockpirate.uk
-.unblockpiratebay.net
 .unblockproject.icu
 .unblockproject.ink
 .unblockproject.space
@@ -9444,7 +9430,6 @@
 .popcorn-time.en.uptodown.com
 .uptostream.com
 .upvid.cloud
-.upvid.org
 .tracker.upxin.com
 .uraltrack.net
 .uraniumhexafluori.de
@@ -9655,7 +9640,6 @@
 .voirfilms.tel
 .voirfilms.ws
 .voirfilmstreaming.online
-.voirfilmvf.co
 .voirserie.co
 .voirseries.com
 .voirseries.life
@@ -9762,7 +9746,6 @@
 .warezstore.org
 .warezteam.ws
 .wareztheme.com
-.wareztorrent.com
 .wareztuga.ws
 .warezturkey.org
 .warezwitch.com
@@ -9800,7 +9783,6 @@
 .watchmovie.me
 .watchmovierulz.co
 .watchmovies.fan
-.watchmovies.nz
 .watchmoviesfree.us
 .watchmoviesnow.co
 .watchonlineseries.eu
@@ -9893,7 +9875,6 @@
 .widemus.de
 .wifi4games.com
 .wifistruggles.com
-.wiflix.bet
 .wiflix.life
 .wiflix.mx
 .wiflix.nl
@@ -9922,7 +9903,6 @@
 .wncbg.com
 .wobno.fr
 .wobno.net
-.wonderfulsubs.com
 .wookastreaming.fr
 .downloadmovietorrent.wordpress.com
 .japanesetorrents.wordpress.com
@@ -9995,7 +9975,6 @@
 .xcine.tv
 .xcine-tv.com
 .xcinema.ro
-.xcsp.net
 .xd-movie.com
 .xdcc.eu
 .xdude.net
@@ -10261,7 +10240,6 @@
 .t.zerg.pw
 .zerion.cc
 .tracker.zerobytes.xyz
-.zerodollarmovies.com
 .media.zerointernet.net
 .zeropaid.com
 .zerotracker.com
