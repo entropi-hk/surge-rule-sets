@@ -478,6 +478,7 @@
 .dot.pub
 .ns1.dotls.org
 .dns.dotnet.win
+.family.dns.doubleangels.com
 .droyd.top
 .doh.dscloud.me
 .agh.dshubham.xyz
