@@ -2489,6 +2489,7 @@
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
 .tr-zhuqiy-2.dgj055.icu
+.tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
@@ -2981,6 +2982,7 @@
 .1.tracker.eu.org
 .2.tracker.eu.org
 .3.tracker.eu.org
+.4.tracker.eu.org
 .euro2024direct.ru
 .euroddl.com
 .euroemu.net

@@ -502,6 +502,7 @@
 .doh.eddi.net
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -720,6 +721,7 @@
 .kavkaz.monster
 .dns.kawa.tf
 .dns.kebree.fr
+.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de
@@ -886,7 +888,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -1106,6 +1107,7 @@
 .de.dns.privex.io
 .nl.dns.privex.io
 .project-evoex.de
+.dns.propheci.xyz
 .dns.psociety.de
 .publicdnsserver.com
 .dns.pumpkinvrar.com
