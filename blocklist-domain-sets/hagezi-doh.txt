@@ -282,7 +282,6 @@
 .qual.cuprum.ru
 .dns.cwlys.com
 .dns.cybertonic.tech
-.cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
 .dns.d4d.moe
@@ -479,6 +478,7 @@
 .ns1.dotls.org
 .dns.dotnet.win
 .family.dns.doubleangels.com
+.dns.dremaxx.de
 .droyd.top
 .doh.dscloud.me
 .agh.dshubham.xyz
@@ -502,7 +502,6 @@
 .doh.eddi.net
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -1038,7 +1037,6 @@
 .dns.peb-schmidt.de
 .fuchur.pentament.de
 .pepetio.xyz
-.dns.pernika.net
 .darya.persiannit.net
 .dns.pesaventofilippo.com
 .dns.petqa.ru
