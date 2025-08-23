@@ -46,6 +46,7 @@
 .goal.music.1337.cx
 .dns.13evl.com
 .16yd.com
+.doh.18bit.cn
 .cloud.198.games
 .1and1-dns.de
 .1banproxy.com
@@ -91,7 +92,6 @@
 .notfound-google.404.mn
 .doh.42l.fr
 .bannana.web-doge.42web.io
-.46sdzf3zdg1dxg2.us
 .4everproxy.com
 .ns2.4netguides.org
 .paper.guide.4nets.org
@@ -196,8 +196,8 @@
 .cooldude.ajhurst.org
 .study.ajhurst.org
 .adguard.ajinga.net
+.dns.akbxr.com
 .akunssh.net
-.work.excel.albacetediario.com
 .dns.albony.xyz
 .sybau.alcrb.ru
 .aldhaferi.store
@@ -246,7 +246,6 @@
 .anchorfree.net
 .dns.andrewnw.xyz
 .angle.goal.andrewshomelabs.com
-.androvpn.com
 .doh.angry.im
 .animeproxy.net
 .aniscartujo.com
@@ -994,6 +993,7 @@
 .cybersilent.com
 .cyberssh.com
 .dns.cybertonic.tech
+.cynntex.fun
 .dns.cynthialabs.net
 .rammerhead.d-n-s.name
 .dns.d365.in
@@ -1217,6 +1217,9 @@
 .b.safe.ns.dnslify.com
 .dnslow.me
 .dns.dnsoverhttps.net
+.chuncheon.dnsovertor.cc
+.japan.dnsovertor.cc
+.seoul.dnsovertor.cc
 .adblock-dot.dnswarden.com
 .adult-filter-dot.dnswarden.com
 .doh.asia.dnswarden.com
@@ -1246,7 +1249,6 @@
 .watch-dexter.or-you-now.donciccio.net
 .dontblockme.org
 .dontfilter.us
-.bristol-is-the-king.dorsrv.ru
 .dot.pub
 .ns1.dotls.org
 .dns.dotnet.win
@@ -1271,7 +1273,6 @@
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
-.punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .blahaj.duia.us
@@ -1359,6 +1360,7 @@
 .123-24.eport.gr
 .bl.eq.md
 .shield1.eranext.net
+.skibidi-ohio-rizz.errorrail.dev
 .doh.ersei.net
 .es-proxy.com
 .dns.esnube.es
@@ -1414,7 +1416,6 @@
 .farewellkou.click
 .dns.farshidhakimy.de
 .fastestvpn.com
-.fastestvpn.info
 .fastfoxvpn.com
 .fastfreeproxy.info
 .nuclearvp.global.ssl.fastly.net
@@ -1464,7 +1465,6 @@
 .fpn.firefox.com
 .testpilot.firefox.com
 .fireprox.net
-.firstcontact.site
 .fishproxy.com
 .fitnessdepotprices.com
 .chart.books.fivepals.com
@@ -1512,7 +1512,6 @@
 .we-need-more.foxgateway.com
 .listings.fpp.realty
 .cosmogamy.fpr.net
-.fproxy.net
 .frandcomfort.us
 .free-proxy.com
 .free-proxy.cz
@@ -1731,6 +1730,7 @@
 .gratisproxy.nl
 .gratisvpn.com
 .greatestfreeproxy.com
+.dns.green-ping.lol
 .greenproxy.net
 .greenssh.com
 .dnsblock.grisumedia.de
@@ -1942,13 +1942,11 @@
 .link-one.ibewlocalzero.com
 .link-three.ibewlocalzero.com
 .link-two.ibewlocalzero.com
-.iblocker.info
 .ibvpn.com
 .webproxy.ich-war-hier.de
 .icitek.com
 .mask.icloud.com
 .mask-h2.icloud.com
-.lab.clever.icp-seigyo.com
 .icpsuawn1zy5amys.com
 .tienpham.id.vn
 .idcloak.com
@@ -2418,7 +2416,6 @@
 .adguard.meddy94.de
 .mediahint.com
 .mediavpn.com
-.web0213.medscience.cl
 .dns.meeo.win
 .gomkey.meexpress.net
 .testguard.meexx.de
@@ -2455,7 +2452,6 @@
 .doh.micronets.in
 .microvpn.com
 .www-proxy.migastep.com
-.rammerdaze.miguelarevalo.es
 .dns.mihanentalpo.me
 .dns.mikeliu.org
 .mikezhang.xyz
@@ -2486,9 +2482,7 @@
 .ps1.modr.club
 .www-nsc.moebh.me
 .history-of-the-king-of-pop.moldeo.org
-.mrbeastmerch.moldeo.org
 .only-shooting-stars-breakthe.moldeo.org
-.use.moldeo.org
 .dns.molinero.dev
 .naganohara-yoimiya.momokko.moe
 .dns.momou.ch
@@ -2555,7 +2549,6 @@
 .freedom.mydns.network
 .paranoia.mydns.network
 .myhalo.online
-.myhidden.info
 .newhomeowners.org.myhousesetup.com
 .myip.io
 .myip-proxy.info
@@ -2566,7 +2559,6 @@
 .pipod.mypics.ca
 .use.mypics.ca
 .myprivateproxy.net
-.myproxy.ca
 .myproxy.help
 .myproxy.link
 .myproxy.lol
@@ -2582,6 +2574,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -2708,7 +2701,6 @@
 .paulo.nom.za
 .ttag.dns.nomu.pw
 .kiri.nonexiste.net
-.noodlevpn.com
 .nordaccount.com
 .nordcdn.com
 .gg.nordparrot.ro
@@ -2799,12 +2791,10 @@
 .onion.casa
 .onion.city
 .onion.direct
-.onion.dog
 .onion.gq
 .onion.link
 .onion.lt
 .onion.lu
-.onion.ly
 .onion.nu
 .onion.rip
 .onion.sh
@@ -2919,7 +2909,6 @@
 .dns-ovh.panszelescik.pl
 .pantavv.xyz
 .pantoto.xyz
-.panzend.xyz
 .papervpn.info
 .paradise-human.shop
 .dns.pari.network
@@ -3037,13 +3026,11 @@
 .content.postsupport.co
 .potatovpn.io
 .doh.powerdns.org
-.poxy.pl
 .dns.ha-dvin.pp.ua
 .dns.korzhyk.pp.ua
 .lindung.pp.ua
 .sundalandia.pp.ua
 .virga.pp.ua
-.zxcvb.pp.ua
 .ppira.com
 .pproxy.org
 .pq7hdf.com
@@ -3159,7 +3146,6 @@
 .proxy-best.com
 .proxy-bypass.com
 .proxy-german.de
-.proxy-internet.info
 .proxy-n-vpn.com
 .proxy-search.com
 .proxy-seller.com
@@ -3328,6 +3314,7 @@
 .dns.api.rackspacecloud.com
 .portals.radial-pistonmotors.com
 .boxcat.radio-zvez.info
+.testsite.radiohapure.com
 .radmin-vpn.com
 .radmin-vpn.org
 .7afootball.rainbowcup.com
@@ -3457,7 +3444,6 @@
 .safetysurf.net
 .safeunblock.com
 .safing.io
-.w.q.sagesinst.org
 .vpn.sakhwow.ru
 .samj.codes
 .cloud.samutz.com
@@ -3547,7 +3533,6 @@
 .shadeyouvpn.com
 .shadowsocks.org
 .shadowtunnels.com
-.shalenkov.dev
 .tutor.idea.shand.org
 .sharejav.com
 .sharevpn.org
@@ -3579,7 +3564,6 @@
 .northhigh.simplecharity.com
 .the.simplecharity.com
 .create.simpleplantdesign.com
-.simpleproxy.us
 .simplevpn.net
 .dns.simplylinux.ch
 .dns.sindominio.net
@@ -4458,6 +4442,7 @@
 .doh.syshero.org
 .bold-river-186.sz.games
 .wild-moon-986.sz.games
+.doh.sz-dns.com
 .dns.szpadel.ovh
 .t-dz.com
 .dns.t-ipnet.de
@@ -4510,6 +4495,7 @@
 .login.thegalleryofart.info
 .dns.thegoodsource.net
 .distributiveproperty.thehomeserver.net
+.suchwow.thejon78.online
 .themeaningofallmeaningsforallofthemeaningsmeanings.lol
 .thenuke.org
 .giggachad.thepotionsmaster.net
@@ -4598,7 +4584,6 @@
 .toptip.cc
 .topvpn.cc
 .topvpnguides.com
-.tor-gateways.de
 .tor2web.fi
 .tor2web.io
 .tor2web.it
@@ -4920,7 +4905,6 @@
 .usproxies.info
 .usvpn.cf
 .uswebproxy.com
-.uswebproxy.net
 .utopianpal.com
 .utunnel.io
 .uvpn.me
@@ -5171,7 +5155,6 @@
 .websiteproxy.net
 .websiteunblock.net
 .websurf.in
-.websurfproxy.me
 .websynchrony.com
 .webtester.cc
 .webtunnel.org

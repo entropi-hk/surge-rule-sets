@@ -5,6 +5,7 @@
 .dns.0x55.net
 .123000123.xyz
 .dns.13evl.com
+.doh.18bit.cn
 .cloud.198.games
 .1and1-dns.de
 .233py.com
@@ -68,6 +69,7 @@
 .blitz-setup.ahadns.com
 .ahoj.email
 .adguard.ajinga.net
+.dns.akbxr.com
 .dns.albony.xyz
 .dnsnl.alekberg.net
 .alidns.com
@@ -282,6 +284,7 @@
 .qual.cuprum.ru
 .dns.cwlys.com
 .dns.cybertonic.tech
+.cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
 .dns.d4d.moe
@@ -452,6 +455,9 @@
 .b.safe.ns.dnslify.com
 .dnslow.me
 .dns.dnsoverhttps.net
+.chuncheon.dnsovertor.cc
+.japan.dnsovertor.cc
+.seoul.dnsovertor.cc
 .adblock-dot.dnswarden.com
 .adult-filter-dot.dnswarden.com
 .doh.asia.dnswarden.com
@@ -486,7 +492,6 @@
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
-.punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .dukun.de
@@ -598,6 +603,7 @@
 .google-public-dns-a.google.com
 .google-public-dns-b.google.com
 .performance.gosami.xyz
+.dns.green-ping.lol
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .dns.guard.io
@@ -887,6 +893,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -1091,7 +1098,6 @@
 .lindung.pp.ua
 .sundalandia.pp.ua
 .virga.pp.ua
-.zxcvb.pp.ua
 .dns.pragmasec.nl
 .dns2.prima-solusindo.com
 .princez.uk
@@ -1217,7 +1223,6 @@
 .dns.sev.monster
 .pates.services.sfr.fr.casepp.sfr.fr
 .d2.shabi.icu
-.shalenkov.dev
 .dns.shareworx.net
 .dns.shecan.ir
 .free.shecan.ir
@@ -1277,6 +1282,7 @@
 .ibksturm.synology.me
 .ihctw.synology.me
 .doh.syshero.org
+.doh.sz-dns.com
 .dns.szpadel.ovh
 .dns.t-ipnet.de
 .dns.t53.de
