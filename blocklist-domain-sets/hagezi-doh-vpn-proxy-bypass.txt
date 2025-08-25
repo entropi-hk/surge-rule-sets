@@ -1328,6 +1328,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1473,6 +1474,7 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flarquix.xyz
 .flashpull.com
@@ -2118,7 +2120,6 @@
 .vps2.jnraptor.net
 .dns.joey01245.nl
 .vpn.jogjacloud.com
-.adguard.johanliebert.top
 .johneldenring.lol
 .child.joindns4.eu
 .child-noads.joindns4.eu
@@ -2582,6 +2583,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -2660,7 +2662,6 @@
 .dns.neutopia.org
 .newipnow.com
 .newproxylist.net
-.newshosting.com
 .doh.luigi.nexific.it
 .dns.nextdns.io
 .dns1.nextdns.io
@@ -4338,7 +4339,7 @@
 .febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com
 .session.proxy2.startpage.com
 .proxy3.startpage.com
-.proxy5.startpage.com
+.ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
 .us2-browse.startpage.com
