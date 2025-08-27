@@ -1934,6 +1934,7 @@
 .club-mst3k.com
 .clubecine.com
 .clubfilm.ir
+.clubnzb.com
 .clubwarez.com
 .cmacked.com
 .cmovies.ac
@@ -2497,6 +2498,7 @@
 .directoriowarez.com
 .directwarez.com
 .direttagol.it
+.direttecommunity.gratis
 .dirkstream.com
 .dirtytorrents.com
 .dirtywarez.com
@@ -4682,7 +4684,6 @@
 .ipacrack.com
 .ipalibrary.me
 .ipboot.xyz
-.speedtest.iperson.xyz
 .tracker.iperson.xyz
 .tracker.ipfsscan.io
 .iphonebooks.info
@@ -6163,6 +6164,7 @@
 .yify.netlify.app
 .tracker.netmap.top
 .netmatrixbd.com
+.netmirror.app
 .netmirror.my
 .netmovies.to
 .netonlinebd.com
@@ -6701,7 +6703,6 @@
 .pelisflix20.icu
 .pelisflix20.info
 .pelisflix20.ink
-.pelisflix20.lat
 .pelisflix20.live
 .pelisflix20.me
 .pelisflix20.mom
@@ -6709,7 +6710,6 @@
 .pelisflix20.net
 .pelisflix20.one
 .pelisflix20.online
-.pelisflix20.pro
 .pelisflix20.pw
 .pelisflix20.site
 .pelisflix20.top
@@ -8230,6 +8230,7 @@
 .streamingcommunity.xyz
 .streamingcommunityz.bio
 .streamingcommunityz.boats
+.streamingcommunityz.chat
 .streamingcommunityz.city
 .streamingcommunityz.com
 .streamingcommunityz.date
@@ -9543,6 +9544,7 @@
 .vdos-s.co
 .vdos-s.com
 .tracker.vectahosting.eu
+.veday.fun
 .vedohd.uno
 .vegamovies.ist
 .vegamovies.ngo

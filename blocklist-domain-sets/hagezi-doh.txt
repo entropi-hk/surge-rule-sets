@@ -498,6 +498,7 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -865,7 +866,6 @@
 .dns.moonssif.com
 .morbitzer.de
 .dns.mrkaran.dev
-.adguard.mrmartian.co
 .msr177.com
 .dns.msxnet.ru
 .dns.mtoo.vip

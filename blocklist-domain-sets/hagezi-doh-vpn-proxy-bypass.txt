@@ -1295,6 +1295,7 @@
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
+.gustamadh.dynv6.net
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
@@ -2520,7 +2521,6 @@
 .moyazyinomoyasi.com
 .vpn.mozilla.org
 .dns.mrkaran.dev
-.adguard.mrmartian.co
 .sail.msg.boats
 .msr177.com
 .dns.msxnet.ru
