@@ -107,6 +107,7 @@
 .dandelionsprout.asuscomm.com
 .dns.asysec.com
 .adguardhome.atakorah.com
+.atris.cyou
 .dohtrial.att.net
 .africa.avastdns.com
 .secure.avastdns.com
@@ -300,6 +301,7 @@
 .dns.datenquark.de
 .dns.david888.com
 .dns.daw.dev
+.cloudflares.ddns.net
 .jit.ddns.net
 .dns.deadsec.net
 .dns.decky.eu
@@ -488,7 +490,6 @@
 .droyd.top
 .doh.dscloud.me
 .agh.dshubham.xyz
-.home27.duckdns.org
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
@@ -498,7 +499,6 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -507,6 +507,7 @@
 .doh.eddi.net
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh

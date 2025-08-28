@@ -319,6 +319,7 @@
 .adguardhome.atakorah.com
 .atlasvpn.com
 .atozproxy.com
+.atris.cyou
 .dohtrial.att.net
 .stevenisafemboy.auraria.org
 .auto-aufladen.de
@@ -1027,6 +1028,7 @@
 .dns.datenquark.de
 .dns.david888.com
 .dns.daw.dev
+.cloudflares.ddns.net
 .jit.ddns.net
 .zrd.ddns.net
 .freewillisaflaw.ddnsfree.top
@@ -1275,7 +1277,6 @@
 .duapps.com
 .duba.net
 .bitly-galatikx.duckdns.org
-.home27.duckdns.org
 .huawaakiskokoa.duckdns.org
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
@@ -1295,7 +1296,6 @@
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
-.gustamadh.dynv6.net
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
@@ -1333,6 +1333,7 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
+.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
