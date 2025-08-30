@@ -123,6 +123,7 @@
 .dns.9999.sg
 .99proxy.com
 .9w9.org
+.quickphysics.a-quo.com
 .dns.a47.me
 .doh.aaaab3n.moe
 .adb.aadityakushwaha.com
@@ -519,6 +520,7 @@
 .dns.brembeck.cloud
 .tutor.skills.bretonmeadowfarm.org
 .ag.brianlee.fun
+.easybio.bridgeslab.net
 .bright4good.eco
 .brightvpn.com
 .britishproxy.com
@@ -1300,6 +1302,7 @@
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
+.gustamadh.dynv6.net
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
@@ -1337,7 +1340,6 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
-.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1694,6 +1696,7 @@
 .gizlen.net
 .gizlibaglanti.com
 .h.gjrick.tw
+.solidreading.gkihalimun.org
 .sdns22.gkonuralp.com
 .chaotic-guest-bestie.glacialpower.com
 .i-civics.glacialpower.com
@@ -1959,6 +1962,7 @@
 .beepboopbop.iamadeveloper.dev
 .dns.iamanuragh.in
 .dns.iamninja.ru
+.novahistory.ibernoticias.com
 .link-five.ibewlocalzero.com
 .link-four.ibewlocalzero.com
 .link-one.ibewlocalzero.com
@@ -2133,6 +2137,7 @@
 .dns.joey01245.nl
 .vpn.jogjacloud.com
 .johneldenring.lol
+.alphaphysics.johnwarburton.net
 .child.joindns4.eu
 .child-noads.joindns4.eu
 .noads.joindns4.eu
@@ -2600,7 +2605,6 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -2886,7 +2890,9 @@
 .learning.orestpena.com
 .fnrkrbvtpy.abbotsfordhallforhire.org.au
 .resolver.dnsprivacy.org.uk
+.keencalc.ivc.org.ar
 .oliverdiepiogreedycheckers.sponsorafuture.org.uk
+.topliterature.sunrise.org.uk
 .google.com.teachinghospital.org.np
 .dns.oryxlabs.com
 .os4work.com
@@ -3427,6 +3433,7 @@
 .dns.rootlab.top
 .dns.rotunneling.net
 .roundrockisd.online
+.rapidcalc.rpvf.com
 .rah.rren.ch
 .o.rsaikat.com
 .au.rslvr.eu
@@ -3596,6 +3603,7 @@
 .dns.sindominio.net
 .sinesprox.cloud
 .bring-your-own.sinewave.cc
+.virtualalgebra.siniritarit.fi
 .gurtyo.sino.tw
 .dnsovertls.sinodun.com
 .dnsovertls1.sinodun.com
