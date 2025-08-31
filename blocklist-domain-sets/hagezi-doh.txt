@@ -5,6 +5,8 @@
 .dns.0x55.net
 .123000123.xyz
 .dns.13evl.com
+.httpdns.c.163.com
+.httpdns.music.163.com
 .doh.18bit.cn
 .cloud.198.games
 .1and1-dns.de
@@ -72,7 +74,9 @@
 .dns.akbxr.com
 .dns.albony.xyz
 .dnsnl.alekberg.net
+.httpdns.alicdn.com
 .alidns.com
+.httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
 .alleesph.online
 .dns.alloxr.info
@@ -120,11 +124,15 @@
 .dns.b33.space
 .dns.b612.me
 .dns.b72.com
+.httpdns.baidu.com
+.httpsdns.baidu.com
+.httpdns.baidubce.com
 .dns.baishiyuan.cn
 .fr-dns1.bancuh.com
 .jp-dns1.bancuh.com
 .sg-dns1.bancuh.com
 .bazooki-infra.dev
+.httpdns.bcelive.com
 .dns.beardic.cn
 .antivirus.bebasid.com
 .dns.bebasid.com
@@ -132,6 +140,7 @@
 .justhost.bedro.cloud
 .dns.belnet.be
 .dns.bermeitinger.eu
+.httpdns.bilivideo.com
 .ns3.bit-trail.nl
 .dns.bitdefender.net
 .fra-dns.bitdefender.net
@@ -198,6 +207,9 @@
 .dns2.cbio.top
 .doh.ccb-net.it
 .dns.cctld.kg
+.httpdns.cctv.com
+.httpdns.c.cdnhwc2.com
+.httpdns1.cc.cdnhwc5.com
 .anycast.censurfridns.dk
 .unicast.censurfridns.dk
 .dns.cert.ee
@@ -301,6 +313,9 @@
 .dns.datenquark.de
 .dns.david888.com
 .dns.daw.dev
+.httpdns.platform.dbankcloud.cn
+.httpdns.platform.dbankcloud.com
+.httpdns-browser.platform.dbankcloud.cn
 .cloudflares.ddns.net
 .jit.ddns.net
 .dns.deadsec.net
@@ -485,6 +500,7 @@
 .dot.pub
 .ns1.dotls.org
 .dns.dotnet.win
+.dotserver.douyucdn.cn
 .dns.dremaxx.de
 .droyd.top
 .doh.dscloud.me
@@ -507,6 +523,7 @@
 .doh.eddi.net
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -585,6 +602,7 @@
 .adguard.maison.gifino.fr
 .dns.ginovs.nl
 .dns.girino.org
+.doh.ptqy.gitv.tv
 .h.gjrick.tw
 .sdns22.gkonuralp.com
 .glacius.top
@@ -624,6 +642,8 @@
 .ordns.he.net
 .dns.hellozhao.com
 .dns.henek.ovh
+.httpdns.ocloud.heytapmobi.com
+.httpdns.push.heytapmobi.com
 .httpdns-push.heytapmobile.com
 .himedns.com
 .dns.hinet.net
@@ -641,7 +661,9 @@
 .dns.hotta.page
 .doh.hottis.de
 .hshh.org
+.httpdns.pro
 .dns.huas.me
+.httpdns.huaweicloud.com
 .dns.hujiayucc.cn
 .ads.hunga1k47.com
 .doth.huque.com
@@ -676,9 +698,14 @@
 .dns.indybanipal.com
 .dns.inforlogia.com
 .doh.infracell.net
+.apidns.kwd.inkuai.com
+.httpdns.kwd.inkuai.com
 .inpssh.online
 .qlf-doh.inria.fr
 .dns.interhub.cc
+.dns.iqiyi.com
+.doh.iqiyi.com
+.dns.qiyipic.iqiyi.com
 .dns1.irumatech.com
 .dns.is0mino.com
 .mickedi.isgood.host
@@ -690,6 +717,7 @@
 .jackyes.ovh
 .tj.jamesxue.xyz
 .jcdns.fun
+.dns.jd.com
 .doh.jeroenhd.nl
 .adguard.jfchenier.ca
 .dns.jhangy.us
@@ -750,6 +778,7 @@
 .dart.kpsn.org
 .adblock.krctech.dev
 .xray.krnl.eu
+.hdns.ksyun.com
 .dns.kugoapps.com
 .dns.kukal.cz
 .dns.kusoneko.moe
@@ -841,6 +870,7 @@
 .testguard.meexx.de
 .meganerd.nl
 .httpdns.meituan.com
+.httpdnsvip.meituan.com
 .dns.melvin2204.nl
 .testaghome.meshkov.info
 .dns.mestdag.fr
@@ -855,6 +885,7 @@
 .mikezhang.xyz
 .dns.milkpie.one
 .netcup.mismat.ch
+.httpdns.browser.miui.com
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mo0on15.com
@@ -893,6 +924,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -939,6 +971,8 @@
 .dns.aa.net.uk
 .doh.max.net.id
 .ns.net.kg
+.httpdns.n.netease.com
+.httpdns-sdk.n.netease.com
 .dns.netvpn.net
 .cube.neubsi.at
 .dns.neubsi.at
@@ -1021,6 +1055,8 @@
 .ns2.opennameserver.org
 .ns3.opennameserver.org
 .ns4.opennameserver.org
+.httpdns.ocloud.oppomobile.com
+.httpdns.push.oppomobile.com
 .dns.eu-frankfurt-1.oraclecloud.com
 .dns.uk-london-1.oraclecloud.com
 .dns.us-ashburn-1.oraclecloud.com
@@ -1120,6 +1156,8 @@
 .at.pzhg.me
 .vpsus3.pzhg.me
 .doh.qis.io
+.httpdns.kg.qq.com
+.dns.weixin.qq.com
 .ns1.qquack.org
 .dns.qrtz.club
 .hostdare.qtxd.net
@@ -1227,6 +1265,7 @@
 .free.shecan.ir
 .pro.shecan.ir
 .dns.sheggi.ch
+.httpdns.n.shifen.com
 .dns.shimul.me
 .do.shimul.me
 .adguard.shoupperuser.com
@@ -1284,6 +1323,7 @@
 .dns.szpadel.ovh
 .dns.t-ipnet.de
 .dns.t53.de
+.httpdns.danuoyi.tbcache.com
 .tecdrive.site
 .dns1.techeasy.org
 .vpn.technicule.info
@@ -1361,6 +1401,7 @@
 .dns.vinokurov.tk
 .dns.vishalk.com
 .dns.vod11.xyz
+.httpdns.volcengineapi.com
 .vorlif.org
 .vtcuong.site
 .dns.w3ctag.org
@@ -1380,6 +1421,7 @@
 .doh.this.web.id
 .doh.webnmail.de
 .dns.wechat.com
+.dns.weibo.cn
 .doh.wewitro.net
 .dns.wibenson.cloud
 .wikimedia-dns.org
@@ -1418,8 +1460,10 @@
 .sg.yepdns.com
 .your-dns.run
 .yovbak.com
+.httpdns.yunxindns.com
 .dns.yuu-g.net
 .yuvelirtut.website
+.httpdns.gslb.yy.com
 .adg.yybyy.wiki
 .dns.daemon.za.net
 .adguard.zachitect.com
@@ -1432,4 +1476,5 @@
 .doh.zknt.org
 .zougloub.eu
 .dns.zui.lol
+.httpdns.zybang.com
 .dns.zzuhacker.cn
