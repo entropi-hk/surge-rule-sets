@@ -514,13 +514,13 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
 .easyhandshake.com
 .dns.eddi.net
 .doh.eddi.net
+.dns.edgeburnmedia.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
 .dns.efficientdocuments.com
@@ -829,9 +829,7 @@
 .doh.phdns4.lonet.org
 .doh.phdns5.lonet.org
 .n5.lsasss.com
-.lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz
-.lukscasino-929-tr.xyz
 .dns.luma-medien.com
 .orau.lz0724.com
 .addns1.m-it.ro
@@ -1324,7 +1322,6 @@
 .dns.t-ipnet.de
 .dns.t53.de
 .httpdns.danuoyi.tbcache.com
-.tecdrive.site
 .dns1.techeasy.org
 .vpn.technicule.info
 .doh.technochat.in
@@ -1358,6 +1355,7 @@
 .dns.tipsy.coffee
 .tk31z.com
 .dns.tls-data.de
+.tlz.asia
 .d.toairs.com
 .dot.tooli.ca
 .nsc.torgues.net
