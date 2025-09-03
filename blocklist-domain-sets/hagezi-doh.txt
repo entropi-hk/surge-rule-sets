@@ -539,6 +539,7 @@
 .opennic1.eth-services.de
 .arashi.eu.org
 .armorrush.eu.org
+.doh.excdn.eu.org
 .dns.fullaccesstointernet.jp.eu.org
 .dns.mayx.eu.org
 .arashi.net.eu.org
@@ -567,7 +568,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
 .dns01.flm9.net

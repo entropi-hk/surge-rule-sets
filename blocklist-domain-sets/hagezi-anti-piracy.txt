@@ -1448,7 +1448,6 @@
 .bolmovies.com
 .bomplay.com
 .bondhuitbd.com
-.bonoov.fr
 .bonsaihd.fun
 .bonsaihd.live
 .bt.bontal.net
@@ -1563,7 +1562,6 @@
 .buddycenters.shop
 .buddyfly.top
 .buffstream.io
-.buffstreams.app
 .buffstreams.sx
 .buffstreams.tv
 .csite.bugs3.com
@@ -1680,7 +1678,6 @@
 .cb01.cc
 .cb01.cfd
 .cb01.charity
-.cb01.cleaning
 .cb01.click
 .cb01.clothing
 .cb01.club
@@ -1689,7 +1686,6 @@
 .cb01.coach
 .cb01.com
 .cb01.community
-.cb01.construction
 .cb01.contractors
 .cb01.credit
 .cb01.de
@@ -1955,7 +1951,6 @@
 .cloudvideo.tv
 .hd.club.tw
 .club-mst3k.com
-.clubecine.com
 .clubfilm.ir
 .clubnzb.com
 .clubwarez.com
@@ -2026,7 +2021,6 @@
 .www.aenianos.com.br
 .aruacfilmes.com.br
 .btarg.com.ar
-.businesszone.com.bd
 .carnival.com.bd
 .cloudone.com.bd
 .coolrom.com.au
@@ -2136,7 +2130,6 @@
 .couchtuner.show
 .couchtuner.space
 .couchtuner0.com
-.couchtv.to
 .courseclub.me
 .mp3.couver.ru
 .cpasbien.bz
@@ -2170,7 +2163,6 @@
 .crackedme.com
 .crackedmine.com
 .crackedpc.org
-.crackedreal.com
 .crackedstream.tv
 .crackedversion.com
 .crackfind.com
@@ -2654,13 +2646,11 @@
 .dood.page
 .dood.pet
 .dood.pics
-.dood.pink
 .dood.plus
 .dood.pm
 .dood.pro
 .dood.qpon
 .dood.re
-.dood.rest
 .dood.rip
 .dood.ro
 .dood.sbs
@@ -2850,15 +2840,12 @@
 .tracker.ducks.party
 .duckwad.net
 .dummipedia.org
-.dunia21.app
 .dunia21.bid
 .dunia21.cc
 .dunia21.club
 .dunia21.download
 .dunia21.me
-.dunia21.mov
 .dunia21.net
-.dunia21.onl
 .dunia21.pw
 .dunia21.social
 .dup3.me
@@ -3167,7 +3154,6 @@
 .eurostreaming.vip
 .eurostreaming.vision
 .eurostreaming.vote
-.eurostreaming.voto
 .eurostreaming.voyage
 .eurostreaming.website
 .eurostreaming.ws
@@ -3399,7 +3385,6 @@
 .filmgo.live
 .filmgratuit.cc
 .filmheaven.com
-.kinox.filmi.space
 .filmid.net
 .filmisland.org
 .filmitastreaming.zone
@@ -3522,7 +3507,6 @@
 .filmstreaming.org
 .filmstreaming.page
 .filmstreaming.pics
-.filmstreaming.plus
 .filmstreaming.pro
 .filmstreaming.pw
 .filmstreaming.red
@@ -3545,7 +3529,6 @@
 .filmstreaming-de.life
 .filmstreaming1.co
 .filmstreaming1.pro
-.filmstreaming1vf.co
 .filmstreamingita.club
 .filmstreamingvk.ws
 .filmstreamingx1.com
@@ -3702,7 +3685,6 @@
 .footdirect.ru
 .footy-bite.com
 .footybite.bz
-.footybite.cc
 .footybite.io
 .footybite.one
 .foreverdrowning.com
@@ -3710,7 +3692,6 @@
 .forja.tn
 .formalitystresser.com
 .formula1-live.stream
-.formula1stream.cc
 .formulamonkey.com
 .foromtorrent.com
 .forowarez.net
@@ -3882,7 +3863,6 @@
 .funniermoments.net
 .funsharing.net
 .funtimebd.com
-.funxd.pw
 .funxd.site
 .furiousnet.net
 .furk.net
@@ -4073,7 +4053,6 @@
 .globalwarez.com
 .glodls.to
 .glorybits.org
-.glotorrents.com
 .glotorrents.pw
 .gm-realm.net
 .tracker.gmi.gd
@@ -4126,7 +4105,6 @@
 .gomovies.ltd
 .gomovies.men
 .gomovies.sc
-.gomovies.sx
 .gomovies.uno
 .gomovies-hd.org
 .gomovies-online.com
@@ -8535,6 +8513,7 @@
 .swteam.ws
 .syfiles.com
 .bestoflinks.synology.me
+.ibksturm.synology.me
 .syria-live.us
 .sidewinderx.sytes.net
 .thebazaar.sytes.net
@@ -10075,6 +10054,7 @@
 .videq.fit
 .videqapp.site
 .videqs.com
+.videqs.icu
 .videqstream.com
 .videqvidey.pro
 .vider.info
