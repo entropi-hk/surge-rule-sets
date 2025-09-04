@@ -1338,7 +1338,6 @@
 .educationdean.us
 .adguard.ef67daisuki.club
 .tor.eff.org
-.dns.efficientdocuments.com
 .scifi0.eigenlicht.us
 .hole.elbschloss.xyz
 .elearning.electronicajck.com
@@ -1485,6 +1484,7 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flashpull.com
 .flashput.net
@@ -1494,6 +1494,7 @@
 .dns.flatuslifir.is
 .abdulv2.flazzard.com
 .vps.fleuryk.ovh
+.dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
 .ns2.flodns.net
@@ -1815,7 +1816,6 @@
 .dns.hellozhao.com
 .helphideme.com
 .helpmehide.net
-.dns.henek.ovh
 .herbalserver.me
 .procs.heroinewarrior.com
 .betternet-backend.herokuapp.com
@@ -1840,7 +1840,6 @@
 .hideip.co
 .hideipvpn.com
 .hideman.net
-.hideme.be
 .hideme101.info
 .hidemebro.com
 .hidemefast.net
@@ -1928,7 +1927,6 @@
 .howdy.id
 .hoxx.com
 .hoxx.net
-.hoyofun.xyz
 .ajmal.hpc.tw
 .greenbeandean.hs.vc
 .code.edu.hse.tw
@@ -1952,9 +1950,6 @@
 .hyperbyte.net
 .dns.hypercute.eu
 .math.hypernormal.org
-.supernatural.hypernormal.org
-.unusual.hypernormal.org
-.h5.wan.360.23xinyou.51.3w2.cc.nc.hzlqun.cn
 .i2p-projekt.de
 .i2pd.xyz
 .vd.i81.ru
@@ -1963,11 +1958,6 @@
 .dns.iamanuragh.in
 .dns.iamninja.ru
 .novahistory.ibernoticias.com
-.link-five.ibewlocalzero.com
-.link-four.ibewlocalzero.com
-.link-one.ibewlocalzero.com
-.link-three.ibewlocalzero.com
-.link-two.ibewlocalzero.com
 .ibvpn.com
 .webproxy.ich-war-hier.de
 .icitek.com
@@ -2023,7 +2013,6 @@
 .dns.inforlogia.com
 .doh.infracell.net
 .infvpn.com
-.owner.should.hopefully.spot.this.ingeker.cl
 .ininja.org
 .apidns.kwd.inkuai.com
 .httpdns.kwd.inkuai.com
@@ -2121,7 +2110,6 @@
 .dns.jd.com
 .lowlow.jellyfl1x.es
 .jellyvpn.com
-.my-learning-hall.jemix.sg
 .doh.jeroenhd.nl
 .jetbean.com
 .jetproxy.com
@@ -2196,7 +2184,6 @@
 .adguard.kasbot.net
 .dns.kastner-online.de
 .sentries.kategentry.com
-.katonetwork.com
 .kavkaz.monster
 .dns.kawa.tf
 .base.train.kdits.ca
@@ -2277,7 +2264,6 @@
 .field.ideas.ladanghijau.com
 .www-proxy.ladifsoftware.com
 .learnmaths.lahrtowers.com
-.kamaemon.laifu.asia
 .femboysfr.lain.ch
 .classroom.google.lang.hm
 .shop.lang.hm
@@ -2322,7 +2308,6 @@
 .dns.lepilleur.com
 .dns.lermer.nl
 .lesuo.top
-.letscomply.online
 .letsvpn.world
 .dns.levonet.sk
 .lewsha.lol
@@ -2359,7 +2344,6 @@
 .litebrowser.net
 .literally.info
 .litevpn.top
-.kamaemon.lntxbox.com
 .loadlow.me
 .dns.lobbygod.com
 .localto.net
@@ -2451,7 +2435,6 @@
 .mediahint.com
 .mediavpn.com
 .dns.meeo.win
-.gomkey.meexpress.net
 .testguard.meexx.de
 .mega123proxy.com
 .helpdesk.megaingenieria.com
@@ -2497,8 +2480,6 @@
 .hihihi.minecraftnoob.com
 .insta.minecraftnoob.com
 .nibba.minecraftnoob.com
-.dynamitefor.miningsteel.cl
-.lasersfor.miningsteel.cl
 .miniprox.com
 .miniprox.info
 .netcup.mismat.ch
@@ -2541,7 +2522,6 @@
 .morevpn.com
 .history-of-war.morgeweb.com
 .movieproxy.com
-.moyazyinomoyasi.com
 .vpn.mozilla.org
 .dns.mrkaran.dev
 .sail.msg.boats
@@ -2573,23 +2553,12 @@
 .my-safe-net.com
 .myatris.sbs
 .mycelium.site
-.1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com
-.abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
-.doge.myclarevision.com
-.example.myclarevision.com
-.freelearn.myclarevision.com
-.gogardiansucks.myclarevision.com
-.i.myclarevision.com
-.learn.myclarevision.com
-.linewizesucks.myclarevision.com
-.thisismathteach.myclarevision.com
 .smart.data.mydj.ro
 .adblock.mydns.network
 .family.mydns.network
 .freedom.mydns.network
 .paranoia.mydns.network
 .myhalo.online
-.newhomeowners.org.myhousesetup.com
 .myip.io
 .myip-proxy.info
 .myiphide.com
@@ -2597,7 +2566,6 @@
 .blackhole.myon.lu
 .portmapper.myonlineportal.net
 .pipod.mypics.ca
-.use.mypics.ca
 .myprivateproxy.net
 .myproxy.help
 .myproxy.link
@@ -2662,7 +2630,6 @@
 .us-saj-w-f-1.nashkan.net
 .us-saj-w-p-1.nashkan.net
 .natfrp.cloud
-.nathanielgavin.lol
 .vpn.nbvalente.fr
 .vpn.ncapi.io
 .zuh.ndr.cl
@@ -2787,7 +2754,6 @@
 .ntwrkh.pro
 .nucleusvpn.com
 .dns.nullgate.net
-.nullsbrawly.xyz
 .dns.numerus.com
 .nunc.se
 .vpn.nvidia.com
@@ -2909,16 +2875,12 @@
 .keencalc.ivc.org.ar
 .oliverdiepiogreedycheckers.sponsorafuture.org.uk
 .topliterature.sunrise.org.uk
-.google.com.teachinghospital.org.np
 .dns.oryxlabs.com
 .os4work.com
-.edu.osobi.ro
 .osobiacademy.osobi.ro
 .tails.ospa.fi
 .ospylac.com
 .osqcsmm.shop
-.this.is.for.lightspeedpal.ostrovsky.sk
-.thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
 .dns.ours.luxe
 .dns.ourvau.lt
 .proxy.outred.dev
@@ -3063,9 +3025,7 @@
 .polisitogel.luxe
 .polisitogel.show
 .polisitogel.webcam
-.science-exp.port0.org
 .doh.port53.dk
-.croze.port82.net
 .portalssh.com
 .dns.porteii.com
 .portmap.io
@@ -3541,7 +3501,6 @@
 .dns.sec511.com
 .quiz.teach.secold.com
 .secretbrowser.net
-.secretproxy.org
 .secretsline.biz
 .secretsline.org
 .secure-vpn.com
