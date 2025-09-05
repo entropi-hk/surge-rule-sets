@@ -296,7 +296,6 @@
 .cubedns.com
 .qual.cuprum.ru
 .dns.cwlys.com
-.dns.cybertonic.tech
 .cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
@@ -523,6 +522,7 @@
 .dns.edgeburnmedia.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -567,7 +567,6 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
-.dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
 .dns.flightspace.net
@@ -922,7 +921,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -1342,7 +1340,6 @@
 .dns.therifleman.name
 .blocker.thethorsens.org
 .doh.thio.me
-.dns.thiz.top
 .doh.tiar.app
 .dot.tiar.app
 .jp.tiar.app
@@ -1403,7 +1400,6 @@
 .vorlif.org
 .vtcuong.site
 .dns.w3ctag.org
-.dns.wahr.top
 .aqua.is.my.waifu.cz
 .darkness.is.my.waifu.cz
 .megumin.is.my.waifu.cz
