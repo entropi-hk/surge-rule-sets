@@ -2326,6 +2326,7 @@
 .bingoportal.da.ru
 .daddylive.sx
 .daddylivehd1.click
+.daddylivestream.com
 .daddyny.com
 .dadyflix.co
 .dafunda.com
@@ -3647,10 +3648,12 @@
 .fmovies.one
 .fmovies.org
 .fmovies.pub
+.fmovies.ro
 .fmovies.sc
 .fmovies.se
 .fmovies.taxi
 .fmovies.to
+.fmovies.today
 .fmovies.website
 .fmovies.world
 .fmovies.wtf
@@ -4355,6 +4358,7 @@
 .hdhome.org
 .hdhub4u.family
 .hdhub4u.gifts
+.hdhub4u.menu
 .hdhublist.com
 .hdlivemovies.com
 .hdm.to
@@ -6703,6 +6707,7 @@
 .partidosenvivo.gratis
 .partis.si
 .passion-musique.net
+.passpulse.net
 .passthepopcorn.me
 .passthepopcorn.org
 .patalpuri.com
@@ -8467,6 +8472,7 @@
 .swteam.ws
 .syfiles.com
 .bestoflinks.synology.me
+.ibksturm.synology.me
 .syria-live.us
 .sidewinderx.sytes.net
 .thebazaar.sytes.net
@@ -8975,6 +8981,7 @@
 .torrentchile.org
 .torrentcity.net
 .torrentcity.pl
+.torrentclub.online
 .torrentclub.space
 .torrentday.com
 .torrentdb.li
@@ -9664,6 +9671,7 @@
 .vce-besplatno.ru
 .vddek.fun
 .vddeq.pro
+.vddi.mom
 .vdeke.fun
 .vdiiy.space
 .vdomela.com
@@ -10073,6 +10081,7 @@
 .vkstreaming.org
 .vkstreamingfilm.biz
 .vkstreamingfilm.com
+.vldeq.com
 .vmovee.cc
 .vmovee.me
 .vmovee.watch
@@ -10135,6 +10144,7 @@
 .vrtor.ru
 .vstorrent.org
 .vudeo.io
+.vudiy.fun
 .git.vulnix.sh
 .tracker.vulnix.sh
 .vumeto.com

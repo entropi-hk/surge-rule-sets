@@ -102,7 +102,6 @@
 .analytics-useast2a.tiktok.com
 .analytics-v6.tiktok.com
 .business-api.tiktok.com
-.p0-common-image-private-useastred.eu.tiktok.com
 .ads.in.tiktok.com
 .location.tiktok.com
 .location-i18n.tiktok.com
@@ -219,6 +218,7 @@
 .log32-normal-no1a.tiktokv.eu
 .log32-normal-useast1a.tiktokv.com
 .log32-normal-useast2a.tiktokv.com
+.log32-normal-zr.tiktokv.com
 .log53-normal-c-useast1a.tiktokv.com
 .log58-normal.tiktokv.com
 .log58-normal-alisg.tiktokv.com
@@ -269,12 +269,14 @@
 .mon19-normal.tiktokv.com
 .mon19-normal-alisg.tiktokv.com
 .mon19-normal-useast1a.tiktokv.com
+.mon19-normal-zr-alisg.tiktokv.com
 .mon22-normal.tiktokv.com
 .mon22-normal-alisg.tiktokv.com
 .mon22-normal-useast1a.tiktokv.com
 .mon31-normal.tiktokv.com
 .mon31-normal-alisg.tiktokv.com
 .mon31-normal-useast1a.tiktokv.com
+.mon31-normal-zr-useast1a.tiktokv.com
 .mon32-normal.tiktokv.com
 .mon32-normal-alisg.tiktokv.com
 .mon32-normal-useast1a.tiktokv.com
@@ -299,6 +301,7 @@
 .mssdk22-normal-alisg.tiktokv.com
 .mssdk22-normal-useast1a.tiktokv.com
 .mssdk22-normal-useast2a.tiktokv.com
+.mssdk22-normal-zr.tiktokv.com
 .mssdk22-normal-zr-alisg.tiktokv.com
 .mssdk22-normal-zr-useast1a.tiktokv.com
 .mssdk23-normal-zr-alisg.tiktokv.com
@@ -351,6 +354,7 @@
 .rtlog19-normal-alisg.tiktokv.com
 .rtlog19-normal-useast1a.tiktokv.com
 .rtlog19-normal-useast2a.tiktokv.com
+.rtlog19-normal-zr-useast1a.tiktokv.com
 .rtlog22-applog-useast1a.tiktokv.com
 .rtlog22-applog-useast2a.tiktokv.com
 .rtlog22-normal.tiktokv.com
@@ -361,6 +365,8 @@
 .rtlog31-normal-alisg.tiktokv.com
 .rtlog31-normal-useast1a.tiktokv.com
 .rtlog31-normal-useast2a.tiktokv.com
+.rtlog32-normal-alisg.tiktokv.com
+.rtlog32-normal-zr.tiktokv.com
 .rtlog58-normal.tiktokv.com
 .rtlog58-normal-alisg.tiktokv.com
 .rtlog58-normal-useast1a.tiktokv.com

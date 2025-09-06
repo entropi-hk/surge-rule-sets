@@ -296,6 +296,7 @@
 .cubedns.com
 .qual.cuprum.ru
 .dns.cwlys.com
+.dns.cybertonic.tech
 .cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
