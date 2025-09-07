@@ -1436,6 +1436,7 @@
 .xholgm.top
 .agh.xinfeng16m.top
 .dns.xlion.tw
+.xmr.land
 .xn--durhre-yxa.de
 .xorbiadns.com
 .dns.xuming.studio

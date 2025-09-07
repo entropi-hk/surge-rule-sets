@@ -1407,7 +1407,10 @@
 .cool.explosionlearning.org
 .expressapisv2.net
 .expressvpn.com
+.expressvpn.info
 .expressvpn.net
+.expressvpn.works
+.expressvpn.xyz
 .extravpn.top
 .dns.extrawdw.net
 .extremevpn.com
@@ -4801,6 +4804,7 @@
 .surfshark.be
 .surfshark.ch
 .surfshark.com
+.surfshark.deals
 .surfshark.io
 .surfshark.jp
 .surfshark.net
@@ -5634,6 +5638,7 @@
 .xitesite.com
 .xjumper.com
 .dns.xlion.tw
+.xmr.land
 .xn--durhre-yxa.de
 .xorbiadns.com
 .xperienc.com
