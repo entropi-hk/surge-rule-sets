@@ -480,6 +480,7 @@
 .eurotank.ro
 .eva.hk
 .everton.com
+.evils.in
 .expired-dns.com
 .ez-ip.net
 .ezua.com
@@ -813,6 +814,7 @@
 .itekgroup.com
 .itemdb.com
 .itsaol.com
+.iu4ever.org
 .iugaming.com
 .ivc.cc
 .ix.tc
@@ -1024,6 +1026,7 @@
 .networkoutpost.com
 .nflfan.org
 .nhlfan.net
+.no-domain.name
 .no-ip.be
 .no-ip.biz
 .no-ip.ca

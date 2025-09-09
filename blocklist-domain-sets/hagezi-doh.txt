@@ -279,6 +279,7 @@
 .comss.ru
 .dns1.conne.net
 .dns.connect.fail
+.dns.containerpi.com
 .dns.controld.com
 .freedns.controld.com
 .dns.cooluc.com
@@ -459,6 +460,7 @@
 .do.dnscrypt.uk
 .doh.dnscrypt.uk
 .v.dnscrypt.uk
+.dnsenc.com
 .dnsforfamily.com
 .dnsforge.de
 .dnsguard.pub
@@ -508,12 +510,14 @@
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .dukun.de
 .dns.dyn1.de
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -523,7 +527,6 @@
 .dns.edgeburnmedia.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -627,6 +630,7 @@
 .dnsblock.grisumedia.de
 .dns.grqu.de
 .dns.guard.io
+.dns.guardmydns.com
 .dns2.guidocioni.it
 .dns.gutwe.in
 .gztech.me

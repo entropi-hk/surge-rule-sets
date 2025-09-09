@@ -563,6 +563,7 @@
 .dns.butterfly87.sbs
 .bvpn.com
 .byewall.com
+.bypass.pw
 .bypassable.com
 .bypassed.wtf
 .bypasser.us
@@ -929,6 +930,7 @@
 .dns.connect.fail
 .connectionvpn.com
 .constitutional.design
+.dns.containerpi.com
 .contassh.com
 .contentabc.com
 .dns.controld.com
@@ -966,6 +968,7 @@
 .crazyproxy.org
 .crazysurfer.info
 .createssh.com
+.createssh.net
 .criarssh.com
 .crownproxy.com
 .croxy.network
@@ -1013,7 +1016,6 @@
 .cybersilent.com
 .cyberssh.com
 .dns.cybertonic.tech
-.cynntex.fun
 .dns.cynthialabs.net
 .rammerhead.d-n-s.name
 .dns.d365.in
@@ -1103,6 +1105,7 @@
 .districtnewyork.com
 .divalane.com
 .divaloo.com
+.coolgams.dk-condos.com
 .kahoot.it.dmtr.ru
 .easydomain.dnet.hu
 .dns.expert
@@ -1110,6 +1113,7 @@
 .dns.pub
 .dns.sb
 .dns.watch
+.deep-sea.dns.navy
 .lawless-zone.dns.army
 .wolf-zone.dns.army
 .dns.dns-53.com
@@ -1228,6 +1232,7 @@
 .do.dnscrypt.uk
 .doh.dnscrypt.uk
 .v.dnscrypt.uk
+.dnsenc.com
 .dnsforfamily.com
 .dnsforge.de
 .dnsguard.pub
@@ -1298,6 +1303,7 @@
 .jurre-home.duckdns.org
 .krtekvpn.duckdns.org
 .osefcorp.duckdns.org
+.punono.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .blahaj.duia.us
@@ -1313,6 +1319,8 @@
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
+.gustamadh.dynv6.net
+.sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
 .vpn.dzarlax.dev
@@ -1338,6 +1346,7 @@
 .easyvpn.zone
 .ebookdz.com
 .ebumna.net
+.echous.info
 .ecoweb-network.com
 .ecxs.asia
 .steves-lava-chicken.edah.us
@@ -1450,7 +1459,9 @@
 .fastfreeproxy.info
 .nuclearvp.global.ssl.fastly.net
 .fastp.org
+.fastpro.info
 .fastproxy.nl
+.fastproxy.org
 .fastproxynetwork.com
 .fastssh.com
 .fasttime.info
@@ -1500,6 +1511,7 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flashpull.com
 .flashput.net
@@ -1544,6 +1556,7 @@
 .listings.fpp.realty
 .cosmogamy.fpr.net
 .frandcomfort.us
+.free-onlineproxy.com
 .free-proxy.com
 .free-proxy.cz
 .free-proxy.xyz
@@ -1608,6 +1621,7 @@
 .freevpnsoftware.net
 .freewebproxy.eu
 .freexite.com
+.freeyouproxytube.com
 .freeyoutube.net
 .dns.freopc.fr
 .dns.freyja.pw
@@ -1743,6 +1757,7 @@
 .dns-tunnel-check.googlezip.net
 .tunnel.googlezip.net
 .goosevpn.com
+.goproxy.asia
 .performance.gosami.xyz
 .vpn.gosami.xyz
 .goshadow.net
@@ -2599,6 +2614,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
