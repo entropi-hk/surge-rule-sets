@@ -274,6 +274,7 @@
 .al-nassr.shop
 .alaffia24.de
 .albadistribucionava.shop
+.albrechtmode.de
 .aldobolsasmexico.com
 .aldocanada.net
 .aldofashion.com
@@ -911,6 +912,7 @@
 .axilmbient.com
 .axiogenesis.com
 .axismakup.com
+.axl-staking.de
 .axnam.com
 .axonrcparts.com
 .axpsv.com
@@ -1374,6 +1376,7 @@
 .bforbroker.com
 .bforex.com
 .bfxoption.com
+.bgconsult.ch
 .bgtcchem.shop
 .bgukd.shop
 .bhajandarshan.com
@@ -1959,6 +1962,7 @@
 .calidaosterreich.at
 .californiawhitewine.store
 .calishop.de
+.callfy.net
 .caloubois.com
 .cambridgebathroom.com
 .camelactiveireland.com
@@ -3514,6 +3518,7 @@
 .edcmesser.com
 .eddiebauershop.de
 .edecon.net
+.edeka24de.com
 .edelkauf.com
 .edelmar.de
 .edelmetall-koeppen.de
@@ -3549,6 +3554,7 @@
 .efaststore.com
 .effiziente-taubenabwehr.at
 .eg-hofheim.de
+.egajeevz.shop
 .egapark-erfurt.com
 .ege-exquisit.de
 .eggelingen.de
@@ -4528,6 +4534,7 @@
 .fourteen-mediatop13.com
 .fox-handel.de
 .foxhandel.de
+.foxracing-eu-online.shop
 .foxrm.fr
 .fr-drbright.net
 .frachtaglogistics.com
@@ -4632,6 +4639,7 @@
 .fuehrungszeugnis.at
 .fuelglovet.com
 .fugitive.top
+.fuhrerschein-kaufenonline.com
 .fuitrpt.com
 .fulcio.fr
 .fullcarparts.com
@@ -4820,6 +4828,7 @@
 .gartenhandel-marsmann.de
 .gartenil.com
 .gartenira.com
+.gartenladende.com
 .gartenland-martens.de
 .gartenlands.com
 .gartenlandschaftladen.com
@@ -5435,6 +5444,7 @@
 .hallescheshausonline.shop
 .hallfua.store
 .hallhuberfr.com
+.halloween-maskenmanufaktur.de
 .halloweenpetticoats.com
 .halloweenpopculture.com
 .halloweens-de.com
@@ -6914,6 +6924,7 @@
 .knuddelkind.com
 .koala360.de
 .kobaltoutlet.com
+.kobanga.de
 .kobe-voitore.com
 .koch-handel24.de
 .koch-versand.de
@@ -6923,6 +6934,7 @@
 .kochkunsq.de
 .kochundschreinereu.shop
 .kochutensilienprofi.com
+.kodamaug.de
 .kodero.eu
 .kodex-versand.de
 .koedel-gartenbau.de
@@ -6955,6 +6967,7 @@
 .konsolen-markt.com
 .konsolen-markt.de
 .konsolenexperten.de
+.konsolenland.de
 .konsolenmarkt.com
 .konsolenwelt.com
 .konsoleplay.com
@@ -7188,6 +7201,7 @@
 .lautenberg-mode.de
 .lautsprecherkko.de
 .lavera-zurich.com
+.lavers.de
 .lavetir.at
 .lavina-berlin.de
 .laviza.de
@@ -7215,6 +7229,7 @@
 .leboutique24.de
 .lecker-box.de
 .lecohealth.com
+.lecoqsportifparis.fr
 .led-einbauleuchten.com
 .leder-hermann.com
 .lederhermann.com
@@ -7266,9 +7281,11 @@
 .lemsgermanysale.com
 .lemsschuhedeutschland.de
 .lena-leipzig.de
+.lena-moda.com
 .lenaborke.shop
 .lenahockson.com
 .lencos.net
+.lendowl.co
 .lennartkreutz.de
 .leoapotheke-detmold.de
 .leobabysoutlet.shop
@@ -7286,6 +7303,7 @@
 .lesboost.shop
 .lesburst.shop
 .leselounge-berlin.de
+.lesphacocheres.com
 .lesrouleaux.com
 .letfli.com
 .letsgoshop.de
@@ -7295,6 +7313,7 @@
 .levelbikes.de
 .levins-stockholm.com
 .levitra-20mg-priceof.online
+.levitraeurope.com
 .levonis.de
 .lexingtonplus.com
 .leyna-moda.de
@@ -7323,6 +7342,7 @@
 .lidleurireland.com
 .lidlnewshop.com
 .lidlpalace.com
+.lidora.de
 .lidueo.buzz
 .liebem.de
 .lieberklein.shop
@@ -7344,6 +7364,7 @@
 .lifesattributes.de
 .lifestyle-brands-us.com
 .lifestyle-leder.de
+.lifestylebicycle.com
 .lifestyleshoe.com
 .lifthe.com
 .liftique.de
@@ -7366,6 +7387,7 @@
 .lilymix.shop
 .lilyrun.com
 .lime-webagentur.net
+.limestonebd.com
 .limetree.at
 .limit-bicycle.com
 .limitedfishing.com
@@ -7404,6 +7426,7 @@
 .literalsmon.com
 .literaryi.com
 .litflare.de
+.litise.com
 .litroux.nl
 .litroux-de.com
 .littledreamersshop.com
@@ -7529,6 +7552,7 @@
 .loumo-shop.de
 .loungembelnic.de
 .lourdesocampoe.shop
+.louvreentrance.com
 .louvreticketsonline.com
 .lovandi.eu
 .lovaric.co
@@ -7557,12 +7581,14 @@
 .lowaschuhefabrikverkauf.de
 .lowashoes.cc
 .lowawanderschuhe.de
+.lowela.de
 .lowhikingboots.com
 .loxologyshop.com
 .lozenda.de
 .lpb-garten.de
 .lprhomes.com
 .lpteel.com
+.ls-rasenmeher.de
 .lsclinica.com
 .lse-client.com
 .ltelegia.com
@@ -7577,6 +7603,7 @@
 .luckmia.de
 .luckyyise.com
 .lucrabot-gpt.net
+.de.lucybreeze.com
 .luekeshoes.com
 .luffglasses.com
 .luftentfeuchterdewett.de
@@ -7592,6 +7619,7 @@
 .lumelia-de.com
 .lumendecor.de
 .lumentes.com
+.lumenz24.de
 .luminairedeals.com
 .luminara-mode.de
 .luminaraofficial.de
@@ -7613,6 +7641,7 @@
 .lutona.de
 .luuseal.de
 .luvelle.de
+.luvemo.de
 .luvinity-berlin.de
 .luvness.de
 .luvyle.com
@@ -7638,10 +7667,12 @@
 .luxuryholidaysvilla.com
 .luxuryvetements.com
 .luxurywatchoutlet.shop
+.luxus-berlin.de
 .luxus-love.com
 .luxusgeschenke24.com
 .luxushangematten.com
 .luxusleuchten.com
+.luxusuhren.to
 .luxwatch.store
 .luzuna.com
 .lvm-capital.com
@@ -7659,6 +7690,7 @@
 .mackagedenmark.com
 .mackageireland.com
 .mackagejacketcanada.com
+.mackageschweiz.com
 .macoens.com
 .macy-outletshop.com
 .madagascarpecas.com
@@ -7798,6 +7830,7 @@
 .marivaro.com
 .markeair.com
 .markenboss.de
+.market-discounts.com
 .market24prime.shop
 .marketbarogmbh.de
 .marketct.com
@@ -7830,6 +7863,7 @@
 .marta-paulbuy.shop
 .martialarts-plus.com
 .martincouture.ch
+.martinvince.com
 .martizz.store
 .marvelous-shopping.com
 .marylambert.shop
@@ -7873,6 +7907,7 @@
 .homegenius.mavilyxo.monster
 .mavyella.com
 .max-steroids.com
+.maxi-markt.com
 .maximuml.com
 .maxmedi.de
 .maxmotocenter.com
@@ -7932,6 +7967,7 @@
 .medilifescience.com
 .medimax-servicede.de
 .medimaxkontakt.de
+.medimaxstore.de
 .medina24.de
 .mediplus-berlin.de
 .medirezept.net
@@ -7986,6 +8022,7 @@
 .mein-vintage-kleid.de
 .meinautoprofi.at
 .meindl--schuhe.com
+.meindlosterreich.at
 .meindlschuhe.at
 .meindlschuhverkauf.com
 .meine-garten-oase.de
@@ -7997,6 +8034,7 @@
 .meinehundemarke.de
 .meineide.de
 .meinelbakonto.com
+.meinelektro.com
 .meinenamenskette.com
 .meinenaugenhelfen.com
 .meinesafebox.com
@@ -8007,6 +8045,7 @@
 .meinmodellshop.com
 .meinsmartshop.com
 .meintechnik.de
+.meinverpacker.de
 .meister-mode.de
 .meistermarket.com
 .meiteshop.com
@@ -8069,6 +8108,7 @@
 .merrells.de
 .merrellsandaalit.com
 .merrellsklepy.pl
+.mersse.com
 .mesa-estate.eu
 .messerladen.com
 .messershop24.com
@@ -8103,6 +8143,8 @@
 .mialea.de
 .miamarket.de
 .micaraaeu.shop
+.micardium-bio.com
+.micardium-at.micardiumhub.com
 .michael-mahr.de
 .michaelbarone.shop
 .michaelis-kauf.de
@@ -8113,6 +8155,7 @@
 .michaelkorssuisse.net
 .michelinsuisse.com
 .michellegleaves.com
+.mici-tech.de
 .micro-spiele.de
 .micromaniaonline.de
 .microstrategy27.com
@@ -8250,6 +8293,7 @@
 .modeboutiqueweber.de
 .modedisne.de
 .modeengels.de
+.modeglanz-dusseldorf.de
 .modehaus-beckers.de
 .modehaus-dresden.com
 .modehaus-dusseldorf.de
@@ -8343,6 +8387,7 @@
 .monstabellaeu.shop
 .monsterboxofficial.com
 .montanahudson.com
+.montaneoutdoor.com
 .montecjacke.de
 .monteconsale.at
 .montgerrar.com
@@ -8397,6 +8442,7 @@
 .mosshammer.shop
 .mostary.com
 .motel-miio.com
+.motionwish.com
 .motoculturedirecte.com
 .motoenthusiastsbase.com
 .motoequishop.com
@@ -8444,6 +8490,7 @@
 .muhs-spielwaren.com
 .muidi.com
 .mulfin-trade.io
+.muller-berlin.co
 .mullerr.de
 .mullersalzburg.com
 .multi-kredit.com
@@ -8487,6 +8534,7 @@
 .myalpins.com
 .portal.mybeautyplans.com
 .mybestjudymerch.com
+.mybitchain.com
 .mycarbon.cc
 .mycrypto24.com
 .mydailys.de
@@ -8646,6 +8694,7 @@
 .nativediscount.com
 .natur-held.de
 .natura-zuda.de
+.naturaevo.com
 .naturalcosmeticssales.com
 .naturallyh.com
 .naturallyk.com
@@ -8658,6 +8707,7 @@
 .naturinowien.at
 .naturkindershopdeeur.shop
 .naturkosmetik-werkstattcheap.shop
+.naturkraft-express.de
 .naturwaerme-karow.de
 .naumann-versand.com
 .nauticaromania.com
@@ -8681,6 +8731,7 @@
 .neckarhomeappliances.store
 .necklaceh.com
 .necklacek.com
+.nederlandse-apotheek.com
 .needsary.com
 .needtohike.com
 .neehy.com
@@ -8700,6 +8751,7 @@
 .dex.neovate6.com
 .doc.neovate7.com
 .neowatt.shop
+.neptun-media.de
 .neroo.de
 .nestrack.shop
 .maisdesconto.net.br
@@ -8806,6 +8858,7 @@
 .nicispielzeug.com
 .nicolasdelattre.com
 .nicole-mahler.de
+.nicole-modehaus.de
 .de3.nicozerv.com
 .nidworkers.com
 .niebowgebie.com
@@ -8825,6 +8878,7 @@
 .nikeshoesoutlet.gr
 .nikesuomi.com
 .nikesuomi-fi.com
+.nikesuomishop.com
 .niknfactory.com
 .nilamiwelp.com
 .nileloveet.live
@@ -8837,6 +8891,7 @@
 .ninjachemise.com
 .ninoplay.de
 .ninthcit.de
+.nitrocapitals.com
 .nitrosnowoutlet.shop
 .nittogeschaft.com
 .nivekco.com
@@ -8918,6 +8973,7 @@
 .noughtfrign.com
 .nourishwellnesspro.com
 .nouveauveloventefr.com
+.nouwd.com
 .nova-dusseldorf.de
 .nova-finance.net
 .nova-mia.de
@@ -9190,6 +9246,7 @@
 .oopoie.shop
 .opabitcoin.com
 .opcte.com
+.openai-trips-reserve.com
 .opengers.com
 .openmedicine-online.com
 .openmile.de
@@ -9406,6 +9463,7 @@
 .panamajackwien.at
 .panbrennholz.de
 .pandabrokersvip.com
+.pandaliebedeeu.shop
 .pandora-at.at
 .pandora-deutschland.de
 .pandoraaustria.at
@@ -9669,6 +9727,7 @@
 .plattenopaneele.de
 .plattenspielerde.de
 .platztellershop.com
+.plavonpvcdemak.com
 .play-stores.de
 .playbabytoys.com
 .playful-design.com
@@ -10169,6 +10228,7 @@
 .redaut.cc
 .redstarchain.com
 .reduktionszone.de
+.redwing.at
 .reebokaustralia.com
 .reedoo.net
 .reflectionu.com
@@ -10332,6 +10392,7 @@
 .ridingwheelde.com
 .riedel-bau.de
 .riege-bonbonladenundfeines.de
+.rieker--schuhe.com
 .rieker-berlin.com
 .rieker-de.com
 .rieker-eu.shop
@@ -10899,6 +10960,7 @@
 .sgpill.com
 .sgxaex.com
 .sh-vertrieb-ug.de
+.shaeskin.com
 .shaftcoins.com
 .shaktibharat.com
 .shaniasutherland.com
@@ -11236,6 +11298,7 @@
 .solarwind-shop.com
 .solauthentic.com
 .solden-hotels.com
+.solidarity-finanzierung.com
 .solidinvest.co
 .solobit.co
 .solofa.de
@@ -11298,6 +11361,7 @@
 .soundtek.eu
 .sowarmlife.com
 .sowaswillichauch.de
+.soyml.top
 .spaccej.com
 .space-tennis.com
 .spaceaistg.de
@@ -12753,6 +12817,7 @@
 .valuablem.com
 .valuablesale.com
 .valucase.com
+.valuevervehub.com
 .valurabeauty.com
 .valurabeauty.de
 .valutamarkets.com
@@ -13247,6 +13312,7 @@
 .weberoutlet.com
 .webersalzburg.at
 .weberundalbrecht.de
+.weberwien.at
 .webinar-universe.com
 .webmremedies.com
 .dogiweb.webnode.it

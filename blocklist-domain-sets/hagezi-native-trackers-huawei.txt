@@ -14,6 +14,9 @@
 .hisearch-drru.dt.dbankcloud.com
 .metrics.dt.dbankcloud.cn
 .metrics-dra.dt.dbankcloud.cn
+.metrics-dra.dt.dbankcloud.com
+.metrics-drcn.dt.dbankcloud.cn
+.metrics-drcn.dt.dbankcloud.com
 .metrics-dre.dt.dbankcloud.cn
 .metrics1-drcn.dt.dbankcloud.cn
 .grs.dbankcloud.asia
