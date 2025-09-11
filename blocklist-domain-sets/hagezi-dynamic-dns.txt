@@ -1363,6 +1363,7 @@
 .tvlinux.com
 .twilightparadox.com
 .twodns.de
+.twsuser.com
 .tzo.com
 .ucvradio.cl
 .udp64.de
@@ -1396,6 +1397,7 @@
 .vincomlimited.com
 .vitalwerks.com
 .vizvaz.com
+.voles35.ru
 .voyez.ca
 .vpn64.de
 .vpndns.net
