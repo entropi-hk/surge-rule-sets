@@ -322,7 +322,6 @@
 .dns.deadsec.net
 .dns.decky.eu
 .dns.decloudus.com
-.deep-henchman-excuse.cfd
 .doh.defaultroutes.de
 .dns.dekedin.me
 .adguard.dekonix.ru
@@ -517,7 +516,6 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -572,6 +570,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
 .dns.flightspace.net
@@ -597,7 +596,6 @@
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
-.adguard.gambini.org
 .dns.beta.gandi.net
 .gclouddns.com
 .adg.geili.me

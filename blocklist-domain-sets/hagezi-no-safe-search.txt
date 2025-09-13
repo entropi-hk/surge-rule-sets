@@ -45,6 +45,7 @@
 .search.dojoro.de
 .searx.doofpot.nl
 .search.dr460nf1r3.org
+.wgl.frail.duckdns.org
 .dynabyte.ca
 .searx.elukerio.org
 .searx.ericaftereric.top
@@ -143,6 +144,7 @@
 .searx.si
 .searx.work
 .searx.xyz
+.searxzh.cn
 .search.seds.nl
 .searx.semipvt.com
 .search.sethforprivacy.com

@@ -1237,6 +1237,8 @@
 .biggapan.tv
 .bigtorrent.org
 .bigtracker.org
+.bigwarp.io
+.bigwarp.pro
 .bilasport.net
 .bilibt.com
 .binarylord.com
@@ -1583,6 +1585,7 @@
 .bttrove.org
 .tracker.btzero.net
 .btzone.org
+.bubarindpr.com
 .buchkammer.sbs
 .buddycenters.shop
 .buddyfly.top
@@ -1599,6 +1602,8 @@
 .bunkr.tv
 .buny.uk
 .torrent.burgas.org
+.burning-series.io
+.burning-series.net
 .burningseries.co
 .burningseries.domains
 .burningseries.ma
@@ -1995,6 +2000,7 @@
 .clipmovie.org
 .clonebits.org
 .clonehub.org
+.cloudatacdn.com
 .tracker.cloudbase.store
 .cloudboxes.io
 .cloudtorrents.com
@@ -2465,6 +2471,7 @@
 .ddownload.com
 .tracker.ddunlimited.net
 .ddwarez.com
+.loveintheholyquran.de.com
 .deadfrog.us
 .fe.dealclub.de
 .deamonbytes.net
@@ -2878,12 +2885,16 @@
 .drivec.ru
 .drop.download
 .dropapk.to
+.dropcdn.io
 .dropgalaxy.vip
+.dropload.tv
+.droply.top
 .droskop.com
 .drumkitx.com
 .drunkenslug.com
 .tracker.ds.is
 .ds2play.com
+.dsimgcdn.com
 .open.dstud.io
 .dtbook.shop
 .dtvd.net
@@ -3121,6 +3132,7 @@
 .ettvtorrents.com
 .bollywood.eu.org
 .kingtam.eu.org
+.kodomo55.eu.com
 .1cc.kr.eu.org
 .rapidleech2011.eu.ki
 .torrent.eu.org
@@ -3128,6 +3140,8 @@
 .1.tracker.eu.org
 .2.tracker.eu.org
 .3.tracker.eu.org
+.4.tracker.eu.org
+.turiyabrucesta.eu.com
 .euro2024direct.ru
 .euroddl.com
 .euromovies.me
@@ -4057,6 +4071,8 @@
 .tracker.gcvchp.com
 .gdekino.me
 .tracker.gdp.pw
+.gdplayer.to
+.gdplayer.top
 .gdrivedl.xyz
 .gdrivemovies.xyz
 .gdtorrent.com
@@ -4542,6 +4558,7 @@
 .hexagon.cc
 .yann5.hexanyn.fr
 .hexari.com
+.hexload.com
 .hexrom.com
 .heydos.cc
 .hgzone.ro
@@ -4840,7 +4857,6 @@
 .iptvprova.com
 .iptvsource.com
 .iptvstream.tv
-.api.ipv4online.uk
 .tracker.ipv6tracker.org
 .tracker.ipv6tracker.ru
 .download.iq24.pl
@@ -5013,6 +5029,7 @@
 .kapitalsin.com
 .karagarga.net
 .karanpc.com
+.karmakurama.com
 .karsannet.com
 .kastatus.com
 .kat.li
@@ -5170,6 +5187,7 @@
 .kinox.codes
 .kinox.cool
 .kinox.day
+.kinox.deals
 .kinox.dog
 .kinox.film
 .kinox.fit
@@ -5487,6 +5505,7 @@
 .load.to
 .loadbaba.com
 .tracker.logirl.moe
+.lolfile.xyz
 .open.lolicon.eu
 .tracker.loligirl.cn
 .lolokino.biz
@@ -5664,6 +5683,7 @@
 .matrix-virovitica.com
 .mawtoload.com
 .max-rls.com
+.max2013schweiz.club
 .maxseries.top
 .maxseries.xyz
 .maxwarez.ru
@@ -7770,6 +7790,7 @@
 .save-free.com
 .saveas.co
 .savebt.com
+.savefiles.com
 .savefrom.bz
 .saveig.in
 .saveitfrom.com
@@ -8399,6 +8420,7 @@
 .streamerflix.xyz
 .streamflix.one
 .streamflix.space
+.streamhls.to
 .streamhunter.net
 .streamhunter.to
 .streamhunters.com
@@ -8574,6 +8596,7 @@
 .streamonsport.net
 .streamonsport28.xyz
 .streamoz.me
+.streamruby.com
 .streamshunters.com
 .streamsthunder.tv
 .streamtape.com
@@ -9925,6 +9948,8 @@
 .veday.fun
 .vedek.pro
 .vedohd.uno
+.veev.to
+.veevcdn.co
 .vegamovies.ac
 .vegamovies.ad
 .vegamovies.ae
@@ -10299,7 +10324,10 @@
 .vigorish.ru
 .vikv.net
 .vimm.net
+.vincdn.net
 .vinema.ru
+.vinovo.si
+.vinovo.to
 .vip-file.com
 .vip-league.net
 .vipbox.bz
@@ -10336,6 +10364,7 @@
 .vmovee.me
 .vmovee.watch
 .vmovie.biz
+.vmrange.lat
 .vmwesa.online
 .vod78d.club
 .vodfilms.rip
@@ -10742,6 +10771,7 @@
 .xmovies8.si
 .xn--80a4b.com
 .xn--950bz4kqroyzjblb.com
+.tracker.xn--djrq4gl4hvoi.top
 .xn--firstrowsport-8xe.eu
 .budvartrekker.xn-s.eu
 .hd-hu.xn-s.eu

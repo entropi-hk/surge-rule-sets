@@ -1064,7 +1064,6 @@
 .www-plo.declan-reid.me
 .dns.decloudus.com
 .lol-asha.dedyn.io
-.deep-henchman-excuse.cfd
 .deepwebvpn.net
 .doh.defaultroutes.de
 .colson.defcon-industries.com
@@ -1324,7 +1323,6 @@
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
-.gustamadh.dynv6.net
 .sagamihara.dynv6.net
 .t9rke-5zq1m.dynv6.net
 .dns.dynx.pro
@@ -1518,6 +1516,7 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
+.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flashpull.com
 .flashput.net
@@ -1656,7 +1655,6 @@
 .bu-abdulla.gafton.eu
 .galacticspace.galaxysoft.ro
 .dns.gamban.com
-.adguard.gambini.org
 .proxy.gamecove.net
 .gamers-nor.com
 .work.quiz.gamersuk.org
