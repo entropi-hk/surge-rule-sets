@@ -1052,6 +1052,10 @@
 .httpdns.platform.dbankcloud.cn
 .httpdns.platform.dbankcloud.com
 .httpdns-browser.platform.dbankcloud.cn
+.wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
+.httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn
+.httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn
+.httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
 .cloudflares.ddns.net
 .jit.ddns.net
 .zrd.ddns.net
@@ -1516,7 +1520,6 @@
 .fitnessdepotprices.com
 .chart.books.fivepals.com
 .fixproxy.com
-.dns.fizz.studio
 .gothgirlsareawesome.flamex.hm
 .flashpull.com
 .flashput.net
@@ -1655,6 +1658,7 @@
 .bu-abdulla.gafton.eu
 .galacticspace.galaxysoft.ro
 .dns.gamban.com
+.adguard.gambini.org
 .proxy.gamecove.net
 .gamers-nor.com
 .work.quiz.gamersuk.org
@@ -2641,6 +2645,7 @@
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
 .mzhlhrfr8z.info
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .recap.class.nadiaplatform.com
