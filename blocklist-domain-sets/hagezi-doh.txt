@@ -298,7 +298,6 @@
 .qual.cuprum.ru
 .dns.cwlys.com
 .dns.cybertonic.tech
-.cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
 .dns.d4d.moe
@@ -520,6 +519,7 @@
 .dns.dyn1.de
 .ueni.dyndns.org
 .resolver2.dyndnsinternetguide.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .dnscache.e-utp.net
 .adguard.easez.net
@@ -529,7 +529,6 @@
 .dns.edgeburnmedia.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -574,6 +573,7 @@
 .dns.ffnw.de
 .fidelius.top
 .dns.filipccz.eu
+.dns.fizz.studio
 .doh.flashstart.com
 .dns.flatuslifir.is
 .dns.flightspace.net
@@ -761,7 +761,6 @@
 .kavkaz.monster
 .dns.kawa.tf
 .dns.kebree.fr
-.doh.kekew.info
 .doh.kel.pe
 .dns.kerekes.xyz
 .dns.kernel-error.de
@@ -929,7 +928,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net

@@ -173,7 +173,6 @@
 .ieonline.microsoft.com
 .location.microsoft.com
 .redir.metaservices.microsoft.com
-.geover-prod.do.dsp.mp.microsoft.com
 .track.mp.microsoft.com
 .msadsscale.microsoft.com
 .oca.microsoft.com
