@@ -405,7 +405,6 @@
 .abandon5000.com
 .abandonhouse.com
 .abbaspc.net
-.abbasport.site
 .abcflixbd.com
 .crazyhack.abclan.com
 .abcmovies.tv
@@ -417,7 +416,6 @@
 .tr.abir.ga
 .abnctg.net
 .abnzb.com
-.aboutbeautifulgallopinghorsesinthegreenpasture.online
 .abrokegamer.com
 .abtorrents.com
 .tracker.aburaya.live
@@ -464,7 +462,6 @@
 .afdah.live
 .afdah.org
 .afdah.to
-.afdah.tv
 .afdah.video
 .afdah.ws
 .afdah2.com
@@ -489,6 +486,7 @@
 .akkadukka.com
 .aklivetv.com
 .alabout.com
+.tracker.alaskantf.com
 .aletorrenty.pl
 .alex-warez.ru
 .alexlan.org
@@ -1271,7 +1269,6 @@
 .bitdl.ir
 .bitemytorrent.com
 .bitenova.org
-.bitestreams.net
 .bitfellas.org
 .bitflamers.com
 .bitgamer.com
@@ -1516,7 +1513,6 @@
 .boxpirates.to
 .boxset.ru
 .boxtorrents.com
-.boxtv60.com
 .braflix.gd
 .braflix.ru
 .braflix.st
@@ -1624,13 +1620,9 @@
 .byrutgame.org
 .byte.to
 .bytecollectors.com
-.bytelist.org
 .bandito.byterunner.io
 .byxatab.com
 .byxatab.org
-.anti.c.la
-.digitalwarez.c.la
-.ignition-board.c.la
 .war-graphique.c.la
 .c1anime.net
 .c1live.com
@@ -1754,7 +1746,6 @@
 .cb01.online
 .cb01.org
 .cb01.photos
-.cb01.press
 .cb01.pw
 .cb01.racing
 .cb01.red
@@ -1776,7 +1767,6 @@
 .cb01.video
 .cb01.vip
 .cb01.wales
-.cb01.wiki
 .cb01.work
 .cb01.world
 .cb01.ws
@@ -1849,7 +1839,6 @@
 .cineblog01.casa
 .cineblog01.cc
 .cineblog01.cfd
-.cineblog01.christmas
 .cineblog01.claims
 .cineblog01.clinic
 .cineblog01.cloud
@@ -1874,8 +1863,6 @@
 .cineblog01.feedback
 .cineblog01.fm
 .cineblog01.fun
-.cineblog01.futbol
-.cineblog01.hair
 .cineblog01.haus
 .cineblog01.in
 .cineblog01.info
@@ -2186,7 +2173,6 @@
 .couchtuner.space
 .couchtuner0.com
 .courseclub.me
-.mp3.couver.ru
 .cpasbien.bz
 .cpasbien.ch
 .cpasbien.cm
@@ -2316,7 +2302,6 @@
 .crocdb.net
 .crocovid.com
 .crohasit.net
-.cross.moe
 .crosstowntorrents.org
 .crotorrents.com
 .crownbit.cc
@@ -2379,11 +2364,9 @@
 .d-addicts.com
 .d-s.io
 .d0000d.com
-.d123movies.to
 .d4download.com
 .bingoportal.da.ru
 .daddylive.sx
-.daddylivehd1.click
 .daddylivestream.com
 .daddyny.com
 .dadyflix.co
@@ -2400,7 +2383,6 @@
 .darkanime.stream
 .darkarea.pl
 .darkbooter.com
-.darkbox.to
 .darkdata.net
 .darkino.co
 .darklight.to
@@ -8701,7 +8683,6 @@
 .swteam.ws
 .syfiles.com
 .bestoflinks.synology.me
-.ibksturm.synology.me
 .syria-live.us
 .sidewinderx.sytes.net
 .thebazaar.sytes.net
@@ -9081,6 +9062,7 @@
 .tlgetin.cc
 .tlm-project.org
 .tlt-torrent.ru
+.tracker.tnl.one
 .tntmac.com
 .tnttorrent.info
 .tntvillage.org
