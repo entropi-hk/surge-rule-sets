@@ -148,6 +148,7 @@
 .ore-dns.bitdefender.net
 .tky-dns.bitdefender.net
 .dns.bitservices.io
+.adguard.bitteeinbyte.de
 .dns-tls.bitwiseshift.net
 .2.dnscrypt-cert.blahdns.com
 .doh.blahdns.com
@@ -297,6 +298,7 @@
 .qual.cuprum.ru
 .dns.cwlys.com
 .dns.cybertonic.tech
+.cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
 .dns.d4d.moe
@@ -526,6 +528,7 @@
 .dns.edgeburnmedia.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
+.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -572,7 +575,6 @@
 .dns.filipccz.eu
 .doh.flashstart.com
 .dns.flatuslifir.is
-.dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
 .ns2.flodns.net
@@ -799,7 +801,6 @@
 .us1.dns.lavate.ch
 .iterator.lazada.com
 .adguard1.leadmon.net
-.adguard.leadseason.eu
 .adblock.leenit.kr
 .yarp.lefolgoc.net
 .br.servers.legat.ml
@@ -899,7 +900,6 @@
 .morbitzer.de
 .dns.mrkaran.dev
 .msr177.com
-.dns.msxnet.ru
 .dns.mtoo.vip
 .ns.mtsoln.com
 .dns.mullvad.net
@@ -924,6 +924,7 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
+.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -1470,6 +1471,7 @@
 .adguard-kartoffel.zernico.de
 .dns.zfsystem.tech
 .doh.zknt.org
+.zougloub.eu
 .dns.zui.lol
 .httpdns.zybang.com
 .dns.zzuhacker.cn

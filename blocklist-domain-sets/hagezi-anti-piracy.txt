@@ -486,7 +486,6 @@
 .akkadukka.com
 .aklivetv.com
 .alabout.com
-.tracker.alaskantf.com
 .aletorrenty.pl
 .alex-warez.ru
 .alexlan.org
@@ -2307,6 +2306,7 @@
 .crownbit.cc
 .crsky.net
 .packages.crunchbangplusplus.org
+.cruscros.me
 .tpb.crushus.com
 .cruzing.xyz
 .tracker.cryptichaven.org
@@ -3657,7 +3657,6 @@
 .flashfilmes.org
 .flashfilms-hd.com
 .flashfilms-hd.top
-.flashnetbd.com
 .flashtorrents.org
 .flemmix.sbs
 .flenix.net
@@ -3748,7 +3747,6 @@
 .fmoviesz-to.com
 .fmoviez.org
 .fmwhatsapp.net
-.fmytv.com
 .fn-bd.com
 .fnetctg.com
 .fnfonlinebd.com
@@ -3989,7 +3987,6 @@
 .gamato.info
 .game-2u.com
 .game-files.net
-.game-films.org
 .game-torrent.info
 .game3rb.com
 .gamebounty.world
@@ -4148,7 +4145,6 @@
 .gm-realm.net
 .tracker.gmi.gd
 .gmovies.cc
-.gmovies.xyz
 .gmt-max.org
 .gnetworkbd.com
 .gnula.life
@@ -4331,7 +4327,6 @@
 .guardaserie.toys
 .guardaserie.us
 .guardaserie.vg
-.guardaserie.video
 .guardaserie.vip
 .guardaserie.watch
 .guardaserie.website
@@ -4498,7 +4493,6 @@
 .tracker.hdstreet.club
 .tracker.hdtime.org
 .hdtoday.cc
-.hdtoday.to
 .hdtoday.tv
 .hdtodaytv.tv
 .hdtorrents.it
@@ -4728,7 +4722,6 @@
 .ilgeniodellostreaming.re
 .ilgeniodellostreaming.sale
 .ilgeniodellostreaming.sbs
-.ilgeniodellostreaming.se
 .ilgeniodellostreaming.site
 .ilgeniodellostreaming.skin
 .ilgeniodellostreaming.stream
@@ -4745,12 +4738,10 @@
 .ilgeniodellostreaming.wiki
 .ilgeniodellostreaming.ws
 .ilgeniodellostreaming.xyz
-.illimite-streaming.com
 .illimitestreaming.co
 .illimitestreaming.fr
 .illuminatenboard.com
 .ilovekino.online
-.ilovetoplay.xyz
 .ilovetorrents.com
 .ilsearch.com
 .imastudios.com
@@ -5024,7 +5015,6 @@
 .katfile.com
 .kati3kat.tube
 .katmoviehd.ac
-.katmoviehd.fi
 .katmoviehd.nl
 .katmoviehd.run
 .katmoviehd.vin
@@ -5081,7 +5071,6 @@
 .kickassanime.rs
 .kickassto.cc
 .kickassto.co
-.kickasstorrent.bid
 .kickasstorrent.cr
 .kickasstorrent.eu
 .kickasstorrent.ph
@@ -5173,7 +5162,6 @@
 .kinox.deals
 .kinox.dog
 .kinox.film
-.kinox.fit
 .kinox.foo
 .kinox.food
 .kinox.fun
@@ -5187,7 +5175,6 @@
 .kinox.lol
 .kinox.love
 .kinox.me
-.kinox.my
 .kinox.navy
 .kinox.now
 .kinox.nu
@@ -5379,7 +5366,6 @@
 .liberty-land.net
 .libertyland.al
 .libertyland.one
-.libertyvf.com
 .libertyvf.net
 .libertyvf.org
 .libgen.is
@@ -5498,25 +5484,16 @@
 .lonkero.info
 .lookmovie.ag
 .lookmovie.art
-.lookmovie.buzz
-.lookmovie.clinic
 .lookmovie.com
-.lookmovie.digital
-.lookmovie.download
 .lookmovie.foundation
 .lookmovie.fun
-.lookmovie.fyi
-.lookmovie.guru
 .lookmovie.io
 .lookmovie.la
-.lookmovie.media
-.lookmovie.mobi
 .lookmovie.store
 .lookmovie.studio
 .lookmovie2.la
 .lookmovie2.site
 .lookmovie2.to
-.lookmoviess.com
 .lordfilmhd.lol
 .qg.lorzl.gq
 .losmovies.app
@@ -5735,7 +5712,6 @@
 .megakino.plus
 .megakino.pro
 .megakino.pw
-.megakino.red
 .megakino.rip
 .megakino.show
 .megakino.si
@@ -6044,9 +6020,7 @@
 .movies7.to
 .moviesb4time.biz
 .moviesbark.com
-.moviescene.cc
 .moviesco.cc
-.moviescouch.co
 .moviescounterhd.club
 .moviesdvdr.co
 .moviesdvdr.com
@@ -6078,7 +6052,6 @@
 .moviesus.net
 .movieswatch.xyz
 .movieswbb.com
-.moviesyify.org
 .movieszone.org
 .movietly.com
 .movietorrent.co
@@ -10253,6 +10226,7 @@
 .vide0.me
 .vide0.net
 .vide0.pro
+.vide10.com
 .videe.vip
 .vidembed.net
 .videobin.co
