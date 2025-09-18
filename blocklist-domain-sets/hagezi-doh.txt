@@ -297,7 +297,6 @@
 .cubedns.com
 .qual.cuprum.ru
 .dns.cwlys.com
-.dns.cybertonic.tech
 .cynntex.fun
 .dns.cynthialabs.net
 .dns.d365.in
@@ -528,7 +527,6 @@
 .dns.edgeburnmedia.com
 .dns.tuna.tsinghua.edu.cn
 .adguard.ef67daisuki.club
-.dns.efficientdocuments.com
 .hole.elbschloss.xyz
 .dns.elemental.software
 .eliatofani.ovh
@@ -924,7 +922,6 @@
 .blackhole.myon.lu
 .area51.mywire.org
 .fwgw.orangepipc.mywire.org
-.dns.mzjtechnology.com
 .dns.mzrme.cn
 .dns.n23.io
 .doh-ca.naftalie.net
@@ -1312,7 +1309,7 @@
 .dns.surfsharkdns.com
 .dns.sv-zauner.at
 .dns.svoi.dev
-.switch.ch
+.dns.switch.ch
 .dns.sy.st
 .dns.syaifullah.com
 .ibksturm.synology.me
