@@ -809,6 +809,7 @@
 .dns0.eu
 .doh.dns4all.eu
 .doq.dns4all.eu
+.doq64.dns4all.eu
 .dns4me.net
 .adguard-koe.dns64.de
 .dns8.org
@@ -1054,7 +1055,6 @@
 .dorkanddoodle.duckdns.org
 .eweyo.duckdns.org
 .genielee.duckdns.org
-.home27.duckdns.org
 .jfeoks.duckdns.org
 .jurre-home.duckdns.org
 .kalwat.duckdns.org
@@ -1073,7 +1073,6 @@
 .quanmeme.duckdns.org
 .salvadoserver.duckdns.org
 .site-2.duckdns.org
-.tuandns.duckdns.org
 .tungdnsne.duckdns.org
 .unixfox.duckdns.org
 .wisehomeguard.duckdns.org
@@ -1099,7 +1098,6 @@
 .oostelbos.dynu.com
 .quangdo92.dynu.net
 .saomai.dynu.com
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .adg.dz.ax
 .az.dz4fun.top
@@ -1112,7 +1110,6 @@
 .doh.eddi.net
 .dns.edgeburnmedia.com
 .dns.edgeworkssystems.ca
-.dns.edgy.network
 .dns.edison42.dev
 .agh.amber.edu.vn
 .dns.tuna.tsinghua.edu.cn
@@ -1238,6 +1235,7 @@
 .doh.ffmuc.net
 .dot.ffmuc.net
 .dns.ffnw.de
+.dns.fgbk.net
 .fidelius.top
 .dns.fifux.be
 .vps.filatov.link
@@ -1310,7 +1308,6 @@
 .cluster-0.gac.edu
 .cluster-1.gac.edu
 .dns.gamban.com
-.adguard.gambini.org
 .d.gametechnet.com
 .dns.api.gandi.net
 .dns.beta.gandi.net
@@ -1855,7 +1852,6 @@
 .flat.loisy.it
 .nas-fusion.loisy.it
 .an.loliconapp.top
-.adguard.londonwebnerd.cloud
 .doh.dns1.lonet.org
 .doh.phdns1.lonet.org
 .doh.phdns2.lonet.org
@@ -2603,7 +2599,6 @@
 .dns.romain.tech
 .dns.ronc.ru
 .dns.root.me
-.dns.rootlab.top
 .dns.rotunneling.net
 .adguard.rowdyengeesje.nl
 .roycom.win
@@ -2971,7 +2966,6 @@
 .truta.org
 .swe.try-dns.com
 .dns.tryk.app
-.adg.tshost.no
 .net.tt6.net
 .doh.ibr.cs.tu-bs.de
 .dns.tuankhaiit.com
