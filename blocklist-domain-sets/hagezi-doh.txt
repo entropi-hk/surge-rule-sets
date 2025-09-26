@@ -1110,7 +1110,6 @@
 .doh.eddi.net
 .dns.edgeburnmedia.com
 .dns.edgeworkssystems.ca
-.dns.edgy.network
 .dns.edison42.dev
 .agh.amber.edu.vn
 .dns.tuna.tsinghua.edu.cn

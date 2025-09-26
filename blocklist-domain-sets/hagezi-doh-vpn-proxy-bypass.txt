@@ -1912,7 +1912,6 @@
 .dns.edgeburnmedia.com
 .edgedcircles.com
 .dns.edgeworkssystems.ca
-.dns.edgy.network
 .dns.edison42.dev
 .edpuzzle.space
 .agh.amber.edu.vn
