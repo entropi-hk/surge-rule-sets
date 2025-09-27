@@ -45,7 +45,6 @@
 .search.dojoro.de
 .searx.doofpot.nl
 .search.dr460nf1r3.org
-.wgl.frail.duckdns.org
 .dynabyte.ca
 .searx.elukerio.org
 .searx.ericaftereric.top
@@ -74,9 +73,7 @@
 .trovu.komun.org
 .search.laksith.dev
 .searx.lavatech.top
-.librex.me
 .searx.linux.pizza
-.searx.louifox.house
 .lukol.com
 .whoogle.lunar.icu
 .searx.lwhr.xyz
@@ -96,7 +93,6 @@
 .mojeek.com
 .searx.monicz.pl
 .mwmbl.org
-.librex.myroware.eu
 .searx.nakhan.net
 .search.nebulacentre.net
 .neeva.com

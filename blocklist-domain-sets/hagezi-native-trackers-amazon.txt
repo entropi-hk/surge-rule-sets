@@ -61,6 +61,7 @@
 .aax-us-pdx-rtb-adx.amazon-adsystem.com
 .aax-us-pdx-rtb.amazon-adsystem.com
 .aax-us-pdx.amazon-adsystem.com
+.aax-us-west-2-ott.amazon-adsystem.amazon.com
 .aax-us-west-dtb-mobile-events.amazon-adsystem.com
 .aax-us-west-dtb-mobile.amazon-adsystem.com
 .aax-us-west-ott-events.amazon-adsystem.com

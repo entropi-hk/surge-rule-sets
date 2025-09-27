@@ -2502,6 +2502,7 @@
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
 .tr-zhuqiy-2.dgj055.icu
+.tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
@@ -4920,6 +4921,7 @@
 .tracker.jordan.im
 .journeyman.tv
 .retracker.joxnet.ru
+.joyra380som.com
 .joytorrent.com
 .jpmangas.co
 .jpopsuki.eu
@@ -5383,6 +5385,7 @@
 .liteapke.com
 .liteapks.com
 .liteapks.mobi
+.litemodapk.com
 .live-kooora-tv.com
 .live-kooora-tv.net
 .live-koora.online
@@ -5803,6 +5806,7 @@
 .mkvcinemas.kim
 .mkvcinemas.kiwi
 .mkvcinemas.men
+.mkvcinemas.prof
 .mkvcinemas.red
 .mkvcinemas.tw
 .mkvdrama.org
@@ -5842,6 +5846,7 @@
 .modcombo.com
 .modded-1.com
 .moddedguru.com
+.moddedspotify.link
 .modder.me
 .moddroid.com
 .moddroid.io
@@ -8468,6 +8473,7 @@
 .streamingcommunityz.chat
 .streamingcommunityz.city
 .streamingcommunityz.com
+.streamingcommunityz.cz
 .streamingcommunityz.date
 .streamingcommunityz.info
 .streamingdivx.ch
