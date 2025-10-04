@@ -1913,7 +1913,6 @@
 .fiberproxy.us
 .fidelius.top
 .dns.fifux.be
-.vps.filatov.link
 .filesdownloader.com
 .dns.filipccz.eu
 .filipinoray.com
@@ -1958,7 +1957,6 @@
 .hk154.flyzhouyc.win
 .jp193.flyzhouyc.win
 .st.flyzhouyc.win
-.schoolnotes.followork.net
 .gateway.fomichev.cloud
 .for-privacy.net
 .rf4.forestberrypi.com
@@ -2115,7 +2113,6 @@
 .nodes.gen4.ninja
 .genmirror.com
 .genscorp.es
-.geoguessr.lol
 .adfree-games-at.geometry-games.online
 .browser.geometry-games.online
 .play-games-at.geometry-games.online
@@ -2235,7 +2232,6 @@
 .gotoproxy.com
 .fisdinstructure.gotroot.pw
 .gotrusted.com
-.fractioncaculator.govt.hu
 .gowork.info
 .gpreport.us
 .gracarno.com
@@ -2247,7 +2243,6 @@
 .gratisproxy.nl
 .gratisvpn.com
 .graveofhope.ru
-.greatestfreeproxy.com
 .dns.green-ping.lol
 .adguard.green1052.com
 .greenproxy.net
@@ -2276,10 +2271,8 @@
 .guestappearance.us
 .guidetoworld.link
 .dns2.guidocioni.it
-.intertravel.guillaumevanstrydonck.be
 .homedns.gumeniuk.com
 .gumm.org
-.domain.guojinloong.cn
 .dns.gupthabrothers.in
 .guruproxy.net
 .dns.gussguss.ovh
@@ -2289,7 +2282,6 @@
 .gwopboyded.com
 .gztech.me
 .h-vpn.org
-.schoolnotes.h0rst.us
 .dns.h0schi.cloud
 .dns2.h0schi.cloud
 .potatojuice.h0stname.net
@@ -2299,7 +2291,6 @@
 .adg-swe.h4nt3r.com
 .adguard.h4nt3r.com
 .furnandoistrans.hackquest.com
-.gopeople.hackquest.com
 .ns1.hadan-dns.de
 .dns.hahnjo.de
 .dns.haka.se
@@ -2334,7 +2325,6 @@
 .dns.hee.ink
 .carolinareaper.heeremans.net
 .office.heimtec.com
-.us-ny-alula.heliumcloud.cc
 .sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 .dns.hellozhao.com
 .helphideme.com
@@ -2415,7 +2405,6 @@
 .ns2.hjk.me
 .jpdns.hker.me
 .hmavpn.com
-.dns.hnsfwlkj.com
 .dns.ho.al
 .adguard.hoangcongchuc.com
 .pihole1.hoerli.net
@@ -2565,7 +2554,6 @@
 .ilumu.com
 .ilysk.lol
 .dns.imaicool.com
-.doh.imaletion.de
 .noads.imbuffering.com
 .dns.imchristian.de
 .dns1.imkvq.com
@@ -2588,7 +2576,6 @@
 .adblock.indianets.net
 .indiaproxy.win
 .indo-ssh.com
-.dns.indust.me
 .dns.indybanipal.com
 .dns.inforlogia.com
 .doh.infracell.net
@@ -2608,7 +2595,6 @@
 .qlf-doh.inria.fr
 .d1.insec.link
 .srv.insec.link
-.dns.insigne.solutions
 .premiumtier-network.instadart.net
 .instant-vpn.com
 .instantunblock.com
@@ -2624,7 +2610,6 @@
 .invisv.com
 .ion.pm
 .dns.cloud.ionutl.ro
-.dns.ios.so
 .ioxy.de
 .iozoi.cn
 .ipbuzz.net
@@ -2752,7 +2737,6 @@
 .home.jobytan.com
 .dns.joey01245.nl
 .vpn.jogjacloud.com
-.adguard.johanliebert.top
 .dns.johndave.me
 .johneldenring.lol
 .child.joindns4.eu
@@ -2760,7 +2744,6 @@
 .noads.joindns4.eu
 .protective.joindns4.eu
 .unfiltered.joindns4.eu
-.joker81fansbase.site
 .opencdn.jomodns.com
 .joouddo.ru
 .josephfamily.org
@@ -2790,7 +2773,6 @@
 .ad.justincounts.com
 .dns.justinnetworkingsolutions.com
 .sciencerocks.justlearning.net
-.gcpsk12.k.vu
 .uto1.k.vu
 .adguard.k-likhachev.ru
 .kind-fox-975.k12biology.com
@@ -2829,7 +2811,6 @@
 .kellerbier-home.com
 .dns.kellys.pw
 .kennethhuang.com
-.kepard.com
 .dns.kerekes.xyz
 .dns.kernel-error.de
 .dns.kescher.at
@@ -2892,7 +2873,6 @@
 .dns.kpsn.dev
 .pips.kpsn.org
 .adblock.krctech.dev
-.dns.kremzein.com
 .dns.kriswerry.nl
 .xray.krnl.eu
 .dns.krol.cloud
@@ -2906,7 +2886,6 @@
 .agh.kul-lippek.de
 .dns.kusoneko.moe
 .dns.kuuhaku.moe
-.kx-97795-tr.xyz
 .dns.kxy.ink
 .dn.kyay006.cn
 .joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org
@@ -3046,7 +3025,6 @@
 .lukscasino-542-tr.xyz
 .dns.lululu.dev
 .dns.luma-medien.com
-.lumes.jp
 .luminati.io
 .luminatinet.com
 .pure.lunetra.online
@@ -3163,7 +3141,6 @@
 .httpdnsvip.meituan.com
 .dns.melvin2204.nl
 .membean.cf
-.mendozasdelivery.com
 .meowless.club
 .researchedu.mesaayuda.net
 .testaghome.meshkov.info
@@ -3196,7 +3173,6 @@
 .ukns.milangas2.top
 .dns.milkpie.one
 .hihihi.minecraftnoob.com
-.nibba.minecraftnoob.com
 .aitkcrev.minhduc.pw
 .minilla.store
 .miniprox.com
@@ -3225,7 +3201,6 @@
 .doh.us.moe.tips
 .www-nsc.moebh.me
 .adguard.mokocup.dev
-.only-shooting-stars-breakthe.moldeo.org
 .dns.molinero.dev
 .naganohara-yoimiya.momokko.moe
 .dns.momou.ch
