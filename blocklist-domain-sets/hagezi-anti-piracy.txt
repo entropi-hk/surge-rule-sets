@@ -1969,6 +1969,7 @@
 .cmovieshd.net
 .cmovieshd.vip
 .cnetworkbd.net
+.cny.fan
 .321movies.co.uk
 .althub.co.za
 .an1.co.in
@@ -8954,7 +8955,6 @@
 .swteam.ws
 .syfiles.com
 .bestoflinks.synology.me
-.ibksturm.synology.me
 .syria-live.us
 .sidewinderx.sytes.net
 .thebazaar.sytes.net
