@@ -214,6 +214,7 @@
 .httpdns.alicdn.com
 .alidns.com
 .dns.aliyun.com
+.resolvers-cn.httpdns.aliyuncs.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
 .alleesph.online
@@ -2069,6 +2070,8 @@
 .v2202405224322270920.megasrv.de
 .ovhcloud.mehmetarikan.tech
 .httpdns.meituan.com
+.httpdnsmultiapi.meituan.com
+.httpdnsmultiapivip.meituan.com
 .httpdnsvip.meituan.com
 .dns.melvin2204.nl
 .meowless.club
@@ -2614,8 +2617,11 @@
 .dot.qooqle.date
 .dns.qpt.one
 .dns2.qpt.one
+.dns.qq.com
 .httpdns.kg.qq.com
 .dns.weixin.qq.com
+.paydns.weixin.qq.com
+.udns.weixin.qq.com
 .ns1.qquack.org
 .log.qrsoft.ru
 .dns.qrtz.club
@@ -3065,6 +3071,7 @@
 .dns.titov.cz
 .tk31z.com
 .dns.tkhome.nl
+.sdkconfig.tlivedns.com
 .dns.tls-data.de
 .tlz.asia
 .adguard.tmdproject.nl
@@ -3230,6 +3237,7 @@
 .zuhause.webteufel.net
 .webteufel-it.solutions
 .dns.wechat.com
+.paydns.wechatpay.cn
 .resov.wehao.net
 .dns.weibo.cn
 .home.weisbrod.me
@@ -3366,6 +3374,7 @@
 .zhengkaiyun.top
 .dns140.zhhz.cc
 .dns168.zhhz.cc
+.httpdns.zhihu.com
 .doh.zhongbr.uk
 .res.zijji.com
 .adguard01.zitronen-server.de
