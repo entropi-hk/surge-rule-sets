@@ -71,6 +71,7 @@
 .de-gdpr-vcode-od.vivoglobal.com
 .err-up.vivoglobal.com
 .eu-album-api.vivoglobal.com
+.eu-cota.vivoglobal.com
 .eu-domaincfg.vivoglobal.com
 .eu-errup.vivoglobal.com
 .eu-onrt-stsdk.vivoglobal.com

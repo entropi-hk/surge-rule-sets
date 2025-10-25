@@ -4335,6 +4335,7 @@
 .fernandesequipamentos.com
 .fernbedienung-schalter.de
 .ferne-schied.de
+.fernholz-handel.de
 .ferplastdeutschland.shop
 .ferplastverkaufe.com
 .ferragensmineira.com
@@ -4393,7 +4394,6 @@
 .finanzportalonline.com
 .finanzwelt.pro
 .finaxanlage.de
-.fincapitus.com
 .fincas-und-villen.com
 .finchmarkets.com
 .findedeinrad.de
@@ -5768,6 +5768,7 @@
 .heizoelnow.de
 .heizoelonline24.com
 .heizoelport.de
+.heizoelpreise-region.de
 .heizoelpro.de
 .heizoelprofi.de
 .heizoelprofit.de
@@ -13533,9 +13534,11 @@
 .whiteboxgarten.com
 .whlshop.com
 .wholesalefactory.ru
+.wieburg-handel.de
 .wiener-install.at
 .wienschmidt.at
 .wiesmann-mode.de
+.wika-shop.de
 .adl.wiksh.shop
 .wilax.de
 .wildanimal.shop
