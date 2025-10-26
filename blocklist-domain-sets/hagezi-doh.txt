@@ -556,7 +556,6 @@
 .dns.cloudfiction.eu
 .dns.233py.com.cdn.cloudflare.net
 .dns.cloudflare.com
-.ada.ns.cloudflare.com
 .cloudflare-dns.com
 .cloudflare-gateway.com
 .api.cloudflareclient.com
@@ -1071,6 +1070,7 @@
 .doh.pub
 .doh.sb
 .doh.xyz
+.domain.name
 .adguard.domorome.wf
 .dnsfilter.domotik.us
 .doh.domreg.lt
@@ -3013,6 +3013,7 @@
 .dns.tefuir0829.cn
 .family.dns.teknoholistik.com
 .dns.teknologiku.com
+.homenet.telecomitalia.it
 .dns.telekom.de
 .d51538618.access.telenet.be
 .guard.telesterion.de

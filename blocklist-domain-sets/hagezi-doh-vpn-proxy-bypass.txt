@@ -905,7 +905,6 @@
 .dns.cloudfiction.eu
 .dns.233py.com.cdn.cloudflare.net
 .dns.cloudflare.com
-.ada.ns.cloudflare.com
 .cloudflare-dns.com
 .cloudflare-gateway.com
 .api.cloudflareclient.com
@@ -1691,6 +1690,7 @@
 .doh.sb
 .doh.xyz
 .dolopo.net
+.domain.name
 .domainownership.us
 .adguard.domorome.wf
 .dnsfilter.domotik.us
@@ -4952,6 +4952,7 @@
 .eu1-browse.startpage.com
 .eu2-browse.startpage.com
 .eu3-browse.startpage.com
+.proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
 .us2-browse.startpage.com
@@ -5136,6 +5137,7 @@
 .dns.tefuir0829.cn
 .family.dns.teknoholistik.com
 .dns.teknologiku.com
+.homenet.telecomitalia.it
 .dns.telekom.de
 .d51538618.access.telenet.be
 .guard.telesterion.de
