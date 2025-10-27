@@ -347,6 +347,7 @@
 .rtlog58-normal-useast2a.tiktokv.com
 .rtlog58-normal-ycru.tiktokv.com
 .tnc-boot.tiktokv.com
+.tnc0-normal-alisg.tiktokv.com
 .tnc0-normal-my.tiktokv.com
 .tnc0-normal-sg1.tiktokv.com
 .tnc0-normal-useast1a.tiktokv.com
@@ -370,6 +371,7 @@
 .tnc19-normal-no1a.tiktokv.eu
 .tnc19-normal-useast5.tiktokv.us
 .tnc19-normal-useast8.tiktokv.us
+.tnc19-normal-useastred.tiktokv.eu
 .tnc31-normal-zr-useast1a.tiktokv.com
 .tnc31-platform-alisg.tiktokv.com
 .tnc31-platform-useast1a.tiktokv.com
