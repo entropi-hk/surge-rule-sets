@@ -1172,6 +1172,7 @@
 .doh.eddi.net
 .dns.edgeburnmedia.com
 .dns.edgeworkssystems.ca
+.edgy-dns.com
 .agh.amber.edu.vn
 .adblocker.institutobancario.edu.mx
 .dns.tuna.tsinghua.edu.cn
@@ -3279,6 +3280,7 @@
 .adguard.xandersalarie.com
 .adb-home.xaoimoon.fr
 .adb-wan.xaoimoon.fr
+.xbcpb668.com
 .dns.xcapenet.ru
 .dns2.xcapenet.ru
 .doh.xcom.pro

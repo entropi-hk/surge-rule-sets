@@ -1064,6 +1064,7 @@
 .batmanstream.cc
 .batmanstream.info
 .batmanstream.online
+.batmanstream.vip
 .batmanstream.watch
 .bayernstream.com
 .bayfiles.com
@@ -1429,6 +1430,7 @@
 .booter.ninja
 .booter.org
 .booter.sx
+.booter.xyz
 .bootlegs.su
 .bootylounge.org
 .bootyou.net
@@ -3384,6 +3386,7 @@
 .filmex.to
 .filmezando.net
 .filmfans.org
+.filmfare.fr
 .filmfix.se
 .filmgo.live
 .filmgratuit.cc
@@ -3589,6 +3592,7 @@
 .flashfilms-hd.top
 .flashnetbd.com
 .flashtorrents.org
+.flemmix.mom
 .flemmix.sbs
 .flenix.net
 .flextorrents.com
@@ -4384,8 +4388,10 @@
 .hdfull.lv
 .hdhome.org
 .hdhub4u.family
+.hdhub4u.gd
 .hdhub4u.gifts
 .hdhub4u.menu
+.hdhub4u.pictures
 .hdlivemovies.com
 .hdm.to
 .hdmatch.club
@@ -5278,6 +5284,7 @@
 .kinogo.no
 .kinogo.online
 .kinogo.pink
+.kinogo.rest
 .kinogo.uk
 .kinogo-720.net
 .kinogo-cx.biz
@@ -5726,6 +5733,7 @@
 .luciferdonghua.in
 .luckymodapk.com
 .luckypatchers.com
+.lukesitturn.com
 .lulu.st
 .lulustream.com
 .luluvid.com
@@ -8737,6 +8745,7 @@
 .streamingcommunityz.it
 .streamingcommunityz.li
 .streamingcommunityz.me
+.streamingcommunityz.tv
 .streamingdivx.ch
 .streaminggratuit.cc
 .streaminggratuit.rip
@@ -8864,6 +8873,7 @@
 .swatchseries.to
 .swebits.org
 .sweet-paris.com
+.sweetvideo.site
 .swefilmer.to
 .swetracker.org
 .swetv.org
@@ -9735,6 +9745,7 @@
 .uakino-bay.net
 .uakino-lu.com
 .uakinogo.com
+.uakinogo.online
 .uapkpro.com
 .uaserial.club
 .uaserial.tv
@@ -10722,6 +10733,7 @@
 .ccn5050.wixsite.com
 .fixeget983.wixsite.com
 .warez.wizardtech.net
+.wizja.cc
 .wjunction.com
 .wjungle.net
 .wncbg.com
@@ -10824,7 +10836,6 @@
 .xmovies8.si
 .xn--80a4b.com
 .xn--950bz4kqroyzjblb.com
-.tracker.xn--djrq4gl4hvoi.top
 .xn--firstrowsport-8xe.eu
 .budvartrekker.xn-s.eu
 .hd-hu.xn-s.eu
