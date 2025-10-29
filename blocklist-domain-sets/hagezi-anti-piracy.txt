@@ -212,7 +212,6 @@
 .266528.xyz
 .2anime.xyz
 .2bbit.com
-.2bcalvi.com
 .2ddl.it
 .2ddl.ws
 .2embed.cc
@@ -432,7 +431,6 @@
 .retracker.akado-ural.ru
 .akiba-online.com
 .aklivetv.com
-.t.al.uy
 .alabout.com
 .alagoz.beer
 .tracker.alaskantf.com
@@ -2381,7 +2379,6 @@
 .ddnbd.fun
 .asiatorrent.ddns.net
 .houniao.ddns.net
-.echostar.ddnsfree.com
 .ddos.city
 .ddos.kr
 .ddos.tools
@@ -6057,15 +6054,20 @@
 .mkvanime.mov
 .mkvcage.com
 .mkvcage.ws
+.mkvcinemas.app
+.mkvcinemas.bet
 .mkvcinemas.cat
 .mkvcinemas.date
+.mkvcinemas.fit
 .mkvcinemas.gift
 .mkvcinemas.haus
+.mkvcinemas.kids
 .mkvcinemas.kim
 .mkvcinemas.kiwi
 .mkvcinemas.men
 .mkvcinemas.prof
 .mkvcinemas.red
+.mkvcinemas.store
 .mkvcinemas.tw
 .mkvdrama.org
 .mkvking.me
@@ -6255,6 +6257,7 @@
 .moviesdvdr.com
 .movieseriestv.net
 .movieserver.net
+.moviesflixcc.com
 .moviesfoundonline.com
 .moviesite.hu
 .moviesjoy.is
@@ -7556,6 +7559,7 @@
 .putlocker123.me
 .putlocker123.to
 .putlocker123.video
+.putlocker19.com
 .putlocker2021.net
 .putlocker5movies.site
 .putlocker9.cc
@@ -8412,6 +8416,7 @@
 .solarmovies.cc
 .solarmovies.co
 .solarmovies.win
+.solarmovies-sc.lol
 .solarmoviez.ru
 .solarmoviez.to
 .solidsoftwaretools.com
@@ -8882,6 +8887,7 @@
 .swteam.ws
 .syfiles.com
 .bestoflinks.synology.me
+.ibksturm.synology.me
 .syria-live.us
 .sidewinderx.sytes.net
 .thebazaar.sytes.net
