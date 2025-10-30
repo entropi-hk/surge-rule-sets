@@ -1240,6 +1240,7 @@
 .bitvaulttorrent.com
 .bitvn.net
 .alt.bitworld.to
+.biu47.xyz
 .vexmovies.biz.id
 .biztorrents.com
 .bj-share.net
@@ -1427,6 +1428,7 @@
 .booter.eu
 .booter.ninja
 .booter.org
+.booter.pw
 .booter.sx
 .booter.xyz
 .bootlegs.su
@@ -2379,6 +2381,7 @@
 .ddnbd.fun
 .asiatorrent.ddns.net
 .houniao.ddns.net
+.echostar.ddnsfree.com
 .ddos.city
 .ddos.kr
 .ddos.tools
@@ -6586,7 +6589,13 @@
 .netmirror.app
 .netmirror.beer
 .netmirror.bio
+.netmirror.cyou
+.netmirror.eu
+.netmirror.gg
+.netmirror.homes
 .netmirror.my
+.netmirror.rest
+.netmirror.sbs
 .netmovies.to
 .netonlinebd.com
 .netplayz.ru
@@ -8887,7 +8896,6 @@
 .swteam.ws
 .syfiles.com
 .bestoflinks.synology.me
-.ibksturm.synology.me
 .syria-live.us
 .sidewinderx.sytes.net
 .thebazaar.sytes.net
@@ -10347,6 +10355,7 @@
 .videqc.fun
 .videqs.com
 .videqs.icu
+.videqs.net
 .videqstream.com
 .videqvidey.pro
 .vider.info

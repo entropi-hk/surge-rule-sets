@@ -2618,6 +2618,7 @@
 .dns.weixin.qq.com
 .paydns.weixin.qq.com
 .udns.weixin.qq.com
+.qqmcfw.tech
 .ns1.qquack.org
 .log.qrsoft.ru
 .dns.qrtz.club
