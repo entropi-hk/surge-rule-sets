@@ -1625,6 +1625,7 @@
 .dns.iblockads.net
 .dns-us.ibmcloud.top
 .mask.icloud.com
+.mask-canary.icloud.com
 .mask-h2.icloud.com
 .homita.id.vn
 .home.realldz.id.vn
