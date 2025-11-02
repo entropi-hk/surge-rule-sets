@@ -1,6 +1,5 @@
 .ss.0001.xyz
 .003153.xyz
-.adguard.007terminal.com
 .ns.00dani.me
 .dns.010812.xyz
 .dns.080590.xyz
@@ -98,7 +97,6 @@
 .ayman-dns.731my.com
 .dns.73zls.com
 .ns.77ll.ru
-.tr1-dns.7leecher.ir
 .dns.7vpn.com
 .ad.800801.xyz
 .dns.853852.xyz
