@@ -435,7 +435,6 @@
 .dns.bovat.net
 .adguard.boykevanvugt.nl
 .adguard2.boykevanvugt.nl
-.dns.braene.com
 .dns.brahma.world
 .bravedns.com
 .dns.brembeck.cloud
@@ -471,7 +470,6 @@
 .unifi.carioka.com
 .dns.carson-family.com
 .dns.caspervk.net
-.catchen121299.top
 .catdns.org
 .sg-119.cattery.work
 .alidns.cb1999.top
@@ -539,7 +537,6 @@
 .dns.clanless.ovh
 .dns.clanto.cloud
 .adguard.clawsucht.eu
-.adguard.clawsucht.nrw
 .prdot.cldsrv.es
 .cleanbrowsing.org
 .cvt-ic-us-adns-001.clearviewtechnology.net
@@ -710,7 +707,6 @@
 .dns.d4d.moe
 .dns.d8e.ru
 .dns.d94.xyz
-.dns.daarrk.tech
 .dns.dallinbryce.com
 .fr.dalockd.net
 .dns.danamas.net
@@ -1078,7 +1074,6 @@
 .ns1.dotls.org
 .dns.dotnet.win
 .family.dns.doubleangels.com
-.agh.doubleatech.site
 .douglaster.com
 .dotserver.douyucdn.cn
 .dns35.allone.dpdns.org
@@ -1092,7 +1087,6 @@
 .dns.dremaxx.de
 .droyd.top
 .dns.druta.me
-.doh.dscloud.me
 .agh.dshubham.xyz
 .adguard.dsns.cloud
 .adguard2.dsns.cloud
@@ -1103,7 +1097,6 @@
 .adgrm.duckdns.org
 .adguardpi.duckdns.org
 .aduma15.duckdns.org
-.andryk111.duckdns.org
 .armm.duckdns.org
 .blamb.duckdns.org
 .cdzopi.duckdns.org
@@ -1130,8 +1123,6 @@
 .site-3.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
-.unixfox.duckdns.org
-.vpich.duckdns.org
 .wired-guardian.duckdns.org
 .wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
@@ -1197,7 +1188,6 @@
 .hk.end.pub
 .adguard.ender.fr
 .dns.enderblocks.net
-.dns.energized.pro
 .dns.engineer-lib.ru
 .dnssec.dns.enginyring.com
 .dns01.enginyring.com
@@ -1300,7 +1290,6 @@
 .doh.ffmuc.net
 .dot.ffmuc.net
 .dns.ffnw.de
-.dns.fgbk.net
 .fidelius.top
 .dns.fifux.be
 .dns.filipccz.eu
@@ -1355,7 +1344,6 @@
 .songochain.freeddns.org
 .studioai.freeddns.org
 .dns.freemyemail.com
-.srgaghome.freemyip.com
 .walhalla.freemyip.com
 .wg-aghome.freemyip.com
 .zuk.freemyip.com
@@ -1766,6 +1754,7 @@
 .adguard.johnnypatras.org
 .child.joindns4.eu
 .child-noads.joindns4.eu
+.dns.joindns4.in
 .noads.joindns4.eu
 .protective.joindns4.eu
 .unfiltered.joindns4.eu
