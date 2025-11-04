@@ -1539,7 +1539,6 @@
 .cloud2.holzmannclouddns.de
 .socolov.home.ro
 .adguard.home-lab-network.com
-.home-server.store
 .pi.homeanywhere.org
 .admin.homedns.uk
 .isolacje.homeip.net
@@ -1807,9 +1806,6 @@
 .dns.kebree.fr
 .dns2.keinewerbung.me
 .guard.keiper.net
-.doh.kekew.info
-.doh.kekew.racing
-.doh3.kekew.info
 .doh.kel.pe
 .kellerbier-home.com
 .dns.kellys.pw
@@ -1898,7 +1894,6 @@
 .mx1.laoxiao789.com
 .larkin.wang
 .dns.lars-lehmann.net
-.dns.lashes-brow.ru
 .lastentarvike.fi
 .dns.lauraeguido.com
 .adguard.laurenlaufman.com
@@ -2114,7 +2109,6 @@
 .alexj123.mooo.com
 .disinformer.mooo.com
 .e23a.mooo.com
-.epic3.mooo.com
 .dns.moraru.net
 .morbitzer.de
 .crypt.mostsecureme.com
@@ -2349,7 +2343,6 @@
 .ns3.com
 .ns3.link
 .dnscache0.ns71.net
-.dns.ntcrz.ru
 .dns.ntr.lol
 .ntwrkh.pro
 .dns.nubecita.biz
@@ -2503,7 +2496,6 @@
 .doh.plop.cc
 .dns.ploshadi.ru
 .privacy.plumedns.com
-.plushub.pro
 .pm1239-bd.xyz
 .pm7051-br.xyz
 .pm9352-bd.xyz
@@ -2524,7 +2516,6 @@
 .polisitogel.show
 .polisitogel.webcam
 .vps.poly-tank.jp
-.doh.port53.dk
 .dns.porteii.com
 .dns2.porteii.com
 .adguard.poster.place
@@ -2556,14 +2547,6 @@
 .dns2.prima-solusindo.com
 .princez.uk
 .agh.printk.info
-.hungary.privacy-dns.pw
-.india.privacy-dns.pw
-.las-vegas.privacy-dns.pw
-.luxembourg.privacy-dns.pw
-.romania.privacy-dns.pw
-.sweden.privacy-dns.pw
-.switzerland.privacy-dns.pw
-.united-arab-emirates.privacy-dns.pw
 .dns.privado.ovh
 .orpi.privado.ovh
 .oury.privado.ovh
@@ -2764,7 +2747,6 @@
 .defsnldns01.sc-hosting.info
 .ns1.sc-lezhi.com
 .us.sc92.cn
-.dns.scapetical.com
 .dns.scarx.net
 .dns.scayn.com
 .filter.das.sch.id
