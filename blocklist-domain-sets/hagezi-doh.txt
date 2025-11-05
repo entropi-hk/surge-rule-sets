@@ -129,6 +129,7 @@
 .dns-gcp.aaflalo.me
 .dns-nyc.aaflalo.me
 .doh.dns.apple.com.v.aaplimg.com
+.doh-dns-apple-com.v.aaplimg.com
 .dns.aaronplayzgaming.com
 .dns.aaytorr.com
 .adguard.abd.ong
@@ -2883,7 +2884,6 @@
 .resolve2.srv-pro.de
 .doh.srv00.com
 .adguard.sscw.win
-.darius-doh-nl.sserver.org
 .ssh-storage.ru
 .dns.sshub.win
 .doh.ntu.ssooss.win
@@ -3079,7 +3079,6 @@
 .doh.ibr.cs.tu-bs.de
 .dns.tuankhaiit.com
 .tuantran.cloud
-.tujenasnaszato.xyz
 .tuskythehusky.tech
 .nat64.tuxis.nl
 .dns.twnic.tw
@@ -3161,7 +3160,6 @@
 .dns.voyager2.space
 .adguard.vozersky.com
 .killads.vpms.xyz
-.vpndns.ru
 .vpnhellings.nl
 .adguard.vpnkitakitsune.com
 .dns.vps.pw
@@ -3217,7 +3215,6 @@
 .bwh.why4free.top
 .dns.wibenson.cloud
 .dns1-secure.wifire.it
-.dns2-secure.wifire.it
 .adguard.wifri.space
 .wikimedia-dns.org
 .wikimediadns.org
@@ -3239,7 +3236,6 @@
 .dds.wpme.pl
 .home.wriedts.de
 .dns.wryhf.com
-.wuyou.pw
 .ns2.wuyouss.com
 .ns3.wuyouss.com
 .usatwo.wuyouss.com
