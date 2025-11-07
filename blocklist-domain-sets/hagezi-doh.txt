@@ -1511,8 +1511,6 @@
 .dns.msk.hexagon1736.com
 .hexxitcompany.com
 .httpdns.ocloud.heytapmobi.com
-.httpdns.push.heytapmobi.com
-.httpdns-push.heytapmobile.com
 .hg8.asia
 .hgrps.eu
 .dns.sgp.hicn.site

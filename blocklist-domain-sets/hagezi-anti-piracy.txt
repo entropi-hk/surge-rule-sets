@@ -731,6 +731,7 @@
 .animefox.org
 .animefreak.tv
 .animeglare.xyz
+.animegoo.life
 .animehd47.com
 .animeheaven.ru
 .animeholics.org
@@ -1753,6 +1754,7 @@
 .ccfbits.org
 .ccmixter.org
 .ccracks.com
+.cctv.army
 .cda-hd.cc
 .cdcovers.cc
 .cddownloadeasy.org
@@ -2314,6 +2316,7 @@
 .cutercounter.com
 .cuteyhoneyflash.de
 .tracker.cutie.dating
+.tracker-de-2.cutie.dating
 .cutiegirl.ru
 .cwer.ru
 .cwer.ws
@@ -2628,6 +2631,7 @@
 .donkey.asia
 .donkey.to
 .dontorrent.org
+.dontorrent.phd
 .dontorrents.com
 .dontorrents.org
 .dood.ac
@@ -3072,6 +3076,7 @@
 .retracker.nn.ertelecom.ru
 .retracker.perm.ertelecom.ru
 .elmellowebmaster.es.tl
+.kinox.escapethefog.com
 .eshiel.com
 .espnv2.online
 .estrenoslatinos.com
@@ -5227,6 +5232,7 @@
 .kat.to
 .katcr.co
 .katcr.to
+.katdrama.net
 .katfile.com
 .kati3kat.tube
 .katmoviehd.ac
@@ -5403,6 +5409,7 @@
 .kinox.day
 .kinox.deals
 .kinox.dog
+.kinox.farm
 .kinox.film
 .kinox.foo
 .kinox.food
@@ -5414,12 +5421,15 @@
 .kinox.id
 .kinox.ink
 .kinox.io
+.kinox.it
 .kinox.lat
 .kinox.lol
 .kinox.love
 .kinox.me
 .kinox.navy
+.kinox.news
 .kinox.now
+.kinox.parts
 .kinox.prof
 .kinox.ru
 .kinox.run
@@ -7954,6 +7964,9 @@
 .rootsofts.com
 .roshy.tv
 .rotorrent.ro
+.roxiestreams.cc
+.roxiestreams.live
+.roxiestreams.pro
 .royal-orleans.com
 .royalbooter.de
 .rpgmaker.net
@@ -10410,6 +10423,7 @@
 .vidnow.tv
 .vidoy.fit
 .vidoy.ink
+.vidoy.live
 .vidoy.store
 .vidoza.co
 .vidoza.com
@@ -11192,6 +11206,7 @@
 .zoechip.cc
 .zoechip.com
 .zoechip.org
+.zoink.ch
 .tracker.zokio.net
 .zona.mobi
 .zona.plus
