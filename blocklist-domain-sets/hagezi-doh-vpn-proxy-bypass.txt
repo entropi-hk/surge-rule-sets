@@ -135,6 +135,7 @@
 .vpn.4-the.win
 .notfound-google.404.mn
 .doh.42l.fr
+.bannana.web-doge.42web.io
 .4everproxy.com
 .ns1.4netguides.org
 .ns2.4netguides.org
@@ -197,6 +198,7 @@
 .ddd.999369.xyz
 .dns.9999.sg
 .99proxy.com
+.9w9.org
 .dns.a47.me
 .doh.aaaab3n.moe
 .us.aab.im
@@ -340,6 +342,7 @@
 .alon93rus.ru
 .alphabr.online
 .alphabrowser.xyz
+.ji.alsarica.cl
 .link.altapo.ru
 .adguard.altgr.xyz
 .adguard.alu.dog
@@ -372,6 +375,7 @@
 .home.amq.ro
 .adguard.amscenter.net
 .an81dns.ru
+.ananoos.com
 .oradns.anbitech.com
 .anchorfree.net
 .andrewnw.xyz
@@ -460,6 +464,7 @@
 .nilfheim.asguardian.de
 .asheranztwitch.online
 .dns.ashleyjackson.net
+.megaus.asistdoc.ar
 .dns.asterimoon.com
 .astrill.com
 .astrill.org
@@ -711,6 +716,7 @@
 .adguard.boykevanvugt.nl
 .adguard2.boykevanvugt.nl
 .dns.brahma.world
+.bramka-proxy.pl
 .bravedns.com
 .tor.bravesoftware.com
 .brazilproxy.com
@@ -830,6 +836,7 @@
 .dns.chattalk.link
 .adguard.chaudharyarnav.com
 .ougonokaze.cheftayebeh.ir
+.qh.cheftayebeh.ir
 .dns.chenu.ch
 .adguard.chestnov.ru
 .azulxymadets.chickenkiller.com
@@ -1025,6 +1032,7 @@
 .dns.chaosen3.co.uk
 .clearvpn.co.uk
 .dns-01.computerservices.co.nz
+.croxyproxy.co.in
 .crusnik80.co.za
 .adg.datamatter.co.za
 .pihole.datamatter.co.za
@@ -1112,6 +1120,7 @@
 .coloredwool.us
 .dns.colorfreedom.org
 .dns.7sec.com.br
+.linemath.aislantesnuevaera.com.ar
 .allain.com.br
 .dns.alwynstudio.com.au
 .kdgnkjho4od8w40.americasnet.com.br
@@ -1124,6 +1133,7 @@
 .dns.complianceauditores.com.br
 .croxyproxy.com.in
 .dns.damlayayinevi.com.tr
+.ud.data-express.com.ar
 .adguard.doranpierst.com.tr
 .pleaseworkiwantutopia.faizinternational.com.np
 .fast-proxy.com.de
@@ -1889,6 +1899,7 @@
 .dns.esnube.es
 .dns.internal.espresso-tasse.de
 .essentiallyjay.com
+.deepcs.estiloescencial.cl
 .eth.link
 .opennic1.eth-services.de
 .proxy.eti.pw
@@ -1996,6 +2007,7 @@
 .fastvpn.com
 .fastvpn.im
 .fastvpn.me
+.clevercoding.fatibara.com
 .adguard.fatu.systems
 .favoriteshoes.us
 .adguardhome.favrep.ovh
@@ -2555,6 +2567,7 @@
 .ns2.hjk.kr
 .ns2.hjk.me
 .jpdns.hker.me
+.xc.hkieca.com
 .dd.hlm.ovh
 .hmavpn.com
 .dns.ho.al
@@ -2840,6 +2853,7 @@
 .itlikehell.ru
 .itopvpn.com
 .adguardhome.ittoolman.top
+.fl.ittqc.com
 .dns.itwht.com
 .itworks4u.nl
 .pdns.itxe.net
@@ -2944,6 +2958,7 @@
 .qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com
 .dns.jundev.org
 .dns.jungle-im.ir
+.brighthistory.juniorjobs.ro
 .jupitervpn.ninja
 .dns.jupitrdns.com
 .juproxy.com
@@ -3286,9 +3301,9 @@
 .standard.mask.ad
 .doh.maskab.com
 .maskedip.com
+.ultraus.masplenedigitalworld.com
 .master-clock.us
 .mastergad.me
-.media.level.mastergolfworld.com
 .masters-of-cloud.de
 .masterssh.com
 .dns.mateo.ovh
@@ -3478,6 +3493,7 @@
 .nas-scheiben34.myasustor.com
 .zanty123456.myasustor.com
 .mycelium.site
+.nyc.mycityulife.com
 .abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 .example.myclarevision.com
 .freelearn.myclarevision.com
@@ -3809,7 +3825,6 @@
 .omegaproxy.com
 .adguard.oms-ctr.ru
 .onconnect.info
-.idea.guide.dns1.one.pl
 .one.one.one.one
 .doh.onedns.net
 .doh-pure.onedns.net
@@ -4399,6 +4414,7 @@
 .dns.quickso.cn
 .dns.quiet.rocks
 .quintex.com
+.epicgrammar.quipasur.cl
 .quotivatehub.com
 .ant.dns.qwer.pw
 .dog.dns.qwer.pw
@@ -4453,6 +4469,7 @@
 .hk.reaticle.com
 .dns.reckoningslug.name
 .vladimirloljk.lollipopyum.liveastheman.reconectar.cl
+.topwriting.redalameda.cl
 .redproxy.info
 .dns.redroot.cc
 .redschool.info
