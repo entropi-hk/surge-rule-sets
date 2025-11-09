@@ -1098,6 +1098,7 @@
 .adgrm.duckdns.org
 .adguardpi.duckdns.org
 .aduma15.duckdns.org
+.andryk111.duckdns.org
 .armm.duckdns.org
 .blamb.duckdns.org
 .cdzopi.duckdns.org
@@ -1106,6 +1107,8 @@
 .eweyo.duckdns.org
 .gcpddns.duckdns.org
 .genielee.duckdns.org
+.home27.duckdns.org
+.homejerem.duckdns.org
 .jfeoks.duckdns.org
 .jurre-home.duckdns.org
 .kalwat.duckdns.org
@@ -1114,16 +1117,23 @@
 .krtekvpn.duckdns.org
 .ldaman.duckdns.org
 .leoadguard.duckdns.org
+.morgenegg.duckdns.org
 .nas1403.duckdns.org
+.nikamurs.duckdns.org
+.nqh-dns.duckdns.org
 .o--o.duckdns.org
 .osefcorp.duckdns.org
+.pitchforkwaydns.duckdns.org
 .punono.duckdns.org
 .quanmeme.duckdns.org
+.rcpc2.duckdns.org
 .salvadoserver.duckdns.org
 .site-2.duckdns.org
 .site-3.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
+.unixfox.duckdns.org
+.vpich.duckdns.org
 .wired-guardian.duckdns.org
 .wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
@@ -1805,6 +1815,9 @@
 .dns.kebree.fr
 .dns2.keinewerbung.me
 .guard.keiper.net
+.doh.kekew.info
+.doh.kekew.racing
+.doh3.kekew.info
 .doh.kel.pe
 .kellerbier-home.com
 .dns.kellys.pw
@@ -1947,6 +1960,7 @@
 .flat.loisy.it
 .nas-fusion.loisy.it
 .an.loliconapp.top
+.adguard.londonwebnerd.cloud
 .doh.dns1.lonet.org
 .doh.phdns1.lonet.org
 .doh.phdns2.lonet.org
@@ -1963,7 +1977,9 @@
 .dns1.luan.contact
 .dns.luismm2311.com
 .doh.lujiacai.top
+.lukscasino-479-tr.xyz
 .lukscasino-542-tr.xyz
+.lukscasino-929-tr.xyz
 .dns.lululu.dev
 .dns.luma-medien.com
 .pure.lunetra.online
@@ -2054,6 +2070,7 @@
 .httpdnsmultiapivip.meituan.com
 .httpdnsvip.meituan.com
 .dns.melvin2204.nl
+.mendozasdelivery.com
 .meowless.club
 .testaghome.meshkov.info
 .dns.mestdag.fr
@@ -2074,6 +2091,7 @@
 .mikatos.de
 .dns.mikeliu.org
 .mikewaddick.com
+.mikezhang.xyz
 .dns.mikopono.nl
 .rwkdwpwsyv48.mikopono.nl
 .ukns.milangas2.top
@@ -2444,6 +2462,7 @@
 .dns-ovh.panszelescik.pl
 .paradise-human.shop
 .dns.pari.network
+.pashagame456.com
 .paskam.xyz
 .a.passcloud.xyz
 .i.passcloud.xyz
