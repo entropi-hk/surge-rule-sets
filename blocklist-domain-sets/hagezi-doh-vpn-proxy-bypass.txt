@@ -906,7 +906,6 @@
 .closetruth.date
 .dns.cloud-admin.xyz
 .doh.cloud-sekeng.com
-.cloudbenders.fun
 .dns.cloudfiction.eu
 .dns.233py.com.cdn.cloudflare.net
 .learn.wiki-edu.xyz.cdn.cloudflare.net
@@ -4142,6 +4141,7 @@
 .potatovpn.io
 .dns.powerbs.net
 .doh.powerdns.org
+.poxy.pl
 .adguard-server.pp.ua
 .2.alpo.pp.ua
 .angry.pp.ua
@@ -4215,6 +4215,7 @@
 .pro-tower.com
 .prointern.info
 .project-evoex.de
+.dns.propheci.xyz
 .adg.proprietarypenguin.com
 .dns.proprietarypenguin.com
 .edu.prostitutki-na-vyezd.com
@@ -4280,6 +4281,7 @@
 .proxy-bypass.com
 .proxy-cheap.com
 .proxy-german.de
+.proxy-internet.info
 .proxy-list.download
 .proxy-n-vpn.com
 .proxy-search.com
@@ -4520,6 +4522,7 @@
 .dns.reckoningslug.name
 .vladimirloljk.lollipopyum.liveastheman.reconectar.cl
 .topwriting.redalameda.cl
+.redhoodie.site
 .redproxy.info
 .dns.redroot.cc
 .redschool.info
@@ -4653,6 +4656,12 @@
 .sandparticles.us
 .sandvpn.com
 .dns.saneaki.com
+.backend.development.sanluix.org
+.database.development.sanluix.org
+.frontend.development.sanluix.org
+.mobile.development.sanluix.org
+.tools.development.sanluix.org
+.lol.sanluix.org
 .saoudiproxy.info
 .router.sapib.ca
 .adb-dns.sapient.cyou
@@ -4810,6 +4819,7 @@
 .dns.silen.org
 .dns.silentlybren.com
 .dns2.sillav.dev
+.simplevpn.info
 .simplevpn.net
 .dns.simplylinux.ch
 .dns.sindominio.net
@@ -4874,6 +4884,7 @@
 .001.smallnode.net
 .smartcamp.su
 .smartdnsproxy.com
+.onlyforschool123.smarter-homes.com
 .lunarsync.smartfoloo.space
 .dns.smartguard.io
 .smartproxy.com
@@ -5727,6 +5738,7 @@
 .superunlimited.com
 .supervpn.best
 .supervpn.im
+.supervpn.net
 .suredns.nl
 .surf-for-free.com
 .surf100.com
@@ -5866,10 +5878,12 @@
 .apne1.dns.terumi.club
 .dns.soldier.terumi.club
 .dns.tesem.dog
+.testvpn.info
 .adguard.tetnet.net
 .cloud.tezoi.com
 .thankvpn.com
 .the-cloak.com
+.thebestproxy.info
 .thebestvpn.com
 .dns.thebuckners.org
 .theclickcheck.com
@@ -6020,6 +6034,7 @@
 .resolv1.trash.net
 .resolv2.trash.net
 .resolv3.trash.net
+.travelvpn.info
 .travelvpn.net
 .ns.trcnet.fi
 .adguard.treexhd.me
@@ -6045,6 +6060,7 @@
 .swe.try-dns.com
 .dns.tryk.app
 .arxthegoat.ts0880.es
+.adg.tshost.no
 .seible.tsurukawa.org
 .net.tt6.net
 .doh.ibr.cs.tu-bs.de
@@ -6127,11 +6143,13 @@
 .unblockadultsites.com
 .unblockandsurf.com
 .unblockanything.com
+.unblockblocked.net
 .unblockbook.biz
 .unblockdirect.com
 .unblocked.ac
 .unblocked.africa
 .unblocked.asia
+.unblocked.biz
 .unblocked.black
 .unblocked.buzz
 .unblocked.cloud
@@ -6371,6 +6389,7 @@
 .dns2.vinc.me
 .dns.vinnyp.xyz
 .dns.vinokurov.tk
+.dns.vip-kingstore.xyz
 .z.vipit.one
 .virtual-browser.com
 .dns.virtual-qr.ir
@@ -6431,6 +6450,7 @@
 .vpncity.info
 .vpnclientapp.com
 .vpndaily.com
+.vpndeluxe.com
 .vpndock.com
 .vpndog.com
 .proxy.vpner.com
@@ -6796,6 +6816,7 @@
 .adguard-kartoffel.zernico.de
 .zerotier.com
 .oraclejp01.zerotorez.com
+.zerotunnel.com
 .zerovpn-app.com
 .zexusdigital.online
 .dns.zfsystem.tech

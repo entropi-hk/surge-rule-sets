@@ -1122,6 +1122,7 @@
 .port25.biz
 .portfwd.com
 .portmap.host
+.prettyweak.com
 .priamaakcia.sk
 .privatedns.com
 .privatedns.org
@@ -1177,6 +1178,7 @@
 .ryointernational.com
 .sandmeiers.ch
 .sannon-stamm.com
+.sarah-lai.com
 .saves-the-whales.com
 .scay.net
 .scieron.com

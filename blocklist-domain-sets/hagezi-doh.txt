@@ -548,7 +548,6 @@
 .closetruth.date
 .dns.cloud-admin.xyz
 .doh.cloud-sekeng.com
-.cloudbenders.fun
 .dns.cloudfiction.eu
 .dns.233py.com.cdn.cloudflare.net
 .dns.cloudflare.com
@@ -2577,6 +2576,7 @@
 .nl.dns.privex.io
 .dns.valbatos.pro.vn
 .project-evoex.de
+.dns.propheci.xyz
 .adg.proprietarypenguin.com
 .dns.proprietarypenguin.com
 .prostoclub.ru
@@ -3092,6 +3092,7 @@
 .truta.org
 .swe.try-dns.com
 .dns.tryk.app
+.adg.tshost.no
 .net.tt6.net
 .doh.ibr.cs.tu-bs.de
 .dns.tuankhaiit.com
@@ -3159,6 +3160,7 @@
 .dns2.vinc.me
 .dns.vinnyp.xyz
 .dns.vinokurov.tk
+.dns.vip-kingstore.xyz
 .z.vipit.one
 .dns.virtual-qr.ir
 .ad.visbran.fr
