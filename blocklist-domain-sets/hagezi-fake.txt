@@ -1331,7 +1331,6 @@
 .best-apotheke.online
 .best-bike-outdoor.com
 .best-camping-deals.com
-.best-cheap-pharmacy.com
 .best-elekt.com
 .best-garden24.de
 .best-good-winery.com
@@ -1856,6 +1855,8 @@
 .brennholzschnell24.de
 .brennholzscholl.com
 .brennholzstein.de
+.brennholzstore.com
+.brennholzstore.de
 .brennholzweber.de
 .brennholzwerner.de
 .brennholzwittmann.com
@@ -2219,6 +2220,7 @@
 .cerabone.cz
 .ceramicjapan-de.com
 .ceramictablewareshop.com
+.cerebrum-iq.com
 .certainlyo.com
 .cervus-bike.de
 .cescory.com
@@ -2388,6 +2390,7 @@
 .cliniqueloccitane.com
 .clisicerity.com
 .clivechristianuk.com
+.cllusatoam.com
 .clockwisek.com
 .clorislife.com
 .clotha-boutique.de
@@ -3510,7 +3513,6 @@
 .dualtronpower.shop
 .duavital.com
 .dubaifix.eu
-.dubaihoteluae.com
 .ducherower.de
 .duckflix.de
 .duft-blumen.de
@@ -5827,6 +5829,7 @@
 .heizfit.de
 .heizfreude.de
 .heizgenial.de
+.heizgut24.com
 .heizhaus-kohle.de
 .heizigo.de
 .heizino.de
@@ -6113,6 +6116,7 @@
 .holzbriketts-kaufen.com
 .holzcreff.de
 .holzerneblocke.com
+.holzexpress24.eu
 .holzfursfeuer.de
 .holzhandler.com
 .holzharry.shop
@@ -6204,7 +6208,6 @@
 .hotel-marketing-advertising.com
 .hotelaustralien.de
 .hotelectronicshop.com
-.hotelinphuket.net
 .hotelladen.com
 .hotels-colombo.com
 .hotels-colorado.net
@@ -6212,7 +6215,6 @@
 .hotelsinperm.ru
 .hotelsinvienna.org
 .hotelsofmenorca.com
-.hotelsofnewyorkcity.net
 .hotelwareus.com
 .hotelwhales.com
 .hotix.de
@@ -6312,7 +6314,6 @@
 .hybridfahrrader.com
 .hydrip.de
 .hygienecleanshop.com
-.hyip.com
 .hype-handel.de
 .hype-hoodies.com
 .hypelaced.co
@@ -6566,7 +6567,6 @@
 .inteiograly.com
 .intelilawllp.com
 .intellisynex.com
-.intentionalk.com
 .inter-investissement-holding.com
 .interactionm.com
 .interactivecoins.com
@@ -7468,6 +7468,7 @@
 .lebenskompassdeava.shop
 .lebensmittelgeschaft.com
 .lebensmitteltime.com
+.lebenwertebauen.com
 .leboutique24.de
 .lecker-box.de
 .lecohealth.com
@@ -8479,6 +8480,7 @@
 .misterwatches.com
 .mistyantoon.shop
 .miswimbest.com
+.mitchellandness-de.com
 .mitrueshop.com
 .mitsuiel-ectronics.com
 .mitsuielectronics.com
@@ -9485,6 +9487,7 @@
 .onlinekamagra.com
 .onlinekmnwi.com
 .onlinekuche.com
+.app.onlinelebenslauf.com
 .onlinemaripe.com
 .onlinemessershop.com
 .onlinepharmx.com
@@ -10508,6 +10511,7 @@
 .rasenroboter-shop.com
 .rasenshop24.com
 .rasentrak.com
+.rason.shop
 .rastrillo.de
 .rattmmotor.shop
 .rattzekatz.com
@@ -10944,6 +10948,7 @@
 .ryderwearjapan.com
 .ryderwearjapann.com
 .rytewerkone.com
+.s.kohler
 .s-f-invest.at
 .s2g-multiversand.com
 .baxmusic-sale.sa.com
@@ -11753,7 +11758,6 @@
 .sparprime.com
 .sparwahnsinn24.de
 .spd-mossautal.de
-.specializeg.com
 .specialmdassortment.com
 .specialmenswear.com
 .specialselling.com
@@ -12710,6 +12714,7 @@
 .tonies-rabattpreis.com
 .tonies-sonderangebot.com
 .tonies-spezialangebot.com
+.toniesshop-de.com
 .tooeut.com
 .tool-discount.com
 .toolandmaintenance.com
@@ -12767,7 +12772,6 @@
 .toponlinepharmacies.com
 .topoutdoorsport.com
 .topoutdoorstore.com
-.toppillsstore.com
 .toppreis24.com
 .topreinigungsmittel.com
 .toprolexes.com
@@ -13686,6 +13690,7 @@
 .warenwelt-eu.com
 .warevo.de
 .warmeholzhaus.com
+.warmeprofi.com
 .klarrl.warmexw.buzz
 .warmind.de
 .warmlogic.de
