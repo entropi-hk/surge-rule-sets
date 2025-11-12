@@ -697,7 +697,6 @@
 .curser.dev
 .dns.cwlys.com
 .gc.cyberbeta.cn
-.nanopi.cybergroove.net
 .dns2.cybrespace.net
 .dns.cynthialabs.net
 .dns.d365.in

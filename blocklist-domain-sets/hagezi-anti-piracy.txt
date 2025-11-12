@@ -2559,6 +2559,7 @@
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
 .tr-zhuqiy-2.dgj055.icu
+.tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
@@ -3166,7 +3167,6 @@
 .1.tracker.eu.org
 .2.tracker.eu.org
 .3.tracker.eu.org
-.4.tracker.eu.org
 .turiyabrucesta.eu.com
 .eurekaddl.art
 .eurekaddl.baby
@@ -9233,7 +9233,6 @@
 .thebazaar.sytes.net
 .szeneworld.eu
 .savaria.szerverem.hu
-.tracker.t-1.org
 .t-pb.org
 .t-rb.org
 .t-ru.org
