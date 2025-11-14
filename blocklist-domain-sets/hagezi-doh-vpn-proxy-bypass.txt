@@ -392,6 +392,7 @@
 .aniscartujo.com
 .sanns.aniuo.com
 .anixlab.com
+.xz.anjumanallana.in
 .dns.anne-pierre.fr
 .dns.anon.no
 .a-regist.anondns.net
@@ -558,6 +559,7 @@
 .sg-dns2.bancuh.com
 .barnabech.fr
 .base99.com
+.archlinuxisthebestlol.baselinux.net
 .bootnbo.baselinux.net
 .nirbolt.baselinux.net
 .nirbyteproxbolt.baselinux.net
@@ -851,6 +853,7 @@
 .jayisthe.chickenkiller.com
 .jordanmadethis.chickenkiller.com
 .freedns.kiuo-utopias.chickenkiller.com
+.grapesceleste.lobo.chickenkiller.com
 .andersonalcantara.my28.chickenkiller.com
 .soulsorcereryt.chickenkiller.com
 .whydidiask.chickenkiller.com
@@ -4100,6 +4103,7 @@
 .dns.pierzchlewicz.pl
 .dns.pieterdherde.com
 .dns1.pietjacobs.be
+.rothschild.pii.at
 .dns.pine-home.de
 .pingproxy.com
 .pinkproxy.xyz
@@ -6717,6 +6721,7 @@
 .noturmotherlol.worksheetsforteachers.org
 .pdf.worksheetsforteachers.org
 .worldgravityapp.com
+.104.218.50.66.worldplus-intl.org
 .worldvpn.net
 .worldwideproxy4u.win
 .wossow.com
@@ -6786,6 +6791,7 @@
 .common.dot.dns.yandex.net
 .family.dot.dns.yandex.net
 .safe.dot.dns.yandex.net
+.vinnyisbunslol.yao.cl
 .adguard.yare.hk
 .agh-hetzner.yasirafique.com
 .yasosy.pro
