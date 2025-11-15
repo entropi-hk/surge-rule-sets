@@ -75,6 +75,7 @@
 .trovu.komun.org
 .search.laksith.dev
 .searx.lavatech.top
+.librex.me
 .searx.linux.pizza
 .lukol.com
 .whoogle.lunar.icu

@@ -76,7 +76,6 @@
 .1clickvpn.com
 .1clickvpn.net
 .1ee.top
-.adbfwbh.1j7a9k.ro
 .vpn.1xtrm.com
 .20010114.xyz
 .adhome.2011101.xyz
@@ -159,7 +158,6 @@
 .dns.5ososea.com
 .family.5ososea.com
 .kids.5ososea.com
-.dns.688447.xyz
 .dns.6level.net
 .agh.710523.xyz
 .71745718.online
@@ -197,7 +195,6 @@
 .cld.996969.xyz
 .ddd.999369.xyz
 .dns.9999.sg
-.99proxy.com
 .9w9.org
 .dns.a47.me
 .doh.aaaab3n.moe
@@ -304,6 +301,7 @@
 .dns.airmaxcloud.uk
 .dns.airns.net
 .airvpn.org
+.adguard.ajinga.net
 .rdjdns.ajraspi.xyz
 .dns.akbxr.com
 .akunssh.net
@@ -2542,6 +2540,7 @@
 .dns.msk.hexagon1736.com
 .hexxitcompany.com
 .httpdns.ocloud.heytapmobi.com
+.hfgx.shop
 .hg8.asia
 .hgrps.eu
 .dns.sgp.hicn.site

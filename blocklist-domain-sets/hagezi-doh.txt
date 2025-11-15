@@ -91,7 +91,6 @@
 .dns.5ososea.com
 .family.5ososea.com
 .kids.5ososea.com
-.dns.688447.xyz
 .dns.6level.net
 .agh.710523.xyz
 .ayman-dns.731my.com
@@ -201,6 +200,7 @@
 .doh.aipps.vip
 .dns.airmaxcloud.uk
 .dns.airns.net
+.adguard.ajinga.net
 .rdjdns.ajraspi.xyz
 .dns.akbxr.com
 .dns.alanpearce.eu
@@ -1519,6 +1519,7 @@
 .dns.msk.hexagon1736.com
 .hexxitcompany.com
 .httpdns.ocloud.heytapmobi.com
+.hfgx.shop
 .hg8.asia
 .hgrps.eu
 .dns.sgp.hicn.site
