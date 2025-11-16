@@ -648,7 +648,6 @@
 .lothuscorp.com.br
 .dns.netraptor.com.au
 .dns.oceanprint.com.br
-.dns02.oceanprint.com.br
 .dns.polatarasan.com.tr
 .dns.weixin.qq.com.cn
 .dns.redhosting.com.ar
@@ -1228,7 +1227,6 @@
 .beautifulthings.eu.org
 .jp.dns.bliod.eu.org
 .clic.eu.org
-.resolver.dns.eban.eu.org
 .doh.excdn.eu.org
 .doh.greenwood.eu.org
 .sweethome.in.eu.org
@@ -1387,7 +1385,6 @@
 .dns.beta.gandi.net
 .adguard.gattow.com
 .gclouddns.com
-.dns1.gdie.top
 .adg.geili.me
 .genscorp.es
 .adguard.georgev22.com

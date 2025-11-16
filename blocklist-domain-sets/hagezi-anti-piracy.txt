@@ -638,7 +638,6 @@
 .altadefinizione01.online
 .altadefinizione01.photo
 .altadefinizione01.promo
-.altadefinizione01.site
 .altadefinizione01.tel
 .altadefinizione01.top
 .altadefinizione01.vg
@@ -871,7 +870,6 @@
 .apkmate.com
 .apkmb.com
 .apkmine.com
-.apkmirrorfull.com
 .apkmod9.com
 .apkmodbrasil.com
 .apkmodct.com
@@ -1458,7 +1456,6 @@
 .bt.bontal.net
 .tracker.bontal.net
 .bookaudiobook.net
-.bookaura.top
 .bookddl.com
 .bookfinder.tech
 .bookgrill.com
@@ -1468,7 +1465,6 @@
 .booktracker.org
 .boomep.com
 .boommovie.org
-.boooooooooooog.top
 .boostfluence.com
 .boot.lu
 .boot.ml
@@ -1634,7 +1630,6 @@
 .calcio.ws
 .calibrecompanion.co
 .caly-film.pl
-.cambro.tv
 .cambros.tv
 .camclips.tv
 .camflow.tv
@@ -2087,7 +2082,6 @@
 .crichd.com.co
 .crichd.com.ua
 .cueclub.com.bd
-.digitalbroadband.com.bd
 .www.e24.com.bd
 .ekino.com.ua
 .feniks-site.com.pl
@@ -2197,7 +2191,6 @@
 .courseclub.me
 .cpasbien.bz
 .cpasbien.ch
-.cpasbien.cm
 .cpasbien.com
 .cpasbien.io
 .cpasbien.me
@@ -2402,7 +2395,6 @@
 .dark-angel.ws
 .darkanime.stream
 .darkarea.pl
-.darkbooter.com
 .darkdata.net
 .darkino.co
 .darklight.to
@@ -2551,7 +2543,6 @@
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
 .tr-zhuqiy-2.dgj055.icu
-.tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
