@@ -1490,14 +1490,11 @@
 .dns.hanmey.de
 .dns.hannielzhang.com
 .d.hansj.cc
-.dns.haoxuan.me
 .happy365.me
 .resolver.haringstad.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
 .cn-dns.hashtable.io
-.hayadns.online
-.hayadns.site
 .gw1.dns.haynetwork.id
 .mq.hd440.de
 .s.hd440.de
@@ -1567,7 +1564,6 @@
 .dns.hostingim.com
 .dns.hostux.net
 .dns.hotta.page
-.doh.hottis.de
 .dns.housedenolf.be
 .hshh.org
 .hsu.plus
@@ -1638,7 +1634,6 @@
 .ikarosalpha.xyz
 .dns.ikataruto.com
 .ilinhy.com
-.dns.imaicool.com
 .noads.imbuffering.com
 .dns.imchristian.de
 .dns1.imkvq.com
@@ -1754,7 +1749,6 @@
 .dns.joey01245.nl
 .adguard.johanliebert.top
 .dns.johndave.me
-.johneldenring.lol
 .adguard.johnnypatras.org
 .child.joindns4.eu
 .child-noads.joindns4.eu
@@ -1786,10 +1780,8 @@
 .ad.justincounts.com
 .dns.justinnetworkingsolutions.com
 .adguard.k-likhachev.ru
-.dns.k1vzx.com
 .k3n.pw
 .dns.k3nny.fr
-.k3rnel-pan1c.online
 .kaandikec.com
 .kaiwu.xyz
 .adguard.kalyanmudumby.com
@@ -2018,7 +2010,6 @@
 .adguard.manmademagic.com
 .dns.maolaohei.xyz
 .adguard.mapor.co
-.maqgie.xyz
 .dns.marasov.id
 .dns.marbledfennec.net
 .dns.marcbond.uk
@@ -2060,7 +2051,6 @@
 .meganerd.nl
 .dns.megaong.com
 .v2202405224322270920.megasrv.de
-.ovhcloud.mehmetarikan.tech
 .httpdns.meituan.com
 .httpdnsmultiapi.meituan.com
 .httpdnsmultiapivip.meituan.com
@@ -2156,7 +2146,6 @@
 .math.netlab.my.id
 .dns.pnh.my.id
 .dns.ramsky.my.id
-.dns.repinger.my.id
 .agh-jkt.santainetwork.my.id
 .agh1.server.my.id
 .agh2.server.my.id
