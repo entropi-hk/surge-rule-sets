@@ -2365,7 +2365,6 @@
 .oculta.me
 .vpn.odeccit.com
 .dns.odinpl.com
-.dns.odirf.de
 .adguard.odysseusnetwork.com
 .dns.ofdoom.net
 .adguard.ohmhv57.org
@@ -2477,7 +2476,6 @@
 .phantom3c.net
 .dns.phillipjberry.net
 .philqoo.com
-.adg.pidns.de
 .adguard.piekacz.pl
 .dns.pierzchlewicz.pl
 .dns.pieterdherde.com
@@ -2513,7 +2511,6 @@
 .polisitogel.diy
 .polisitogel.green
 .polisitogel.hair
-.polisitogel.limo
 .polisitogel.living
 .polisitogel.luxe
 .polisitogel.show
@@ -2535,18 +2532,12 @@
 .lindung.pp.ua
 .pad3w.pp.ua
 .reskah.pp.ua
-.dns01.sdu.pp.ua
 .sundalandia.pp.ua
 .syre.pp.ua
 .virga.pp.ua
 .dns.xxxxxxxx.pp.ua
 .zxcvb.pp.ua
 .adguard.ppfeufer.de
-.dns.pragmasec.nl
-.mail.pragmasec.nl
-.new.pragmasec.nl
-.server.pragmasec.nl
-.webmeel.pragmasec.nl
 .dns2.prima-solusindo.com
 .princez.uk
 .agh.printk.info
@@ -2727,15 +2718,12 @@
 .safeservedns.com
 .doh.safesurfer.io
 .dns.safko.eu
-.ag.sageton.pl
 .dns.sainternet.xyz
 .vpn.sakhwow.ru
 .lime.samonte.ovh
 .cloud.samutz.com
 .dns.saneaki.com
 .router.sapib.ca
-.adb-dns.sapient.cyou
-.hetz.sapient.cyou
 .dns.sarak.as
 .dns1.sarak.as
 .dns2.sarak.as
@@ -3029,7 +3017,6 @@
 .doh.tiarap.org
 .jp.tiarap.org
 .adguard.tigrex.net
-.tigrons.ru
 .dns.timboeh.me
 .timedns.net
 .ad.timefine.org
@@ -3191,7 +3178,6 @@
 .dns.warma.me
 .dns.warpnine.de
 .dns.warrior.fr
-.waters888.com
 .domeq.waw.pl
 .waydnes.ru
 .dns.wdnts.eu
