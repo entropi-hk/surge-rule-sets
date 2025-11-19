@@ -2545,6 +2545,7 @@
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
 .tr-zhuqiy-2.dgj055.icu
+.tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
@@ -4751,7 +4752,6 @@
 .hdmovie2.theater
 .hdmovie2.tienda
 .hdmovie2.tips
-.hdmovie2.to
 .hdmovie2.today
 .hdmovie2.tokyo
 .hdmovie2.tools
