@@ -245,6 +245,7 @@
 .adguard.acrobyte.org
 .actmobile.com
 .adampowell.pro
+.adadad.adaptor.cl
 .adbl-tslagter.nl
 .adblockersite.com
 .adblockluna.com
@@ -349,6 +350,7 @@
 .kintoun.alves.cc
 .dns.alvosec.com
 .alwaysvpn.com
+.bolting.alyaf.com
 .amandahugnkiss.org
 .amanvpn.com
 .ec2-3-139-127-253.us-east-2.compute.amazonaws.com
@@ -555,7 +557,10 @@
 .sg-dns2.bancuh.com
 .barnabech.fr
 .base99.com
+.anamoxe.baselinux.net
 .archlinuxisthebestlol.baselinux.net
+.boltnirbytes.baselinux.net
+.boltnixe.baselinux.net
 .bootnbo.baselinux.net
 .nirbolt.baselinux.net
 .nirbyteproxbolt.baselinux.net
@@ -844,6 +849,8 @@
 .qh.cheftayebeh.ir
 .dns.chenu.ch
 .adguard.chestnov.ru
+.bolteducation.chiangmaiorganics.com
+.alejandro-made-this-haha.chickenkiller.com
 .coolkidd.chickenkiller.com
 .jordanmadethis.chickenkiller.com
 .grapesceleste.lobo.chickenkiller.com
@@ -1011,6 +1018,7 @@
 .9132706292.cloudns.be
 .kirov.unicom.cloudns.be
 .adguard.veanswart.cloudns.be
+.bo.what.cloudns.nz
 .zeusvps.cloudns.nz
 .cloudnymous.com
 .dns.cloudseriousshit.com
@@ -1154,6 +1162,7 @@
 .dnssp.koretech.com.br
 .arrakis.korolyzer.com.br
 .lothuscorp.com.br
+.bolteducation.navarajbudha.com.np
 .dns.netraptor.com.au
 .new-proxy.com.de
 .dns.oceanprint.com.br
@@ -1222,6 +1231,7 @@
 .c.cpfrx.info
 .e.cpfrx.info
 .www.i.cpfrx.info
+.104-36-85-232.cprapid.com
 .lmasalaka.crabdance.com
 .nrusimha.crabdance.com
 .rammerhead.crackerstreams.org
@@ -2254,6 +2264,7 @@
 .gabstorm.com
 .cluster-0.gac.edu
 .cluster-1.gac.edu
+.bolt.galacticrouter.xyz
 .sd.galaxysoft.ro
 .myapps.instructure.com.galitec.es
 .dns.gamban.com
@@ -2366,6 +2377,7 @@
 .go2proxy.com
 .privacydns.go6lab.si
 .goaslen.com
+.boltisback.panel-laboralcj.gob.mx
 .gobestvpn.com
 .dns.goertz.digital
 .goingthere.org
@@ -2789,6 +2801,7 @@
 .adguard02.dns.infrapod.nl
 .infvpn.com
 .ingenmannsland.online
+.bolt.inglap.com
 .ininja.org
 .apidns.kwd.inkuai.com
 .httpdns.kwd.inkuai.com
@@ -3246,6 +3259,7 @@
 .dns.loony-tech.de
 .lopana.com
 .deweerd.loseyourip.com
+.bolt.louis-ip.com
 .ddd.loukky.com
 .lovekers.cn
 .n5.lsasss.com
@@ -3735,6 +3749,8 @@
 .ninjacloak.com
 .ninjavpn.io
 .ninjaweb.xyz
+.104-36-85-232.nip.io
+.104.36.85.232.nip.io
 .nirbytes.com
 .doh.niyawe.de
 .njal.la
@@ -3816,6 +3832,7 @@
 .dns2.nubecita.biz
 .tech.vocab.nucktech.com
 .nucleusvpn.com
+.boltchillzone.nufszone.com
 .doh.nukys.ca
 .irgrdns.nullapp.xyz
 .dns.nullgate.net
@@ -3964,6 +3981,7 @@
 .dns.ours.luxe
 .dns.ourvau.lt
 .proxy.outred.dev
+.bolt.ovaa.cl
 .overplay.net
 .oversecure.ltd
 .vps-1f675aa1.vps.ovh.us
@@ -4091,6 +4109,7 @@
 .door.plasmadancer.ru
 .play5r.com
 .playproxy.com
+.104-36-85-232.plesk.page
 .secure-dns.pleumkungz.com
 .thanos.pleumkungz.com
 .gaia.plonknet.com
@@ -4578,6 +4597,8 @@
 .roonyx.com
 .dns.root.me
 .jaiguneeds.root.sx
+.alishnekdi.rotorootie.net
+.asimplesanirb.rotorootie.net
 .dns.rotunneling.net
 .rotvpn.com
 .roundrockisd.online
@@ -4756,6 +4777,7 @@
 .dns.sethost.de
 .setupvpn.com
 .dns.sev.monster
+.bolt-private.dmain.sevecom.com
 .sf-helper.com
 .pates.services.sfr.fr.casepp.sfr.fr
 .sgdns.site
@@ -4964,6 +4986,8 @@
 .sshssl.com
 .sshstores.net
 .dns.sshub.win
+.104-36-85-232.sslip.io
+.104.36.85.232.sslip.io
 .sslprivateproxy.com
 .sslpro.eu
 .sslpro.org
@@ -6004,6 +6028,7 @@
 .testvpn.info
 .adguard.tetnet.net
 .cloud.tezoi.com
+.bigchez.thailandhappiness.com
 .thankvpn.com
 .the-cloak.com
 .thebestproxy.info
@@ -6141,6 +6166,7 @@
 .torservers.net
 .torsona.com
 .torvpn.com
+.arnoldmiddleyk.totalcare.pk
 .rn.totalcare.pk
 .totallyacdn.com
 .totalvpn.com
@@ -6153,6 +6179,7 @@
 .ngk81hc.tplinkdns.com
 .dns.tracker.ink
 .tradeadspace.info
+.104.36.85.232.traefik.me
 .trafflink.xyz
 .traffmonetizer.com
 .resolv1.trash.net
@@ -6180,6 +6207,7 @@
 .trust.zone
 .dns.trust404.win
 .trustedproxies.com
+.andrewnotgay.trustmi.cl
 .truta.org
 .swe.try-dns.com
 .dns.tryk.app
@@ -6663,6 +6691,7 @@
 .megumin.is.my.waifu.cz
 .yunyun.is.my.waifu.cz
 .waitfree.us
+.44c.wakemeup.ru
 .kailovefurries.wakemeup.ru
 .walln.com
 .wallpap.eu
@@ -6709,6 +6738,7 @@
 .scienceclasswork.webredirect.org
 .scientist.webredirect.org
 .shark-pan.webredirect.org
+.104.36.85.232bolt.webs.vc
 .webshare.io
 .janvet.website.pl
 .websitebypass.com

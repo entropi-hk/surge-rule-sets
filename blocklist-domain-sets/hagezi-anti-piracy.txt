@@ -1995,7 +1995,6 @@
 .clonebits.org
 .clonehub.org
 .cloudatacdn.com
-.tracker.cloudbase.store
 .cloudblink91.xyz
 .cloudboxes.io
 .cloudtorrents.com
@@ -2048,7 +2047,6 @@
 .mega.co.nz
 .tracker1.bt.moack.co.kr
 .multimovies.co.in
-.bittracker.nekosunevr.co.uk
 .nhltorrents.co.uk
 .nibl.co.uk
 .piratebae.co.uk
@@ -3059,6 +3057,7 @@
 .elbitz.net
 .electro-torrent.pl
 .tracker.elektronik.ro
+.elementsbrowser.com
 .elevensports.com
 .elit-bg.com
 .elite-tracker.net

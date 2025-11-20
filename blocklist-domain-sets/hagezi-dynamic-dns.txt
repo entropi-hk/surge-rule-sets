@@ -1112,6 +1112,7 @@
 .planetdns.ca
 .planetdns.net
 .play.ai
+.plex.direct
 .plwgroup.com
 .pntl.tl
 .podzone.net
