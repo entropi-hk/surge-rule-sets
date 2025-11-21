@@ -1995,6 +1995,7 @@
 .clonebits.org
 .clonehub.org
 .cloudatacdn.com
+.tracker.cloudbase.store
 .cloudblink91.xyz
 .cloudboxes.io
 .cloudtorrents.com
@@ -2354,7 +2355,6 @@
 .cutercounter.com
 .cuteyhoneyflash.de
 .tracker.cutie.dating
-.tracker-de-2.cutie.dating
 .cutiegirl.ru
 .cwer.ru
 .cwer.ws
