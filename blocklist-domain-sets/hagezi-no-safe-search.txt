@@ -70,7 +70,6 @@
 .searx.hardwired.link
 .seeks.hsbp.org
 .search.jpope.org
-.jsearch.pw
 .search.kokomo.cloud
 .trovu.komun.org
 .search.laksith.dev

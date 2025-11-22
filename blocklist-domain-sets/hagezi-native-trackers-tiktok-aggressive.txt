@@ -78,7 +78,6 @@
 .tnc16-normal-us-ttp.capcutapi.us
 .mon-boot.tiktokv.com.edgekey.net
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
-.mon16-normal-no1a.tiktokv.eu.station
 .abtest-ch.snssdk.com
 .analytics.snssdk.com
 .applog.snssdk.com
