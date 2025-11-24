@@ -1094,7 +1094,6 @@
 .ad1guard.duckdns.org
 .adgrm.duckdns.org
 .adguardpi.duckdns.org
-.aduma15.duckdns.org
 .andryk111.duckdns.org
 .armm.duckdns.org
 .blamb.duckdns.org
@@ -1134,8 +1133,6 @@
 .wired-guardian.duckdns.org
 .wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
-.x-o-x.duckdns.org
-.x861g.duckdns.org
 .test.zkwg.duckdns.org
 .duii.de
 .dukun.de
@@ -1148,7 +1145,6 @@
 .akhilkalwakurthy.dyndns.org
 .ueni.dyndns.org
 .roucious.dyndns-remote.com
-.resolver2.dyndnsinternetguide.com
 .rafi.dynns.com
 .ccadguard.dynu.net
 .adguard.ekhozie.dynu.net
@@ -2271,7 +2267,6 @@
 .dns.netvpn.net
 .cube.neubsi.at
 .dns.neubsi.at
-.dns.neutopia.org
 .katherine-dns.newcore.cl
 .doh.nexen.cloud
 .doh.luigi.nexific.it
@@ -2344,7 +2339,6 @@
 .xpen.ns01.info
 .x.ns1net.com
 .ns3.com
-.ns3.link
 .dnscache0.ns71.net
 .dns.ntr.lol
 .ntwrkh.pro
