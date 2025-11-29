@@ -779,6 +779,7 @@
 .animex.com
 .animexin.dev
 .animexx.de
+.animeyt.es
 .animeyt.moe
 .animeyume.org
 .animez.org
@@ -3655,6 +3656,7 @@
 .flashfilms-hd.top
 .flashnetbd.com
 .flashtorrents.org
+.tracker.flatuslifir.is
 .flemmix.cam
 .flemmix.cc
 .flemmix.mom
@@ -4710,6 +4712,7 @@
 .hdreactor.info
 .hdreactor.org
 .hdrezka.ag
+.hdrezka-home.tv
 .hdrezka-ua.com
 .hdroad.org
 .tracker.hdroute.org
@@ -5042,6 +5045,7 @@
 .intrepidbd.com
 .invalid.pw
 .watch.inzi.dev
+.tracker.iochimari.moe
 .ionbooter.com
 .app.iosgods.com
 .ioshaven.com
@@ -6607,6 +6611,7 @@
 .mytracker.ru
 .myunblock.com
 .myvi.tv
+.myvidplay.com
 .rfc5746.mywaifu.best
 .tracker.mywaifu.best
 .mywarez.com
@@ -7712,6 +7717,7 @@
 .qqdl.site
 .qtstm32fan.ru
 .tracker.qu.ax
+.quantumbooter.net
 .quantumstress.net
 .quantus.tv
 .quebec-partage.com

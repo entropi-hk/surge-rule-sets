@@ -39,7 +39,6 @@
 .search.demoniak.ch
 .librex.devol.it
 .searx.devol.it
-.searxng.diadz.de
 .search.disroot.org
 .searx.divided-by-zero.eu
 .dogpile.com
@@ -172,7 +171,6 @@
 .webcrawler.com
 .searx.wegeeks.win
 .wiby.me
-.search.xcloud.live
 .xo.wtf
 .yep.com
 .yippy.com
