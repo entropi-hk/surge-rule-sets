@@ -2137,6 +2137,7 @@
 .dns.flyer.vn
 .dns.flymc.cc
 .biying.flymlc.com
+.flyproxy.com
 .flyssh.com
 .flyvpn.com
 .hk154.flyzhouyc.win
