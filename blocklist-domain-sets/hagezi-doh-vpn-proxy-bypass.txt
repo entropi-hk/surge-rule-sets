@@ -1437,6 +1437,7 @@
 .adguard.depieri.net
 .deproxyserver.com
 .adguard.dervart.ru
+.desec.io
 .desertsand.us
 .adguard.lege.despagne.net
 .adguard.rennes.despagne.net
