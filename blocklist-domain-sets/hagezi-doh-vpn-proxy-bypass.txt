@@ -363,7 +363,6 @@
 .amnezia.org
 .doh.amonsul.net
 .amopython.shop
-.home.amq.ro
 .adguard.amscenter.net
 .an81dns.ru
 .ananoos.com
@@ -506,7 +505,6 @@
 .dns.azfar.my
 .azirevpn.com
 .doh.azoris.ovh
-.dns.azsopro.net
 .sradg.eastus.cloudapp.azure.com
 .sradg2.eastus.cloudapp.azure.com
 .kawpad.southeastasia.cloudapp.azure.com
@@ -528,7 +526,6 @@
 .b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 .baconmania.click
 .filter.badbotdev.xyz
-.safe-guard.badbotdev.xyz
 .dns.bai0012.com
 .dnscdn.bai0012.com
 .httpdns.baidu.com
@@ -563,7 +560,6 @@
 .solmariknein.baselinux.net
 .studyeasy.baselinux.net
 .home.basthorst.eu
-.plant-selection.baumgardner.us
 .baxtri.ru
 .bazooki-infra.dev
 .vps01.bbhc.xyz
@@ -594,7 +590,6 @@
 .bestaitool.news
 .bestfreevpn.com
 .bestproxy.xyz
-.bestssh.net
 .lebron.is.the.besttoday.ru
 .bestukvpn.com
 .bestvideoproxy.com
@@ -782,7 +777,6 @@
 .dns.cahlen.com
 .aduhai.caksono.com
 .dns.caliph.dev
-.callies-online.site
 .needhelp.callmark.cl
 .tor.calyxinstitute.org
 .bananakun.camdvr.org
@@ -793,7 +787,6 @@
 .doh.captnemo.in
 .carebuzz.io
 .careproxy.com
-.d.carilagi.id
 .unifi.carioka.com
 .dns.carson-family.com
 .casinovpn.com
@@ -841,14 +834,12 @@
 .dns.charraud.eu
 .dns.chattalk.link
 .adguard.chaudharyarnav.com
-.ougonokaze.cheftayebeh.ir
 .qh.cheftayebeh.ir
 .dns.chenu.ch
 .adguard.chestnov.ru
 .bolteducation.chiangmaiorganics.com
 .alejandro-made-this-haha.chickenkiller.com
 .coolkidd.chickenkiller.com
-.jordanmadethis.chickenkiller.com
 .grapesceleste.lobo.chickenkiller.com
 .andersonalcantara.my28.chickenkiller.com
 .soulsorcereryt.chickenkiller.com
@@ -1158,7 +1149,6 @@
 .adguard.gbrossi.com.br
 .german-proxy.com.de
 .germany-proxy.com.de
-.btg.go4it.com.mx
 .securly.com.go4it.com.mx
 .dns2.gregoret.com.ar
 .blackhole.gugainfo.com.br
@@ -1480,7 +1470,6 @@
 .dns.watch
 .fargos2.dns.army
 .guigu.dns.army
-.homec92.dns.army
 .dns.dns-53.com
 .dns.dns-53.uk
 .dns.dns-53.us
@@ -1923,7 +1912,6 @@
 .enrollkirgo.com
 .owenforzono.entergod.com
 .owenforzonoiseeyou.entergod.com
-.dns.enzonix.com
 .adguard.eoghan-net.com
 .eonvpn.com
 .dns.epcot.fr
@@ -1942,7 +1930,6 @@
 .dns-family.esegece.com
 .dns.esnube.es
 .dns.internal.espresso-tasse.de
-.essentiallyjay.com
 .deepcs.estiloescencial.cl
 .ns.etalk.ai
 .eth.link
@@ -2055,7 +2042,6 @@
 .adguard.fatu.systems
 .favoriteshoes.us
 .adguardhome.favrep.ovh
-.fbproxies.info
 .ns0.fdn.fr
 .ns1.fdn.fr
 .dns.fdue.de
@@ -2208,7 +2194,6 @@
 .zuk.freemyip.com
 .freenetproject.org
 .freenomisratelimitingme.cf
-.freeopenproxy.com
 .freeopenvpn.org
 .freeplace.info
 .freeproxy.asia
@@ -2270,7 +2255,6 @@
 .futurearts.cc
 .dns.futuredns.me
 .dns.fxdc.ru
-.g-a-y.pro
 .vpn.g-s-a.me
 .adg.g3.monster
 .sm5q237c0.g666gle.me
