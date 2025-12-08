@@ -4,6 +4,7 @@
 .dns.010812.xyz
 .dns.080590.xyz
 .0815cloud.de
+.0ms.dev
 .dns.0ooo.icu
 .1.0rz.space
 .2.0rz.space
@@ -110,6 +111,7 @@
 .arches-srv2.8ws.net
 .outie.8ws.net
 .outiejr.8ws.net
+.tokyo.92-m.com
 .de-passage.9273082020.ru
 .jp.95576.app
 .959818.xyz
@@ -294,6 +296,7 @@
 .adguardhome.atakorah.com
 .next.atomix.in
 .vps.atomix.in
+.atris.cyou
 .atsilva.link
 .atsssgo.xyz
 .dohtrial.att.net
