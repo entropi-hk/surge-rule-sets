@@ -641,6 +641,7 @@
 .bizfast.info
 .gate.blackboxdynamics.io
 .blacklogic.com
+.essay.gov.blacknapkins.org
 .dns1.blackrandcrf.ru
 .blackvpn.com
 .fennec.blackyfox.net
@@ -713,14 +714,17 @@
 .dns4.bortus.io
 .doh.bortzmeyer.fr
 .cloudns.bosco.ovh
+.use.bostoncareercounselor.com
 .botclassic.com
 .pakupaku.bounceme.net
 .dns.bovat.net
+.full.boxathome.net
 .y9iiz61k4yu67jfgcx.boxathome.net
 .boxpn.com
 .adguard.boykevanvugt.nl
 .adguard2.boykevanvugt.nl
 .ram.br3xality.org
+.dns.braene.com
 .dns.brahma.world
 .bramka-proxy.pl
 .bravedns.com
@@ -739,6 +743,7 @@
 .britishproxy.com
 .agh.broaddy.com
 .dns.brono.cloud
+.linewize.broomleigh.org
 .brovpn.io
 .browsec.com
 .browser.lol
@@ -800,6 +805,7 @@
 .casinovpn.com
 .dns.caspervk.net
 .lvpqirhbat.castroyasociados.cl
+.catchen121299.top
 .catdns.org
 .sg-119.cattery.work
 .alidns.cb1999.top
@@ -911,6 +917,8 @@
 .dns.cloudfiction.eu
 .meow.partedu.club.cdn.cloudflare.net
 .dns.233py.com.cdn.cloudflare.net
+.study.info.east-kazakhstan.su.cdn.cloudflare.net
+.site.artweb.website.cdn.cloudflare.net
 .learn.wiki-edu.xyz.cdn.cloudflare.net
 .dns.cloudflare.com
 .cloudflare-dns.com
@@ -1157,6 +1165,7 @@
 .adguard.gbrossi.com.br
 .german-proxy.com.de
 .germany-proxy.com.de
+.btg.go4it.com.mx
 .securly.com.go4it.com.mx
 .dns2.gregoret.com.ar
 .blackhole.gugainfo.com.br
@@ -1207,6 +1216,7 @@
 .connectionvpn.com
 .dns.consoro.eu
 .constitutional.design
+.dns.containerpi.com
 .contassh.com
 .contentabc.com
 .dns.controld.com
@@ -1215,6 +1225,7 @@
 .bright-mind-274.conwordable.com
 .large-sun-614.conwordable.com
 .wise-wind-366.conwordable.com
+.cool-proxy.net
 .coolproxy.org
 .dns.cooluc.com
 .coproxy.io
@@ -1223,6 +1234,7 @@
 .doh.cornes.me
 .doh.corpa.me
 .resolve.corpa.me
+.proxy.corsfix.com
 .corsproxy.io
 .cosmohacker.space
 .adguardhome.fr.couli.fr
@@ -1252,6 +1264,7 @@
 .criarssh.com
 .cristianocosta.me
 .dns.itsec.crolla.net
+.crossorigin.me
 .crownproxy.com
 .croxy.network
 .croxy.org
@@ -1282,6 +1295,7 @@
 .r8gjg2-8000.csb.app
 .a5135324.csie.io
 .dns.csswg.org
+.grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws
 .ct-vpn.com
 .webdav.cubecloud.win
 .cubedns.com
@@ -1298,8 +1312,10 @@
 .cybershield.cc
 .cybersilent.com
 .cyberssh.com
+.dns.cybertonic.tech
 .cybertunnel.org
 .dns2.cybrespace.net
+.cynntex.fun
 .dns.cynthialabs.net
 .nextcloud.d-alahmad.de
 .dns.d365.in
@@ -1402,6 +1418,7 @@
 .dns.skous.dedyn.io
 .unraid.dedyn.io
 .dns.deekshith.in
+.deep-henchman-excuse.cfd
 .deepwebvpn.net
 .doh.defaultroutes.de
 .wutidontunderstand.defdc.com
@@ -1466,6 +1483,7 @@
 .fdns2.dismail.de
 .districtnewyork.com
 .divalane.com
+.divaloo.com
 .coolgams.dk-condos.com
 .f4ckdns.dl4mt.dev
 .dns.dlinders.nl
@@ -1477,6 +1495,7 @@
 .dns.watch
 .fargos2.dns.army
 .guigu.dns.army
+.homec92.dns.army
 .dns.dns-53.com
 .dns.dns-53.uk
 .dns.dns-53.us
@@ -1659,6 +1678,7 @@
 .doh.dnscrypt.uk
 .v.dnscrypt.uk
 .dnsdoh.art
+.dnsenc.com
 .th1.dnsfinder.ir
 .doh-lb-atl.dnsflex.com
 .doh-lb-br.dnsflex.com
@@ -1701,6 +1721,7 @@
 .uncensored-dot.dnswarden.com
 .doh.us.dnswarden.com
 .dnswebvsn.com
+.do-39574-tr.xyz
 .googolclasroom.dob.jp
 .pleaseworkughhfd.dob.jp
 .docker-hub.ir
@@ -1804,6 +1825,8 @@
 .wired-guardian.duckdns.org
 .wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
+.x-o-x.duckdns.org
+.x861g.duckdns.org
 .test.zkwg.duckdns.org
 .georgetown.duia.us
 .duii.de
@@ -1829,6 +1852,7 @@
 .oostelbos.dynu.com
 .quangdo92.dynu.net
 .saomai.dynu.com
+.gustamadh.dynv6.net
 .dns.dynx.pro
 .adg.dz.ax
 .az.dz4fun.top
@@ -1856,6 +1880,7 @@
 .easyproxy.tech
 .easyvpn.com
 .easyvpn.zone
+.eazy.wtf
 .ebookdz.com
 .ebumna.net
 .echolink.org
@@ -1868,6 +1893,7 @@
 .dns.edgeburnmedia.com
 .edgedcircles.com
 .dns.edgeworkssystems.ca
+.dns.edgy.network
 .edgy-dns.com
 .edpuzzle.space
 .agh.amber.edu.vn
@@ -1953,6 +1979,7 @@
 .beautifulthings.eu.org
 .jp.dns.bliod.eu.org
 .clic.eu.org
+.resolver.dns.eban.eu.org
 .doh.excdn.eu.org
 .doh.greenwood.eu.org
 .sweethome.in.eu.org
@@ -2091,6 +2118,7 @@
 .firstcontact.site
 .fishproxy.com
 .fitnessdepotprices.com
+.chart.books.fivepals.com
 .fixproxy.com
 .adg.fiyaajans.com
 .dns.fizz.studio
@@ -2104,6 +2132,7 @@
 .spyro-the-bat.fleuryk.ovh
 .spyrothebat.fleuryk.ovh
 .vps.fleuryk.ovh
+.dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
 .ns2.flodns.net
@@ -2430,6 +2459,7 @@
 .gratisproxy.nl
 .gratisvpn.com
 .graveofhope.ru
+.greatestfreeproxy.com
 .dns.green-ping.lol
 .adguard.green1052.com
 .c00lkiddtech.ut.greenaudio.ch
@@ -2464,6 +2494,7 @@
 .homedns.gumeniuk.com
 .gumm.org
 .dns.gupthabrothers.in
+.edu.gurdit.com
 .guruproxy.net
 .dns.gussguss.ovh
 .dns.gutwe.in
@@ -2626,6 +2657,7 @@
 .cloud2.holzmannclouddns.de
 .socolov.home.ro
 .adguard.home-lab-network.com
+.home-server.store
 .pi.homeanywhere.org
 .admin.homedns.uk
 .isolacje.homeip.net
@@ -2982,6 +3014,7 @@
 .judua3rtinpst0s.xyz
 .juicysalmon.ru
 .addns.jujuland.net
+.abcmathforkids.jumpingcrab.com
 .skoolisawsom76.nien.jumpingcrab.com
 .qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com
 .dns.jundev.org
@@ -2995,6 +3028,7 @@
 .sgs02.just-a-web.com
 .sgs03.just-a-web.com
 .justahotm3ss.xyz
+.justcors.com
 .ad.justincounts.com
 .dns.justinnetworkingsolutions.com
 .coolmanbartx.justlearning.net
@@ -3002,6 +3036,7 @@
 .saugatproxm.justlearning.net
 .solgorknh.justlearning.net
 .yanglini.justlearning.net
+.everyorigin.jwvbremen.nl
 .adguard.k-likhachev.ru
 .calm-spirit-618.k12biography.com
 .great-spirit-267.k12biography.com
@@ -3131,6 +3166,7 @@
 .agh.kul-lippek.de
 .dns.kusoneko.moe
 .dns.kuuhaku.moe
+.kx-97795-tr.xyz
 .dns.kxy.ink
 .dn.kyay006.cn
 .joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org
@@ -3151,6 +3187,7 @@
 .adguard.lamhoangtung.space
 .landerbrauver.ru
 .ads-ch.landgame.net
+.vpninuk.lant.info
 .lantern.io
 .x.laoban.fun
 .mx1.laoxiao789.com
@@ -3186,6 +3223,7 @@
 .lelux.fi
 .dns.lepilleur.com
 .dns.lermer.nl
+.lesuo.top
 .letsvpn.world
 .dns.levonet.sk
 .lewsha.lol
@@ -3261,6 +3299,7 @@
 .lslnyjq.uk
 .ltlxvxjjmvhn.me
 .dns1.luan.contact
+.btg.ludopop.cl
 .e.luismedeiros.pt
 .dns.luismm2311.com
 .doh.lujiacai.top
@@ -3345,6 +3384,7 @@
 .ultraus.masplenedigitalworld.com
 .master-clock.us
 .mastergad.me
+.media.level.mastergolfworld.com
 .masters-of-cloud.de
 .masterssh.com
 .dns.mateo.ovh
@@ -3534,7 +3574,13 @@
 .justfor.myasustor.com
 .nas-scheiben34.myasustor.com
 .zanty123456.myasustor.com
+.myatris.sbs
 .mycelium.site
+.abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
+.example.myclarevision.com
+.freelearn.myclarevision.com
+.i.myclarevision.com
+.learn.myclarevision.com
 .thisismathteach.myclarevision.com
 .adguard.myddns.org
 .adguard-home.myddns.me
@@ -3686,6 +3732,8 @@
 .scienceisfun11.networkguru.com
 .cube.neubsi.at
 .dns.neubsi.at
+.itrsa.nevuer.com
+.study-math.nevuer.com
 .katherine-dns.newcore.cl
 .newipnow.com
 .newproxylist.net
@@ -3803,6 +3851,7 @@
 .ns8469rfvth42.xyz
 .nslookup.io
 .nsocks.net
+.nsown.com
 .bright-storm-767.nstabiology.org
 .deep-lake-819.nstabiology.org
 .fair-bear-832.nstabiology.org
@@ -3862,6 +3911,7 @@
 .omegaproxy.com
 .adguard.oms-ctr.ru
 .onconnect.info
+.idea.guide.dns1.one.pl
 .one.one.one.one
 .doh.onedns.net
 .doh-pure.onedns.net
@@ -3892,6 +3942,7 @@
 .adns.onlinetools.rocks
 .adguard.onlyfriends.info
 .d.onlyjsmylord.org
+.info.onnemaa.ee
 .andybunn.onthewifi.com
 .onweb.info
 .onyx7.com
@@ -3940,6 +3991,7 @@
 .orangeproxy.net
 .proxy.ordentlichbreit.de
 .historyofutopia.orekhov.space
+.learning.orestpena.com
 .noads.api.org.pl
 .resolver.dnsprivacy.org.uk
 .teslacoils.org.uk
@@ -4067,6 +4119,7 @@
 .dns1.pietjacobs.be
 .rothschild.pii.at
 .dns.pine-home.de
+.pingbi.xyz
 .pingproxy.com
 .pinkproxy.xyz
 .pioko.net
@@ -4487,6 +4540,7 @@
 .rcsm.ir
 .searxng.rcxpony.name
 .adguard.rdekuyper.nl
+.edu.readerwrangler.com
 .login.readinghelper.online
 .dns.readlook.tk
 .agh.realwap.net
@@ -4799,6 +4853,7 @@
 .dns.sineone.icu
 .sinesprox.cloud
 .sinovpn.com
+.family.sinuabi.ee
 .sitdns.com
 .site2unblock.com
 .siteblockedbypass.com
@@ -5326,6 +5381,7 @@
 .totalvpn.com
 .doh.totoro.pub
 .touchvpn.net
+.site.tovamiasto.com
 .towervpn.com
 .home.sso.toythieves.com
 .chronicle14.tplinkdns.com
@@ -5922,6 +5978,7 @@
 .doh-rs.whalebone.io
 .how.tutor.what2no.com
 .whatcaniplay.com
+.whateverorigin.org
 .whatsonthebox.net
 .whiskergalaxy.com
 .whitehatvpn.com
@@ -5964,6 +6021,7 @@
 .dns.woodyli.dev
 .workbypass.com
 .workdigi.com
+.test.cors.workers.dev
 .workhost.eu
 .workingvpn.com
 .workproxy.net
@@ -5987,6 +6045,7 @@
 .proxy.wynd.network
 .dns1.wyss.network
 .wyx.cloud
+.cors.x2u.in
 .ads.x88.in
 .adguard.x88x.xyz
 .mydns.x96maxultra.ru

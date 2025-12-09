@@ -376,6 +376,7 @@
 .dynamai.com
 .dynamic.domains
 .dynamic-dns.net
+.dynamic-dns.us
 .dynamic-m.com
 .dynamic-site.net
 .dynamicdns.biz
@@ -824,6 +825,7 @@
 .jetos.com
 .jkub.com
 .joe.dj
+.jomblo.asia
 .jonward.com
 .jumpingcrab.com
 .jundy.org
