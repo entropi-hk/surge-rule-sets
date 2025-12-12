@@ -1258,6 +1258,7 @@
 .bender-baumarkt.com
 .bendoffice.com
 .beneathk.com
+.beneficialx.com
 .benefitw.com
 .benettonaustria.at
 .benjamin-scheuer.de
@@ -1307,6 +1308,7 @@
 .berlinstil.de
 .berlinwoch.com
 .berluxe.de
+.bermuda-musicshop.de
 .bernardes.de
 .bernhardthome.com
 .beruhig-ende.de
@@ -2230,6 +2232,7 @@
 .cheapcharly.de
 .cheapestcosmetic.com
 .cheapmondo.com
+.check24-anlagen.com
 .checkaktiv.de
 .chefsouppot.com
 .chefthermomix.de
@@ -3578,6 +3581,7 @@
 .ecoalfsale.at
 .ecofuture-handel24.de
 .ecogisolaire.com
+.h5.ecoinf.vip
 .ecomaher.com
 .econoechomart.com
 .econoessence.com
@@ -3849,6 +3853,7 @@
 .enrichor.com
 .ensemble4cyclisme.com
 .entermusic.it
+.entertainl.com
 .enthusiastichaic.com
 .enthusiastip.com
 .entornobanoes.com
@@ -4069,6 +4074,7 @@
 .everdeedy.com
 .everestbtc.com
 .evergreen-herne.com
+.everhandmade.com
 .everlast.fund
 .everlastosterreich.at
 .everlodge.io
@@ -4448,6 +4454,7 @@
 .firat-shopping.de
 .firegemss.com
 .firewood-versand.de
+.firmadmire.com
 .firmeneintrag.net
 .first-bikes.de
 .first-investcapital.com
@@ -4678,6 +4685,7 @@
 .freeacnevs.xyz
 .freeacy.com
 .freemobile24.de
+.freeseem.com
 .freesmarttools.com
 .freeteck.shop
 .frehit.com
@@ -6224,6 +6232,7 @@
 .hudyrc.com
 .huelstamoebelhaus.com
 .huewi.xyz
+.hugetsky.com
 .hugfirst.com
 .hugoverkauf.de
 .huiiltn.shop
@@ -6811,6 +6820,7 @@
 .kadewetasche.com
 .kadiwo.de
 .kadonimo.de
+.kaeser-llc.com
 .kaffee-burg.de
 .kaffee-held24.de
 .kaffee-kult.com
@@ -7667,6 +7677,7 @@
 .lockenbarava.shop
 .lockenbareur.shop
 .lockpickingstore.de
+.locomotivey.com
 .lodiac.com
 .lodischuhedeutschland.com
 .loefflerrandalllove.com
@@ -9286,7 +9297,6 @@
 .oelzone.de
 .oelzy.de
 .oesterreichischeapotheke.com
-.oewist.com
 .ofendeutschland.com
 .ofenhausfuchs.com
 .ofenrohr.eu
@@ -14110,7 +14120,7 @@
 .zesbit.com
 .zestara-berlin.de
 .zetko-waren.de
-.app.zety.de
+.zety.de
 .zfggmbh.de
 .ziegler-handel.de
 .zieglerzurich.ch
@@ -14119,10 +14129,12 @@
 .zigber.com
 .zilool.com
 .zimtahorn.de
+.zinderx.com
 .zinniafolkartsdeeu.shop
 .zinpp.com
 .zinsacm.com
 .zinskapital.com
+.zinsmanager.de
 .zinzendorf-mode.at
 .zipgoat.com
 .zitysports.com
