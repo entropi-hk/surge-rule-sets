@@ -403,7 +403,6 @@
 .dns.blaumer.dev
 .us1.blissdns.net
 .doh.blitarian.com
-.blockadhomemoskva.ru
 .doh.blockerdns.com
 .adh.blogcuahieu.com
 .adguard.blogssl.com
@@ -545,8 +544,6 @@
 .dns.clickitsolutionsllc.com
 .adguard.clmnnt.codes
 .closetruth.date
-.dns.cloud-admin.xyz
-.doh.cloud-sekeng.com
 .dns.cloudfiction.eu
 .dns.233py.com.cdn.cloudflare.net
 .dns.cloudflare.com
@@ -620,7 +617,6 @@
 .ag.coco-tama-hoiku.com
 .block.coconut.id
 .dns.codarbyte.de
-.dns.code66.de
 .dns.coderoria.com
 .jpdns.cola16.app
 .krdns.cola16.app
@@ -1146,7 +1142,6 @@
 .workcavestl.duckdns.org
 .x-o-x.duckdns.org
 .x861g.duckdns.org
-.test.zkwg.duckdns.org
 .duii.de
 .dukun.de
 .dns.dumk.in
@@ -1249,7 +1244,6 @@
 .dns.mayx.eu.org
 .dns.melashri.eu.org
 .arashi.net.eu.org
-.adg.niub.eu.org
 .v3.passby.eu.org
 .kr.pigs.eu.org
 .r1bnc.eu.org

@@ -75,6 +75,8 @@
 .1and1-dns.de
 .1clickvpn.com
 .1clickvpn.net
+.donutdevcodingeducation.1copa.com
+.county.news.1copa.com
 .1ee.top
 .vpn.1xtrm.com
 .20010114.xyz
@@ -297,6 +299,7 @@
 .akunssh.net
 .dns.alanpearce.eu
 .dns.albony.xyz
+.mrs-smiths-science-help.alcrb.ru
 .aldhaferi.store
 .dnsnl.alekberg.net
 .agh.alematho.de
@@ -556,7 +559,6 @@
 .boltnirbytes.baselinux.net
 .boltnixe.baselinux.net
 .bootnbo.baselinux.net
-.gnomedesktop44.baselinux.net
 .nirbolt.baselinux.net
 .nirbyteproxbolt.baselinux.net
 .peninsulaeducation.baselinux.net
@@ -613,7 +615,6 @@
 .dns.bibitos.cc
 .bigma.org
 .httpdns.bilivideo.com
-.carverd.bine.me
 .proxyduke.bingle.pw
 .kind-rain-691.biologyscholar.org
 .sunny-wolf-734.biologyscholar.org
@@ -664,7 +665,6 @@
 .us1.blissdns.net
 .doh.blitarian.com
 .blocka.net
-.blockadhomemoskva.ru
 .blockaway.net
 .blockedsiteaccess.com
 .doh.blockerdns.com
@@ -720,7 +720,6 @@
 .boxpn.com
 .adguard.boykevanvugt.nl
 .adguard2.boykevanvugt.nl
-.ram.br3xality.org
 .dns.braene.com
 .dns.brahma.world
 .bramka-proxy.pl
@@ -827,7 +826,6 @@
 .unicast2.servers.censurfridns.dk
 .unicast.censurfridns.dk
 .unicast.censurfridns.nu
-.center-crm.store
 .dns.cert.ee
 .cfdjb.org
 .pds.cfornas.casa
@@ -910,8 +908,6 @@
 .cloakpoint.com
 .cloakvpn.com
 .closetruth.date
-.dns.cloud-admin.xyz
-.doh.cloud-sekeng.com
 .dns.cloudfiction.eu
 .meow.partedu.club.cdn.cloudflare.net
 .dns.233py.com.cdn.cloudflare.net
@@ -1129,7 +1125,6 @@
 .cocoombr.com
 .cocoproxy.com
 .dns.codarbyte.de
-.dns.code66.de
 .dns.coderoria.com
 .coinsite.info
 .4y5t.coke0.cc
@@ -1299,7 +1294,6 @@
 .dns.csswg.org
 .grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws
 .ct-vpn.com
-.aminip.ctx.cl
 .joinpd.ctx.cl
 .webdav.cubecloud.win
 .cubedns.com
@@ -1835,7 +1829,6 @@
 .workcavestl.duckdns.org
 .x-o-x.duckdns.org
 .x861g.duckdns.org
-.test.zkwg.duckdns.org
 .georgetown.duia.us
 .duii.de
 .dukun.de
@@ -1896,7 +1889,6 @@
 .echolink.org
 .echous.info
 .ecoweb-network.com
-.ecxs.asia
 .dns.edc-pws.com
 .dns.eddi.net
 .doh.eddi.net
@@ -1933,6 +1925,7 @@
 .emban-networks.com
 .nas.embraced.co
 .emeraldeyex.dev
+.pleasehelpsecineedschoolnottobeborngplsplspls.eminescusm.ro
 .emmmmm.me
 .en-proxy.com
 .enclosr.co
@@ -2000,7 +1993,6 @@
 .dns.mayx.eu.org
 .dns.melashri.eu.org
 .arashi.net.eu.org
-.adg.niub.eu.org
 .v3.passby.eu.org
 .kr.pigs.eu.org
 .r1bnc.eu.org
@@ -2083,7 +2075,6 @@
 .fastvpn.com
 .fastvpn.im
 .fastvpn.me
-.clevercoding.fatibara.com
 .adguard.fatu.systems
 .favoriteshoes.us
 .adguardhome.favrep.ovh
@@ -2120,6 +2111,7 @@
 .finchvpn.com
 .fineproxy.org
 .finevpn.org
+.nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi
 .antistalkerfree-eu.europe-west1.firebasedatabase.app
 .xcomvpn-7000b-default-rtdb.firebaseio.com
 .fpn.firefox.com
@@ -2856,6 +2848,7 @@
 .d1.insec.link
 .srv.insec.link
 .premiumtier-network.instadart.net
+.courses.bolt.installgentoo.com
 .instant-vpn.com
 .instantunblock.com
 .intego.com
@@ -2922,6 +2915,7 @@
 .it-works4u.com
 .it-works4u.nl
 .khanhow-to-do-math.itafricagroup.com
+.ulsscgyntu.itafricagroup.com
 .adguard.itclogic.cloud
 .dns.itcosc.com
 .dns.itdata.ro
@@ -3969,6 +3963,7 @@
 .adguard.onlyfriends.info
 .d.onlyjsmylord.org
 .info.onnemaa.ee
+.ojjccwjwov.onnemaa.ee
 .andybunn.onthewifi.com
 .onweb.info
 .onyx7.com
@@ -5064,6 +5059,7 @@
 .eu2-browse.startpage.com
 .eu3-browse.startpage.com
 .proxy1.startpage.com
+.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com

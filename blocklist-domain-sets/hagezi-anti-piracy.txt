@@ -321,6 +321,7 @@
 .5play.app
 .5play.org
 .5tigorsk.ru
+.5tv5.ru
 .60-fps.org
 .61626c.net
 .64dd.org
@@ -984,9 +985,7 @@
 .assistir.biz
 .assistiranimes.org
 .assistirseriados.online
-.assistirserie.org
 .assistirseriesflix.net
-.assistirtopflix.com
 .assistirtvgratis.online
 .asst2game.ru
 .astakiller.com
@@ -1105,7 +1104,6 @@
 .basixmovie.com
 .baskino.film
 .basnetbd.com
-.batflix.org
 .batflixmovies.club
 .batman-stream.tv
 .batmanstream.cc
@@ -1288,7 +1286,6 @@
 .bitvaulttorrent.com
 .bitvn.net
 .alt.bitworld.to
-.biu47.xyz
 .vexmovies.biz.id
 .bj-share.net
 .tracker.bjut.jp
@@ -1614,7 +1611,6 @@
 .watchepisodeseries.bypassed.wtf
 .byrutgame.org
 .byte.to
-.bytecollectors.com
 .bandito.byterunner.io
 .byxatab.com
 .byxatab.org
@@ -1639,7 +1635,6 @@
 .camclips.tv
 .camflow.tv
 .camhoe.tv
-.camhoes.tv
 .share.camoe.cn
 .canalflix.com
 .candownload.org
@@ -1683,7 +1678,6 @@
 .cash2day4u.net
 .castradio.net
 .casualgamers.club
-.cat-a-cat.net
 .cataz.to
 .catherinemacivor.com
 .catorrent.org
@@ -1696,7 +1690,6 @@
 .cb01.builders
 .cb01.care
 .cb01.cc
-.cb01.cfd
 .cb01.charity
 .cb01.click
 .cb01.clothing
@@ -1829,10 +1822,8 @@
 .cineb.rs
 .cinebay.org
 .cineblog01.agency
-.cineblog01.app
 .cineblog01.archi
 .cineblog01.bid
-.cineblog01.biz
 .cineblog01.boats
 .cineblog01.boo
 .cineblog01.boutique
@@ -1869,7 +1860,6 @@
 .cineblog01.kaufen
 .cineblog01.kitchen
 .cineblog01.land
-.cineblog01.legal
 .cineblog01.life
 .cineblog01.locker
 .cineblog01.lol
@@ -1892,7 +1882,6 @@
 .cineblog01.spa
 .cineblog01.space
 .cineblog01.systems
-.cineblog01.taxi
 .cineblog01.today
 .cineblog01.tokyo
 .cineblog01.town
@@ -1907,7 +1896,6 @@
 .cineblog01.wtf
 .cineblog01.zip
 .cinebloom.com
-.cinebloom.org
 .cinebook.xyz
 .cineby.app
 .cineby.asia
@@ -2026,7 +2014,6 @@
 .althub.co.za
 .an1.co.in
 .apk4all.co.in
-.apkpure.co.in
 .mirror.aptus.co.tz
 .bioquantum.co.za
 .koskomputer.blogspot.co.uk
@@ -2197,7 +2184,6 @@
 .cpasbien.ch
 .cpasbien.com
 .cpasbien.io
-.cpasbien.me
 .cpasbien.pe
 .cpasbien.rip
 .cpasbien.sh
@@ -2288,7 +2274,6 @@
 .cricfrees.com
 .crichd.ac
 .crichd.at
-.crichd.cricket
 .crichd.info
 .crichd.li
 .crichd.mobi
@@ -2350,7 +2335,6 @@
 .cuevana.nu
 .cuevana.uno
 .cuevana2.com
-.cuevana2.io
 .cuevana3.io
 .cuevana3.me
 .cuevana3.mobi
@@ -2515,7 +2499,6 @@
 .deporte-libre.click
 .azn-project.depthstrike.com
 .derechosmadretierra.org
-.descargaapk.com
 .descargagame.com
 .descargasfull.com
 .descargatepelis.com
@@ -2720,7 +2703,6 @@
 .dood.host
 .dood.icu
 .dood.ie
-.dood.im
 .dood.ink
 .dood.is
 .dood.la
@@ -2772,7 +2754,6 @@
 .doodd.stream
 .doodmv.com
 .doods.pro
-.doodstream.art
 .doodstream.biz
 .doodstream.buzz
 .doodstream.cab
@@ -3167,7 +3148,6 @@
 .euroddl.com
 .euromovies.me
 .europixhd.pro
-.europixhd.site
 .europixhd.top
 .eurostreaming.actor
 .eurostreaming.app
@@ -3183,7 +3163,6 @@
 .eurostreaming.biz
 .eurostreaming.boo
 .eurostreaming.cash
-.eurostreaming.cc
 .eurostreaming.chat
 .eurostreaming.click
 .eurostreaming.cloud
@@ -3239,7 +3218,6 @@
 .eurostreaming.tel
 .eurostreaming.today
 .eurostreaming.top
-.eurostreaming.town
 .eurostreaming.tv
 .eurostreaming.us
 .eurostreaming.vg
@@ -5140,6 +5118,7 @@
 .ioshaven.com
 .iosninja.io
 .iosvizor.com
+.ns575949.ip-51-222-82.net
 .47.ip-51-68-199.eu
 .ns349743.ip-91-121-106.eu
 .ipacrack.com
@@ -7173,7 +7152,6 @@
 .onstreamapk.com
 .onstreamapp.to
 .bestfiles.oo.lv
-.laestrygonian.ooguy.com
 .oomoviz.com
 .oomoye.me
 .ootmm.com
@@ -9095,6 +9073,7 @@
 .streamkiste.taxi
 .streamkiste.tv
 .streamlive.to
+.streamlock.net
 .streamlord.com
 .streamm4u.com
 .streamm4u.net
