@@ -3474,11 +3474,9 @@
 .filmcomplet.al
 .filmcomplet.vip
 .filmduty.com
-.filmeflix.online
 .filmehd.se
 .filmehd.to
 .filmes.pro
-.filmeseseriesonline.info
 .filmeseseriesonlinex.com
 .filmesonline.top
 .filmesonline2.com
@@ -3603,7 +3601,6 @@
 .filmstreaming.in
 .filmstreaming.info
 .filmstreaming.io
-.filmstreaming.it
 .filmstreaming.lol
 .filmstreaming.me
 .filmstreaming.net
@@ -3683,7 +3680,6 @@
 .fitgirl-repacks.site
 .fitgirl-repacks.website
 .tracker.fixr.pro
-.fk9.pw
 .fl1x.com
 .flactor.ru
 .flacworld.com
@@ -3760,7 +3756,6 @@
 .fmovies.cab
 .fmovies.cafe
 .fmovies.co
-.fmovies.date
 .fmovies.fo
 .fmovies.gd
 .fmovies.hn
@@ -4175,7 +4170,6 @@
 .gidonline.site
 .gidonline.vip
 .gidonline.ws
-.gidonline.xyz
 .gidonline-film.ru
 .gidonline2.com
 .gidonlinehd.online
@@ -4524,7 +4518,6 @@
 .hdhub4u.rehab
 .hdhublist.com
 .hdizle.nl
-.hdlivemovies.com
 .hdm.to
 .hdmatch.club
 .hdme.eu
@@ -4647,7 +4640,6 @@
 .hdmovie2.is
 .hdmovie2.ist
 .hdmovie2.kim
-.hdmovie2.la
 .hdmovie2.lc
 .hdmovie2.lease
 .hdmovie2.lgbt
@@ -4686,7 +4678,6 @@
 .hdmovie2.organic
 .hdmovie2.page
 .hdmovie2.parts
-.hdmovie2.pe
 .hdmovie2.pet
 .hdmovie2.ph
 .hdmovie2.phd
@@ -4735,7 +4726,6 @@
 .hdmovie2.taipei
 .hdmovie2.tax
 .hdmovie2.team
-.hdmovie2.tech
 .hdmovie2.theater
 .hdmovie2.tienda
 .hdmovie2.tips
@@ -5008,7 +4998,6 @@
 .ilgeniodellostreaming.eu
 .ilgeniodellostreaming.fm
 .ilgeniodellostreaming.golf
-.ilgeniodellostreaming.hair
 .ilgeniodellostreaming.info
 .ilgeniodellostreaming.io
 .ilgeniodellostreaming.it
@@ -5150,7 +5139,6 @@
 .upload.iq24.pl
 .iraniantorrents.com
 .tracker.iriseden.fr
-.tracker.iro.moe
 .ironanime.live
 .irwarez.com
 .isitdownyet.com
@@ -5178,7 +5166,6 @@
 .istream-it.com
 .istream2watch.com
 .isubsmovies.com
-.isuggeriti.it
 .ita101.online
 .ita101.ru
 .italia-film.cc
@@ -5360,7 +5347,6 @@
 .tracker.keepfrds.com
 .keepvid.online
 .keke.re
-.kemono.su
 .data.kenecolor.com
 .keohosting.net
 .kevinsport.top
@@ -5398,7 +5384,6 @@
 .kickasstorrents.to
 .open.kickasstracker.com
 .kickassunblock.com
-.kickassunblock.info
 .kickme.to
 .tracker.0day.kiev.ua
 .max2wwe.kilu.de
@@ -5515,7 +5500,6 @@
 .kinox.dog
 .kinox.express
 .kinox.farm
-.kinox.film
 .kinox.foo
 .kinox.food
 .kinox.fun
@@ -5536,7 +5520,6 @@
 .kinox.my
 .kinox.navy
 .kinox.news
-.kinox.now
 .kinox.parts
 .kinox.prof
 .kinox.ru
@@ -9956,6 +9939,7 @@
 .trackerok.ru
 .trackerpmr.com
 .tk1.trackerservers.com
+.node01.trackerstatus.live
 .trackerturk.biz
 .tracker.trackton.ga
 .traderz.org

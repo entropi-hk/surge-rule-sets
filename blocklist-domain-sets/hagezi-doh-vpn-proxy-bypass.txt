@@ -2171,7 +2171,6 @@
 .small-kids.foxgateway.com
 .stop-it-now-stop-it-now.foxgateway.com
 .we-need-more.foxgateway.com
-.de-d2.foxyfy.net
 .de-f1.foxyfy.net
 .dns.foxyfy.net
 .es-ma.foxyfy.net
@@ -2290,7 +2289,6 @@
 .funti.cc
 .funtikspb.ru
 .doh.funtopia.tv
-.dns.furrydns.de
 .furriesarecute.furryplace.eu
 .doh.futa.app
 .doh.futa.gg
@@ -2377,7 +2375,6 @@
 .adguard.maison.gifino.fr
 .gifttrees.us
 .gigatapbot.top
-.bvo.giize.com
 .lamdtl.giize.com
 .gingerbread.design
 .dns.ginovs.nl
@@ -2802,7 +2799,6 @@
 .ad.imblien.com
 .noads.imbuffering.com
 .dns.imchristian.de
-.dns1.imkvq.com
 .immadnez7.ru
 .dns.immanuelschaffer.de
 .doh.immerda.ch
@@ -2825,7 +2821,6 @@
 .adblock.indianets.net
 .indiaproxy.win
 .indo-ssh.com
-.dns.indraarsana.site
 .dns.indybanipal.com
 .dns.inforlogia.com
 .doh.infotechlibrary.com
@@ -2845,8 +2840,6 @@
 .inoainoa.fun
 .inpssh.online
 .qlf-doh.inria.fr
-.d1.insec.link
-.srv.insec.link
 .premiumtier-network.instadart.net
 .courses.bolt.installgentoo.com
 .instant-vpn.com
@@ -5059,7 +5052,6 @@
 .eu2-browse.startpage.com
 .eu3-browse.startpage.com
 .proxy1.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
 .s4-us2.startpage.com
 .us1-browse.startpage.com
