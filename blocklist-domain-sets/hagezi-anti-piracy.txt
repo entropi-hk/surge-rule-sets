@@ -683,6 +683,7 @@
 .andropalace.org
 .andyday.tv
 .andydayz.lol
+.andydayz.uk
 .ani-mania.com
 .anicloud.domains
 .anicloud.io
@@ -2599,6 +2600,7 @@
 .diwana.org
 .tracker.dix.tf
 .dizcompany.ru
+.dizipal1521.com
 .dizipal1936.com
 .dizipal22.plus
 .dizipall32.com
@@ -6338,6 +6340,7 @@
 .movie4k.sx
 .movie4k.to
 .movie4k.tv
+.movie4k-to.cfd
 .movie4u.cc
 .movie4u.live
 .movie4u.org
@@ -7369,6 +7372,7 @@
 .pig2pig.com
 .pijafka.pl
 .tracker.pimp4003.net
+.pinoymovieshub.tv
 .pinoytorrents.net
 .tv.pipexbd.com
 .piraat.xyz
@@ -9773,6 +9777,7 @@
 .torrentmovie.info
 .torrentmovies.co
 .torrentnote.com
+.node01.torrentonline.cc
 .node02.torrentonline.cc
 .torrentonly.com
 .torrentor.pro
