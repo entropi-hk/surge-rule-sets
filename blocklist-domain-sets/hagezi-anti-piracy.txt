@@ -2489,7 +2489,6 @@
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
 .tr-zhuqiy-2.dgj055.icu
-.tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
@@ -9063,6 +9062,7 @@
 .t411.io
 .t411.me
 .t50.com
+.tabula-rasa.pw
 .rt.tace.ru
 .taiwebs.com
 .tajpata.com
@@ -9146,6 +9146,12 @@
 .tracker.tasvideos.org
 .tata.to
 .tazz.tv
+.tb-cdn.cx
+.tb-cdn.io
+.tb-cdn.pw
+.tb-cdn.sh
+.tb-cdn.st
+.tb-cdn.to
 .tb7.pl
 .tracker.tbkresources.org
 .tc-boxing.com
@@ -9645,6 +9651,7 @@
 .torrentmovie.info
 .torrentmovies.co
 .torrentnote.com
+.node02.torrentonline.cc
 .torrentonly.com
 .torrentor.pro
 .torrentoyunindir.com
@@ -9787,6 +9794,7 @@
 .trackerlist.xyz
 .trackerok.ru
 .trackerpmr.com
+.node01.trackerstatus.live
 .trackerturk.biz
 .tracker.trackton.ga
 .traderz.org
