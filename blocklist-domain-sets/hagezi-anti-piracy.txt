@@ -1565,6 +1565,7 @@
 .bunkr.tv
 .buny.uk
 .torrent.burgas.org
+.burmese.app
 .burning-series.io
 .burning-series.net
 .burningseries.co
@@ -2488,6 +2489,7 @@
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
 .tr-zhuqiy-2.dgj055.icu
+.tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
@@ -7881,7 +7883,6 @@
 .reminiapk.io
 .tracker.renfei.net
 .repack.info
-.repack.me
 .repack-byrutor.org
 .repack-igruha.net
 .repackov.net
@@ -9680,6 +9681,7 @@
 .torrentmovie.info
 .torrentmovies.co
 .torrentnote.com
+.node02.torrentonline.cc
 .torrentonly.com
 .torrentor.pro
 .torrentoyunindir.com
