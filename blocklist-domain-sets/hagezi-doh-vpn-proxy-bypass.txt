@@ -5405,6 +5405,8 @@
 .torguard.net
 .torguard.org
 .nsc.torgues.net
+.torproject.com
+.torproject.net
 .torproject.org
 .torrentproxy.co
 .torrentproxy.net
