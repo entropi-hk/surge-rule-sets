@@ -230,7 +230,6 @@
 .24urban.com
 .24warez.ru
 .250412.xyz
-.2600.com
 .266528.xyz
 .2anime.xyz
 .2bbit.com
@@ -1941,6 +1940,7 @@
 .clonebits.org
 .clonehub.org
 .cloudatacdn.com
+.tracker.cloudbase.store
 .cloudblink91.xyz
 .cloudboxes.io
 .cloudtorrents.com
@@ -9817,6 +9817,7 @@
 .trackerlist.xyz
 .trackerok.ru
 .trackerpmr.com
+.node01.trackerstatus.live
 .trackerturk.biz
 .tracker.trackton.ga
 .traderz.org

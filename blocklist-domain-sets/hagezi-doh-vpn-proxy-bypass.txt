@@ -2669,7 +2669,7 @@
 .holavpnworld.com
 .holax.io
 .hi.hollandweather.net
-.beta.holyunblocker.org
+.holyunblocker.org
 .cloud2.holzmannclouddns.de
 .socolov.home.ro
 .adguard.home-lab-network.com
@@ -3963,6 +3963,7 @@
 .onlineproxy.io
 .onlineproxy.us
 .adns.onlinetools.rocks
+.onlinevpn.app
 .adguard.onlyfriends.info
 .d.onlyjsmylord.org
 .info.onnemaa.ee
@@ -5058,9 +5059,7 @@
 .eu2-browse.startpage.com
 .eu3-browse.startpage.com
 .proxy1.startpage.com
-.proxy2.startpage.com
 .proxy3.startpage.com
-.proxy5.startpage.com
 .s4-us2.startpage.com
 .us-browse.startpage.com
 .us2-browse.startpage.com
@@ -6247,6 +6246,7 @@
 .zproxy.org
 .d.zscale.gq
 .zscalertwo.net
+.zt.al
 .ztv.su
 .lookup.zucx.net
 .dns.zui.lol
