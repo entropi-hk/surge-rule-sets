@@ -202,6 +202,7 @@
 .supaflix-series.1mt.top
 .1nd.hu
 .1progs.ru
+.1shows.nl
 .1soft.space
 .1stream.top
 .1street.ru
@@ -688,6 +689,7 @@
 .anime-legion.net
 .anime-loads.org
 .anime-planet.com
+.anime-sama.tv
 .anime-sharing.com
 .anime1.com
 .anime2enjoy.com
@@ -1940,7 +1942,6 @@
 .clonebits.org
 .clonehub.org
 .cloudatacdn.com
-.tracker.cloudbase.store
 .cloudblink91.xyz
 .cloudboxes.io
 .cloudtorrents.com
@@ -3281,6 +3282,7 @@
 .vsrecommendedgames.fandom.com
 .fano.in
 .fano.lv
+.fanqtv.cc
 .tracker.fansub.id
 .ag-freedom.fansub-torrents.com
 .anime-destiny.fansub-torrents.com
@@ -3650,6 +3652,7 @@
 .flashnetbd.com
 .flashtorrents.org
 .tracker.flatuslifir.is
+.flemmix.bond
 .flemmix.cam
 .flemmix.cc
 .flemmix.mom
@@ -3679,6 +3682,7 @@
 .flixhub.net
 .flixjar.com
 .flixpad.net
+.flixpay.site
 .flixta.cc
 .flixtor.ch
 .flixtor.id
@@ -6349,8 +6353,10 @@
 .moviesjoy.onl
 .moviesjoy.plus
 .moviesjoytv.to
+.moviesleech.top
 .moviesmania.info
 .moviesmobile.net
+.moviesmod.build
 .moviesmod.cards
 .moviesmod.dev
 .moviesmod.plus
@@ -7387,6 +7393,7 @@
 .pirateworld.org
 .piratexplay.cc
 .piratez.xyz
+.piratv.online
 .pirlog.com
 .pirlotv.football
 .pirlotv.fr
@@ -8710,7 +8717,6 @@
 .startflix.site
 .startseite.cc
 .startseite.to
-.tracker.startwork.cv
 .starwarez.to
 .stealth.si
 .steam-repacks.com
@@ -8781,6 +8787,7 @@
 .streamerflix.xyz
 .streamflix.one
 .streamflix.space
+.streamgoblin.com
 .streamhls.to
 .streamhunter.net
 .streamhunter.to
@@ -8901,6 +8908,9 @@
 .streamingcommunity.wang
 .streamingcommunity.work
 .streamingcommunity.ws
+.streamingcommunityz.agency
+.streamingcommunityz.autos
+.streamingcommunityz.beauty
 .streamingcommunityz.bio
 .streamingcommunityz.biz
 .streamingcommunityz.blog
@@ -9484,6 +9494,7 @@
 .toolhip.com
 .toolzu.com
 .toonamiaftermath.com
+.toonanimetv.com
 .toonitalia.xyz
 .toonova.net
 .toorgle.com
@@ -9993,6 +10004,7 @@
 .piracitoplista.ugu.pl
 .uhdbits.org
 .uhdmovies.dad
+.uhdmovies.earth
 .uhdmovies.rip
 .uhdmovies.tube
 .uhdmovies.us
@@ -11038,6 +11050,8 @@
 .xpdf4u.com
 .xplorenetbd.com
 .xpress.ltd
+.xprime.stream
+.xprime.today
 .xprime.tv
 .xrel.to
 .xrshellbooter.com
@@ -11386,5 +11400,7 @@
 .tr.zukizuki.org
 .zumods.com
 .tracker.zupix.online
+.zxcprime.icu
+.zxcstream.xyz
 .zxonlinebd.com
 .zz101.online
