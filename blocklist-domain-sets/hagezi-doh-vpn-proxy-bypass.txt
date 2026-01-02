@@ -38,14 +38,11 @@
 .123hideip.com
 .123inside.net
 .123li.me
-.123me.net
 .123music.app
 .123proxy.app
 .123proxy.biz
 .123proxy.cool
 .123proxy.me
-.123proxyx.com
-.123prx.com
 .123roms.com
 .123rooms.net
 .123streaming.org
@@ -279,7 +276,6 @@
 .research.africa.com
 .dns.agfiudsv.icu
 .aghdns.com
-.agmath.xyz
 .ahadns.net
 .blitz.ahadns.com
 .blitz-setup.ahadns.com
