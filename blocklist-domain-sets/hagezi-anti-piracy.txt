@@ -484,7 +484,6 @@
 .aklivetv.com
 .alabout.com
 .alagoz.beer
-.tracker.alaskantf.com
 .aletorrenty.pl
 .alexlan.org
 .alfafile.net
@@ -591,10 +590,8 @@
 .altadefinizione.info
 .altadefinizione.it
 .altadefinizione.kim
-.altadefinizione.legal
 .altadefinizione.li
 .altadefinizione.life
-.altadefinizione.limo
 .altadefinizione.live
 .altadefinizione.love
 .altadefinizione.ma
@@ -607,7 +604,6 @@
 .altadefinizione.one
 .altadefinizione.online
 .altadefinizione.org
-.altadefinizione.pet
 .altadefinizione.ph
 .altadefinizione.pink
 .altadefinizione.re
@@ -1553,7 +1549,6 @@
 .btjunkie.org
 .btkitty.red
 .btmon.com
-.btmusic.eu
 .btmusic.org
 .btnext.com
 .btor.org
@@ -1931,13 +1926,11 @@
 .cinemathek.net
 .cinematik.net
 .cinemaunlocked.com
-.cinemay.in
 .tracker.cinemaz.to
 .cinemitas.tv
 .cineplex21.online
 .cinevid.tv
 .cinevision.online
-.cinewhale.com
 .circleftp.net
 .circlenetworkbd.net
 .city9x.com
@@ -2146,7 +2139,6 @@
 .tracker.corpscorp.online
 .pre.corrupt-net.org
 .trace.corrupt-net.org
-.corsaro.red
 .corsflix.net
 .cosmic332.com
 .cosmicscans.asia
@@ -2182,8 +2174,6 @@
 .crack81.com
 .crackaio.com
 .crackcrew.com
-.crackdb.com
-.crackdb.org
 .cracked-games.org
 .crackedfully.com
 .crackedme.com
@@ -2320,7 +2310,6 @@
 .cutercounter.com
 .cuteyhoneyflash.de
 .tracker.cutie.dating
-.tracker-de-2.cutie.dating
 .cutiegirl.ru
 .cwer.ru
 .cwer.ws
@@ -2463,7 +2452,6 @@
 .open.demonii.si
 .demonoid.com
 .demonoid.is
-.demonoid.ph
 .demonoid.pw
 .inferno.demonoid.me
 .open.demonoid.ch
@@ -2501,7 +2489,6 @@
 .dfast.app
 .dfichiers.com
 .dflix.live
-.em.dfnbd.net
 .tube.dfnbd.net
 .dfox.it
 .mixes.dfx.at
@@ -2702,7 +2689,6 @@
 .dood.ro
 .dood.sbs
 .dood.sh
-.dood.show
 .dood.so
 .dood.stream
 .dood.team
@@ -2804,7 +2790,6 @@
 .downparadise.ws
 .downpit.com
 .downthem.org
-.downtr.cc
 .downturk.net
 .doxma.com
 .dp27.ru
@@ -2974,14 +2959,11 @@
 .iscariote.edwardk.info
 .ee3.me
 .efilmy.tv
-.egydead.art
 .egydead.ca
-.egydead.cam
 .egydead.center
 .egydead.fun
 .egydead.fyi
 .egydead.info
-.egydead.ink
 .egydead.live
 .egydead.me
 .egydead.onl
@@ -3033,7 +3015,6 @@
 .emp3juices.cc
 .empire-stream.com
 .empornium.us
-.tracker.empornium.is
 .tracker.empornium.sx
 .empresstorrents.com
 .emtrek.org
@@ -8740,7 +8721,6 @@
 .startflix.site
 .startseite.cc
 .startseite.to
-.tracker.startwork.cv
 .starwarez.to
 .stealth.si
 .steam-repacks.com
@@ -9735,7 +9715,6 @@
 .torrentmovie.info
 .torrentmovies.co
 .torrentnote.com
-.node02.torrentonline.cc
 .torrentonly.com
 .torrentor.pro
 .torrentoyunindir.com
@@ -9878,6 +9857,7 @@
 .trackerlist.xyz
 .trackerok.ru
 .trackerpmr.com
+.node01.trackerstatus.live
 .trackerturk.biz
 .tracker.trackton.ga
 .traderz.org
