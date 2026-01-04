@@ -1060,6 +1060,7 @@
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
 .seoul.dnsovertor.cc
+.dnspod.com
 .dnssilo.top
 .bilidon.dnsuser.info
 .ns.dnsviewer.org
@@ -1330,9 +1331,6 @@
 .dns.fizz.studio
 .resolve.fknw.de
 .doh.flashstart.com
-.spyro-the-bat.fleuryk.ovh
-.spyrothebat.fleuryk.ovh
-.vps.fleuryk.ovh
 .dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
@@ -1414,7 +1412,6 @@
 .adg.geili.me
 .genscorp.es
 .dns.geohide.ru
-.adguard.georgev22.com
 .gersoctruda.ru
 .vpn.geshido.ru
 .getdnsapi.net
@@ -1518,7 +1515,6 @@
 .dns.hannielzhang.com
 .jp.hannielzhang.com
 .d.hansj.cc
-.happy365.me
 .resolver.haringstad.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
@@ -1605,7 +1601,6 @@
 .httpdns.huaweicloud.com
 .doh.hugang8.cn
 .dns.huizegunsing.nl
-.dns.huizhechi.com
 .dns.hujiayucc.cn
 .ads.hunga1k47.com
 .huntllcx.cn
@@ -1622,7 +1617,8 @@
 .hkg.hytec.org
 .ur.hytec.org
 .ns1.i-evolve.net
-.i-puppy.ru
+.ec.i-puppy.ru
+.ru.i-puppy.ru
 .opennic.i2pd.xyz
 .opennic2.i2pd.xyz
 .az.i81.ru
@@ -1697,7 +1693,6 @@
 .inpssh.online
 .qlf-doh.inria.fr
 .premiumtier-network.instadart.net
-.dns.interhub.cc
 .intertop.link
 .dns.invent.hr
 .adb.intienquan.io.vn
@@ -1824,7 +1819,6 @@
 .server01.karl.one
 .adguard.kasbot.net
 .dns.kastner-online.de
-.kavkaz.monster
 .dns.kawa.tf
 .dns.kc2wbx.com
 .kcolspacrm.ir
@@ -1953,7 +1947,6 @@
 .us.libost.xyz
 .doh.libredns.gr
 .dot.libredns.gr
-.lifeisa.live
 .dns.lifeym.xyz
 .dns.lightmaster.pw
 .dns.lihj.me
@@ -1987,7 +1980,6 @@
 .ddd.loukky.com
 .lovekers.cn
 .n5.lsasss.com
-.dns.lsho.top
 .lslnyjq.uk
 .dns1.luan.contact
 .dns.luismm2311.com
@@ -2007,19 +1999,6 @@
 .orjp4.lz0724.com
 .addns1.m-it.ro
 .ag.m0fo.com
-.mabuktogel.builders
-.mabuktogel.business
-.mabuktogel.cards
-.mabuktogel.creditcard
-.mabuktogel.degree
-.mabuktogel.directory
-.mabuktogel.enterprises
-.mabuktogel.immobilien
-.mabuktogel.limited
-.mabuktogel.ltd
-.mabuktogel.marketing
-.mabuktogel.properties
-.mabuktogel.solutions
 .v971850.macloud.host
 .dns.mafyuh.io
 .guard.magic-pics.tk
@@ -2119,7 +2098,6 @@
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mni.li
-.mo0on15.com
 .dnstls.mobik.com
 .query.mobyds.com
 .doh.mochou.site
@@ -2162,7 +2140,6 @@
 .muxyuji.ru
 .d.apemlegit.my.id
 .be2aja.my.id
-.dns.dodhymikrotik.my.id
 .dns.freddys.my.id
 .dns.iki.my.id
 .dns-idx1.itsec.my.id
@@ -2570,8 +2547,6 @@
 .orpi.privado.ovh
 .oury.privado.ovh
 .privatebard.com
-.lmc.privatedns.org
-.lmc1.privatedns.org
 .test.privatenode.ru
 .dns.privateservices.pro
 .de.dns.privex.io
@@ -2581,10 +2556,8 @@
 .dns.propheci.xyz
 .adg.proprietarypenguin.com
 .dns.proprietarypenguin.com
-.prostoclub.ru
 .psociety.de
 .bit.psyk.fr
-.dns.psyk.fr
 .publicdnsserver.com
 .dns.pumpkinvrar.com
 .puredns.org
@@ -2708,7 +2681,6 @@
 .adg.rokh.biz
 .dns.romain.tech
 .dns.ronc.ru
-.dns.root.me
 .dns.rotunneling.net
 .adguard.rowdyengeesje.nl
 .roycom.win

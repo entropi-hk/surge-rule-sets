@@ -323,6 +323,7 @@
 .alleesph.online
 .scholastic.allez.la
 .gaagleclassroom.tci.iready.school.allisons.org
+.allorigins.win
 .dns.alloxr.info
 .micro.alloxr.info
 .vps.alloxr.info
@@ -1733,6 +1734,7 @@
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
 .seoul.dnsovertor.cc
+.dnspod.com
 .dnssilo.top
 .bilidon.dnsuser.info
 .ns.dnsviewer.org
@@ -2091,7 +2093,6 @@
 .dns.farshidhakimy.de
 .fastestvpn.com
 .fastfoxvpn.com
-.fastfreeproxy.info
 .desmossciencehelp.global.ssl.fastly.net
 .fastlyusers.global.ssl.fastly.net
 .fastp.org
@@ -2161,9 +2162,6 @@
 .flashputon.net
 .doh.flashstart.com
 .flashvpn.li
-.spyro-the-bat.fleuryk.ovh
-.spyrothebat.fleuryk.ovh
-.vps.fleuryk.ovh
 .dns.flightspace.net
 .dns01.flm9.net
 .ns1.flodns.net
@@ -2282,7 +2280,6 @@
 .freesafeip.com
 .freesupervpn.com
 .freetrialvpn.com
-.freetunnel.net
 .freeukvpn.com
 .freevideoproxy.com
 .freevmess.com
@@ -2355,15 +2352,12 @@
 .genmirror.com
 .genscorp.es
 .dns.geohide.ru
-.adfree-games-at.geometry-games.online
-.browser.geometry-games.online
 .play-games-at.geometry-games.online
 .rammerhead.geometry-games.online
 .shameless-plug-for.geometry-games.online
 .unblocked-games-at.geometry-games.online
 .geonix.com
 .geonode.com
-.adguard.georgev22.com
 .geosurf.io
 .german-proxy.de
 .gersoctruda.ru
@@ -2568,14 +2562,12 @@
 .d.hansj.cc
 .classroom.haoqiw.com
 .happy-vpn.com
-.happy365.me
 .happydata.info
 .cars.happyforever.com
 .skibidiparkergoon.happyforever.com
 .turtle.happyforever.com
 .yessir.happyforever.com
 .courses.happyrobotics.com
-.harbaletsstudy.com
 .resolver.haringstad.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
@@ -2758,7 +2750,6 @@
 .doh.hugang8.cn
 .hugeph.art
 .dns.huizegunsing.nl
-.dns.huizhechi.com
 .dns.hujiayucc.cn
 .ads.hunga1k47.com
 .solidgeo.hunnur.com
@@ -2778,7 +2769,8 @@
 .hkg.hytec.org
 .ur.hytec.org
 .ns1.i-evolve.net
-.i-puppy.ru
+.ec.i-puppy.ru
+.ru.i-puppy.ru
 .i2p-projekt.de
 .i2pd.xyz
 .az.i81.ru
@@ -2833,7 +2825,6 @@
 .ilinhy.com
 .ilmxs.com
 .ilumu.com
-.ilysk.lol
 .ad.imblien.com
 .noads.imbuffering.com
 .dns.imchristian.de
@@ -2884,7 +2875,6 @@
 .instant-vpn.com
 .instantunblock.com
 .intego.com
-.dns.interhub.cc
 .interncloud.info
 .internetbypass.com
 .internetcloak.com
@@ -2910,7 +2900,6 @@
 .dns.ipoac.nl
 .iportal.me
 .ipprotectionauth.goog
-.ipredator.se
 .iprivatevpn.com
 .iprovpn.com
 .iproxy.lol
@@ -3109,7 +3098,6 @@
 .server01.karl.one
 .adguard.kasbot.net
 .dns.kastner-online.de
-.kavkaz.monster
 .dns.kawa.tf
 .dns.kc2wbx.com
 .kcolspacrm.ir
@@ -3184,8 +3172,7 @@
 .dns.kostydenis.me
 .dns1.kostydenis.me
 .koxy.de
-.interesting-molli-qj-9c49db8e.koyeb.app
-.puzzled-dulci-ballpit-1-5f558a50.koyeb.app
+.koyeb.app
 .hkt.kozow.com
 .mechanikdns.kozow.com
 .notebooks.kozow.com
@@ -3271,7 +3258,6 @@
 .dns.levonet.sk
 .br2.lezainski.com
 .dns2.lezainski.com
-.kagurabachilover.lgmnow.com
 .dns.lgprk.com
 .nd.lgprk.com
 .dns.liberador.net
@@ -3280,7 +3266,6 @@
 .us.libost.xyz
 .doh.libredns.gr
 .dot.libredns.gr
-.lifeisa.live
 .neon.lifepixeled.com
 .dns.lifeym.xyz
 .dns.lightmaster.pw
@@ -3337,12 +3322,10 @@
 .ddd.loukky.com
 .lovekers.cn
 .n5.lsasss.com
-.dns.lsho.top
 .lslnyjq.uk
 .ltlxvxjjmvhn.me
 .dns1.luan.contact
 .btg.ludopop.cl
-.e.luismedeiros.pt
 .dns.luismm2311.com
 .doh.lujiacai.top
 .lukscasino-479-tr.xyz
@@ -3363,19 +3346,6 @@
 .orjp4.lz0724.com
 .addns1.m-it.ro
 .ag.m0fo.com
-.mabuktogel.builders
-.mabuktogel.business
-.mabuktogel.cards
-.mabuktogel.creditcard
-.mabuktogel.degree
-.mabuktogel.directory
-.mabuktogel.enterprises
-.mabuktogel.immobilien
-.mabuktogel.limited
-.mabuktogel.ltd
-.mabuktogel.marketing
-.mabuktogel.properties
-.mabuktogel.solutions
 .v971850.macloud.host
 .iloveshrek.madhacker.biz
 .dns.mafyuh.io
@@ -3401,7 +3371,6 @@
 .dns.mandre.dev
 .doh.manish.ltd
 .adguard.manmademagic.com
-.use.manutec.be
 .dns.maolaohei.xyz
 .adguard.mapor.co
 .mapspublications.us
@@ -3460,7 +3429,6 @@
 .doh.meetz.pw
 .redsea.meetz.pw
 .testguard.meexx.de
-.mega123proxy.com
 .meganerd.nl
 .dns.megaong.com
 .megaproxy.biz
@@ -3524,7 +3492,6 @@
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mni.li
-.mo0on15.com
 .dnstls.mobik.com
 .mobilejump.mobi
 .mobilevpn.net
@@ -3589,7 +3556,6 @@
 .d.apemlegit.my.id
 .be2aja.my.id
 .vpnto.bhadrikais.my.id
-.dns.dodhymikrotik.my.id
 .dns.freddys.my.id
 .dns.iki.my.id
 .dns-idx1.itsec.my.id
@@ -3656,7 +3622,6 @@
 .egshe.myqnapcloud.com
 .newlibrarian.myqnapcloud.com
 .myrusvpn.de
-.mysiteunblocked.com
 .mysolod.xyz
 .myspaceunlock.com
 .mysteriumvpn.com
@@ -4114,7 +4079,6 @@
 .papervpn.info
 .paradise-human.shop
 .dns.pari.network
-.parkviewenglish.buzz
 .meow.partedu.club
 .pashagame456.com
 .paskam.xyz
@@ -4285,8 +4249,6 @@
 .oury.privado.ovh
 .privadovpn.com
 .privatebard.com
-.lmc.privatedns.org
-.lmc1.privatedns.org
 .privateinternetaccess.com
 .test.privatenode.ru
 .privateproxy.me
@@ -4307,7 +4269,6 @@
 .adg.proprietarypenguin.com
 .dns.proprietarypenguin.com
 .edu.prostitutki-na-vyezd.com
-.prostoclub.ru
 .prostovpn.org
 .vpn-api.proton.me
 .protonstatus.com
@@ -4489,7 +4450,6 @@
 .psociety.de
 .psybolt.com
 .bit.psyk.fr
-.dns.psyk.fr
 .ptoserver.com
 .publicdnsserver.com
 .publicproxy.org
@@ -4604,7 +4564,6 @@
 .rcsm.ir
 .searxng.rcxpony.name
 .adguard.rdekuyper.nl
-.edu.readerwrangler.com
 .login.readinghelper.online
 .dns.readlook.tk
 .agh.realwap.net
@@ -4684,7 +4643,6 @@
 .roodel.com
 .roogen.com
 .roonyx.com
-.dns.root.me
 .alishnekdi.rotorootie.net
 .asimplesanirb.rotorootie.net
 .dns.rotunneling.net
@@ -5061,6 +5019,7 @@
 .ssh-storage.ru
 .sshagan.net
 .sshdropbear.net
+.sshgofast.com
 .sshkit.com
 .sshmax.net
 .sshmyanmar.com
