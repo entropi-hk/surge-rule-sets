@@ -2786,6 +2786,7 @@
 .dns.iamninja.ru
 .sec.iamninja.ru
 .ib.systems
+.dns-public.ibakerserver.pt
 .dns.iblockads.net
 .dns-us.ibmcloud.top
 .ibvpn.com
@@ -4875,7 +4876,6 @@
 .dns.simplylinux.ch
 .dns.sindominio.net
 .dns.sineone.icu
-.sinesprox.cloud
 .sinovpn.com
 .family.sinuabi.ee
 .sitdns.com
@@ -4967,7 +4967,6 @@
 .adguard.soloanvill.ru
 .ns.solutics.ec
 .ns.solutionsbest.de
-.adguard.som-it.net
 .somelikeitproxy.com
 .bwg.sooda.moe
 .r.soraapp.gq
@@ -5123,7 +5122,6 @@
 .superproxy123.com
 .adguard.superstefan.win
 .dns.superstefan.win
-.superunblocked.net
 .superunlimited.com
 .supervpn.best
 .supervpn.im
@@ -5426,7 +5424,6 @@
 .chronicle14.tplinkdns.com
 .ebpmc.tplinkdns.com
 .ngk81hc.tplinkdns.com
-.dns.tracker.ink
 .tradeadspace.info
 .access.traders-friend.com
 .104.36.85.232.traefik.me
@@ -5611,7 +5608,6 @@
 .unblockedwarez.com
 .unblocker.net
 .unblocker.us
-.unblockfav.com
 .unblockfreeproxy.com
 .unblockit.app
 .unblockit.club
@@ -5630,7 +5626,6 @@
 .unblockprox.com
 .unblockproxy.me
 .unblockproxy.win
-.unblocks.net
 .unblocksite.biz
 .unblocksite.fun
 .unblocksite.id
@@ -5817,7 +5812,6 @@
 .vpn.asia
 .vpn.com
 .vpn.express
-.vpn.fail
 .vpn.ht
 .vpn.lat
 .vpn.net
@@ -5917,7 +5911,6 @@
 .vpnwelt.com
 .dns.vps.pw
 .antispam.vpsvpn.com
-.vrehm.fr
 .vtcuong.site
 .vuivn.site
 .45.32.17.58.vultrusercontent.com
@@ -6162,7 +6155,6 @@
 .youcanhide.net
 .net01.youcef.io
 .adguard.youler.com
-.younblocked.com
 .dns.youni.win
 .youproxything.com
 .youproxytube.com
@@ -6184,7 +6176,6 @@
 .dns2.ytpom.ru
 .dns.yu.dev
 .yui.cat
-.yujunwanwu.cn
 .adguard.yuki2th.xyz
 .yundun.icu
 .httpdns.yunxindns.com

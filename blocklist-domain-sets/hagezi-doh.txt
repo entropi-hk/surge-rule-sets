@@ -1634,6 +1634,7 @@
 .dns.iamninja.ru
 .sec.iamninja.ru
 .ib.systems
+.dns-public.ibakerserver.pt
 .dns.iblockads.net
 .dns-us.ibmcloud.top
 .mask.icloud.com
@@ -2839,7 +2840,6 @@
 .adguard.soloanvill.ru
 .ns.solutics.ec
 .ns.solutionsbest.de
-.adguard.som-it.net
 .bwg.sooda.moe
 .spacedns.org
 .adguard.spaceindex.net
@@ -3032,7 +3032,6 @@
 .chronicle14.tplinkdns.com
 .ebpmc.tplinkdns.com
 .ngk81hc.tplinkdns.com
-.dns.tracker.ink
 .access.traders-friend.com
 .resolv1.trash.net
 .resolv2.trash.net
@@ -3146,7 +3145,6 @@
 .adguard.vpnkitakitsune.com
 .vpnmy.ru
 .dns.vps.pw
-.vrehm.fr
 .vtcuong.site
 .vuivn.site
 .45.32.17.58.vultrusercontent.com
@@ -3297,7 +3295,6 @@
 .dus.ysbs.uk
 .dns2.ytpom.ru
 .dns.yu.dev
-.yujunwanwu.cn
 .adguard.yuki2th.xyz
 .yundun.icu
 .httpdns.yunxindns.com
