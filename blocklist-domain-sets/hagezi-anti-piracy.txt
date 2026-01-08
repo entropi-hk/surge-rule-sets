@@ -82,6 +82,7 @@
 .123freemovies.show
 .123hbo.com
 .123hulu.com
+.123movie.cc
 .123movie.date
 .123movie.show
 .123movie.uno
@@ -92,6 +93,7 @@
 .123movieonline.xyz
 .123movies.ag
 .123movies.archi
+.123movies.bio
 .123movies.com
 .123movies.domains
 .123movies.fun
@@ -179,6 +181,7 @@
 .1cinevood.kim
 .1clickdown.com
 .1ddl.org
+.1fbdown.net
 .1fichier.com
 .1flix.to
 .1gabba.net
@@ -194,6 +197,7 @@
 .1movies.is
 .1movies.life
 .1movies.nl
+.1movieshd.cc
 .1movieshd.com
 .1movietv.com
 .supaflix.1mt.top
@@ -338,6 +342,7 @@
 .7tor.org
 .7torrents.cc
 .7track.org
+.7ur.ru
 .7xstream.com
 .7xtream.com
 .870726.xyz
@@ -367,6 +372,7 @@
 .9kmovies.agency
 .9kmovies.bar
 .9kmovies.beauty
+.9kmovies.bet
 .9kmovies.buzz
 .9kmovies.cfd
 .9kmovies.chat
@@ -457,6 +463,7 @@
 .aerotwitter.com
 .aerowa.cc
 .afdah.com
+.afdah.info
 .afdah.live
 .afdah.org
 .afdah.to
@@ -498,6 +505,7 @@
 .alifanet.com
 .iptv.aliflailabd.com
 .alivedownload.com
+.all-animes.com
 .all4nothin.net
 .alldebrid.com
 .alldebrid.de
@@ -534,6 +542,7 @@
 .allrepack.ru
 .allseek.info
 .allsports4free.live
+.allsportsflix.xyz
 .stream.allsprk.tv
 .allthebestfights.com
 .alltorrents.co
@@ -546,6 +555,7 @@
 .allyoulike.org
 .alpha-ag.ru
 .alphabetagamer.com
+.alphabroadway.com
 .alphaomega.me
 .alpharatio.cc
 .alphastress.com
@@ -588,6 +598,7 @@
 .altadefinizione.icu
 .altadefinizione.id
 .altadefinizione.info
+.altadefinizione.io
 .altadefinizione.it
 .altadefinizione.kim
 .altadefinizione.li
@@ -642,6 +653,7 @@
 .altadefinizione01.love
 .altadefinizione01.online
 .altadefinizione01.photo
+.altadefinizione01.site
 .altadefinizione01.tel
 .altadefinizione01.top
 .altadefinizione01.vg
@@ -871,6 +883,7 @@
 .anthousebd.net
 .antsmarching.org
 .anygame.net
+.anytv.live
 .anzaq.com
 .anzfile.net
 .aostv.app
@@ -920,6 +933,7 @@
 .apkmody.mobi
 .apkmody.vip
 .apkneom.com
+.apkocean.net
 .apkpanda.com
 .apkpapi.com
 .apkprime.org
@@ -944,8 +958,10 @@
 .appdoze.com
 .applegamingwiki.com
 .applenetbd.com
+.appmods.us
 .appnee.com
 .appnetica.com
+.trackr.appolon.dev
 .apps4all.com
 .appsitory.com
 .academic-p2p.appspot.com
@@ -1056,10 +1072,12 @@
 .audiobookbay.nl
 .audiobookbay.se
 .audiobookol.com
+.audiobooks.cloud
 .audiobooksbee.com
 .audiobookss.com
 .audionews.org
 .audionews.ru
+.audiop2p.com
 .audiostuff.ro
 .aurastresser.com
 .auratorrent.pl
@@ -1162,6 +1180,7 @@
 .bdixmedia.com
 .bdixsports.com
 .bdixtorrent.com
+.bdixtv.live
 .bdlan.net
 .bdlivezone.com
 .bdmovies.net
@@ -1212,6 +1231,7 @@
 .bestsolaris.com
 .bestsportstreaming.com
 .beststresser.com
+.besttracker.cz
 .bestwish.lol
 .tracker.beyond-hd.me
 .bflix.ac
@@ -1299,6 +1319,7 @@
 .bitsparadise.info
 .bitspyder.net
 .bitstreams.live
+.tracker.bittalk.org
 .tracker.bittor.pw
 .bittorrent.am
 .bittorrent.com
@@ -1336,6 +1357,7 @@
 .blacktorrent.ru
 .tracker.blackunicorn.xyz
 .blackvid.space
+.blackwave.tv
 .blackz.ro
 .tracker.blazing.de
 .block908.ru
@@ -1425,6 +1447,7 @@
 .blue-bytez.com
 .blue-whitegt.com
 .bluebird-hd.org
+.tracker.bluefrog.pw
 .blueroms.ws
 .blues-brothers.biz
 .blueseries.net
@@ -1502,7 +1525,9 @@
 .booter.eu
 .booter.ninja
 .booter.org
+.booter.pw
 .booter.sx
+.booter.xyz
 .bootlegs.su
 .bootylounge.org
 .bootyou.net
@@ -1580,12 +1605,14 @@
 .btnext.com
 .btor.org
 .btorrent.xyz
+.btr.kz
 .btracker.top
 .btsay.org
 .btscene.com
 .btscene.eu
 .tracker.btschool.club
 .btsearch.love
+.btshoufa.net
 .btsow.online
 .bttrove.org
 .tracker.btzero.net
@@ -1652,6 +1679,7 @@
 .calcio.pub
 .calcio.ws
 .calibrecompanion.co
+.caly-film.pl
 .cambros.tv
 .camclips.tv
 .camflow.tv
@@ -1691,6 +1719,7 @@
 .casacinema.org
 .casacinema.pics
 .casacinema.ru
+.casacinema.skin
 .casacinema.vg
 .casacinema.ws
 .casanovax.com
@@ -1738,6 +1767,7 @@
 .cb01.lat
 .cb01.li
 .cb01.life
+.cb01.live
 .cb01.love
 .cb01.marketing
 .cb01.me
@@ -1888,7 +1918,9 @@
 .cineblog01.spa
 .cineblog01.space
 .cineblog01.systems
+.cineblog01.tips
 .cineblog01.tokyo
+.cineblog01.top
 .cineblog01.town
 .cineblog01.tv
 .cineblog01.ventures
@@ -2015,6 +2047,7 @@
 .althub.co.za
 .an1.co.in
 .apk4all.co.in
+.apkpure.co.in
 .mirror.aptus.co.tz
 .bioquantum.co.za
 .koskomputer.blogspot.co.uk
@@ -2339,7 +2372,6 @@
 .cutercounter.com
 .cuteyhoneyflash.de
 .tracker.cutie.dating
-.tracker-de-2.cutie.dating
 .cutiegirl.ru
 .cwer.ru
 .cwer.ws
@@ -2487,7 +2519,6 @@
 .open.demonoid.ch
 .open-tracker.demonoid.ch
 .open-v6.demonoid.ch
-.public.demonoid.ch
 .demons-eye.me
 .dendox.org
 .deporte-libre.click
@@ -5250,6 +5281,7 @@
 .justinwb.com
 .juststream.mom
 .jutone.com
+.jvavav.com
 .blog.jxzmz.org
 .k2nblog.com
 .kaa.mx
@@ -6655,6 +6687,7 @@
 .neefit.net
 .neglectsquad.com
 .neko-sama.fr
+.tracker.nekobt.to
 .nelion.me
 .neobd.net
 .neoboard.org
@@ -8946,6 +8979,7 @@
 .streamingcommunityz.gold
 .streamingcommunityz.golf
 .streamingcommunityz.guru
+.streamingcommunityz.hair
 .streamingcommunityz.help
 .streamingcommunityz.info
 .streamingcommunityz.irish
@@ -9851,7 +9885,6 @@
 .trackerlist.xyz
 .trackerok.ru
 .trackerpmr.com
-.node01.trackerstatus.live
 .trackerturk.biz
 .tracker.trackton.ga
 .traderz.org

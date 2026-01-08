@@ -343,6 +343,7 @@
 .dns.b72.com
 .b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 .filter.badbotdev.xyz
+.safe-guard.badbotdev.xyz
 .dns.bai0012.com
 .dnscdn.bai0012.com
 .httpdns.baidu.com
@@ -384,6 +385,7 @@
 .nvi-dns.bitdefender.net
 .ore-dns.bitdefender.net
 .tky-dns.bitdefender.net
+.dns.bitgeek.in
 .dns.bitservices.io
 .adguard.bitteeinbyte.de
 .dns.bitup.de
@@ -477,6 +479,7 @@
 .doh.captnemo.in
 .unifi.carioka.com
 .dns.carson-family.com
+.dns.carter.me
 .dns.casadecampo.casa
 .dns.caspervk.net
 .catchen121299.top
@@ -695,6 +698,7 @@
 .cryptd.space
 .crypto.sx
 .dns.cryptomize.com
+.cryptostorm.is
 .cryptroute.com
 .ae-agh1.dns.cryptroute.net
 .dns.crystalyx.net

@@ -194,6 +194,7 @@
 .cld.996969.xyz
 .ddd.999369.xyz
 .dns.9999.sg
+.99proxy.com
 .9w9.org
 .dns.a47.me
 .doh.aaaab3n.moe
@@ -399,6 +400,7 @@
 .anonproxy.org
 .anonvpn.io
 .anonwebproxy.com
+.anonymitynetwork.com
 .anonymize.com
 .anonymizer.com
 .anonymizing.com
@@ -542,6 +544,7 @@
 .baconmania.click
 .franzosen.bad.mn
 .filter.badbotdev.xyz
+.safe-guard.badbotdev.xyz
 .dns.bai0012.com
 .dnscdn.bai0012.com
 .httpdns.baidu.com
@@ -601,6 +604,7 @@
 .bestaitool.news
 .bestfreevpn.com
 .bestproxy.xyz
+.bestssh.net
 .lebron.is.the.besttoday.ru
 .bestukvpn.com
 .bestvideoproxy.com
@@ -608,6 +612,7 @@
 .bestvpnprovider.info
 .bestvpnrating.com
 .bestvpnserver.com
+.bestvpnservice.top
 .bestvpnssh.com
 .bestwon203.com
 .www-proxy.bettercallghaith.wiki
@@ -634,6 +639,7 @@
 .ore-dns.bitdefender.net
 .tky-dns.bitdefender.net
 .tips.bitesmagazine.com
+.dns.bitgeek.in
 .bitping.com
 .dns.bitservices.io
 .adguard.bitteeinbyte.de
@@ -727,6 +733,7 @@
 .boxpn.com
 .adguard.boykevanvugt.nl
 .adguard2.boykevanvugt.nl
+.ram.br3xality.org
 .dns.braene.com
 .dns.brahma.world
 .bramka-proxy.pl
@@ -746,7 +753,9 @@
 .britishproxy.com
 .agh.broaddy.com
 .dns.brono.cloud
+.blooket.broomleigh.org
 .linewize.broomleigh.org
+.schoolwork.broomleigh.org
 .brovpn.io
 .browsec.com
 .browser.lol
@@ -802,12 +811,14 @@
 .canadaproxy.info
 .canlite.org
 .cantfindme.org
+.tysonsbackagain.capnorthshore.org
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
 .carebuzz.io
 .careproxy.com
 .unifi.carioka.com
 .dns.carson-family.com
+.dns.carter.me
 .dns.casadecampo.casa
 .casinovpn.com
 .dns.caspervk.net
@@ -896,6 +907,7 @@
 .ciscossh.com
 .citizenvpn.com
 .dns.citrahost.com
+.citrik.design
 .dns.citystars.cn
 .ns.ciwer.cn
 .alpha.cixy.xyz
