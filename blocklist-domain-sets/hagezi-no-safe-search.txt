@@ -112,6 +112,7 @@
 .searx.openhoofd.nl
 .search.opentunisia.org
 .openworlds.info
+.oscobo.com
 .searx.ouahpiti.info
 .search.pabloferreiro.es
 .peekier.com
@@ -158,7 +159,6 @@
 .suchfeuer.de
 .searx.sulu.me
 .searx.thegreenwebfoundation.org
-.s.tokhmi.xyz
 .search.trom.tf
 .suche.tromdienste.de
 .s.trung.fun

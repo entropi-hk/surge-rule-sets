@@ -3034,6 +3034,7 @@
 .dns.iteo.pw
 .itlikehell.ru
 .itopvpn.com
+.diy.itsa.top
 .adguardhome.ittoolman.top
 .fl.ittqc.com
 .dns.itwht.com
@@ -3112,6 +3113,7 @@
 .vpn.jogjacloud.com
 .adguard.johanliebert.top
 .dns.johndave.me
+.johneldenring.lol
 .adguard.johnnypatras.org
 .joindns4.in
 .child.joindns4.eu
@@ -3370,6 +3372,7 @@
 .dns.lilith.cloud
 .limevpn.com
 .limitlessproxy.com
+.adgaurd.lingmont.net
 .www-pa.linkall.uk
 .linkideo.com
 .linkmefree.net
@@ -3471,6 +3474,7 @@
 .dns.maolaohei.xyz
 .adguard.mapor.co
 .mapspublications.us
+.maqgie.xyz
 .dns.marasov.id
 .dns.marbledfennec.net
 .dns.marcbond.uk
@@ -3500,6 +3504,7 @@
 .mathhelpnow.site
 .mathlearning.tech
 .mathnotes.help
+.mathnotes.icu
 .rasp.matthias-iwer.de
 .dns.matthias-prost.com
 .maxfong.cc
@@ -3613,6 +3618,7 @@
 .monthlyssh.net
 .monvpn.com
 .zrh1-ns01.monzoon.net
+.dns.moog.sh
 .dns.mooncheng.top
 .dns.moondip.net
 .dns.moonssif.com
@@ -4202,6 +4208,7 @@
 .vps-ovh.pb2004.pl
 .pbproxy.red
 .pbproxy2.co
+.pc-streaming.com
 .dns.pccoach.nl
 .pcgo.fun
 .rpz-public-resolver1.rrdns.pch.net
@@ -4353,6 +4360,11 @@
 .printruns.us
 .printtools.us
 .privacy.io
+.las-vegas.privacy-dns.pw
+.luxembourg.privacy-dns.pw
+.romania.privacy-dns.pw
+.switzerland.privacy-dns.pw
+.united-arab-emirates.privacy-dns.pw
 .privacyprotector.eu
 .privado.io
 .dns.privado.ovh
@@ -4374,6 +4386,8 @@
 .privoxy.org
 .dns.valbatos.pro.vn
 .pro-tower.com
+.polkmn.progressivecongressnews.org
+.prohome.info
 .prointern.info
 .project-evoex.de
 .dns.propheci.xyz
@@ -4388,6 +4402,7 @@
 .protonvpn.net
 .prounlock.org
 .provpn.info
+.provpnaccounts.com
 .prox.pw
 .proxandthecity.com
 .proxbomb.com
@@ -4462,6 +4477,7 @@
 .proxybox.ru
 .proxybros.com
 .proxybrowse.info
+.proxybrowser.co
 .proxybrowser.org
 .proxybrowser.xyz
 .proxybrowsing.com
@@ -4661,6 +4677,7 @@
 .dns.ramansarda.com
 .drpepperisbetter.ramonmedina.net
 .rapidprivacy.com
+.rapidproxy.org
 .rapidproxy.us
 .rapidvpn.com
 .thiscopyofartclassisnotgenuine.rare1k.space
@@ -4850,6 +4867,7 @@
 .dns.sbstructure.ir
 .ns1.sc-lezhi.com
 .us.sc92.cn
+.dns.scapetical.com
 .dns.scarx.net
 .dns.scayn.com
 .filter.das.sch.id
@@ -4945,6 +4963,7 @@
 .sf-helper.com
 .pates.services.sfr.fr.casepp.sfr.fr
 .sgdns.site
+.d2.shabi.icu
 .shadeyouvpn.com
 .shadowart.online
 .shadowsocks.org
@@ -5052,6 +5071,7 @@
 .001.smallnode.net
 .smartcamp.su
 .smartdnsproxy.com
+.onlyforschool123.smarter-homes.com
 .lunarsync.smartfoloo.space
 .dns.smartguard.io
 .smartproxy.com
