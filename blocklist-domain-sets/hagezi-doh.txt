@@ -2888,6 +2888,7 @@
 .dns.sev.monster
 .pates.services.sfr.fr.casepp.sfr.fr
 .sgdns.site
+.d2.shabi.icu
 .shadowart.online
 .s1.s2.shahramv1.site
 .shakdns.cc
@@ -3178,6 +3179,7 @@
 .doh.ibr.cs.tu-bs.de
 .dns.tuankhaiit.com
 .tuantran.cloud
+.tujenasnaszato.xyz
 .tuskythehusky.tech
 .nat64.tuxis.nl
 .adguard.tver-tech.ru
@@ -3279,6 +3281,7 @@
 .darkness.is.my.waifu.cz
 .megumin.is.my.waifu.cz
 .yunyun.is.my.waifu.cz
+.dns.wakgood.net
 .dns.walker.id
 .wallpap.eu
 .adguard.wallura.eu
