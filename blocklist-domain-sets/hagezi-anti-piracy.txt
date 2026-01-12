@@ -2485,6 +2485,7 @@
 .ddnbd.fun
 .asiatorrent.ddns.net
 .houniao.ddns.net
+.echostar.ddnsfree.com
 .ddos.city
 .ddos.kr
 .ddos.tools
@@ -9284,6 +9285,7 @@
 .swteam.ws
 .syfiles.com
 .bestoflinks.synology.me
+.ibksturm.synology.me
 .syria-live.us
 .sidewinderx.sytes.net
 .thebazaar.sytes.net
@@ -9898,7 +9900,6 @@
 .torrentmovie.info
 .torrentmovies.co
 .torrentnote.com
-.node02.torrentonline.cc
 .torrentonly.com
 .torrentor.pro
 .torrentoyunindir.com
