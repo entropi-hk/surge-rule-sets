@@ -12,7 +12,6 @@
 .dns.0x55.net
 .dns-revers.1-au.net
 .hk.100992.xyz
-.jp2.101818.xyz
 .seoul.101818.xyz
 .sg.101818.xyz
 .1.11i.eu
@@ -167,9 +166,7 @@
 .adg.acrobyte.org
 .adguard.acrobyte.org
 .adampowell.pro
-.adbl-tslagter.nl
 .adblockersite.com
-.aden.my
 .adfight.ru
 .adl.adfilter.net
 .per.adfilter.net
@@ -3071,6 +3068,7 @@
 .dns1.techeasy.org
 .adguard.techlike.in
 .vpn.technicule.info
+.dns1.techniverse.net
 .doh.technochat.in
 .dns.technologycage.com
 .dns.technostriker.com
