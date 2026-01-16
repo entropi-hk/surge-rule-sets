@@ -246,7 +246,6 @@
 .dns.alvosec.com
 .dns.amigo-mgn.ru
 .adguard.aminetwork.biz
-.adb.amishkaz.site
 .blog2.amlegion.org
 .mailer.amlegion.org
 .resolver1.amlegion.org
@@ -895,7 +894,6 @@
 .dns.dns-heimdall.com
 .dns.dns-over-https.com
 .i.dns-over-https.tk
-.dns0.eu
 .doh.dns4all.eu
 .doq.dns4all.eu
 .doq64.dns4all.eu
@@ -1196,7 +1194,6 @@
 .site-3.duckdns.org
 .testapp-0-1-1.duckdns.org
 .thaibksri.duckdns.org
-.theadblocksg.duckdns.org
 .ts653d.duckdns.org
 .tuandns.duckdns.org
 .tungdnsne.duckdns.org
@@ -1336,7 +1333,6 @@
 .eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 .dns.f4a.fun
 .jp1.f7b6h9.tk
-.dns.f97.xyz
 .pdns.faelix.net
 .rdns.faelix.net
 .dns.fahr.in
@@ -1407,7 +1403,6 @@
 .ro-bu.foxyfy.net
 .us-ny.foxyfy.net
 .us-sj.foxyfy.net
-.fptdns.site
 .dns.family.fraiss.at
 .resolver.frank-ruan.com
 .wandana.franklinfamily.au

@@ -688,7 +688,6 @@
 .altadefinizioneita.me
 .altbinz.net
 .alterupload.com
-.alucard.stream
 .alypum.beer
 .amaderforum.net
 .amaderftp.net
@@ -862,8 +861,6 @@
 .ankeschwarz.net
 .annas-archive.cc
 .annas-archive.li
-.annas-archive.org
-.annas-archive.se
 .anonboot.com
 .anonsecurityteam.com
 .private.anonseed.com
@@ -891,7 +888,6 @@
 .apk-download-free.com
 .apk-mod.net
 .apk-store.org
-.apk-zone-101.com
 .apk4all.com
 .apk4free.net
 .apk4free.org
@@ -922,6 +918,7 @@
 .apkmb.com
 .apkmine.com
 .apkmod9.com
+.apkmoday.io
 .apkmodbrasil.com
 .apkmodct.com
 .apkmoddone.com
@@ -1119,7 +1116,6 @@
 .babystreaming.com
 .babytorrent.vip
 .badasstorrents.com
-.badshahuploads.xyz
 .baibako.tv
 .retracker.baikal-telecom.net
 .baixar.club
@@ -1147,7 +1143,6 @@
 .barrerab.beer
 .retracker.bashtel.ru
 .basixmovie.com
-.baskino.film
 .basnetbd.com
 .batflixmovies.club
 .batman-stream.tv
@@ -1542,7 +1537,6 @@
 .boxbit.org
 .boxfilmes.net
 .boxingstreams100.com
-.xcinema.boxmovies.club
 .boxopus.com
 .boxpirates.to
 .boxset.ru
@@ -1775,7 +1769,6 @@
 .cb01.network
 .cb01.news
 .cb01.observer
-.cb01.online
 .cb01.org
 .cb01.photos
 .cb01.pw
@@ -1795,7 +1788,6 @@
 .cb01.us
 .cb01.vet
 .cb01.vg
-.cb01.video
 .cb01.vip
 .cb01.work
 .cb01.world
@@ -1881,7 +1873,6 @@
 .cineblog01.cool
 .cineblog01.coupons
 .cineblog01.cx
-.cineblog01.cymru
 .cineblog01.cyou
 .cineblog01.delivery
 .cineblog01.discount
@@ -1931,7 +1922,6 @@
 .cineblog01.wine
 .cineblog01.ws
 .cineblog01.wtf
-.cinebloom.com
 .cinebook.xyz
 .cineby.app
 .cineby.asia
@@ -1941,7 +1931,6 @@
 .cineby.icu
 .cineby.info
 .cineby.lat
-.cineby.ru
 .cineby.sbs
 .cineby.shop
 .cineby.wiki
@@ -1966,12 +1955,10 @@
 .cinemagratis.com
 .cinemagratis.fm
 .cinemagratis.link
-.cinemagratis.net
 .cinemagratis.online
 .cinemagratis.vg
 .cinemagratis.ws
 .cinemagratis.xyz
-.cinemahd.work
 .cinemahdv2.io
 .cinemaindo.net
 .cinemalibero.cafe
@@ -2239,7 +2226,6 @@
 .crack4soft.com
 .crack55.com
 .crack81.com
-.crackaio.com
 .crackcrew.com
 .cracked-games.org
 .crackedfully.com
@@ -2586,6 +2572,7 @@
 .tr-rh-zhuqiy.dgj055.icu
 .tr-zhuqiy-1.dgj055.icu
 .tr-zhuqiy-2.dgj055.icu
+.tracker-zhuqiy.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
@@ -2746,14 +2733,12 @@
 .dood.cool
 .dood.dev
 .dood.digital
-.dood.diy
 .dood.fan
 .dood.fans
 .dood.fun
 .dood.guru
 .dood.host
 .dood.icu
-.dood.ie
 .dood.ink
 .dood.is
 .dood.la
@@ -2776,7 +2761,6 @@
 .dood.plus
 .dood.pm
 .dood.pro
-.dood.qpon
 .dood.re
 .dood.rip
 .dood.ro
@@ -2862,7 +2846,6 @@
 .downloadforum.com
 .downloadfreenewmovies.info
 .downloadgram.org
-.downloadha.com
 .downloadhub.social
 .downloadinfo.org
 .downloadjet.org
@@ -2910,7 +2893,6 @@
 .dramaday.me
 .dramago.com
 .dramaqu.beauty
-.dramaqu.click
 .dramaqu.cloud
 .dramaqu.digital
 .dramaqu.info
@@ -3210,7 +3192,6 @@
 .eurostreaming.biz
 .eurostreaming.boo
 .eurostreaming.cash
-.eurostreaming.chat
 .eurostreaming.click
 .eurostreaming.cloud
 .eurostreaming.club
@@ -3452,7 +3433,6 @@
 .file.al
 .file.lu
 .file.lv
-.tracker.file09.com
 .file4safe.com
 .filebag.org
 .filebase.ws
@@ -3525,7 +3505,6 @@
 .filmapik.my
 .filmapik.network
 .filmapik.pink
-.filmapik.rocks
 .filmapik.services
 .filmapik.singles
 .filmapik.skin
@@ -3826,7 +3805,6 @@
 .fmovies.fo
 .fmovies.gd
 .fmovies.hn
-.fmovies.llc
 .fmovies.one
 .fmovies.org
 .fmovies.pub
@@ -4068,7 +4046,6 @@
 .fullmoviz.xyz
 .fullpcsoftware.com
 .fullprogramlarindir.com
-.fullreleasez.com
 .fullserialkey.com
 .fullsoftversion.com
 .fullstream.rip
@@ -4169,7 +4146,6 @@
 .gamingbeasts.com
 .gaoqing.fm
 .garageforum.org
-.gatachannel.com
 .gay-area.org
 .gay-torrents.net
 .tracker.gaytor.rent
@@ -4664,7 +4640,6 @@
 .hdmovie2.cricket
 .hdmovie2.cyou
 .hdmovie2.deal
-.hdmovie2.democrat
 .hdmovie2.design
 .hdmovie2.dev
 .hdmovie2.digital
@@ -4678,7 +4653,6 @@
 .hdmovie2.enterprises
 .hdmovie2.estate
 .hdmovie2.events
-.hdmovie2.exchange
 .hdmovie2.expert
 .hdmovie2.exposed
 .hdmovie2.express
@@ -4696,10 +4670,8 @@
 .hdmovie2.fm
 .hdmovie2.fo
 .hdmovie2.foo
-.hdmovie2.football
 .hdmovie2.forex
 .hdmovie2.foundation
-.hdmovie2.fr
 .hdmovie2.free
 .hdmovie2.fun
 .hdmovie2.furniture
@@ -4734,13 +4706,11 @@
 .hdmovie2.inc
 .hdmovie2.industries
 .hdmovie2.ink
-.hdmovie2.institute
 .hdmovie2.investments
 .hdmovie2.irish
 .hdmovie2.is
 .hdmovie2.ist
 .hdmovie2.jetzt
-.hdmovie2.kids
 .hdmovie2.kim
 .hdmovie2.kiwi
 .hdmovie2.koeln
@@ -4782,7 +4752,6 @@
 .hdmovie2.network
 .hdmovie2.news
 .hdmovie2.ng
-.hdmovie2.ngo
 .hdmovie2.nl
 .hdmovie2.nz
 .hdmovie2.observer
@@ -4805,7 +4774,6 @@
 .hdmovie2.pro
 .hdmovie2.promo
 .hdmovie2.properties
-.hdmovie2.pt
 .hdmovie2.qpon
 .hdmovie2.racing
 .hdmovie2.re
@@ -4867,7 +4835,6 @@
 .hdmovie2.uk
 .hdmovie2.university
 .hdmovie2.uno
-.hdmovie2.vacations
 .hdmovie2.vc
 .hdmovie2.vegas
 .hdmovie2.vet
@@ -5431,7 +5398,6 @@
 .justinwb.com
 .juststream.mom
 .jutone.com
-.jvavav.com
 .blog.jxzmz.org
 .k-streaming.tv
 .k2nblog.com
@@ -6111,6 +6077,7 @@
 .mangadex.org
 .mangafire.to
 .mangakakalot.tv
+.mangakazani.com
 .mangamura.org
 .manganelo.tv
 .manganime.digital
