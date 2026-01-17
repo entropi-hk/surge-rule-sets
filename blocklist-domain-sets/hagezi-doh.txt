@@ -1790,7 +1790,6 @@
 .ivnkn.xyz
 .dns1.iwall.cloud
 .ag.iyn.one
-.dns.izyserv.site
 .jabber-germany.de
 .jabber-server.de
 .adg.jabertechnologies.ch
@@ -2060,7 +2059,6 @@
 .lukscasino-929-tr.xyz
 .dns.lululu.dev
 .dns.luma-medien.com
-.pure.lunetra.online
 .bt.luoo.cc
 .dns.lupine.solutions
 .home.luther.io
@@ -2333,7 +2331,6 @@
 .adguard.neelyha.tk
 .dns.nekofish.cc
 .nelsonleung.org
-.adguard.neotix.net
 .dns.aa.net.uk
 .positif4.cross.net.id
 .guard-jkt-225.glosindo.net.id
@@ -2510,7 +2507,6 @@
 .resolver.dnsprivacy.org.uk
 .teslacoils.org.uk
 .artemis.orionnexus.top
-.ortudns.com
 .dns.oryxlabs.com
 .oscnl.site
 .dns.osmenoga.com
