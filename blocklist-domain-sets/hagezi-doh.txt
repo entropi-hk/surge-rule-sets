@@ -2533,7 +2533,6 @@
 .adguard.pangerl.it
 .dns.panszelescik.pl
 .dns-ovh.panszelescik.pl
-.paradise-human.shop
 .dns.pari.network
 .pashagame456.com
 .paskam.xyz
@@ -2573,7 +2572,6 @@
 .dns1.pietjacobs.be
 .dns.pine-home.de
 .pingbi.xyz
-.pioko.net
 .dns.pizzari.me
 .doh.plaawan.uk
 .helios.plan9-dns.com
@@ -2886,7 +2884,6 @@
 .shanghainese.uk
 .dns.shareworx.net
 .dns.shecan.ir
-.free.shecan.ir
 .pro.shecan.ir
 .dns.sheggi.ch
 .httpdns.n.shifen.com
@@ -2929,7 +2926,6 @@
 .dns.smartguard.io
 .singy.smartq.dev
 .smirnovfamily.ru
-.lux.sn0w.nl
 .dns.sneakypanda.org
 .home.snow-sugar.net
 .ag.snrka.ru
@@ -2946,7 +2942,6 @@
 .bwg.sooda.moe
 .spacedns.org
 .adguard.spaceindex.net
-.adguard.sparshbajaj.me
 .lomoff.spb.ru
 .wifrousl.spdns.de
 .doh-01.spectrum.com
@@ -2956,7 +2951,6 @@
 .squidmall.vip
 .s1.srch.top
 .adguard.sre.ovh
-.sriedmueadguard.casa
 .dns.srijan.site
 .proxy.srs.su
 .dns2.srv-home.fr
@@ -3291,7 +3285,6 @@
 .h4g3z1-doh.web.app
 .dns.jsd.web.id
 .panser.web.id
-.s.rafiadinata.web.id
 .doh.this.web.id
 .web-rated.ie
 .quadrogramma.vps.webdock.cloud
@@ -3299,7 +3292,6 @@
 .doh.webnmail.de
 .zuhause.webteufel.net
 .webteufel-it.solutions
-.adg.webyfa.ir
 .dns.wechat.com
 .paydns.wechatpay.cn
 .resov.wehao.net

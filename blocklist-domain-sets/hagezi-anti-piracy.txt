@@ -1628,7 +1628,6 @@
 .bunkr.tv
 .buny.uk
 .torrent.burgas.org
-.burmese.app
 .burning-series.io
 .burning-series.net
 .burningseries.co
@@ -2638,6 +2637,7 @@
 .dizcompany.ru
 .dizilla.to
 .dizipal1521.com
+.dizipal1532.com
 .dizipal1936.com
 .dizipal22.plus
 .dizipall32.com
@@ -5387,6 +5387,7 @@
 .justinwb.com
 .juststream.mom
 .jutone.com
+.jvavav.com
 .blog.jxzmz.org
 .k-streaming.tv
 .k2nblog.com
@@ -7436,7 +7437,6 @@
 .pelisflix20.ink
 .pelisflix20.lat
 .pelisflix20.live
-.pelisflix20.me
 .pelisflix20.mom
 .pelisflix20.my
 .pelisflix20.net
@@ -7453,7 +7453,6 @@
 .pelisplus.co
 .pelisplus.gratis
 .pelisplus.live
-.pelisplus.online
 .pelisplus.org
 .pelisplusgt.com
 .pelisplushd.net
@@ -7665,7 +7664,6 @@
 .pornbits.net
 .pornevo.com
 .pornleech.io
-.porno-torent.com
 .pornolab.net
 .pornomen.club
 .pornorip.net
@@ -7855,7 +7853,6 @@
 .putlocker123.to
 .putlocker123.video
 .putlocker19.com
-.putlocker2021.net
 .putlocker5movies.site
 .putlocker9.cc
 .putlocker9.com
@@ -7870,7 +7867,6 @@
 .putlockerr.is
 .putlockers.ag
 .putlockers.am
-.putlockers.bar
 .putlockers.bz
 .putlockers.co
 .putlockers.cr
@@ -7912,7 +7908,6 @@
 .quantumbooter.net
 .quantumstress.net
 .quantus.tv
-.quebec-partage.com
 .quebec-team.net
 .quedustreaming.com
 .quest4play.xyz
@@ -7946,14 +7941,12 @@
 .rainbownetworkbd.com
 .raindust78.online
 .rainfallpath36.site
-.rainierland.is
 .rainierland.to
 .rainshine28.site
 .rainveil36.xyz
 .rainwhisper40.xyz
 .rajaapk.com
 .rakettv.win
-.ramsport1.com
 .randombytes.org
 .randomnothings.com
 .rangdhanu.live
@@ -7973,7 +7966,6 @@
 .rapidseedbox.com
 .rapidsharemix.com
 .rapidstresser.com
-.rapidzona.tv
 .rapload.org
 .rarbg.buzz
 .rarbg.cc
@@ -8148,7 +8140,6 @@
 .rmovi.net
 .rmz.cr
 .rnbastreams.com
-.roarmediazone.com
 .roarzone.info
 .robinhood.stream
 .rochestergroove.com
@@ -8202,7 +8193,6 @@
 .romtohome.com
 .romulation.net
 .ronaldo7.me
-.ronnyflix.xyz
 .roomba.tv
 .rooomba.tv
 .roopert83.tv
@@ -8316,7 +8306,6 @@
 .scenespot.net
 .schoener-fernsehen.com
 .sci-hub.ru
-.sci-hub.se
 .sci-hub.st
 .scnlog.me
 .scnsrc.me
@@ -8622,7 +8611,6 @@
 .tracker.skynetcloud.site
 .skynetonlinebd.net
 .skytorrents.lol
-.skytorrents.to
 .tracker.skyts.cn
 .tracker.skyts.net
 .sladinki007.net
@@ -9006,7 +8994,6 @@
 .streaming-french.com
 .streaming-series.org
 .streamingcommunity.actor
-.streamingcommunity.ad
 .streamingcommunity.ag
 .streamingcommunity.airforce
 .streamingcommunity.army
@@ -9084,7 +9071,6 @@
 .streamingcommunity.one
 .streamingcommunity.org
 .streamingcommunity.ovh
-.streamingcommunity.paris
 .streamingcommunity.pet
 .streamingcommunity.ph
 .streamingcommunity.photos
@@ -9181,7 +9167,6 @@
 .streamking.eu
 .streamkiste.club
 .streamkiste.fun
-.streamkiste.me
 .streamkiste.net
 .streamkiste.pro
 .streamkiste.pw
@@ -9274,7 +9259,6 @@
 .superadultgame.life
 .supercanaishd.com
 .supercartoons.net
-.superflix.pro
 .superflix.vc
 .superflixhd.net
 .supernetbd.com
@@ -9329,7 +9313,6 @@
 .warezfr.t2u.com
 .t3nnis.tv
 .t411.ch
-.t411.in
 .t411.io
 .t411.me
 .t50.com
@@ -9381,7 +9364,6 @@
 .tantifilm.live
 .tantifilm.living
 .tantifilm.locker
-.tantifilm.markets
 .tantifilm.mba
 .tantifilm.me
 .tantifilm.media
@@ -9438,7 +9420,6 @@
 .techclips.net
 .techforever.net
 .techmediatune.com
-.technet24.ir
 .techtoroms.com
 .techzero.cn
 .tecknat.net
@@ -9446,7 +9427,6 @@
 .tehparadox.net
 .milanesitracker.tekcities.com
 .tele-libre.fans
-.telecharge-magazines.com
 .telechargement.org
 .telechargementmu.com
 .telechargementz.com
@@ -9496,7 +9476,6 @@
 .thebugs.us
 .thebugs.ws
 .thecompletewebs.net
-.thedaddy.click
 .thedaddy.dad
 .thedaddy.to
 .thedaddy.top
@@ -9741,7 +9720,6 @@
 .torrents.top-site-list.com
 .top123movies.com
 .topanalyse.org
-.toparena.store
 .topbytes.net
 .topcartoons.tv
 .topdocumentaryfilms.com
@@ -9927,6 +9905,7 @@
 .torrentmovie.info
 .torrentmovies.co
 .torrentnote.com
+.node02.torrentonline.cc
 .torrentonly.com
 .torrentor.pro
 .torrentoyunindir.com
@@ -10349,7 +10328,6 @@
 .rlsbb.unblockit.dad
 .rlsbb.unblockit.date
 .rlsbb.unblockit.download
-.rlsbb.unblockit.esq
 .rlsbb.unblockit.ing
 .rlsbb.unblockit.meme
 .rlsbb.unblockit.mov
@@ -10502,7 +10480,6 @@
 .veev.to
 .veevcdn.co
 .vegamovies.ae
-.vegamovies.ag
 .vegamovies.agency
 .vegamovies.ai
 .vegamovies.al
@@ -10525,13 +10502,11 @@
 .vegamovies.bot
 .vegamovies.build
 .vegamovies.business
-.vegamovies.by
 .vegamovies.cab
 .vegamovies.cafe
 .vegamovies.cam
 .vegamovies.camera
 .vegamovies.camp
-.vegamovies.capital
 .vegamovies.care
 .vegamovies.cash
 .vegamovies.casino
@@ -10593,9 +10568,7 @@
 .vegamovies.haus
 .vegamovies.hockey
 .vegamovies.holiday
-.vegamovies.host
 .vegamovies.hot
-.vegamovies.ht
 .vegamovies.icu
 .vegamovies.im
 .vegamovies.info
@@ -10620,11 +10593,9 @@
 .vegamovies.markets
 .vegamovies.md
 .vegamovies.menu
-.vegamovies.mg
 .vegamovies.miami
 .vegamovies.mk
 .vegamovies.ml
-.vegamovies.mn
 .vegamovies.moi
 .vegamovies.money
 .vegamovies.mu
@@ -10648,7 +10619,6 @@
 .vegamovies.quest
 .vegamovies.realty
 .vegamovies.reise
-.vegamovies.reisen
 .vegamovies.rent
 .vegamovies.rest
 .vegamovies.reviews
@@ -10658,7 +10628,6 @@
 .vegamovies.rw
 .vegamovies.sale
 .vegamovies.sc
-.vegamovies.school
 .vegamovies.schule
 .vegamovies.services
 .vegamovies.shoes
@@ -10680,11 +10649,9 @@
 .vegamovies.theater
 .vegamovies.tienda
 .vegamovies.tips
-.vegamovies.tires
 .vegamovies.tl
 .vegamovies.to
 .vegamovies.today
-.vegamovies.tokyo
 .vegamovies.travel
 .vegamovies.tube
 .vegamovies.tv
@@ -11062,7 +11029,6 @@
 .watchfullmovie.co
 .watching.zone
 .watchkobe.info
-.watchliveall.com
 .watchmovie.ac
 .watchmovie.me
 .watchmovierulz.co
@@ -11294,7 +11260,6 @@
 .xenu.ws
 .share.xfapi.top
 .tracker.xfapi.top
-.xforce-cracks.com
 .share.xfsub.com
 .tracker.xiaoduola.xyz
 .xider.hu
@@ -11522,7 +11487,6 @@
 .yts.yt
 .yts.zone
 .yts-movie.cc
-.ytsmovietorrent.com
 .ytsstreaming.com
 .ytstorrent.com
 .ytstv.me
