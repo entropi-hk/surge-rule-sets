@@ -1628,6 +1628,7 @@
 .bunkr.tv
 .buny.uk
 .torrent.burgas.org
+.burmese.app
 .burning-series.io
 .burning-series.net
 .burningseries.co
@@ -2380,7 +2381,6 @@
 .cutercounter.com
 .cuteyhoneyflash.de
 .tracker.cutie.dating
-.tracker-de-2.cutie.dating
 .cutiegirl.ru
 .cwer.ru
 .cwer.ws
@@ -3162,6 +3162,7 @@
 .kingtam.eu.org
 .kodomo55.eu.com
 .1cc.kr.eu.org
+.tracker.maya.no.eu.org
 .rapidleech2011.eu.ki
 .torrent.eu.org
 .torrentz.eu.com
@@ -5387,7 +5388,6 @@
 .justinwb.com
 .juststream.mom
 .jutone.com
-.jvavav.com
 .blog.jxzmz.org
 .k-streaming.tv
 .k2nblog.com
