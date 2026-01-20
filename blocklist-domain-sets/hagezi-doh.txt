@@ -1524,6 +1524,7 @@
 .adguard.grantbruneau.com
 .cloud.graphicpoint.pl
 .graveofhope.ru
+.greatideasforlife.lol
 .dns.green-ping.lol
 .adguard.green1052.com
 .greppie.nl
@@ -2702,6 +2703,7 @@
 .r1bnc.com
 .fi.r5acq.com
 .ad.r60.pl
+.resolve2.r9x.cc
 .h.ra3.in
 .jpser.ra3.us
 .dns.rabbitdns.org
