@@ -337,6 +337,7 @@
 .720pstream.se
 .72939229dww.com
 .77help.ru
+.786livetv.pro
 .78964564.xyz
 .7mag.net
 .7movs.com
@@ -673,9 +674,12 @@
 .altadefinizionegratis.cool
 .altadefinizionegratis.cyou
 .altadefinizionegratis.fit
+.altadefinizionegratis.fun
 .altadefinizionegratis.gold
 .altadefinizionegratis.group
+.altadefinizionegratis.hair
 .altadefinizionegratis.help
+.altadefinizionegratis.homes
 .altadefinizionegratis.ink
 .altadefinizionegratis.mom
 .altadefinizionegratis.news
@@ -688,6 +692,10 @@
 .altadefinizionegratis.today
 .altadefinizionegratis.watch
 .altadefinizioneita.me
+.altadefinizionez.beer
+.altadefinizionez.forum
+.altadefinizionez.group
+.altadefinizionez.pics
 .altbinz.net
 .alterupload.com
 .alypum.beer
@@ -1561,7 +1569,6 @@
 .broadcasthe.net
 .brodownload9s.com
 .brokensilenze.net
-.brokenstones.is
 .brokenstones.me
 .tracker.brokenstones.club
 .brothers-of-usenet.net
@@ -1799,6 +1806,7 @@
 .cb01.ws
 .cb01.xyz
 .cb01.yachts
+.cb01uno.uno
 .cbo1.biz
 .cboku.com
 .tracker.ccc.de
@@ -2494,7 +2502,6 @@
 .ddlvalley.me
 .ddnbd.com
 .ddnbd.fun
-.asiatorrent.ddns.net
 .houniao.ddns.net
 .ddos.city
 .ddos.kr
@@ -2579,8 +2586,6 @@
 .dfox.it
 .mixes.dfx.at
 .tr-rh-zhuqiy.dgj055.icu
-.tr-zhuqiy-1.dgj055.icu
-.tr-zhuqiy-2.dgj055.icu
 .trl-zhuqiy.dgj055.icu
 .tracker.zhuqiy.dgj055.icu
 .dhakadownload.com
@@ -4198,7 +4203,6 @@
 .getapk.app
 .getcomics.info
 .getcomics.org
-.ip.getcrazy.me
 .getfbvid.com
 .getfreegames.net
 .getgamez.net
@@ -4244,7 +4248,6 @@
 .gigapurbalingga.net
 .gigapurbalinggaa.com
 .gigatorrents.ws
-.asiatorrent.giize.com
 .gingadaddy.com
 .git.ir
 .tornado-torrent.gitlab.io
@@ -4562,6 +4565,7 @@
 .hdfilme.cx
 .hdfilme.food
 .hdfilme.io
+.hdfilme.press
 .hdfilme.ru
 .hdfilme.to
 .hdfilme.top
@@ -4960,7 +4964,7 @@
 .hianime.to
 .hianimes.ro
 .hicartoon.to
-.hificode.in
+.torrent.hificode.in
 .tracker.hifimarket.in
 .tracker.hifitechindia.com
 .high-way.me
@@ -5400,6 +5404,7 @@
 .justinwb.com
 .juststream.mom
 .jutone.com
+.jvavav.com
 .blog.jxzmz.org
 .k-streaming.tv
 .k2nblog.com
@@ -8104,7 +8109,6 @@
 .respawn.ca
 .restricted-stresser.info
 .cdn.retget.ru
-.pybittrack.retiolus.net
 .retrogamechampion.com
 .retrogametalk.com
 .retrostic.com
@@ -9160,6 +9164,7 @@
 .streamingcommunityz.hair
 .streamingcommunityz.help
 .streamingcommunityz.info
+.streamingcommunityz.international
 .streamingcommunityz.irish
 .streamingcommunityz.it
 .streamingcommunityz.kim
@@ -9930,6 +9935,7 @@
 .torrentmovie.info
 .torrentmovies.co
 .torrentnote.com
+.node02.torrentonline.cc
 .torrentonly.com
 .torrentor.pro
 .torrentoyunindir.com
@@ -10111,6 +10117,7 @@
 .tsecurity.de
 .tsinghuaedu.online
 .tsinghuaedu.ru
+.tstream.site
 .tsundere.pw
 .tti.nu
 .ttoktv.com
@@ -10427,7 +10434,6 @@
 .uppit.com
 .vidics.uproxy2.biz
 .upstore.net
-.0205.uptm.ch
 .uptobox.com
 .mp3juices-app.en.uptodown.com
 .popcorn-time.en.uptodown.com
@@ -11045,6 +11051,7 @@
 .watch32hd.co
 .watch32hd.org
 .watchamovie.today
+.watchanimeworld.net
 .watchasian.co
 .watchcartoononline.com
 .watchcartoononline.io
@@ -11369,6 +11376,7 @@
 .yams.tf
 .yaplukon.org
 .yaps.cc
+.yarrlist.net
 .yasdl.com
 .yasir252.com
 .yassflix.live
