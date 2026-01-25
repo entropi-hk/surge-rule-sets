@@ -406,7 +406,6 @@
 .dynup.net
 .dynv4.net
 .dynv6.com
-.dynv6.net
 .dyyndns.net
 .e-m-a-i-l.org
 .e-romagnoli.com
@@ -814,7 +813,6 @@
 .kozow.com
 .ksk-saratov.ru
 .kyrgyzstan.kg
-.l5.ca
 .labradapr.com
 .laketahoesue.com
 .lan64.de
@@ -836,7 +834,6 @@
 .lflinkup.org
 .likes-pie.com
 .likescandy.com
-.line.pm
 .linkin.tw
 .linkpc.net
 .linux-site.net
@@ -1316,7 +1313,6 @@
 .ufcfan.org
 .ufodns.com
 .ugo.si
-.uk.ms
 .uk.to
 .undo.it
 .unibutton.com
