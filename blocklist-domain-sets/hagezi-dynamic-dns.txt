@@ -449,6 +449,7 @@
 .eurotank.ro
 .eva.hk
 .everton.com
+.evils.in
 .expired-dns.com
 .ez-ip.net
 .ezua.com
@@ -488,6 +489,7 @@
 .freemyip.com
 .freesa.org
 .freetcp.com
+.freewww.biz
 .freewww.info
 .freshdns.com
 .from-ak.com
@@ -573,6 +575,7 @@
 .gotdns.com
 .gotdns.org
 .govt.hu
+.gr8domain.biz
 .gr8name.biz
 .grandmasgossip.com
 .green-heroes.com
@@ -601,6 +604,7 @@
 .happyforever.com
 .happyminecraft.com
 .hatenboer.org
+.hbmc.net
 .health-carereform.com
 .forgot.her.name
 .here-for-more.info
@@ -653,6 +657,7 @@
 .iamallama.com
 .ics.tw
 .ideasciviles.com
+.idigo.org
 .idleplay.net
 .4040.idv.tw
 .ieserver.net
@@ -663,6 +668,7 @@
 .imagetemplate.com
 .imagetemplate.net
 .imexsac.com
+.imprendum.com
 .in-the-band.net
 .independentonline.ro
 .indevs.in
@@ -982,6 +988,7 @@
 .networkoutpost.com
 .nflfan.org
 .nhlfan.net
+.ninth.biz
 .no-domain.name
 .no-ip.biz
 .no-ip.ca
@@ -1007,6 +1014,7 @@
 .now-dns.net
 .now-dns.org
 .nowddns.com
+.ns01.biz
 .ns01.info
 .ns01.us
 .ns02.biz
