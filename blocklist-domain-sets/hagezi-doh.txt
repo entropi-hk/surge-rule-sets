@@ -1172,7 +1172,6 @@
 .eweyo.duckdns.org
 .gcpddns.duckdns.org
 .genielee.duckdns.org
-.home27.duckdns.org
 .homejerem.duckdns.org
 .hrsm12181.duckdns.org
 .jfeoks.duckdns.org
@@ -1184,15 +1183,12 @@
 .krafty31.duckdns.org
 .krtekvpn.duckdns.org
 .ldaman.duckdns.org
-.leoadguard.duckdns.org
 .mipelinusa.duckdns.org
 .morgenegg.duckdns.org
 .nas1403.duckdns.org
 .naujas123.duckdns.org
 .nikamurs.duckdns.org
-.nqh-dns.duckdns.org
 .o--o.duckdns.org
-.osefcorp.duckdns.org
 .pitchforkwaydns.duckdns.org
 .punono.duckdns.org
 .rcpc2.duckdns.org
@@ -1204,14 +1200,10 @@
 .surviil.duckdns.org
 .testapp-0-1-1.duckdns.org
 .thaibksri.duckdns.org
-.theadblocksg.duckdns.org
 .ts653d.duckdns.org
 .tuandns.duckdns.org
-.tungdnsne.duckdns.org
 .unixfox.duckdns.org
-.vpich.duckdns.org
 .wired-guardian.duckdns.org
-.wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
 .x-o-x.duckdns.org
 .x861g.duckdns.org
@@ -1795,7 +1787,6 @@
 .dns.itdata.ro
 .dns.iteo.pw
 .itlikehell.ru
-.diy.itsa.top
 .adguardhome.ittoolman.top
 .dns.itwht.com
 .itworks4u.nl

@@ -54,7 +54,6 @@
 .search.dojoro.de
 .searx.doofpot.nl
 .search.dr460nf1r3.org
-.wgl.frail.duckdns.org
 .dynabyte.ca
 .searx.elukerio.org
 .searx.ericaftereric.top
@@ -112,6 +111,7 @@
 .searx.monicz.pl
 .monstercrawler.com
 .mwmbl.org
+.librex.myroware.eu
 .searx.nakhan.net
 .search.nebulacentre.net
 .neeva.com
@@ -126,6 +126,7 @@
 .librex.nohost.network
 .timdor.noip.me
 .null.media
+.o5.gg
 .offtheradar.info
 .search.oh64.moe
 .searx.openhoofd.nl
@@ -199,6 +200,7 @@
 .webcrawler.com
 .searx.wegeeks.win
 .wiby.me
+.search.xcloud.live
 .find.xenorio.xyz
 .xo.wtf
 .yep.com
