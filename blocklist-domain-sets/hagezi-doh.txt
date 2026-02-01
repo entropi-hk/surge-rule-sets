@@ -264,6 +264,7 @@
 .anhphamhn82.uk
 .dot.anir0y.in
 .rootdns.anir0y.in
+.dns.jp.anitelecom.org
 .dns.anitelekom.ru
 .dns.ru.anitelekom.ru
 .sanns.aniuo.com
@@ -1187,6 +1188,7 @@
 .morgenegg.duckdns.org
 .nas1403.duckdns.org
 .naujas123.duckdns.org
+.nicko99.duckdns.org
 .nikamurs.duckdns.org
 .o--o.duckdns.org
 .pitchforkwaydns.duckdns.org
@@ -1922,6 +1924,7 @@
 .adguard.kiboko.it
 .shield.kidshielder.com
 .doh.kidzonet.io
+.kihn.org
 .kilabit.info
 .doh.killtw.im
 .blog.kimiblock.top
@@ -2533,6 +2536,7 @@
 .dns.ourvau.lt
 .addns.ovalie.ovh
 .vps-1f675aa1.vps.ovh.us
+.dns.ozamagenova.ru
 .1a.ns.ozer.im
 .1b.ns.ozer.im
 .doh.p2cdn.cn
@@ -2811,6 +2815,7 @@
 .dns.rubyfish.cn
 .ea-dns.rubyfish.cn
 .uw-dns.rubyfish.cn
+.rudolphdesigns.com
 .adg.rueiliu.space
 .rumpelsepp.org
 .vps.rumpus.cc
@@ -2936,6 +2941,7 @@
 .dns.skrep.eu
 .dns.skrep.in
 .gr.skrsteam.info
+.tr.skrsteam.pro
 .dns.sky-plex.com
 .skydragoness.com
 .dns.sledge.cc
@@ -3346,6 +3352,7 @@
 .dns.wns.watch
 .dnsbk.wns.watch
 .ag.wntrmute.net
+.block-solution.wolfplaces.com
 .woodbridge.club
 .dns.woodyli.dev
 .doh.ndmc.work.gd
@@ -3418,6 +3425,7 @@
 .vdska-pl.ydns.eu
 .sg.yepdns.com
 .yeralin.net
+.adguard.ygd.lol
 .dns.ygonline.de
 .ns6.ygy.ru
 .dns.yingroad.top

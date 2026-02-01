@@ -1272,6 +1272,7 @@
 .berlinfog.com
 .berlinherren.de
 .berlinmedz.com
+.berlinmoon.com
 .berlinmusiccraft.com
 .berlinoutletshop.com
 .berlinpieces.com
@@ -2373,6 +2374,7 @@
 .clothingcream.com
 .clothingitemus.com
 .clothingonsale-online.com
+.clothlve.com
 .cloudapotheke.com
 .clouddiy.shop
 .cloudschuhesale.de
@@ -3538,7 +3540,6 @@
 .easy-software.org
 .easybouteque.com
 .easyca.ca
-.easydailysale.shop
 .easyfiles.io
 .easygestions.com
 .easymove-eu.com
@@ -4672,7 +4673,6 @@
 .freeacy.com
 .freedomhats.shop
 .freemobile24.de
-.freeseem.com
 .freesmarttools.com
 .freeteck.shop
 .freevouchercode.org
@@ -5654,6 +5654,7 @@
 .hasbrofanwelt.com
 .hasegawamodel.com
 .hashx-capital.com
+.hashxcapital.com
 .haso.co
 .hasselbladeu.shop
 .hatme.de
@@ -6144,7 +6145,6 @@
 .homeoffice-helden.de
 .homeofficekarriere.de
 .homeofvintage.co
-.homeoliq.vom
 .homersport.de
 .homerungrocers.com
 .homesandgardensdirect.com
@@ -7253,9 +7253,7 @@
 .kuechesale.com
 .kuethe-kollegen.com
 .kuethe-partner.com
-.kuhlmann-rechtsanwaelte.com
 .kuhlmann-rechtsanwaelte.de
-.kuhlmann-rechtsanwaelte.net
 .kuhschelhof.de
 .kulbit.lv
 .kundendienstline.de
@@ -9267,7 +9265,6 @@
 .obstbaumwelt.com
 .ocayo.de
 .occasionak.com
-.occasionk.com
 .ocinboutique.de
 .octa-trade.com
 .octapustravel.com
@@ -11533,6 +11530,7 @@
 .smartmarket26.com
 .smartplantivy.com
 .smartrade.cm
+.smartsolve.ai
 .smartsteamershop.com
 .smartundgeizig.de
 .smeg-de.com
@@ -14086,6 +14084,7 @@
 .zavettiireland.com
 .zavosjuncker.com
 .zctszj.com
+.zd-finanz.de
 .zddbbb.com
 .zebrainvest.com
 .german.zeelool.com

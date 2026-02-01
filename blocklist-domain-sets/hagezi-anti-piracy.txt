@@ -3259,7 +3259,6 @@
 .eurostreamings.hair
 .eurostreamings.link
 .eurostreamings.lol
-.eurostreamings.mom
 .eurostreamings.one
 .eurostreamings.online
 .eurostreamings.org
@@ -8484,6 +8483,7 @@
 .share2downloads.com
 .shareappscrack.com
 .sharebb.me
+.tracker.sharebro.in
 .sharedtutor.com
 .sharego.net
 .sharegroundz.com
@@ -10064,6 +10064,7 @@
 .tsinghuaedu.online
 .tsinghuaedu.ru
 .tstream.site
+.tstrm.org
 .tsundere.pw
 .tti.nu
 .ttoktv.com
