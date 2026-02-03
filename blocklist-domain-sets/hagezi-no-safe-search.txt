@@ -91,6 +91,7 @@
 .lukol.com
 .whoogle.lunar.icu
 .searx.lwhr.xyz
+.lycos.com
 .searx.lynnesbian.space
 .go.mail.ru
 .searx.mastodontech.de
