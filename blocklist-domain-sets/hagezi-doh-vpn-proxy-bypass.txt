@@ -114,6 +114,7 @@
 .1eeqfdye1cecpqc.online
 .1f47epzt.online
 .1f76a2ba920d.space
+.1proxy.de
 .1pxbs8xsmyox.online
 .1tv8q2k.online
 .1utins.xyz
@@ -162,6 +163,7 @@
 .lvpn.2rdp.ru
 .dns.2t9.de
 .2ub.top
+.30t.online
 .doh.30x.me
 .dns.320888.xyz
 .3245.uk
@@ -266,6 +268,7 @@
 .777schoolutilities.website
 .777surfer.info
 .ns.77ll.ru
+.idk.7btech.com
 .hopethishelps.7geo7.ru
 .apsciencetutoring.7hub.ro
 .browhat.7hub.ro
@@ -735,6 +738,7 @@
 .adfiltro.fun
 .adfreedns.eu
 .adfreedns.top
+.adfreeproxy.com
 .adghome.ru
 .adghs.de
 .adgremoteau.com
@@ -895,6 +899,7 @@
 .alon93rus.ru
 .alphabrowser.xyz
 .alphagame.co
+.alphavpn.info
 .dreamofbonky.alptechflow.com
 .madebybonkyoncord.alptechflow.com
 .madebydreamofbonkyoncord.alptechflow.com
@@ -1422,6 +1427,7 @@
 .deathligma.baodacn.cn
 .fasthistory.baodacn.cn
 .ghyust.baodacn.cn
+.stellaralgebra.baodacn.cn
 .baoxue888.online
 .lemonlimesuckers.barabesta.is
 .lifeline.barabesta.is
@@ -1909,6 +1915,7 @@
 .bookphone92.com
 .www.securly.com.bookpropofplace.com
 .boomproxy.com
+.boomtunnel.com
 .booster456.com
 .borderlessvpn.io
 .bore.pub
@@ -2042,6 +2049,8 @@
 .dns.brono.cloud
 .brooklyndancefestival.org
 .classroom.broomleigh.org
+.goguardian.broomleigh.org
+.linewize.broomleigh.org
 .bropay.org
 .brovpn.io
 .browsec.com
@@ -2117,8 +2126,7 @@
 .bypasskey.com
 .bypasstunnel.com
 .bytebenefit.io
-.api.bytelixir.com
-.dash.bytelixir.com
+.bytelixir.com
 .bytzvpn.com
 .bzrkicrc.online
 .c-dns.com
@@ -2341,6 +2349,7 @@
 .cheapauth.com
 .cheaptextingapp.com
 .cheesestorecedarhurst.com
+.ougonokaze.cheftayebeh.ir
 .qh.cheftayebeh.ir
 .dns.chenu.ch
 .chester.run
@@ -9651,6 +9660,7 @@
 .proxfree.com
 .proxied.org
 .proxies.biz
+.proxifi.app
 .proxify.biz
 .proxify.cc
 .proxify.com
@@ -10164,6 +10174,7 @@
 .dns.repinger.com
 .repocket.co
 .dns.repressoh.it
+.repsdemo.online
 .wg.req1.fr
 .x.res.wang
 .dns.resoft.org
@@ -10426,6 +10437,7 @@
 .sascha-rabold.de
 .dns.homenet.saschagaspar.net
 .vpn.satadru.dev
+.satnet.cv
 .rodgerwhodidthistoyou.satucat.uk
 .securedbyknox.satucat.uk
 .saturnvpn.com
@@ -13323,6 +13335,7 @@
 .streamlineddata.pro
 .streamlineddata.space
 .streamr.network
+.cdn.streamr.com
 .dns.streamsmoke.com
 .streamvia.com
 .dns.streamvine.app
@@ -14558,6 +14571,7 @@
 .ight.vercel.app
 .ikilledmydog.vercel.app
 .ilovemrmorris-ggnewo.vercel.app
+.k-vpn.vercel.app
 .kwazydabest.vercel.app
 .kwazyisntgay.vercel.app
 .kwazyisstraight.vercel.app
@@ -14574,6 +14588,7 @@
 .shop-books-school.vercel.app
 .sureee.vercel.app
 .tiwschool.vercel.app
+.turbo-node.vercel.app
 .tyagain.vercel.app
 .ugfd-proxy-offical.vercel.app
 .unblocked-7s1uththth.vercel.app
@@ -15231,6 +15246,7 @@
 .xite.ws
 .xitenow.com
 .xitesite.com
+.dns.xiumu.org
 .dns.xivilay.dev
 .xka2gd.xyz
 .dns.xlion.tw
