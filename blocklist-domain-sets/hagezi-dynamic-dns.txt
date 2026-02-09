@@ -263,7 +263,9 @@
 .dhs.org
 .digikabel.hu
 .digitalgroupe.com
+.diskstation.eu
 .diskstation.me
+.diskstation.org
 .ditchyourip.com
 .divx.se
 .dlinkddns.com
@@ -326,6 +328,7 @@
 .doyleandprendergast.com
 .dp76.com
 .dpcube.com
+.dray-dns.de
 .drayddns.com
 .dropfiles.net
 .drunkensailor.org
@@ -360,6 +363,7 @@
 .dyn-access.org
 .dyn-ip24.de
 .dyn-o-saur.com
+.dyn-vpn.de
 .dynalias.com
 .dynalias.net
 .dynalias.org
@@ -426,6 +430,7 @@
 .dynv4.net
 .dynv6.com
 .dynv6.net
+.dynvpn.de
 .dyyndns.net
 .e-m-a-i-l.org
 .e-romagnoli.com
@@ -646,6 +651,7 @@
 .hiddencorner.org
 .hijaxdesigns.com
 .hin.tw
+.hiprinter.com
 .his.name
 .hitremixes.com
 .hldns.ru
