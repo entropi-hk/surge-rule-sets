@@ -294,6 +294,7 @@
 .aridia.ru
 .dns.arkbotech.com
 .doh.armadillodns.net
+.dns.arnabhome.fun
 .nsec.arnor.org
 .dns.articrevised.cc
 .dns.artikel10.org
@@ -615,6 +616,7 @@
 .ag.hostme.co.il
 .dns.kloiber.co.at
 .dns2.kloiber.co.at
+.dns-one.lins.co.tt
 .dns-three.lins.co.tt
 .guard.lumusimc.co.uk
 .adguard.macrosolutionsltd.co.uk
@@ -837,6 +839,7 @@
 .nas.delage.li
 .dns.deldown.de
 .vm.delfini.online
+.dns.deltain.ru
 .dns.demon-inc.tw
 .doh.denypradana.com
 .adguard.depieri.net
@@ -1153,6 +1156,7 @@
 .dns.dualhosting.eu
 .yukito.duanzx.top
 .adgrm.duckdns.org
+.adguardcalpena.duckdns.org
 .adguardpi.duckdns.org
 .andryk111.duckdns.org
 .andrykarcew.duckdns.org
@@ -1195,6 +1199,7 @@
 .salvadoserver.duckdns.org
 .site-2.duckdns.org
 .site-3.duckdns.org
+.soporte-premium.duckdns.org
 .surviil.duckdns.org
 .testapp-0-1-1.duckdns.org
 .thaibksri.duckdns.org
@@ -1336,6 +1341,7 @@
 .eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 .dns.f4a.fun
 .jp1.f7b6h9.tk
+.dns.fabidouille.com
 .pdns.faelix.net
 .rdns.faelix.net
 .dns.fahr.in
@@ -1355,6 +1361,7 @@
 .dns.farakaft.ir
 .farewellkou.click
 .dns.farshidhakimy.de
+.dns.farshmc.ru
 .adh.fastpacefixit.info
 .adguard.fatu.systems
 .adguardhome.favrep.ovh
@@ -1397,6 +1404,7 @@
 .hk154.flyzhouyc.win
 .jp193.flyzhouyc.win
 .st.flyzhouyc.win
+.yin.flyzhouyc.win
 .gateway.fomichev.cloud
 .de-f1.foxyfy.net
 .dns.foxyfy.net
@@ -1405,6 +1413,7 @@
 .ro-bu.foxyfy.net
 .us-ny.foxyfy.net
 .us-sj.foxyfy.net
+.adgd.fragmentance.ru
 .dns.family.fraiss.at
 .resolver.frank-ruan.com
 .wandana.franklinfamily.au
@@ -1463,6 +1472,7 @@
 .dns.beta.gandi.net
 .adguard.gattow.com
 .gclouddns.com
+.dns.gearworks.app
 .dns.geekbyte.de
 .adg.geili.me
 .genscorp.es
@@ -1523,6 +1533,7 @@
 .vpn.gosami.xyz
 .dns.goshawk22.uk
 .doh.fatucloud.gosprout.org
+.cloud.gqwyq.top
 .adguard.grantbruneau.com
 .cloud.graphicpoint.pl
 .graveofhope.ru
@@ -1631,6 +1642,7 @@
 .adguard.homenetmedia.stream
 .adguard01.homepeter.de
 .dns.hoody.com
+.dns.hopkinton.online
 .dns.hopsken.com
 .2wired.hopto.org
 .keithchung.hopto.org
@@ -1651,6 +1663,7 @@
 .dns.hostux.net
 .dns.hotta.page
 .dns.housedenolf.be
+.freemnt.hpitto.com
 .hshh.org
 .doh.hshkf.com
 .hsu.plus
@@ -2050,6 +2063,7 @@
 .doh.phdns3.lonet.org
 .doh.phdns4.lonet.org
 .doh.phdns5.lonet.org
+.lordsalty.com
 .deweerd.loseyourip.com
 .ddd.loukky.com
 .lovekers.cn
@@ -2149,6 +2163,7 @@
 .next.miao.ninja
 .dns.michelo.cl
 .ss.microbaidu.com
+.dns.midping.ir
 .dns.mihalcea.eu
 .agh.mihanentalpo.me
 .dns.mihanentalpo.me
@@ -2193,6 +2208,7 @@
 .disinformer.mooo.com
 .e23a.mooo.com
 .riga91197.mooo.com
+.doh.moorecloud.id
 .dns.moraes.tech
 .dns.moraru.net
 .morbitzer.de
@@ -2404,6 +2420,7 @@
 .cattery2.noddos.top
 .pi1.node15.com
 .dns.nodoa.me
+.noip4.de
 .nfnvr.noiselink.com
 .sink.nolo.ltd
 .dflexy.house.nom.br
@@ -2433,6 +2450,7 @@
 .ns3.com
 .dnscache0.ns71.net
 .nsown.com
+.dns.ntccloud.vn
 .dns.ntr.lol
 .dns1.ntus.io
 .ntwrkh.pro
@@ -2704,6 +2722,7 @@
 .lion.dns.qwer.pw
 .tiger.dns.qwer.pw
 .kams.kii.qzz.io
+.zouter.zhang3118.qzz.io
 .home.r01.fr
 .resolver.r0cket.net
 .r1bnc.com
@@ -3095,6 +3114,7 @@
 .adguard.tetnet.net
 .cloud.tezoi.com
 .dns.thebuckners.org
+.dns.thedayg0ne.ru
 .thefamilypuls.com
 .guard.thefather.cloud
 .beta.thegodfatheriam.shop
@@ -3143,6 +3163,7 @@
 .dns.tooizi.eu
 .dot.tooli.ca
 .nsc.torgues.net
+.totoland.eu
 .doh.totoro.pub
 .chronicle14.tplinkdns.com
 .ebpmc.tplinkdns.com
@@ -3233,6 +3254,7 @@
 .securedns.vendorvista.xyz
 .veraris.online
 .vernikpro.ru
+.ad.viet.date
 .dns.vietdns.vn
 .kids.vietdns.vn
 .tls.vietguards.cloud
