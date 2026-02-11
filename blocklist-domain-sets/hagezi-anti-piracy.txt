@@ -6308,6 +6308,7 @@
 .mitorrent.org
 .mixdrop.ag
 .mixdrop.co
+.mixdrop.top
 .mixfiend.com
 .mixfilm.net
 .mixonbd.com
@@ -6825,6 +6826,7 @@
 .nantong101.ru
 .tracker.nanyangpt.com
 .natorrent.com
+.natsumi.fun
 .nattawat.org
 .naturalbd.com
 .naturalbd.org
@@ -10558,6 +10560,7 @@
 .vegamovies.cam
 .vegamovies.camera
 .vegamovies.camp
+.vegamovies.cards
 .vegamovies.care
 .vegamovies.casino
 .vegamovies.cd
@@ -10566,10 +10569,14 @@
 .vegamovies.cheap
 .vegamovies.christmas
 .vegamovies.church
+.vegamovies.city
+.vegamovies.cl
+.vegamovies.codes
 .vegamovies.com
 .vegamovies.coupons
 .vegamovies.cr
 .vegamovies.credit
+.vegamovies.creditcard
 .vegamovies.cricket
 .vegamovies.cv
 .vegamovies.dating
@@ -10578,6 +10585,7 @@
 .vegamovies.design
 .vegamovies.dev
 .vegamovies.directory
+.vegamovies.dog
 .vegamovies.durban
 .vegamovies.ee
 .vegamovies.energy
@@ -10585,14 +10593,17 @@
 .vegamovies.enterprises
 .vegamovies.expert
 .vegamovies.express
+.vegamovies.fail
 .vegamovies.family
 .vegamovies.fans
+.vegamovies.fitness
 .vegamovies.florist
 .vegamovies.fm
 .vegamovies.foo
 .vegamovies.food
 .vegamovies.football
 .vegamovies.forex
+.vegamovies.forum
 .vegamovies.free
 .vegamovies.frl
 .vegamovies.games
@@ -10625,10 +10636,12 @@
 .vegamovies.jewelry
 .vegamovies.joburg
 .vegamovies.ke
+.vegamovies.land
 .vegamovies.lat
 .vegamovies.lawyer
 .vegamovies.li
 .vegamovies.lifestyle
+.vegamovies.locker
 .vegamovies.lt
 .vegamovies.luxury
 .vegamovies.maison
@@ -10641,6 +10654,7 @@
 .vegamovies.ml
 .vegamovies.moi
 .vegamovies.money
+.vegamovies.ms
 .vegamovies.mu
 .vegamovies.nagoya
 .vegamovies.navy
@@ -10664,6 +10678,7 @@
 .vegamovies.reise
 .vegamovies.rent
 .vegamovies.rest
+.vegamovies.ro
 .vegamovies.rocks
 .vegamovies.rs
 .vegamovies.rw
@@ -10676,6 +10691,7 @@
 .vegamovies.si
 .vegamovies.sl
 .vegamovies.sm
+.vegamovies.solar
 .vegamovies.spa
 .vegamovies.spot
 .vegamovies.ss
@@ -10699,6 +10715,7 @@
 .vegamovies.uy
 .vegamovies.uz
 .vegamovies.vacations
+.vegamovies.ventures
 .vegamovies.vg
 .vegamovies.viajes
 .vegamovies.villas
@@ -10763,12 +10780,12 @@
 .viafnatt.tv
 .viark.tv
 .viatorrents.com
+.viatorrents.org
 .vibe.community
 .vibebd.com
 .vibes.cc
 .victoriancrapper.com
 .victorraulrr.net
-.vid7.online
 .viday.icu
 .vidby.co
 .vidcloud.co
@@ -11147,6 +11164,7 @@
 .webtor.io
 .webtorrent.io
 .tracker.webtorrent.dev
+.webtorrents.com
 .wecat.help
 .weeabooter.com
 .weebcentral.com
@@ -11160,6 +11178,7 @@
 .weflix.you
 .weflix-v7.xyz
 .welcometothescene.com
+.wepzone.net
 .wfhost2.com
 .wgstream.sx
 .what.cd
@@ -11246,6 +11265,7 @@
 .worldsrc.net
 .worldsrc.org
 .worldwidetorrents.me
+.worldwrestlingtorrents.net
 .wotaku.wiki
 .wovietv.com
 .wow-films.com
@@ -11391,6 +11411,7 @@
 .yasdl.com
 .yasir252.com
 .yassflix.live
+.yassflix.net
 .trackers.ydns.eu
 .wegkxfcivgx.ydns.eu
 .yeeshkul.com
@@ -11403,6 +11424,7 @@
 .yesmovies.asia
 .yesmovies.at
 .yesmovies.baby
+.yesmovies.cfd
 .yesmovies.cloud
 .yesmovies.com
 .yesmovies.do
@@ -11423,6 +11445,7 @@
 .yesmovies.pe
 .yesmovies.pm
 .yesmovies.rest
+.yesmovies.sbs
 .yesmovies.sh
 .yesmovies.shop
 .yesmovies.show
@@ -11460,6 +11483,7 @@
 .yifymovietorrent.com
 .yifystatus.com
 .yifysub.net
+.yifysubtitles.me
 .yifysubtitles.vip
 .yifytorrent.cc
 .yifytorrent.vip
@@ -11475,6 +11499,8 @@
 .adobecccrack2017formacandwindows.yolasite.com
 .allserver.yolasite.com
 .utvbd.yolasite.com
+.yomovies.productions
+.yomovies.sarl
 .yomovies.uno
 .tracker.yoshi210.com
 .yotoshi.com
@@ -11508,6 +11534,7 @@
 .ytanime.tv
 .ytbdownload.com
 .ytmp3.cc
+.ytmp3.top
 .ytmp3juices.cc
 .ytmp4.is
 .ytricks.co
@@ -11603,6 +11630,7 @@
 .zecircle.xyz
 .zeduga.com
 .zeegwet.shop
+.zeflix.online
 .mail2.zelenaya.net
 .zelka.org
 .tracker.zemoj.com
@@ -11615,6 +11643,7 @@
 .media.zerointernet.net
 .zeropaid.com
 .zerotracker.com
+.zetorrents.biz
 .zetorrents.io
 .zetracker.net
 .zhibook.xyz
