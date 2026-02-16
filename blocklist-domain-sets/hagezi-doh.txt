@@ -194,7 +194,6 @@
 .dns2.afastserver.com
 .affcdn.net
 .shield.afixer.app
-.dns.agfiudsv.icu
 .aghdns.com
 .ahadns.net
 .blitz.ahadns.com
@@ -344,7 +343,6 @@
 .sradg.eastus.cloudapp.azure.com
 .sradg2.eastus.cloudapp.azure.com
 .kawpad.southeastasia.cloudapp.azure.com
-.adguard-be-azure.westeurope.cloudapp.azure.com
 .doh1.b-cdn.net
 .doh2.b-cdn.net
 .dns.b33.network
@@ -743,7 +741,6 @@
 .s3.d3mik.ru
 .d3vy.ru
 .dns.d4d.moe
-.dns.d8e.ru
 .dns.d94.xyz
 .dns.daarrk.tech
 .dns.dallinbryce.com
@@ -1322,7 +1319,6 @@
 .r1bnc.eu.org
 .sukidayo.eu.org
 .tartanbahn.eu.org
-.sg2.tt502.eu.org
 .v2rich.eu.org
 .dns.wantfreedom.eu.org
 .yanggan.eu.org

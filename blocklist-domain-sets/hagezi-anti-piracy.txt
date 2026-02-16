@@ -489,7 +489,6 @@
 .ainiesta.com
 .aiosearch.com
 .aiowares.com
-.airplanechefsmodapk.com
 .aiw.bz
 .retracker.akado-ural.ru
 .akiba-online.com
@@ -585,11 +584,9 @@
 .altadefinizione.community
 .altadefinizione.cx
 .altadefinizione.cyou
-.altadefinizione.date
 .altadefinizione.dating
 .altadefinizione.day
 .altadefinizione.de
-.altadefinizione.desi
 .altadefinizione.eu
 .altadefinizione.exchange
 .altadefinizione.fm
@@ -652,7 +649,6 @@
 .altadefinizione01.club
 .altadefinizione01.com
 .altadefinizione01.fm
-.altadefinizione01.fyi
 .altadefinizione01.games
 .altadefinizione01.homes
 .altadefinizione01.info
@@ -675,7 +671,6 @@
 .altadefinizionegratis.cfd
 .altadefinizionegratis.cloud
 .altadefinizionegratis.cool
-.altadefinizionegratis.cyou
 .altadefinizionegratis.fit
 .altadefinizionegratis.fun
 .altadefinizionegratis.gold
@@ -684,7 +679,6 @@
 .altadefinizionegratis.help
 .altadefinizionegratis.homes
 .altadefinizionegratis.ink
-.altadefinizionegratis.mom
 .altadefinizionegratis.news
 .altadefinizionegratis.onl
 .altadefinizionegratis.qpon
@@ -692,7 +686,6 @@
 .altadefinizionegratis.shop
 .altadefinizionegratis.space
 .altadefinizionegratis.store
-.altadefinizionegratis.today
 .altadefinizionegratis.watch
 .altadefinizionegratis.wiki
 .altadefinizioneita.me
@@ -747,7 +740,6 @@
 .anidub.pro
 .anify.to
 .anilinkz.to
-.animag.to
 .animatedchaos.com
 .animationdigitalnetwork.fr
 .anime.com
@@ -1133,7 +1125,6 @@
 .baby-beamup.club
 .babystreaming.com
 .babytorrent.vip
-.badasstorrents.com
 .baibako.tv
 .retracker.baikal-telecom.net
 .baixar.club
@@ -1307,7 +1298,6 @@
 .bitgate.org
 .bitgoon.com
 .bithouse.org
-.bithq.org
 .bithumen.be
 .bithumen.ru
 .bitlord.com
@@ -1322,7 +1312,6 @@
 .bitport.io
 .bitru.org
 .bitsearch.to
-.bitseduce.com
 .bitsnoop.com
 .bitsources.com
 .bitsparadise.info
@@ -1333,7 +1322,6 @@
 .bittorrent.am
 .bittorrent.com
 .bittorrentfiles.org
-.bittorrents.ro
 .bittown.org
 .bittoxic.com
 .bitturk.com
@@ -1626,7 +1614,6 @@
 .btshoufa.net
 .btsow.online
 .bttrove.org
-.tracker.btzero.net
 .btzone.org
 .tracker.btzoo.eu
 .bubarindpr.com
@@ -1882,12 +1869,10 @@
 .cineblog01.cfd
 .cineblog01.claims
 .cineblog01.cloud
-.cineblog01.co
 .cineblog01.coach
 .cineblog01.codes
 .cineblog01.cool
 .cineblog01.coupons
-.cineblog01.cx
 .cineblog01.delivery
 .cineblog01.discount
 .cineblog01.download
@@ -1966,10 +1951,8 @@
 .cinemabazar.net
 .cinemacity.live
 .cinemadeck.com
-.cinemadeck.st
 .cinemageddon.org
 .tracker.cinemageddon.net
-.cinemagratis.co
 .cinemagratis.com
 .cinemagratis.fm
 .cinemagratis.online
@@ -2042,7 +2025,6 @@
 .cmovies.mobi
 .cmovies.one
 .cmovies.so
-.cmovies.space
 .cmovies.us
 .cmovies.video
 .cmovies.vip
@@ -2098,7 +2080,6 @@
 .code2chicken.nl
 .codecanyon.download
 .codelist.cc
-.codepcplay.fun
 .codeskeys24.com
 .watch.coen.ovh
 .coexist.biz
@@ -2136,7 +2117,6 @@
 .nagordola.com.bd
 .www.nartlof.com.br
 .netpoint.com.bd
-.nis.com.bd
 .tracker.novage.com.ua
 .nowhdtime.com.bd
 .smtp-relay.odysseylabel.com.au
@@ -2411,7 +2391,6 @@
 .cwer.ru
 .cwer.ws
 .cxtvlive.com
-.cyber-hub.pw
 .tracker.cyber-hub.net
 .cyber-quest.net
 .cyber12.com
@@ -2469,7 +2448,6 @@
 .darkvod.cc
 .darkw.pl
 .darkwarez.net
-.darkwarez.pl
 .darmowe-torenty.pl
 .darwine.fr
 .dashflix.top
@@ -2564,7 +2542,6 @@
 .deporte-libre.click
 .azn-project.depthstrike.com
 .derechosmadretierra.org
-.derendered.live
 .descargaapk.com
 .descargagame.com
 .descargasfull.com
@@ -2775,7 +2752,6 @@
 .dood.lol
 .dood.lt
 .dood.ltd
-.dood.lu
 .dood.meme
 .dood.mov
 .dood.mx
@@ -3074,7 +3050,6 @@
 .egydead.onl
 .egydead.org
 .egydead.pro
-.egydead.show
 .egydead.site
 .egydead.space
 .egydead.top
@@ -3141,7 +3116,6 @@
 .engbookspdf.net
 .engplus.ru
 .ayu-tracker.enlist-a-distro.net
-.enseriestreaming.com
 .enstream.co
 .enxf.net
 .eogli.org
@@ -3261,7 +3235,6 @@
 .eurostreaming.repair
 .eurostreaming.sbs
 .eurostreaming.shop
-.eurostreaming.show
 .eurostreaming.soy
 .eurostreaming.tattoo
 .eurostreaming.taxi
