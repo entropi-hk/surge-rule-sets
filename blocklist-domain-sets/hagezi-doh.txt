@@ -1629,7 +1629,6 @@
 .dns.hoian.one
 .cloud2.holzmannclouddns.de
 .socolov.home.ro
-.adguard.home-lab-network.com
 .home-server.store
 .home34.su
 .pi.homeanywhere.org
@@ -1753,7 +1752,6 @@
 .adblock.indianets.net
 .dns.indybanipal.com
 .dns.inforlogia.com
-.doh.infotechlibrary.com
 .doh.infracell.net
 .adguard.infrapod.nl
 .adguard01.infrapod.nl

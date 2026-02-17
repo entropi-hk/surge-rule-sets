@@ -1263,6 +1263,7 @@
 .binge.lol
 .binged.live
 .bingee.watch
+.bingeguy.com
 .bingemachine.com
 .bingewatch.to
 .binimoynet.com
@@ -3410,7 +3411,6 @@
 .fboxtv.com
 .fboxz.to
 .fbstream.tv
-.fbstreams.pm
 .fbtake.com
 .fcstream.net
 .fddbits.com
@@ -3515,7 +3515,6 @@
 .filmapik.mov
 .filmapik.my
 .filmapik.network
-.filmapik.pink
 .filmapik.services
 .filmapik.singles
 .filmapik.skin
@@ -3523,7 +3522,6 @@
 .filmapik.study
 .filmapik.taxi
 .filmapik.town
-.filmapik.us
 .filmapik.works
 .filmapikofficial.com
 .filmarchives.jp
@@ -3807,7 +3805,6 @@
 .fmovies.llc
 .fmovies.one
 .fmovies.org
-.fmovies.pub
 .fmovies.rs
 .fmovies.sc
 .fmovies.se
@@ -4148,6 +4145,7 @@
 .gay-torrents.net
 .tracker.gaytor.rent
 .gaytorrent.ru
+.gayying.com
 .gazellegames.net
 .gazipurns.com
 .gbapps.net
@@ -4197,7 +4195,6 @@
 .getmodsapk.com
 .getmythic.app
 .getpirate.com
-.getpopcorntime.is
 .getrockmusic.net
 .getsave.net
 .gettorrents.org
@@ -4323,7 +4320,6 @@
 .goojara.ch
 .goojara.to
 .gopee.monster
-.gophie.cam
 .retracker.gorcomnet.ru
 .gostream.cool
 .gostream.eu
@@ -4447,7 +4443,6 @@
 .guardaserietv.top
 .guardaserietv.world
 .guardoserie.blog
-.guardoserie.fit
 .guiks.net
 .gun-land.net
 .gunsnroses.us
@@ -4680,7 +4675,6 @@
 .hdmovie2.guru
 .hdmovie2.gy
 .hdmovie2.hair
-.hdmovie2.haus
 .hdmovie2.health
 .hdmovie2.help
 .hdmovie2.hiphop
@@ -4694,10 +4688,8 @@
 .hdmovie2.immobilien
 .hdmovie2.inc
 .hdmovie2.industries
-.hdmovie2.ink
 .hdmovie2.investments
 .hdmovie2.is
-.hdmovie2.ist
 .hdmovie2.kim
 .hdmovie2.kiwi
 .hdmovie2.koeln
@@ -4705,7 +4697,6 @@
 .hdmovie2.krd
 .hdmovie2.lc
 .hdmovie2.lease
-.hdmovie2.lgbt
 .hdmovie2.li
 .hdmovie2.limited
 .hdmovie2.link
@@ -4753,7 +4744,6 @@
 .hdmovie2.photography
 .hdmovie2.photos
 .hdmovie2.pizza
-.hdmovie2.place
 .hdmovie2.plumbing
 .hdmovie2.plus
 .hdmovie2.pm
@@ -4780,7 +4770,6 @@
 .hdmovie2.sale
 .hdmovie2.salon
 .hdmovie2.sb
-.hdmovie2.school
 .hdmovie2.schule
 .hdmovie2.science
 .hdmovie2.scot
@@ -4855,7 +4844,6 @@
 .hdo.app
 .hdo.to
 .hdonline.eu
-.hdonline.to
 .hdpopcorns.org
 .hdreactor.info
 .hdreactor.org
@@ -5010,7 +4998,6 @@
 .hugefiles.net
 .hugewarez.net
 .huhu.to
-.hulu.sc
 .hungercity.org
 .huoquzhishi.xyz
 .huramovies.to
@@ -5087,7 +5074,6 @@
 .ilgeniodellostreaming.icu
 .ilgeniodellostreaming.it
 .ilgeniodellostreaming.lat
-.ilgeniodellostreaming.me
 .ilgeniodellostreaming.men
 .ilgeniodellostreaming.mobi
 .ilgeniodellostreaming.mom
@@ -5175,7 +5161,6 @@
 .instasave.website
 .interflow.ch
 .intermedio.ro
-.internetowa.tv
 .internetwarriors.net
 .internetzonebd.com
 .interviewfor.red
@@ -5282,7 +5267,6 @@
 .itorrents.org
 .itorrents-igruha.net
 .itorrents-igruha.org
-.itotalsportek.life
 .itunesmaxhd.com
 .itvhd.live
 .bbs.itzmx.com
@@ -5305,7 +5289,6 @@
 .jamendo.com
 .jamez.org
 .jamtothis.com
-.jananibd.com
 .torrent.janemusic.org
 .jannatmirinternetservice.com
 .japscan.ws
@@ -5384,7 +5367,6 @@
 .blog.jxzmz.org
 .k-streaming.tv
 .k2nblog.com
-.kaa.mx
 .film.kace.dev
 .kaitovault.com
 .kaizoku-fansubs.com
@@ -5393,7 +5375,6 @@
 .tracker.kamigami.org
 .kanal-4.de
 .kanava.org
-.kanjiku.net
 .kannadatorrents.com
 .kaoskrew.org
 .kapitalsin.com
@@ -5442,7 +5423,6 @@
 .keke.re
 .data.kenecolor.com
 .keohosting.net
-.kevinsport.top
 .kevinsports.top
 .kevinsporttv.top
 .keygen.us
@@ -5489,7 +5469,6 @@
 .kingmodapk.net
 .kingsite24.com
 .kinkeadtech.com
-.kino.cx
 .kino-hit.com
 .kinoclub.org
 .kinofox.de
@@ -5508,7 +5487,6 @@
 .kinogo.uk
 .kinogo-720.net
 .kinogo-ua.com
-.kinogo4ua.net
 .kinogoo.zone
 .kinogruz.net
 .kinoindian.net
@@ -5574,7 +5552,6 @@
 .kinox.actor
 .kinox.ae
 .kinox.am
-.kinox.bio
 .kinox.blog
 .kinox.by
 .kinox.ceo
@@ -5692,7 +5669,6 @@
 .kooralivs.com
 .kopedafotor75.shop
 .kora4live.net
-.koraa-now.com
 .korsar.tv
 .home.kray.pw
 .kraytracker.com
@@ -5867,7 +5843,6 @@
 .linuxtracker.org
 .tracker.linvk.com
 .linxdown.com
-.litaapks.com
 .liteapks.com
 .liteapks.mobi
 .litemodapk.com
@@ -5914,7 +5889,6 @@
 .lk21tv.com
 .ll1.my
 .lmanime.com
-.lmp3.org
 .lnx-bbc.org
 .load.to
 .tracker.loadbt.com
@@ -5984,7 +5958,6 @@
 .lunchboards.com
 .lunchflix.com
 .lunchflix.org
-.wfzrbhp.luxevpn.xyz
 .igwiki.lyci.de
 .lyin.xyz
 .tracker.lyretain.site
@@ -6096,7 +6069,6 @@
 .masterkreatif.com
 .masterof13fps.com
 .masters-tb.com
-.matchify.zip
 .mates-r-us.com
 .mathanosto.top
 .mathkangaroo.jp
@@ -6180,7 +6152,6 @@
 .megakino.ist
 .megakino.kim
 .megakino.kiwi
-.megakino.media
 .megakino.men
 .megakino.moi
 .megakino.ms
@@ -6296,7 +6267,6 @@
 .mixdrop.ag
 .mixdrop.co
 .mixdrop.top
-.mixfiend.com
 .mixfilm.net
 .mixonbd.com
 .mixsoftware.ru
@@ -6404,7 +6374,6 @@
 .mojaloss.stream
 .mojblink.com
 .mojobb.com
-.mokmobi.ovh
 .monflix.rip
 .tracker.monikadesign.uk
 .tracker.monitorit4.me
@@ -6451,7 +6420,6 @@
 .movie2k.eu
 .movie2k.guru
 .movie2k.io
-.movie2k.lat
 .movie2k.to
 .movie2k-hd.com
 .movie2ktv.bond
@@ -6818,6 +6786,7 @@
 .naturalbd.com
 .naturalbd.org
 .naudios.com
+.navegador.click
 .nbabite.to
 .nbafullhd.com
 .nbahdreplay.com
