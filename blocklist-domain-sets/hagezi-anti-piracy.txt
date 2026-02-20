@@ -643,6 +643,7 @@
 .altadefinizione-01.skin
 .altadefinizione-nuovo.click
 .altadefinizione-originale.online
+.altadefinizione001.skin
 .altadefinizione01.app
 .altadefinizione01.bet
 .altadefinizione01.cc
@@ -691,6 +692,8 @@
 .altadefinizionegratis.watch
 .altadefinizionegratis.wiki
 .altadefinizioneita.me
+.altadefinizionex.click
+.altadefinizionex.skin
 .altadefinizionez.beer
 .altadefinizionez.forum
 .altadefinizionez.group
@@ -8996,6 +8999,7 @@
 .streamflix.one
 .streamflix.space
 .streamgoblin.com
+.streamhls.click
 .streamhls.to
 .streamhunter.net
 .streamhunter.to
@@ -10472,6 +10476,7 @@
 .tracker.manager.v6.navy
 .tracker.v6speed.org
 .vadapav.mov
+.valamhub.top
 .valhallastream.com
 .vamos88kam.com
 .vancedflix.com
