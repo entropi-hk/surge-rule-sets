@@ -203,6 +203,7 @@
 .maws-aax-us-east-rtb-adx.amazon-adsystem.com
 .maws-aax-us-east-rtb.amazon-adsystem.com
 .maws-aax-us-east-test4.amazon-adsystem.com
+.maws-aax-us-east.amazon-adsystem.com
 .maws-aax-us-pdx-rtb.amazon-adsystem.com
 .metrics.media-amazon.com
 .minerva.devices.a2z.com
