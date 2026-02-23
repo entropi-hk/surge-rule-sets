@@ -223,6 +223,7 @@
 .locationv16-normal-useastred.tiktokv.eu
 .log.tiktokv.com
 .log.tiktokv.us
+.log-boot.tiktokv.com
 .log-i18n.tiktokv.com
 .log-phx.tiktokv.com
 .log-ru.tiktokv.com

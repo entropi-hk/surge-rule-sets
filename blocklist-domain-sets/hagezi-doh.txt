@@ -2031,6 +2031,7 @@
 .dns.lihj.me
 .dns.lildinosaur.com
 .dns.lilith.cloud
+.michelo.line.pm
 .adgaurd.lingmont.net
 .dns.linkr.ninja
 .adg.lintasjrg.xyz
