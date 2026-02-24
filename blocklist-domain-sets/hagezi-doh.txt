@@ -488,7 +488,6 @@
 .adguard.camn.uk
 .2.dnscrypt-cert.captnemo.in
 .doh.captnemo.in
-.console.carestyle.org
 .unifi.carioka.com
 .dns.carson-family.com
 .dns.carter.me
@@ -3293,7 +3292,6 @@
 .wantaquddin.com
 .dns.wargan.io
 .abel.waringer-atg.de
-.dns.warma.me
 .dns.warpnine.de
 .dns.warrior.fr
 .domeq.waw.pl
