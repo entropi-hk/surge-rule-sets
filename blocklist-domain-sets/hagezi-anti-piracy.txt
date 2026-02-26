@@ -1593,6 +1593,7 @@
 .btkitty.red
 .btmet.com
 .btmon.com
+.btmulu.live
 .btmusic.org
 .btnext.com
 .btor.org
@@ -2707,6 +2708,7 @@
 .dontorrent.info
 .dontorrent.org
 .dontorrent.phd
+.dontorrent.photos
 .dontorrent.promo
 .dontorrents.com
 .dontorrents.org
@@ -5623,6 +5625,7 @@
 .kkiste.boats
 .kkiste.club
 .kkiste-io.hair
+.kkiste-io.skin
 .kkiste-io.top
 .kkooralives.com
 .kleanstorage.store
@@ -6761,6 +6764,7 @@
 .nachtfalke.biz
 .nagordola.live
 .naijavault.com
+.nalix.top
 .namako.fun
 .tracker.4.babico.name.tr
 .tracker.babico.name.tr
@@ -8780,6 +8784,7 @@
 .sportsbay.top
 .sportschamp.fun
 .sportslive.me
+.sportsnetwork.fit
 .sportsonline.gl
 .sportsonline.to
 .v3.sportsonline.sx
