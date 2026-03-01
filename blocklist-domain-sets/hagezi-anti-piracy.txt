@@ -187,6 +187,7 @@
 .1cinevood.kim
 .1clickdown.com
 .1ddl.org
+.1desiremovies.foo
 .1fichier.com
 .1flix.to
 .1gabba.net
@@ -211,6 +212,7 @@
 .1stream.top
 .1street.ru
 .1tamilblasters.how
+.1tamilmv.gs
 .1tamilmv.pet
 .1techno.org
 .1trance.org
@@ -765,6 +767,7 @@
 .animedao.com
 .animedao.to
 .animeflix.io
+.animeflix.team
 .animeflv.biz
 .animeflv.cc
 .animeflv.la
@@ -1266,6 +1269,7 @@
 .binodonmela.net
 .binsearch.info
 .bintube.com
+.bintv.net
 .binzb.com
 .mkvcinemasmovies.bio.link
 .bioscopeblog.net
@@ -1698,6 +1702,7 @@
 .cartooncrazy.net
 .cartooncrazy.tv
 .cartoonhd.com
+.casa-cinema.art
 .casacinema.biz
 .casacinema.com
 .casacinema.de
@@ -2409,6 +2414,7 @@
 .d4download.com
 .bingoportal.da.ru
 .daddylive.sx
+.daddylive5.top
 .daddylivehd1.click
 .daddylivestream.com
 .daddyny.com
@@ -2634,6 +2640,7 @@
 .tracker.dix.tf
 .diyar24.com
 .dizcompany.ru
+.dizi44.life
 .dizilla.to
 .dizipal.bar
 .dizipal1521.com
@@ -2835,6 +2842,7 @@
 .dotmovies.bayern
 .dotmovies.cat
 .dotmovies.cl
+.dotriv.com
 .dotsport.live
 .doubledouble.top
 .down-movies.ws
@@ -3779,6 +3787,7 @@
 .flixwatch.site
 .flixwave.me
 .flixwave.to
+.flixxcine.app
 .flixy.org
 .flmsdown.net
 .ns1.floads.com
@@ -6494,6 +6503,8 @@
 .movies2watch.tv
 .movies4u.co
 .movies4u.contact
+.movies4u.ls
+.movies4u.sc
 .movies4u.sl
 .movies4u.ug
 .movies4us.co
@@ -7256,6 +7267,7 @@
 .tracker.optus.nu
 .orasai.com
 .orbdesign.net
+.orbitbear66.pro
 .orbitcache.com
 .orbitdownloader.com
 .orcahub.com
@@ -7618,6 +7630,7 @@
 .polycracks.com
 .sugoi.pomf.se
 .tracker.pomf.se
+.poopvid.com
 .popcdn.day
 .popcorn-time.ch
 .popcorn-tracker.org
@@ -7700,6 +7713,7 @@
 .privatemoviez.help
 .region.nl1.privex.cc
 .privtracker.com
+.prmovies.productions
 .pro-evolution.org
 .pro-windows.net
 .proaudiotorrents.org
@@ -7906,6 +7920,7 @@
 .raindust78.online
 .rainfallpath36.site
 .rainierland.to
+.rainorbit33.xyz
 .rainshine28.site
 .rainveil36.xyz
 .rainwhisper40.xyz
@@ -8163,6 +8178,7 @@
 .roshy.tv
 .rotorrent.ro
 .roxiestreams.cc
+.roxiestreams.info
 .roxiestreams.pro
 .royal-drama.online
 .royal-orleans.com
@@ -8973,6 +8989,7 @@
 .streaming-community.art
 .streaming-community.asia
 .streaming-community.fit
+.streaming-community.trade
 .streaming-french.com
 .streaming-series.org
 .streamingcommunity.actor
@@ -10720,6 +10737,7 @@
 .vide0.me
 .vide0.net
 .vide0.pro
+.vide64.com
 .vidembed.net
 .videobin.co
 .tracker.videodrugproject.com
@@ -10771,6 +10789,7 @@
 .vidsrc.me
 .vidsrc-embed.ru
 .vidsrcme.su
+.vidstream.id
 .vidstream.to
 .vidstreaming.io
 .vidstrm.cloud
@@ -11279,6 +11298,7 @@
 .xtorrentp2p.com
 .xtorrenty.org
 .xtorx.com
+.xtovideo.com
 .xtreme.cc
 .xtremespeeds.net
 .xtremetv.org
