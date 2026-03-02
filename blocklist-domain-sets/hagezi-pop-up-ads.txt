@@ -16,7 +16,6 @@
 .0-100mph.com
 .0-2.net
 .0-3.org
-.0-60acceleration.com
 .0-84.com
 .0-9.net
 .0-architecture.com
@@ -630,7 +629,6 @@
 .023edu.com
 .023hotel.com
 .023l.com
-.023lfw.com
 .023mmi.com
 .023movie.net
 .023net.com
@@ -1224,18 +1222,11 @@
 .086ab393f66e9ef97bc60c49b90c4bfd540a431f59b45b13bb746e2e.com
 .086cc.com
 .086z.com
-.087801.com
-.087803.com
 .087f389ba8.com
 .087o.com
-.088021.com
 .088023.com
-.088026.com
 .088032.com
 .088061.com
-.088063.com
-.088071.com
-.088073.com
 .088076.com
 .08822.com
 .08874.com
@@ -1247,7 +1238,6 @@
 .08adc.com
 .08aqq.com
 .08des-infos-utiles.com
-.08dragon.com
 .08fraicheinfo.com
 .08gamer.com
 .08hy.com
@@ -1297,7 +1287,6 @@
 .09racing.com
 .09rw.com
 .09soutai.com
-.09taazakhabar.com
 .09vl.com
 .09vns.com
 .09wmn.com
@@ -1305,7 +1294,6 @@
 .0a.rip
 .1f92a26341.0a57f6bbfd.com
 .0ad1.com
-.0ady.com
 .0af2a962b0102942d9a7df351b20be55.com
 .0amm.com
 .0aol.com
@@ -1469,7 +1457,6 @@
 .0x0c.org
 .0x10cforum.com
 .0x2501.org
-.0x420inushop.com
 .0x64-esp.com
 .0x80000.com
 .0xadhinuwriteups.com
@@ -1629,7 +1616,6 @@
 .10000ms.com
 .10000stepsaustralia.com
 .10000stepsusa.com
-.10000temperos.com
 .10000zn.com
 .501ce8b381.100066694a.com
 .10007.net
@@ -1802,14 +1788,12 @@
 .100routesacrossamerica.com
 .100sht.info
 .100sihu.com
-.100siqi.com
 .100songs.net
 .100songs100days.com
 .100songs100ways.com
 .100th.club
 .100thmonkeymushrooms.com
 .100unblocknow.info
-.100v1000.com
 .100videos.com
 .100words.net
 .100x.today
@@ -1965,7 +1949,6 @@
 .1049nashicon.net
 .104brilliant.com
 .104juniper.com
-.104price.com
 .104seo.com
 .1050.us
 .1050p.com
@@ -2035,7 +2018,6 @@
 .109cmf.org
 .109gift.com
 .109mens.com
-.109racingclub.net
 .109sihu.com
 .10acne.com
 .10acrefarms.com
@@ -2087,7 +2069,6 @@
 .10kexamples.com
 .10km-casablanca.com
 .10kmatrix.com
-.10kshortcuts.com
 .10lbsina5lbbag.com
 .10les-infos-de-lannee.com
 .10mexpertias.com
@@ -2179,7 +2160,6 @@
 .10xreachpr.com
 .10xstack.com
 .10xvideos.com
-.10y3j.com
 .10yeartarget.com
 .10yp.com
 .11.coffee
@@ -2288,7 +2268,6 @@
 .1156zy.net
 .115fx.com
 .115thstreet.com
-.116337.cyou
 .11661.net
 .116666.com
 .1167av.com
@@ -2431,7 +2410,6 @@
 .123-movierulz.com
 .123-movies.fun
 .123-movies.info
-.123-movies.to
 .123-movies-free.com
 .123-short.com
 .123-stream.org
@@ -2442,17 +2420,13 @@
 .12315tt.com
 .12316ccr.com
 .12316ewa.com
-.12316grz.com
 .12316jaw.com
 .12316psu.com
 .12316vdd.com
-.12316vfi.com
-.12316xsw.com
 .12317biz.com
 .12317dam.com
 .12317pbz.com
 .12317wfn.com
-.12319pn.com
 .1232aa.com
 .1233123.com
 .1234.to
@@ -2501,7 +2475,6 @@
 .123clickz.com
 .123clip.com
 .123clk.com
-.123comprinters.com
 .123cpv.com
 .123cric.com
 .123d.net
@@ -2718,7 +2691,6 @@
 .1269av.com
 .126ps.com
 .126sz.com
-.1275first.com
 .127rewards.com
 .12808.com
 .1280s8.com
@@ -2745,7 +2717,6 @@
 .12changes.com
 .12dakot.com
 .12daysofxmas.com
-.12dcpl.com
 .12ddesign.com
 .12ee.net
 .12ezo5v60.com
@@ -2794,7 +2765,6 @@
 .12zodiaque.com
 .13000towed.com
 .130012.online
-.1304w.com
 .13079.com
 .130gelh8q.de
 .130th.net
@@ -2818,7 +2788,6 @@
 .132ii.com
 .13311tower.com
 .13337x.to
-.13343563561.com
 .1335mmunderbar.com
 .1336sanbruno.com
 .1337-crew.to
@@ -3030,7 +2999,6 @@
 .1516257611221.com
 .151743.com
 .151jj.com
-.151py.com
 .1520.us
 .1520wbzw.com
 .152media.com
@@ -3040,7 +3008,6 @@
 .153c349024.com
 .15440.com
 .15457.com
-.155471.cyou
 .155pk.com
 .155qk.com
 .15666ylf.xyz
@@ -3125,7 +3092,6 @@
 .166qp.com
 .167091.com
 .167272.com
-.167478.cyou
 .1675yabo.com
 .16760w.com
 .167999d759.com
@@ -3182,14 +3148,12 @@
 .171c856581.com
 .171sex.com
 .171starbucks.com
-.171t.com
 .17234.com
 .17282cd89c.com
 .172zy.net
 .1735.cc
 .173726e958.com
 .173lineage.com
-.1745n.com
 .1748dejateseducir.com
 .1755y.com
 .175black.com
@@ -3316,13 +3280,11 @@
 .18avmm.com
 .18avtube.com
 .18b8547d05de.com
-.18bbl.vip
 .18blowjob.com
 .18comic.fun
 .18comic2.art
 .18comic2.net
 .18comic3.org
-.18comic4.com
 .18comicvip.com
 .18core.com
 .18drive.com
@@ -3575,7 +3537,6 @@
 .lib-f6libtpovfl7jzihv76x3blk.1lib.at
 .1links.ru
 .1lj11b2ii.de
-.1loe5nekov.cyou
 .1losangelesduiattorney.com
 .1lzz.com
 .1m72cfole.de
@@ -3627,7 +3588,6 @@
 .1shot-club.com
 .1snb.com
 .1snsc.sk
-.1sodo2jm56.cyou
 .1sqfobn52.de
 .1st-aboutblinds.com
 .1st-in-handwashing.com
@@ -3768,9 +3728,7 @@
 .21-media.com
 .21162611f8.com
 .2116844.com
-.213326.cyou
 .213calendar.com
-.214342.cyou
 .215a043303.com
 .215cams.com
 .2169.cc
@@ -3802,7 +3760,6 @@
 .22456.vip
 .2260mm.com
 .2277.net
-.228327.cyou
 .229tv.com
 .22a008da69.com
 .22av.net
@@ -3828,8 +3785,6 @@
 .22y.me
 .22yy6.com
 .23027678.com
-.2306bet.com
-.2312828.cyou
 .231521.com
 .231ellsworth.com
 .233599.com
@@ -3864,7 +3819,6 @@
 .2465april2024.com
 .2467april2024.com
 .2469april2024.com
-.247335.cyou
 .2475april2024.com
 .2477april2024.com
 .2479april2024.com
@@ -3929,7 +3883,6 @@
 .2550100.com
 .255899.com
 .255downtown.com
-.256334.cyou
 .256mh.com
 .258369.com
 .25996m.com
@@ -3945,13 +3898,10 @@
 .2606.cc
 .2609.cc
 .260av.com
-.2635712.cyou
 .2639iqjkl.de
-.265645.cyou
 .2666.me
 .0225083fd4.26664d7709.com
 .266hr.com
-.267267.cyou
 .267700.com
 .26e8841da4.com
 .26fc4b0b38.com
@@ -3965,7 +3915,6 @@
 .27352a740a.com
 .27547.com
 .275500.com
-.276225.cyou
 .277ai.com
 .2787.cc
 .27baola.net
@@ -4159,7 +4108,6 @@
 .35a92e241c.30ea3091fb.com
 .30girl.com
 .30hccor10.de
-.30its25m.com
 .30koqnlks.de
 .30likariv.com
 .30m4hpei1.de
@@ -4210,7 +4158,6 @@
 .32210.com
 .323it.com
 .325497.cn
-.325763.cyou
 .3265712586351oof.com
 .3277.cc
 .327888.com
@@ -4259,7 +4206,6 @@
 .34ys.com
 .3503c6c81a.com
 .352271.top
-.35452888.xyz
 .quadient-1747972308352.3557.com
 .355cu.com
 .358g46.fun
@@ -4278,7 +4224,6 @@
 .360protected.com
 .360rage.com
 .360thepitch.com
-.360trainining.com
 .360view.site
 .360yield.com
 .360yield-basic.com
@@ -4297,7 +4242,6 @@
 .365win.info
 .365xxx.net
 .366fr.com
-.367525.cyou
 .367p.com
 .367tv.com
 .36crazyfists.net
@@ -4307,8 +4251,6 @@
 .37243211.xyz
 .372ae6b830.com
 .375bixi.com
-.376245.cyou
-.3766258.cyou
 .37bf116186.com
 .37c-binetsu.com
 .98fd7b1cb9.37f3bd8a22.com
@@ -4414,10 +4356,8 @@
 .3dsucai.cn
 .3dtops.com
 .3dtoyprinter.com
-.3e0605983a.com
 .3f20k0.com
 .3fa3d4c288.com
-.3fair.com
 .b1fb7ee141.3fc6424eda.com
 .3fee216537.com
 .3fpf6xbs.pro
@@ -4477,7 +4417,6 @@
 .3vetz.com
 .3wr110.net
 .3x3eurotour.com
-.3xbiy7sh.com
 .3xbrh4rxsvbl.top
 .3xgood.com
 .3yokai.net
@@ -4525,9 +4464,7 @@
 .420reap.com
 .420teleport.com
 .420weedonlineshop.com
-.421426.cyou
 .422011.vip
-.422763.cyou
 .422race.com
 .425kmk7n9wn21pwvl18.xyz
 .42685th.com
@@ -4540,7 +4477,6 @@
 .42ax.com
 .42bd.com
 .42concepts.com
-.42conf.com
 .42d9c0e6fb.com
 .42gramsfilm.com
 .42jdbcb.de
@@ -4551,7 +4487,6 @@
 .43366.cn
 .43374c.top
 .434399.com
-.4346673.cyou
 .cf9e554a8a.4353740d36.com
 .436df5b953.com
 .43798.com
@@ -4562,7 +4497,6 @@
 .44216f3fdf.com
 .442mcadam.com
 .4446k.com
-.445266.cyou
 .446.cm
 .4477r.com
 .448176042f.com
@@ -4584,7 +4518,6 @@
 .456mov.net
 .456qn.com
 .456thbombgroup.org
-.4571247.cyou
 .wwwsy669com.4599.cc
 .459b6951ca.com
 .45cashloans.com
@@ -4601,9 +4534,7 @@
 .46a30abd78.com
 .46magazine.com
 .47235645.xyz
-.4745467.cyou
 .475thfghf.org
-.477212.cyou
 .4778x.com
 .479d24d9fd.com
 .80fb1b35c2.47ae11ce2f.com
@@ -4634,8 +4565,6 @@
 .49ergrandprix.com
 .49ershop.com
 .49jy.com
-.49rk.com
-.49tokyo.com
 .49tuku.xyz
 .4a41fff8a6.com
 .4a4ac32960.com
@@ -4774,7 +4703,6 @@
 .5-0taxi.com
 .5-best-online-casinos.com
 .5-life.net
-.50000000000.cn
 .50000books.com
 .500bg.com
 .500bydiesel.com
@@ -4807,7 +4735,6 @@
 .51e3337e65.com
 .51eabay.com
 .51f7cf32cd.com
-.51guoji.org
 .51jackpot.com
 .51weiyouxi.com
 .51yycm.cn
@@ -4842,8 +4769,6 @@
 .540484935e.com
 .540f8cca2b.com
 .4027d86a39.542cf0845e.com
-.543361.cyou
-.543645.cyou
 .545316.vip
 .6c062330ce.54653cc53d.com
 .548f23e472.com
@@ -4857,7 +4782,6 @@
 .55093.com
 .550b3ikb9j.com
 .5534a1fe5d.com
-.553573.cyou
 .5535aibo.com
 .pfwdca329.55477.com
 .554koaylwga7.top
@@ -4876,7 +4800,6 @@
 .55b6be9d8f.com
 .55bdsm.com
 .55e231abcb30eb48dca9e7a399019f785e811eaa86ac508e997202ad.com
-.55f4605f6d.com
 .55hz.com
 .55idn.com
 .55mo.com
@@ -4884,7 +4807,6 @@
 .55thy.com
 .55tk.cc
 .5608c7633c.com
-.561649.com
 .561890.com
 .56305138.com
 .564a5a0rut08.top
@@ -4965,7 +4887,6 @@
 .5ivy3ikkt.com
 .5ixjf.top
 .5k2d44.vip
-.5lzu7xzsi4.cyou
 .5n2818fo5.xyz
 .5nfc.net
 .5nt1gx7o57.com
@@ -4982,7 +4903,6 @@
 .5wzgtq8dpk.com
 .5x4snzx9o.com
 .5xd3jfwl9e8v.com
-.5yi6of25dt.cyou
 .147.6.xyz
 .6-partner.com
 .d1d70f1333.600977f9ec.com
@@ -5010,9 +4930,7 @@
 .61villagewalk.com
 .620096.vip
 .6215.cc
-.6224341.cyou
 .e91ab5975e.623efad9ac.com
-.627813.cyou
 .62ad.com
 .a25c71de26.62cf6d39c1.com
 .631wzzhwm72pl73xsk8uu6z9jbuneqwhil40.fun
@@ -5028,14 +4946,12 @@
 .64236b1b40.com
 .64468.com
 .645645.xyz
-.64646.business
 .64786087.xyz
 .64ah.com
 .64fe1cbf9e.com
 .64p3am9x95ct.com
 .6545.cn
 .655143.vip
-.656149.com
 .6570131a3f.com
 .6588bet48.com
 .65a16dd098.com
@@ -5050,7 +4966,6 @@
 .m.666pc.com
 .666sou.com
 .666yw.com
-.6671577.cyou
 .66777.tv
 .66882.vip
 .6688m.xyz
@@ -5137,7 +5052,6 @@
 .6sbd-offer.com
 .6ujk8x9soxhm.com
 .6v41p4bsq.com
-.6xgcklo.cyou
 .6xgteu3hcsf4.top
 .6xy-zg.com
 .6yntfvz61f3v.top
@@ -5158,7 +5072,6 @@
 .7153823bf9.com
 .71692fai4cc0.com
 .717d165445.com
-.88.718pk.com
 .71df446534.com
 .71l0b.com
 .720088.com
@@ -5172,7 +5085,6 @@
 .72wan.cn
 .730fcb332f.com
 .731884.vip
-.73568955.xyz
 .735eb9f0a6.com
 .735pwa.com
 .7373.net
@@ -5185,9 +5097,7 @@
 .74099753.xyz
 .741.net
 .7416e71cb8.com
-.743133.cyou
 .743fdf5467.com
-.7451253.cyou
 .74598.com
 .a3f3edf924.7470c4cda5.com
 .74759411.xyz
@@ -5198,11 +5108,9 @@
 .75114620.xyz
 .75123.vip
 .75264920.xyz
-.753636.cyou
 .60ef1c3dd9.753fceba29.com
 .755399.com
 .756048c1ae.com
-.7573173.cyou
 .759d3cc22a.com
 .75fcdb0acb.com
 .75ph.com
@@ -5210,10 +5118,8 @@
 .76132.com
 .761jj.com
 .76359a95dd.com
-.764462.cyou
 .7662ljdeo.com
 .766935bca8.com
-.7673632.cyou
 .768e7f3194.com
 .769292.com
 .76cp.com
@@ -5225,7 +5131,6 @@
 .773ll.com
 .775.me
 .776.am
-.776726.com
 .777-888.ru
 .7ouur.777269.com
 .xyy1m.777269.com
@@ -5239,7 +5144,6 @@
 .777pj.com
 .777q.com
 .777s.cc
-.777slotspaycard.org
 .777usdt.top
 .777victor.com
 .777zxcqazw.top
@@ -5254,7 +5158,6 @@
 .77ppv.com
 .77seaa.com
 .77yh.vip
-.78161013.xyz
 .7816game.com
 .784d1dcf4a.com
 .78554661.xyz
@@ -5308,7 +5211,6 @@
 .7d93f9d2f5.com
 .485bd96db9.7d9d50ada1.com
 .7dayssuccess.com
-.7e6rieu.cyou
 .7e84b34fea.com
 .7e8bf019d5.com
 .7ec5e0d805.com
@@ -5351,7 +5253,6 @@
 .b50c1772be.80494f40b6.com
 .80582834.xyz
 .806038.app
-.8067bet.com
 .806aerial.com
 .808ba9fe3d.com
 .80a16e63df.com
@@ -5365,7 +5266,6 @@
 .8162f6c343.com
 .reportes.81654.com
 .superset4.81654.com
-.8174762.cyou
 .8184.cc
 .81af8eb64e.com
 .81slushy.shop
@@ -5375,12 +5275,10 @@
 .82565.com
 .82712.cyou
 .82o9v830.com
-.831f1e8aa9.com
 .8330bccb63.com
 .e6b4cfdb36.8381a73c4d.com
 .83bv7eio8hbe.top
 .83phwin.com
-.84055600.xyz
 .842e61e68b.com
 .84302764.xyz
 .844ntk.vip
@@ -5449,7 +5347,6 @@
 .88m.tips
 .88p2p.com
 .88pk8.com
-.88vellet.icu
 .88xxbb.com
 .891world.com
 .89296649.xyz
@@ -5501,7 +5398,6 @@
 .8j1f0af5.de
 .8jfbt5va3r.com
 .8k3678m.buzz
-.8khartoum.icu
 .8kj1ldt1.de
 .8mav260.com
 .8n67t.com
@@ -5553,7 +5449,6 @@
 .92013.com
 .920yy.com
 .54m0v.922000.com
-.9235bet.com
 .924.cc
 .92540760ee.com
 .9282.cc
@@ -6222,7 +6117,6 @@
 .track.acqvoluum.com
 .acrasiatickles.com
 .acreageupwhirl.com
-.acreativityf.store
 .acredo.space
 .acreinterstatethe.com
 .acridtwist.com
@@ -6322,7 +6216,6 @@
 .ad42309dd4.com
 .ad4game.com
 .ad6media.fr
-.ad6syna6.com
 .ad756.com
 .ad7mylo.com
 .ad999.biz
@@ -6746,9 +6639,6 @@
 .adoptim.com
 .adoptionconcerned.com
 .adoptum.net
-.dglamn.adorabledatess.com
-.gradeb.adorabledatess.com
-.www.xbgdkw.adorabledatess.com
 .adorablekind.pro
 .adorablenet.com
 .adorableold.com
@@ -6968,7 +6858,6 @@
 .adsratcarp.com
 .adsreference.com
 .adsring.com
-.adsrv.me
 .adsrv.net
 .adsrv.wtf
 .adsrv4k.com
@@ -6997,7 +6886,6 @@
 .adsupplyssl.com
 .adsurve.com
 .adsvert.com
-.adsvids.com
 .adsvolum.com
 .adsvolume.com
 .adsvzkuzfcfbz.one
@@ -37194,7 +37082,6 @@
 .notoriousinfluence.com
 .notsy.io
 .notwinningbutpartici.com
-.noudoofees.net
 .nougacoush.com
 .nougatdimetry.com
 .noughtmiles.com
