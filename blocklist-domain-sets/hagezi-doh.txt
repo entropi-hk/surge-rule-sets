@@ -293,7 +293,6 @@
 .aridia.ru
 .dns.arkbotech.com
 .doh.armadillodns.net
-.dns.arnabhome.fun
 .nsec.arnor.org
 .dns.articrevised.cc
 .dns.artikel10.org
@@ -359,7 +358,6 @@
 .httpdns.baidu.com
 .httpsdns.baidu.com
 .httpdns.baidubce.com
-.dns.baishiyuan.cn
 .adguard.baltes.info
 .bancuh.com
 .barnabech.fr
@@ -466,7 +464,6 @@
 .home.bruckmoser.it
 .81.brudnowski.eu
 .81xyz.brudnowski.eu
-.sabine.bruno2000.link
 .adguard.bse4792.site
 .doh.bt.com
 .bubblex2.top
@@ -546,7 +543,6 @@
 .dns.chunghwamc.com
 .oraclejp2.chungyu.com
 .c.cicitt.ch
-.adguard.cinicollerico.top
 .doh.cippapp.com
 .canadianshield.cira.ca
 .crd.circl.lu
@@ -616,7 +612,6 @@
 .dns-one.lins.co.tt
 .dns-three.lins.co.tt
 .guard.lumusimc.co.uk
-.adguard.macrosolutionsltd.co.uk
 .adg.mnml.co.in
 .dns.neilzone.co.uk
 .dns.nerdytechgeeks.co.za
