@@ -867,7 +867,6 @@
 .f4ckdns.dl4mt.dev
 .dns.dlinders.nl
 .home.dlinkddns.com
-.d.dnns.fun
 .dns.expert
 .dns.google
 .dns.pub
@@ -1118,7 +1117,6 @@
 .doh.sb
 .doh.xyz
 .domain.name
-.adguard.domorome.wf
 .dnsfilter.domotik.us
 .doh.domreg.lt
 .takhtakh.domyah.net
@@ -1148,7 +1146,6 @@
 .yukito.duanzx.top
 .adgrm.duckdns.org
 .adguardcalpena.duckdns.org
-.adguardpi.duckdns.org
 .andryk111.duckdns.org
 .andrykarcew.duckdns.org
 .armm.duckdns.org
@@ -1250,7 +1247,6 @@
 .doh.eieidns.com
 .adguard.eischmann.cz
 .ejaysss.dev
-.adguard.elashri.xyz
 .dd.elashri.net
 .hole.elbschloss.xyz
 .dns.electrotm.org
@@ -1353,7 +1349,6 @@
 .dns.farshidhakimy.de
 .dns.farshmc.ru
 .adh.fastpacefixit.info
-.adguard.fatu.systems
 .adguardhome.favrep.ovh
 .ns0.fdn.fr
 .ns1.fdn.fr
@@ -1373,7 +1368,6 @@
 .dns.fifux.be
 .dns.filipccz.eu
 .fimoshinckaya-federation.site
-.vm3421302.firstbyte.club
 .adg.fiyaajans.com
 .dns.fizz.studio
 .resolve.fknw.de
@@ -1756,13 +1750,11 @@
 .apidns.kwd.inkuai.com
 .httpdns.kwd.inkuai.com
 .ad.innet.id
-.inoainoa.fun
 .inpssh.online
 .qlf-doh.inria.fr
 .premiumtier-network.instadart.net
 .intertop.link
 .dns.invent.hr
-.adb.intienquan.io.vn
 .ion.pm
 .dns.cloud.ionutl.ro
 .iozoi.cn
@@ -1776,7 +1768,6 @@
 .dns1.irumatech.com
 .dns.is0mino.com
 .mickedi.isgood.host
-.dns.ishan.pw
 .dns.islandnet.com
 .dns.it-pa.net
 .it-works4u.com
@@ -1809,7 +1800,6 @@
 .adguard.jaydub.cloud
 .aghome.jcconnell.com
 .argus1.jcconnell.com
-.dns.jcdn.site
 .jcdns.fun
 .dns.jd.com
 .doh.jeroenhd.nl
@@ -1869,7 +1859,6 @@
 .dns.jupitrdns.com
 .jp01.just-a-web.com
 .sgs02.just-a-web.com
-.sgs03.just-a-web.com
 .ad.justincounts.com
 .dns.justinnetworkingsolutions.com
 .adguard.k-likhachev.ru
