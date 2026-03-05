@@ -194,6 +194,7 @@
 .tracker.1h.is
 .1jour1film.online
 .1jour1film.website
+.1jour1film0226.site
 .1kif.com
 .1l1l.to
 .1load.sx
@@ -2074,8 +2075,28 @@
 .codelist.cc
 .watch.coen.ovh
 .coexist.biz
+.coflix.app
+.coflix.bet
+.coflix.blog
+.coflix.boo
 .coflix.bz
+.coflix.cc
+.coflix.city
+.coflix.fi
+.coflix.foo
+.coflix.moe
+.coflix.mov
+.coflix.nexus
+.coflix.ninja
+.coflix.observer
+.coflix.plus
+.coflix.pro
+.coflix.si
+.coflix.space
+.coflix.tel
 .coflix.tv
+.coflix.wiki
+.coflix.zip
 .coldplaybootlegs.com
 .colivioo.com
 .colombo-bt.org
@@ -2085,6 +2106,7 @@
 .btarg.com.ar
 .carnival.com.bd
 .cloudone.com.bd
+.coflix.com.cv
 .coolrom.com.au
 .crichd.com.co
 .crichd.com.ua
@@ -3963,6 +3985,7 @@
 .free-game-downloads.freewishes.com
 .freezlib.me
 .frembed.my
+.frembed.work
 .french-stream.ac
 .french-stream.al
 .french-stream.co
@@ -4269,6 +4292,11 @@
 .gofilmes.me
 .gofrag.ru
 .gog-games.to
+.gogo-flix.art
+.gogo-flix.cam
+.gogo-flix.fit
+.gogo-flix.ink
+.gogo-flix.online
 .gogo-stream.com
 .gogoanime.in
 .gogoanime.io
@@ -5734,20 +5762,17 @@
 .letmewatchthis.is
 .letmewatchthis.watch
 .letsroll911.org
-.letstream.site
 .letsupload.co
 .letsupload.io
 .letsupload.org
 .letsupload.to
 .levidia.ch
-.levidia.to
 .movies.levrx.de
 .movies.levrx.lol
 .lfsdg82hd.com
 .libble.com
 .liberty-land.net
 .libertyland.al
-.libertyland.one
 .libertyvf.com
 .libertyvf.net
 .libertyvf.org
@@ -5766,11 +5791,9 @@
 .lickmytaint.com
 .ipstresser.lidamorgenstein.net
 .lidarr.audio
-.lien-torrent.com
 .lifetimeboot.com
 .ligaxxi.xyz
 .ligg.org
-.lightbeam83.wiki
 .lightdl.xyz
 .lightmist83.live
 .tracker.lilithraws.org
@@ -5804,7 +5827,6 @@
 .linuxmafia.net
 .linuxtracker.org
 .tracker.linvk.com
-.linxdown.com
 .liteapks.com
 .liteapks.mobi
 .litemodapk.com
@@ -5819,7 +5841,6 @@
 .livehd7i.live
 .livekooora.online
 .livekoora.io
-.liveonscore.tv
 .livepirate.com
 .liveru.sx
 .liveschauen.com
@@ -5888,7 +5909,6 @@
 .qg.lorzl.gq
 .losmovies.app
 .losmovies.com
-.losmovies.fun
 .losmovies.live
 .losmovies.sh
 .losmovies.us
@@ -6007,7 +6027,6 @@
 .mangafire.to
 .mangakakalot.tv
 .mangakazani.com
-.mangamura.org
 .manganelo.tv
 .manganime.digital
 .mangaokusana.com
@@ -6016,7 +6035,6 @@
 .mangareader.tv
 .mangasee123.com
 .mangasukuna.top
-.manicomio-share.com
 .manikdicommunication.com
 .bubu.mapfactor.com
 .mapple.tv
@@ -6094,7 +6112,6 @@
 .mega.nz
 .mega-bits.com
 .mega-exclue.com
-.mega-films.net
 .mega-stream.to
 .mega-torrent.town
 .mega21.net
@@ -6107,7 +6124,6 @@
 .megafilmes.co
 .megaflix.tv
 .megagames.com
-.megahfilmeshd.net
 .megakino.bio
 .megakino.biz
 .megakino.cab
@@ -6131,7 +6147,6 @@
 .megakino.rip
 .megakino.si
 .megakino.style
-.megakino.team
 .megakino.tips
 .megakino.vin
 .megakino.ws
@@ -6156,11 +6171,9 @@
 .megashara.com
 .megashare.com
 .megashare.info
-.megasharesc.com
 .megastream.cam
 .super.megatemka.ru
 .megatorrents.org
-.megatorrentshd.net
 .megatorrentshd.org
 .megaup.live
 .megaupload.ma
@@ -6169,11 +6182,8 @@
 .megawrzuta.pl
 .megfilm.lv
 .meinecloud.click
-.mejortorrent.com
-.mejortorrent.tv
 .mejortorrent1.net
 .mejortorrents1.com
-.mejortorrents1.net
 .mejortorrentt.net
 .mejortorrentt.org
 .melen.net
@@ -6181,7 +6191,6 @@
 .melomovie.site
 .tracker.memelords.xyz
 .merlinwz.com
-.mes-ddl.com
 .mes-meilleurs-films.fr
 .mesadtalisamiri.space
 .mesfichiers.org
@@ -6197,7 +6206,6 @@
 .mexa.sh
 .mexashare.com
 .mfgg.net
-.mfilmeshd.com
 .mflix.to
 .tracker.mg64.net
 .mgtracker.org
@@ -6235,7 +6243,6 @@
 .miruro.com
 .miruro.tv
 .mistcloud98.xyz
-.mistflare33.wiki
 .mistwolf88.xyz
 .mitorrent.org
 .mixdrop.ag
@@ -6285,7 +6292,6 @@
 .tracker.mlsub.net
 .trackers.mlsub.net
 .mlwbd.life
-.mlwbd.pw
 .mma-core.com
 .mma-torrents.com
 .mma-tracker.net
@@ -6447,11 +6453,9 @@
 .movieninja.io
 .movieninja.to
 .movienoe.com
-.movienyt.net
 .movieorca.com
 .movieparadise.org
 .moviepoka.com
-.movierot.com
 .movierr.online
 .movierulzhd.gold
 .movies.cab
@@ -6539,7 +6543,6 @@
 .movietv9.top
 .movieuniverse.se
 .movieunlimited.net
-.movieuwutv.top
 .movievilla.cfd
 .movievilla.my
 .moviewatcher.eu
@@ -6700,14 +6703,12 @@
 .myflixer.today
 .myflixer.vc
 .myflixer.ws
-.myflixer.zone
 .myflixerhd.ru
 .myflixertv.to
 .myflixerz.to
 .myflixtor.tv
 .myfreeleech.com
 .myfreemp3.vip
-.myfreemp3cc.com
 .myfreemp3juices.cc
 .myfreemp3v.com
 .f4cineplex.myftp.org
@@ -6717,8 +6718,6 @@
 .mygully.com
 .myinsta.app
 .mykellerfuture.com
-.mykino.to
-.mymoviebazar.com
 .mymoviebazar.net
 .mynavi-expert.pl
 .myp2p.at
@@ -6742,7 +6741,6 @@
 .mytorento.ru
 .mytracker.ru
 .myunblock.com
-.myvi.tv
 .myvidplay.com
 .rfc5746.mywaifu.best
 .tracker.mywaifu.best
@@ -6776,7 +6774,6 @@
 .nbastream.nu
 .nbastream.tv
 .nbastreams.to
-.nbastreams.xyz
 .nboku.com
 .ncore.cc
 .ncore.hu
@@ -6817,10 +6814,8 @@
 .velocity.net.bd
 .net20.cc
 .net2025.cc
-.net3lix.com
 .net3lix.world
 .net51.cc
-.netathomebd.com
 .netcine.biz
 .netcine.tv
 .netcine.us
@@ -6845,7 +6840,6 @@
 .netmirror.app
 .netmirror.beer
 .netmirror.cyou
-.netmirror.eu
 .netmirror.gg
 .netmirror.homes
 .netmirror.my
@@ -6867,7 +6861,6 @@
 .neufneuf.space
 .neuvertonung.de
 .neverland.ws
-.dark-warez.new.fr
 .warezland.new.fr
 .new-dimensionz.com
 .new-futur.com
@@ -6894,7 +6887,6 @@
 .newshosting.com
 .newstudio.tv
 .newtorrents.info
-.newtvworld.com
 .newz-complex.org
 .newzbin.com
 .newzleech.com
@@ -7021,7 +7013,6 @@
 .novamovie.net
 .novanon.net
 .novaopcj.icu
-.novastream.top
 .noveflix.vip
 .novefx.biz
 .novelas360.com
@@ -7099,7 +7090,6 @@
 .nzb.cc
 .nzb.is
 .nzb.su
-.nzb.to
 .nzb-chat.com
 .nzbclub.com
 .nzbfinder.ws
@@ -7429,7 +7419,6 @@
 .picktorrent.com
 .picotorrent.org
 .tracker.picotorrent.one
-.pie321.tv
 .piecejointe.net
 .pig2pig.com
 .pijafka.pl
@@ -7645,7 +7634,6 @@
 .powershare-bg.com
 .powerstress.com
 .powerstresser.com
-.powertracker.org
 .forum.ppcwarez.org
 .t.ppnow.net
 .ppv.land
@@ -7890,7 +7878,6 @@
 .docker-tracker-production.up.railway.app
 .x7x.up.railway.app
 .rainbownetworkbd.com
-.raindust78.online
 .rainfallpath36.site
 .rainierland.to
 .rainorbit33.xyz
@@ -8388,7 +8375,6 @@
 .seriesflix.rest
 .seriesflix.sbs
 .seriesflix.skin
-.seriesflix.space
 .seriesflix.taxi
 .seriesflix.team
 .seriesflix.top
@@ -8445,7 +8431,9 @@
 .shadow.lv
 .shadowpanda3.live
 .tracker.shadowthein.net
+.shahhid4u.ink
 .shahidrazi.online
+.shahiid4u.beauty
 .shahiid4u.net
 .shaid4u.day
 .shanaproject.com
@@ -8817,7 +8805,6 @@
 .sportsurges.com
 .sportsurges.online
 .sportsurgev34.shop
-.sporttuna.online
 .sporttuna.pro
 .sporttuna.sx
 .sportyhunter.com
@@ -8890,7 +8877,6 @@
 .stoigr.org
 .stopstreamtv.net
 .storeplayapk.com
-.stormcurve61.site
 .stormfox27.live
 .stormshade84.live
 .stormwhirl73.site
@@ -8950,7 +8936,6 @@
 .streamees.com
 .streamerflix.xyz
 .streamflix.one
-.streamflix.space
 .streamfree.app
 .streamgoblin.com
 .streamhls.click
@@ -9017,10 +9002,8 @@
 .streamingcommunity.foo
 .streamingcommunity.football
 .streamingcommunity.free
-.streamingcommunity.fund
 .streamingcommunity.garden
 .streamingcommunity.help
-.streamingcommunity.hiphop
 .streamingcommunity.icu
 .streamingcommunity.info
 .streamingcommunity.io
@@ -9048,7 +9031,6 @@
 .streamingcommunity.promo
 .streamingcommunity.pw
 .streamingcommunity.qpon
-.streamingcommunity.red
 .streamingcommunity.repair
 .streamingcommunity.report
 .streamingcommunity.rest
@@ -9142,12 +9124,7 @@
 .streamiz-filmze.com
 .streamizfilm.fr
 .streamking.eu
-.streamkiste.club
-.streamkiste.fun
 .streamkiste.net
-.streamkiste.pro
-.streamkiste.pw
-.streamkiste.site
 .streamkiste.space
 .streamkiste.taxi
 .streamlairtv.com
@@ -9175,7 +9152,6 @@
 .streamwatchfree.com
 .streamway.org
 .streamwish.to
-.streamwoop.club
 .streamwoop.com
 .streamworld.co
 .streamworld.ws
@@ -9203,7 +9179,6 @@
 .strimsy.top
 .strmd.link
 .strmup.to
-.strumyk.icu
 .strumyk.net
 .strumyk.tv
 .stuckgamer.com
@@ -9221,15 +9196,12 @@
 .sumotorrent.sx
 .sumotracker.org
 .nagios.tks.sumy.ua
-.sun123.tv
 .sun4mile.asia
 .sunfogburst12.xyz
-.sunhaze44.site
 .sunnymovies.site
 .sunonlinebd.com
 .sunplex.net
 .sunset-dragons.com
-.sunsetline07.online
 .sunveil63.live
 .sunxdcc.com
 .super-warez.eu
@@ -9314,7 +9286,6 @@
 .tantifilm.blog
 .tantifilm.buzz
 .tantifilm.casa
-.tantifilm.center
 .tantifilm.claims
 .tantifilm.click
 .tantifilm.club
@@ -9431,10 +9402,8 @@
 .tfpdl.se
 .tfpdl.to
 .tfreeca22.com
-.tgx.rs
 .thagoat.rocks
 .the-eye.eu
-.the-piratebay.com
 .the-piratebay.org
 .the-pop-corn-time.net
 .the-potato.net
@@ -9464,7 +9433,6 @@
 .thegeeks.bz
 .thegeeks.click
 .thegft.org
-.openstream.thegrass.xyz
 .torrent.thegreatbeyond.net
 .stream.thehairy.me
 .thehawks.org
@@ -9489,7 +9457,6 @@
 .themicrotech.net
 .themirror.wiki
 .themixingbowl.org
-.themovie123.com
 .themovie123.org
 .themoviebay.net
 .themoviehub.org
@@ -9607,7 +9574,6 @@
 .thjpg9.top
 .thm3u8.com
 .thotbay.tv
-.thotfans.tv
 .thots.tv
 .thotshub.tv
 .thotvids.tv
@@ -11311,6 +11277,8 @@
 .yabancidizi.now
 .yabse.com
 .yalla-shoot.fun
+.yalla-shoot-mobasher.com
+.yallashoothub.com
 .yamgo.com
 .yams.tf
 .yaplukon.org
@@ -11371,6 +11339,7 @@
 .yeyemo.info
 .yflix.to
 .ygg.re
+.yggleak.top
 .yggtorrent.com
 .yggtorrent.fi
 .yggtorrent.is
