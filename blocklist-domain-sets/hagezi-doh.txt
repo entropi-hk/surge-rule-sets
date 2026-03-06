@@ -3239,7 +3239,6 @@
 .dns.volsap.ovh
 .vpn0109.voodonline.fr
 .vorlif.org
-.dns.vortexstore.cloud
 .vpn.vosjes.cloud
 .adguard.vozersky.com
 .killads.vpms.xyz
