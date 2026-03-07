@@ -1,4 +1,3 @@
-.mon-ru.tiktokv.com.blinkt.de
 .frontier.byteoversea.com
 .gplog-sg.byteoversea.com
 .gplog-va.byteoversea.com
@@ -71,6 +70,8 @@
 .tnc-va-us-looki.capcutapi.com
 .tnc16-normal-us-ttp.capcutapi.us
 .frontier.capcutw.us
+.mon-i18n.tiktokv.com.dvaitas.lt
+.mcs-ie2.tiktokw.eu.dvaitas.lt
 .mon-boot.tiktokv.com.edgekey.net
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 .frontier.capcutw.us.edgesuite.net
@@ -146,8 +147,6 @@
 .mcs.us.tiktok.com
 .mcs-ttp2.us.tiktok.com
 .mssdk.us.tiktok.com
-.p16-ad-site-sign-sg.tiktokcdn.com
-.p19-ad-site-sign-sg.tiktokcdn.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .ad.tiktokv.com
 .ad.tiktokv.us

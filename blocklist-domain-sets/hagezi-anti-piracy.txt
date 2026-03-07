@@ -2689,6 +2689,7 @@
 .dlhd.link
 .dlpsgame.com
 .dlstream.com
+.dlstreams.top
 .dlxbgame.com
 .tracker.dm258.cn
 .tracker.dmcomic.org
@@ -9089,6 +9090,7 @@
 .streamingcommunityz.download
 .streamingcommunityz.email
 .streamingcommunityz.fun
+.streamingcommunityz.gdn
 .streamingcommunityz.gold
 .streamingcommunityz.golf
 .streamingcommunityz.guru
