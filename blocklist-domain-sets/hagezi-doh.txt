@@ -384,6 +384,7 @@
 .dns.bgeneto.com
 .dns.bibica.net
 .dns.bibitos.cc
+.mydns.bielperes.me
 .httpdns.bilivideo.com
 .goga7777777.bissnes.org
 .ns3.bit-trail.nl
@@ -472,6 +473,7 @@
 .stratus.bugz.fr
 .dns.burgas.pro
 .dns.busold.ws
+.dns.butterfly87.sbs
 .adc.bxq.net
 .sig.bxq.net
 .c-dns.com

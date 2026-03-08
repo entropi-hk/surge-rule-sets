@@ -105,6 +105,7 @@
 .httpdns.c.163.com
 .httpdns.music.163.com
 .23.106.141.137.16clouds.com
+.16yd.com
 .jxzn.172896.xyz
 .vski.172896.xyz
 .1735r.ru
@@ -463,6 +464,7 @@
 .aaronzweb.xyz
 .dns.aaytorr.com
 .ababi-nimma.cf
+.abcproxy.com
 .adguard.abd.ong
 .dns.abdullahabas.de
 .dns.abdullahabas.online
@@ -1042,6 +1044,7 @@
 .amzsvc.com
 .an-online.shop
 .an81dns.ru
+.rockfordarmy.anallyforced.com
 .ananoos.com
 .oradns.anbitech.com
 .anchorfree.net
@@ -1120,6 +1123,7 @@
 .anylandclash.com
 .anylandjc.com
 .ad.anym0re.ru
+.vocab.real.anynall.com
 .dp.anywaysoft.com
 .anzcjujms4ufj.online
 .aox666.com
@@ -1152,6 +1156,7 @@
 .apache-iv.com
 .doh.apad.pro
 .fern.ape3d.com
+.owens-engineering-info.aperture.cl
 .adguard01.apexhost.net
 .api-gogles.com
 .api-tel.xyz
@@ -1166,6 +1171,7 @@
 .nana.rammer.apirent.cl
 .apk-kuailian.com
 .aplusvpn.com
+.southpo.lo.aar.apolinarski.pl
 .ag.apollohct.com
 .apolloskeep.com
 .mustafaiguess.app.tc
@@ -1202,6 +1208,7 @@
 .arbys-tacobelljobs.com
 .arcai.com
 .studyhardlyhardlystudy.archanarchy.cc
+.proof.major.archanet.org
 .archivebase.info
 .mind.essay.archtech.gr
 .doh.archuser.org
@@ -1592,9 +1599,13 @@
 .peninsulaeducation.baselinux.net
 .studyeasy.baselinux.net
 .basildo.beer
+.aqua.bastaff.ru
 .0.4.gpa-educational-science-luke.bastaff.ru
+.hackedsites.bastaff.ru
 .powerschoolportal.bastaff.ru
+.schooliscool.bastaff.ru
 .smack.bastaff.ru
+.we-hate-school.bastaff.ru
 .home.basthorst.eu
 .batch.today
 .batvpn.com
@@ -1825,6 +1836,7 @@
 .bestveee.com
 .bestvideoproxy.com
 .bestvpn.org
+.bestvpnonline.online
 .bestvpnprovider.info
 .bestvpnrating.com
 .bestvpnserver.com
@@ -1861,6 +1873,7 @@
 .bhkdk.cn
 .dns.bibica.net
 .dns.bibitos.cc
+.mydns.bielperes.me
 .bienna.ru
 .bifenggangjsq.com
 .bifenggangssr.com
@@ -2025,6 +2038,7 @@
 .d.bod.lol
 .boda-vip.net
 .boda12306.com
+.bodvpn.com
 .dns.bofh.in
 .bog-bot.cfd
 .bogbot.shop
@@ -2199,6 +2213,7 @@
 .brooklyndancefestival.org
 .classroom.broomleigh.org
 .goguardian.broomleigh.org
+.schoolwork.broomleigh.org
 .bropay.org
 .brovpn.io
 .browpay.biz
@@ -2256,6 +2271,7 @@
 .businessschool.cc
 .dns.busold.ws
 .butterfing.org
+.dns.butterfly87.sbs
 .buy-express-vpn.asia
 .buyastrill.com
 .buyearthweb.net
@@ -2579,6 +2595,7 @@
 .chairkey82.com
 .chairphone92.com
 .dns.chalkychalk.com
+.core.goal.challengepursuit.com
 .chamvpn.com
 .rdns2.chancetheitguy.com
 .chandr1000.net
@@ -2615,6 +2632,7 @@
 .cheesestorecedarhurst.com
 .qh.cheftayebeh.ir
 .dns.chenu.ch
+.cherryclash.com
 .cherryjc.com
 .chester.run
 .adguard.chestnov.ru
@@ -9502,7 +9520,6 @@
 .mistasinresolver.ru
 .mitceclash.com
 .mitcejc.com
-.mitmproxy.org
 .httpdns.browser.miui.com
 .mixing.run
 .mixturestab.com
@@ -10973,7 +10990,6 @@
 .quasar.ub.phuri.cc
 .utopia.ub.phuri.cc
 .physicsbutfun.com
-.piaproxy.com
 .piaproxy.net
 .piaservers.net
 .hr.picinel.ro
