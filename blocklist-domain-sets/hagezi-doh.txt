@@ -1238,6 +1238,7 @@
 .dns.edgy.network
 .edgy-dns.com
 .doh.edifiels.ru
+.dns.edison42.dev
 .agh.amber.edu.vn
 .adblocker.institutobancario.edu.mx
 .dns.tuna.tsinghua.edu.cn
@@ -1329,6 +1330,7 @@
 .eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 .dns.f4a.fun
 .jp1.f7b6h9.tk
+.dns.f97.xyz
 .dns.fabidouille.com
 .pdns.faelix.net
 .rdns.faelix.net
@@ -1570,6 +1572,7 @@
 .dns.hannielzhang.com
 .jp.hannielzhang.com
 .d.hansj.cc
+.dns.haoxuan.xyz
 .resolver.haringstad.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
