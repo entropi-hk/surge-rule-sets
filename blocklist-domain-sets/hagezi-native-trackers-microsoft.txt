@@ -169,7 +169,6 @@
 .msadsscale.microsoft.com
 .oca.microsoft.com
 .watson.officeint.microsoft.com
-.rad.microsoft.com
 .telem-edge.smartscreen.microsoft.com
 .i1.services.social.microsoft.com
 .spynet2.microsoft.com
@@ -317,7 +316,6 @@
 .office-events-data.trafficmanager.net
 .oms-analytics.trafficmanager.net
 .pixel-sync.trafficmanager.net
-.sconsentit9.trafficmanager.net
 .self-events-data.trafficmanager.net
 .ssp-prod-eastus-nonmutt.trafficmanager.net
 .stats-partner.trafficmanager.net

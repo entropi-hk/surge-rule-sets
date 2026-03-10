@@ -857,6 +857,7 @@
 .kozow.com
 .ksk-saratov.ru
 .kyrgyzstan.kg
+.l5.ca
 .labradapr.com
 .laketahoesue.com
 .lan64.de
@@ -879,6 +880,7 @@
 .lflinkup.org
 .likes-pie.com
 .likescandy.com
+.line.pm
 .linkin.tw
 .linkpc.net
 .linux-site.net
@@ -1135,6 +1137,7 @@
 .port25.biz
 .portfwd.com
 .portmap.host
+.possessed.us
 .prettyweak.com
 .priamaakcia.sk
 .pride.moe
