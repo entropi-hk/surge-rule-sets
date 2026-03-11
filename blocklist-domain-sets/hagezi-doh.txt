@@ -2833,6 +2833,7 @@
 .dns.sarilouis.com
 .dns.sark.dev
 .sascha-rabold.de
+.dns.homenet.saschagaspar.net
 .vpn.satadru.dev
 .dns.sbstructure.ir
 .ns1.sc-lezhi.com
@@ -3378,6 +3379,7 @@
 .dns.xydustc.me
 .v1.xylto.com
 .dns.y2f.xyz
+.dns.yameenassotally.com
 .2.dnscrypt-cert.browser.yandex.net
 .dns.yandex.ru
 .common.dot.dns.yandex.net
