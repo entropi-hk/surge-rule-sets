@@ -6147,6 +6147,7 @@
 .lordfilmhd.lol
 .lordfilmkxe.icu
 .lordfilmkxr.lat
+.lordfilmuwq.ink
 .qg.lorzl.gq
 .losmovies.app
 .losmovies.com
@@ -6768,6 +6769,12 @@
 .moviesjoy.plus
 .moviesjoy.to
 .moviesjoytv.to
+.moviesleech.app
+.moviesleech.eu
+.moviesleech.link
+.moviesleech.net
+.moviesleech.org
+.moviesleech.zip
 .moviesm4u.net
 .moviesmania.info
 .moviesmobile.net
@@ -9306,6 +9313,7 @@
 .streaming-community.trade
 .streaming-french.com
 .streaming-series.org
+.streamingaddons.xyz
 .streamingcommunity.actor
 .streamingcommunity.ag
 .streamingcommunity.airforce
@@ -10797,6 +10805,12 @@
 .uniteam.co
 .united-ddl.com
 .unitedmods.net
+.unitvnet.app
+.unitvnet.cloud
+.unitvnet.com
+.unitvnet.net
+.unitvnet.pro
+.unitvnet.top
 .universalmediaserver.com
 .univisionbd.net
 .unknownbooter.co
