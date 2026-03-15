@@ -1,5 +1,6 @@
 .tracker.guguan.000.pe
 .003396815.xyz
+.004430.xyz
 .0123456789nonexistent.com
 .0123movie.net
 .0123movie.onl
@@ -82,7 +83,6 @@
 .123fox.net
 .123freemovies.net
 .123freemovies.show
-.123hbo.com
 .123hulu.com
 .123movie.blog
 .123movie.cc
@@ -94,7 +94,6 @@
 .123moviefree4u.com
 .123moviehub.co
 .123movies.ag
-.123movies.archi
 .123movies.bio
 .123movies.coach
 .123movies.com
@@ -276,7 +275,6 @@
 .33seriestreaming.site
 .33voirseries.com
 .pcd.345.pl
-.345movie.net
 .h5.365streams.world
 .365watchtv.com
 .36dm.com
@@ -294,7 +292,6 @@
 .42ke45r7.com
 .441001.xyz
 .456movie.com
-.456movie.net
 .480mkv.com
 .4anime.to
 .4files.net
@@ -8050,6 +8047,7 @@
 .pseudo-flix.pro
 .psperspective.net
 .pspstrana.ru
+.pstream.net
 .pstream.org
 .psvitaiso.com
 .psvitavpk.com
