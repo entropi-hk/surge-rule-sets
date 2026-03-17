@@ -901,7 +901,6 @@
 .dns8.org
 .dnsbunker.org
 .ns1.recursive.dnsbycomodo.com
-.ns2.recursive.dnsbycomodo.com
 .2.dnscrypt-cert.shield-2.dnsbycomodo.com
 .dnscity.org
 .abe01.dnscry.pt
@@ -1130,7 +1129,6 @@
 .douglaster.com
 .dotserver.douyucdn.cn
 .dns35.allone.dpdns.org
-.dns.ikun6.dpdns.org
 .adguard.llf520.dpdns.org
 .de-adguard.dr3ff1c13nt.com
 .dns.dr3ff1c13nt.com
@@ -1474,7 +1472,6 @@
 .adg.geili.me
 .genscorp.es
 .dns.geohide.ru
-.gersoctruda.ru
 .geshido.vpn.geshido.ru
 .roma.vpn.geshido.ru
 .getdnsapi.net
@@ -1746,7 +1743,6 @@
 .adguard.ihatemy.live
 .dns.ihaveacloud.com
 .iij.jp
-.ikarosalpha.xyz
 .dns.ikataruto.com
 .mnsvless.ikwb.com
 .ilinhy.com
@@ -1924,14 +1920,12 @@
 .kekv.fun
 .doh.kel.pe
 .kellerbier-home.com
-.dns.kellys.pw
 .dns.kempkens.org
 .kennethhuang.com
 .dns.kerekes.xyz
 .dns.kernel-error.de
 .dns.kescher.at
 .kudns.kescher.at
-.dns.keskinnetwork.com
 .dns.keskonet.com
 .pihole.aws.ketan.dev
 .dns.keviland.com
@@ -2094,7 +2088,6 @@
 .dns.lupine.solutions
 .home.luther.io
 .d.luwei.date
-.ornext.luxury-web.kz
 .dns.lvl-network.de
 .orau.lz0724.com
 .orjp4.lz0724.com
@@ -2193,7 +2186,6 @@
 .aitkcrev.minhduc.pw
 .minilla.store
 .guard.miracloud.fr
-.miskoss.fun
 .netcup.mismat.ch
 .mistasinresolver.ru
 .httpdns.browser.miui.com
@@ -2472,7 +2464,7 @@
 .dns.nullgate.net
 .dns.nullrecon.com
 .dns.numerus.com
-.ns.nwps.fi
+.nwps.fi
 .dns.nxsyspro.com
 .qdns02.nymterm.com
 .5g.o0o.re
@@ -3204,6 +3196,8 @@
 .dns.txq.life
 .typaza.com
 .ad.tzockt.beer
+.dot.ublockdns.com
+.my.ublockdns.com
 .v1.ufamax.eu
 .vless-service.ufodns.com
 .blokuj.ujwie.co
