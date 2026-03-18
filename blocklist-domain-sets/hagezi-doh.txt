@@ -2476,7 +2476,6 @@
 .dns.odinpl.com
 .adguard.odysseusnetwork.com
 .dns.ofdoom.net
-.nl.ogne.top
 .adguard.ohmhv57.org
 .okado.online
 .adh.olesgroup.com
@@ -2542,7 +2541,6 @@
 .dns.ourvau.lt
 .addns.ovalie.ovh
 .vps-1f675aa1.vps.ovh.us
-.dns.ozamagenova.ru
 .1a.ns.ozer.im
 .1b.ns.ozer.im
 .doh.p2cdn.cn
@@ -2563,7 +2561,6 @@
 .wg.pastorov.ru
 .nas.patrick-antoine.fr
 .dns.paxavemedia.com
-.loan.paymdm.xyz
 .vps-ovh.pb2004.pl
 .dns.pccoach.nl
 .pcgo.fun
@@ -2984,7 +2981,6 @@
 .resolve2.srv-pro.de
 .adguard.sscw.win
 .ssh-storage.ru
-.dns.sshub.win
 .doh.ntu.ssooss.win
 .ag.ssrahul96.xyz
 .dns.sstomp.nl
