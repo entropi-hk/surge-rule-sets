@@ -3384,7 +3384,6 @@
 .xn--80aeak3akfgk.xn--p1acf
 .xn--80aecoigf4aatn.xn--p1ai
 .xn--durhre-yxa.de
-.xomadns.com
 .xorbiadns.com
 .doh.xorlet.ru
 .adgh.xrossj.top
@@ -3413,7 +3412,6 @@
 .ychen.cf
 .ychen.gq
 .biba.ydns.eu
-.vdska-pl.ydns.eu
 .sg.yepdns.com
 .yeralin.net
 .adguard.ygd.lol
