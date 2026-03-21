@@ -81,7 +81,6 @@
 .seeks.hsbp.org
 .search.internetsucks.net
 .search.ipsys.bf
-.searx.joshcenters.com
 .search.jpope.org
 .search.kokomo.cloud
 .trovu.komun.org
@@ -163,7 +162,6 @@
 .searx.org
 .searx.party
 .searx.ru
-.searx.run
 .searx.si
 .searx.space
 .searx.stream

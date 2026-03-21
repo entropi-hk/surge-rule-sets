@@ -7063,6 +7063,7 @@
 .www.tracker.nano-net.ro
 .nantong101.ru
 .tracker.nanyangpt.com
+.nartlof.com
 .natorrent.com
 .natsumi.fun
 .nattawat.org
@@ -8363,6 +8364,7 @@
 .torrent.resonatingmedia.com
 .respawn.ca
 .cdn.retget.ru
+.pybittrack.retiolus.net
 .retrogamechampion.com
 .retrogametalk.com
 .retrostic.com
