@@ -1247,6 +1247,7 @@
 .bdlan.net
 .bdlivezone.com
 .bdmovies.net
+.bdremux.club
 .bdspeed.com
 .bdtv.live
 .bdupload.asia
