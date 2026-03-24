@@ -87,7 +87,6 @@
 .authorizeddns.us
 .autoipset.com
 .avandns.com
-.awiki.org
 .ax.lt
 .b0tnet.com
 .b33r.us
@@ -648,7 +647,6 @@
 .hiddencorner.org
 .hijaxdesigns.com
 .hin.tw
-.hiprinter.com
 .his.name
 .hitremixes.com
 .hldns.ru
@@ -1103,7 +1101,6 @@
 .organiccrap.com
 .orskkino.ru
 .otzo.com
-.oumage.com
 .ourhobby.com
 .ownip.net
 .packeting.eu
@@ -1321,7 +1318,6 @@
 .synology-ds.de
 .synoserver.com
 .sysadminetworks.com
-.system-ns.com
 .systes.net
 .sytes.net
 .tallison.com

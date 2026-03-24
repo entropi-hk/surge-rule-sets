@@ -188,6 +188,7 @@
 .family.adguarddns.com
 .unfiltered.adguarddns.com
 .admir21.ru
+.dns.adnull.com
 .dns.adrianlam.com
 .adguard.adrianofrongillo.ovh
 .y3suyx0cg2lewi2dmn.advaitghaisas.in
@@ -1202,7 +1203,6 @@
 .tungdnsne.duckdns.org
 .unixfox.duckdns.org
 .wired-guardian.duckdns.org
-.wisehomeguard.duckdns.org
 .workcavestl.duckdns.org
 .x-o-x.duckdns.org
 .x861g.duckdns.org
@@ -1503,7 +1503,6 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
-.dns.glorydns.com
 .dns.glsoft.ai
 .dns.gnb09.id
 .moph.go.th
@@ -1774,7 +1773,6 @@
 .apidns.kwd.inkuai.com
 .httpdns.kwd.inkuai.com
 .ad.innet.id
-.inoainoa.fun
 .inpssh.online
 .qlf-doh.inria.fr
 .premiumtier-network.instadart.net
@@ -2020,7 +2018,6 @@
 .br.servers.legat.ml
 .externalmobiel.lekdijk.online
 .sndkcuf.lekun.me
-.lelux.fi
 .dns.lepilleur.com
 .dns.lermer.nl
 .lesuo.top
