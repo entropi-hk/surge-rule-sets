@@ -899,6 +899,10 @@
 .dns4eu.online
 .dns4me.net
 .adguard-koe.dns64.de
+.srv01.dns64.de
+.srv02.dns64.de
+.srv03.dns64.de
+.srv04.dns64.de
 .dns8.org
 .dnsbunker.org
 .ns1.recursive.dnsbycomodo.com
