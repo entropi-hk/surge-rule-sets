@@ -67,6 +67,12 @@
 .1080-kino.com
 .10drives.com
 .10hitmovies.click
+.10hitmovies.club
+.10hitmovies.com
+.10hitmovies.help
+.10hitmovies.lat
+.10hitmovies.lol
+.10hitmovies.one
 .10kol.tv
 .10mbit.com
 .111movies.net
@@ -4393,6 +4399,7 @@
 .m.gcao.net
 .tracker.gcrenwp.top
 .tracker.gcvchp.com
+.gd8lebaran.com
 .gdekino.me
 .tracker.gdp.pw
 .gdplayer.to
@@ -10248,6 +10255,7 @@
 .torproxy.org
 .torr9.com
 .torr9.xyz
+.tracker.torr9.net
 .torrage.info
 .torrends.to
 .torrent.ai
