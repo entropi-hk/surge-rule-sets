@@ -657,6 +657,7 @@
 .aquarienbedarf.com
 .aquarisonlineshop.de
 .aquariumopt.com
+.aquascapers-galerie.com
 .aquasportkleidung.com
 .aquavibespro.com
 .aquinoexpress.com
@@ -2987,6 +2988,8 @@
 .shop.degussa-goldhandel.de
 .degussa-goldhandel-de.to
 .degussa-onlineshop.de
+.degussa-page.de
+.degussaonline.de
 .dehaag-tech.de
 .deharaldsoldieava.shop
 .dehaushaltszentrum.com
@@ -3191,6 +3194,7 @@
 .dietdiney.com
 .dietreviews4you.com
 .dietrich-garten.de
+.diezeitmitmedien.com
 .difcinvestment.world
 .diferencialautopecas.com
 .diffusoriacusticisorgenti.com
@@ -5760,6 +5764,7 @@
 .heizoel-tankstelle.de
 .heizoel-versand.net
 .heizoel-versorgt.de
+.heizoel24-aktuell.com
 .heizoel24-preise.com
 .heizoel24h.de
 .heizoelblitz.com
@@ -6050,6 +6055,7 @@
 .holzsofort.de
 .holzstreif.de
 .holzti.com
+.holzundwerkzeug-bestequalitat.de
 .holzvomland.de
 .holzweihnachtswelt.com
 .holzwerkzeugekaufen.com
@@ -8731,6 +8737,7 @@
 .musikhaus-neumann.de
 .musikinstrumente-profi.com
 .musiknotenmarkt.com
+.musikprofi.com
 .musikstrings.com
 .musikwelt-lindner.de
 .musiqueonline.com
@@ -9807,6 +9814,7 @@
 .panamajackonline.sk
 .panamajackwien.at
 .panbrennholz.de
+.panda-financial.com
 .pandabrokersvip.com
 .pandaliebedeeu.shop
 .pandora-at.at
@@ -11649,6 +11657,7 @@
 .solancie.com
 .solandis.com
 .solanex.de
+.solanik.de
 .solanix.de
 .solanzo.de
 .solar-energie24.com
@@ -13429,7 +13438,6 @@
 .vitalismoemi.com
 .vivagopro.com
 .vivaiabuty.pl
-.vivaiacollection.com
 .vivaiaschuhe.at
 .vivaiaschuhe.com
 .vivaiaschuhe.de
