@@ -874,6 +874,7 @@
 .animes.so
 .torrents.animes-bg.com
 .animesalt.ac
+.animesama.fan
 .animeshow.tv
 .animesim.com
 .animesimple.com
@@ -1865,6 +1866,7 @@
 .cb01.ws
 .cb01.xyz
 .cb01.yachts
+.cb0101.pics
 .cb01new.center
 .cb01new.help
 .cb01official.community
@@ -2887,6 +2889,7 @@
 .dontorrent.org
 .dontorrent.phd
 .dontorrent.photos
+.dontorrent.pink
 .dontorrent.promo
 .dontorrents.com
 .dontorrents.org
@@ -3291,6 +3294,7 @@
 .enxf.net
 .eogli.org
 .eolbd.com
+.eonmovies.biz
 .eonmovies.fit
 .eonmovies.fun
 .eonmovies.live
@@ -5945,6 +5949,7 @@
 .kooralivs.com
 .kopedafotor75.shop
 .kora4live.net
+.koraonline-yallashoot.com
 .home.kray.pw
 .kraytracker.com
 .ktorrents.com
@@ -6886,6 +6891,7 @@
 .moviesnation.courses
 .moviesnipipay.me
 .moviespur.info
+.moviesque.me
 .moviestape.net
 .moviestars.to
 .moviestowatch.cc
