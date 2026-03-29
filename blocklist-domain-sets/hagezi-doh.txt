@@ -1405,6 +1405,7 @@
 .st.flyzhouyc.win
 .yin.flyzhouyc.win
 .gateway.fomichev.cloud
+.dns.foximao.cn
 .de-f1.foxyfy.net
 .dns.foxyfy.net
 .es-ma.foxyfy.net
@@ -2090,6 +2091,7 @@
 .home.luther.io
 .d.luwei.date
 .dns.lvl-network.de
+.dns.lvolland.fr
 .orau.lz0724.com
 .orjp4.lz0724.com
 .addns1.m-it.ro

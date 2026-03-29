@@ -1,3 +1,4 @@
+.p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 .frontier23-normal-alisg.tiktokv.com.bpgslb.com
 .frontier.byteoversea.com
 .gplog-sg.byteoversea.com
@@ -96,6 +97,7 @@
 .mssdk-boot.tiktokv.com.edgekey.net
 .mcs.us.tiktok.com.edgesuite.net
 .mcs-ttp2.us.tiktok.com.edgesuite.net
+.p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 .sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 .mcs.us.tiktokv.com.edgesuite.net
@@ -189,6 +191,7 @@
 .mcs-ttp2.us.tiktok.com
 .mssdk.us.tiktok.com
 .mcs.tiktok-row.net
+.p16-tiktok-ads-sg.tiktokcdn.com
 .sf16-ads-format-sign.tiktokcdn.com
 .sf19-ads-format-sign.tiktokcdn.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
@@ -282,6 +285,7 @@
 .log32-normal-no1a.tiktokv.eu
 .log32-normal-useast1a.tiktokv.com
 .log32-normal-useast2a.tiktokv.com
+.log32-normal-useastred.tiktokv.eu
 .log32-normal-zr.tiktokv.com
 .log53-normal-c-useast1a.tiktokv.com
 .log58-normal.tiktokv.com

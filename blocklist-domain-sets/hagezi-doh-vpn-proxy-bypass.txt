@@ -6328,6 +6328,7 @@
 .small-kids.foxgateway.com
 .stop-it-now-stop-it-now.foxgateway.com
 .we-need-more.foxgateway.com
+.dns.foximao.cn
 .de-f1.foxyfy.net
 .dns.foxyfy.net
 .es-ma.foxyfy.net
@@ -9450,6 +9451,7 @@
 .luzubu.com
 .lvejbaqzj4v1xupusybd.online
 .dns.lvl-network.de
+.dns.lvolland.fr
 .ly-1.net
 .lyfesinks.com
 .lynxvpn.com
