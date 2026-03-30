@@ -2241,7 +2241,6 @@
 .coflix.zip
 .coflix2.com
 .coflix2.net
-.coflixfr.com
 .coflixhd.com
 .coflixtv.fit
 .coflixtv.lol
@@ -6911,7 +6910,6 @@
 .moviesmod.bid
 .moviesmod.bio
 .moviesmod.blue
-.moviesmod.bot
 .moviesmod.build
 .moviesmod.cafe
 .moviesmod.cards
@@ -6922,11 +6920,8 @@
 .moviesmod.day
 .moviesmod.dev
 .moviesmod.forum
-.moviesmod.fun
 .moviesmod.fyi
 .moviesmod.gift
-.moviesmod.how
-.moviesmod.kids
 .moviesmod.kim
 .moviesmod.mom
 .moviesmod.nl
@@ -6935,7 +6930,6 @@
 .moviesmod.plus
 .moviesmod.red
 .moviesmod.rip
-.moviesmod.sbs
 .moviesmod.singles
 .moviesmod.space
 .moviesmod.store
@@ -6946,9 +6940,7 @@
 .moviesmod.vip
 .moviesmod.wtf
 .moviesmod1.com
-.moviesmod3.autos
 .moviesmod3.shop
-.moviesmod3.xyz
 .moviesmod4u.com
 .moviesmode.org
 .moviesmode.town
