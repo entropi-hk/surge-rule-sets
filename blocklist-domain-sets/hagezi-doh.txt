@@ -195,6 +195,7 @@
 .tetra.aeins.at
 .dns2.afastserver.com
 .affcdn.net
+.affsoft.cc
 .shield.afixer.app
 .aghdns.com
 .ahadns.net
