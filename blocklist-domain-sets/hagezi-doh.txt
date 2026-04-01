@@ -724,7 +724,7 @@
 .cubedns.com
 .iux3-s.cuiy4trg8fmosya2iip3ci.name
 .qual.cuprum.ru
-.curser.dev
+.dns.curser.dev
 .dns.cwlys.com
 .gc.cyberbeta.cn
 .nanopi.cybergroove.net
@@ -1495,7 +1495,6 @@
 .dns.giriprabhat.com
 .doh.ptqy.gitv.tv
 .h.gjrick.tw
-.sdns22.gkonuralp.com
 .gl33tch.pro
 .glacius.top
 .dns.glampool.cloud
@@ -2133,7 +2132,6 @@
 .mastergad.me
 .masters-of-cloud.de
 .dns.mateo.ovh
-.dns.mathewakhil.online
 .rasp.matthias-iwer.de
 .dns.matthias-prost.com
 .maxfong.cc
@@ -2288,7 +2286,6 @@
 .newlibrarian.myqnapcloud.com
 .myrusvpn.de
 .mysolod.xyz
-.dns.mytest.cc
 .myv2ray.cn
 .area51.mywire.org
 .dnsmm.mywire.org
@@ -2545,6 +2542,7 @@
 .dns.ourvau.lt
 .addns.ovalie.ovh
 .vps-1f675aa1.vps.ovh.us
+.dns.ovpn.bond
 .1a.ns.ozer.im
 .1b.ns.ozer.im
 .doh.p2cdn.cn
@@ -2867,7 +2865,6 @@
 .dns.schmidt-zoarn.de
 .moise-et-maurice-gardent-la-maison.schneiderus.org
 .dns1.schooldns.nl
-.dns.scott.ovh
 .dns.scott-smith.us
 .scottdylewski.com
 .dns.sct-pro.com

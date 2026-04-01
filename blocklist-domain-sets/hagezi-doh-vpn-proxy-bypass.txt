@@ -989,6 +989,7 @@
 .sd3n0344di.execute-api.eu-west-3.amazonaws.com
 .zlhp6jksk5.execute-api.eu-west-3.amazonaws.com
 .apps-ivacy.s3.amazonaws.com
+.brd-sdk-app-packages.s3.amazonaws.com
 .elite-s3-bucket.s3.amazonaws.com
 .fastestvpn.s3.amazonaws.com
 .privateinternetaccess-storage.s3.amazonaws.com
@@ -4299,7 +4300,7 @@
 .qual.cuprum.ru
 .curd.io
 .shadow.curesoutpost.com
-.curser.dev
+.dns.curser.dev
 .customudp.site
 .cv-unfiltered.xyz
 .cv2.at
@@ -6776,7 +6777,6 @@
 .gizlen.net
 .gizlibaglanti.com
 .h.gjrick.tw
-.sdns22.gkonuralp.com
 .gl33tch.pro
 .glacius.top
 .glados.best
@@ -9009,6 +9009,7 @@
 .kydiypro.xyz
 .agh.kyusang.win
 .dns.kzrz.pl
+.l-cdn.com
 .l-gayte.net
 .dns.l337.site
 .l4bor.com
@@ -9565,7 +9566,6 @@
 .mathcraftinghub.com
 .matheen.online
 .mathematicsedu.xyz
-.dns.mathewakhil.online
 .vm.mathfilm.dk
 .aisd.mathforkids.buzz
 .cfisd.mathforkids.buzz
@@ -9719,6 +9719,7 @@
 .ss.microbaidu.com
 .microvpn.com
 .proxysmart.microyiappstudio.com
+.www-proxy.midoghanam.site
 .dns.midping.ir
 .math.midtech.cl
 .best-dev24.mielone.org
@@ -10084,7 +10085,6 @@
 .mysteriumdark.com
 .mysteriumvpn.com
 .mystnodes.com
-.dns.mytest.cc
 .mytunneling.com
 .myturtle.net
 .myv2ray.cn
@@ -11002,6 +11002,7 @@
 .vps-d38e82a1.vps.ovh.us
 .ovpn.com
 .ovpn.to
+.dns.ovpn.bond
 .ovpnspider.com
 .owlhouduan.com
 .owlvpn.net
@@ -11665,6 +11666,7 @@
 .proxy-search.com
 .proxy-seller.com
 .proxy-site.net
+.proxy-sosavpn.ru
 .proxy-store.com
 .proxy-tools.com
 .proxy-works.com
@@ -11760,6 +11762,7 @@
 .proxyserver-free.com
 .proxyserverlist24.top
 .proxyshade.com
+.proxyshare.app
 .proxyshare.com
 .proxysheep.com
 .proxysite.cc
@@ -12540,7 +12543,6 @@
 .scientificsense.org
 .scjzrku6zui5o9.online
 .programming.scmdatasolution.com
-.dns.scott.ovh
 .dns.scott-smith.us
 .scottdylewski.com
 .scrapbooking-directory.com
@@ -13313,6 +13315,8 @@
 .stop-block.com
 .stopcensoring.me
 .storefront.ink
+.storj.io
+.storjshare.io
 .stormproxies.com
 .dns.stormycloud.org
 .adguard.strafer.dk
@@ -13642,6 +13646,7 @@
 .taoqitujichang.com
 .taoqitussr.com
 .dns.tapawan.ca
+.tardigrade.io
 .dns0.tardishost.ru
 .dns1.tardishost.ru
 .adguard.taufner.net
