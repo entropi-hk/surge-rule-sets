@@ -67,7 +67,6 @@
 .1080-kino.com
 .10drives.com
 .10hitmovies.click
-.10hitmovies.club
 .10hitmovies.com
 .10hitmovies.help
 .10hitmovies.lat
@@ -87,7 +86,6 @@
 .123files.club
 .123fox.net
 .123freemovies.net
-.123freemovies.show
 .123hulu.com
 .123movie.blog
 .123movie.cc
@@ -9852,6 +9850,7 @@
 .sunonlinebd.com
 .sunplex.net
 .sunset-dragons.com
+.sunsetline07.online
 .sunveil63.live
 .sunxdcc.com
 .super-torrent.pl

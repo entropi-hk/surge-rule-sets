@@ -414,6 +414,7 @@
 .doh-sg.blahdns.com
 .doh1.blahdns.com
 .doh2.blahdns.com
+.dohde.blahdns.com
 .dohsg.blahdns.com
 .dot-ch.blahdns.com
 .dot-de.blahdns.com
