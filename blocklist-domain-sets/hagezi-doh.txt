@@ -50,7 +50,6 @@
 .skynet.2bsafe.info
 .doh.2kil.com
 .dns.2poi.com
-.lvpn.2rdp.ru
 .dns.2t9.de
 .doh.30x.me
 .318341906.fun
@@ -327,7 +326,6 @@
 .secure.avastdns.com
 .adguard.avavd.ru
 .vps.avc.cx
-.adguard.avdkishore.dev
 .axaxa.fun
 .dnstx.axhy.cc
 .axistechsupport.com
@@ -460,7 +458,6 @@
 .dns.brembeck.cloud
 .dns.briac-mlb.fr
 .dns.system.brianhong.kr
-.ag.brianlee.fun
 .dns.brionesserver.net
 .agh.broaddy.com
 .dns.brono.cloud
@@ -587,7 +584,6 @@
 .adguard.veanswart.cloudns.be
 .zeusvps.cloudns.nz
 .dns.cloudseriousshit.com
-.dns-fr-psv1.cloudsides.com
 .dns.cloudtrust.solutions
 .ca.doh.cloudveil.org
 .us.doh.cloudveil.org
