@@ -230,6 +230,7 @@
 .location-v6-ttp2.tiktokv.us
 .location-v6-va.tiktokv.com
 .location-va.tiktokv.com
+.location16-normal-useastred.tiktokv.eu
 .locationv16-normal-useastred.tiktokv.eu
 .log.tiktokv.com
 .log.tiktokv.us
@@ -278,8 +279,10 @@
 .log3-normal-c-useast1a.tiktokv.com
 .log31-normal.tiktokv.com
 .log31-normal-alisg.tiktokv.com
+.log31-normal-no1a.tiktokv.eu
 .log31-normal-useast1a.tiktokv.com
 .log31-normal-useast2a.tiktokv.com
+.log31-normal-useastred.tiktokv.eu
 .log32-normal.tiktokv.com
 .log32-normal-alisg.tiktokv.com
 .log32-normal-no1a.tiktokv.eu
@@ -342,10 +345,14 @@
 .mon22-normal-useast1a.tiktokv.com
 .mon31-normal.tiktokv.com
 .mon31-normal-alisg.tiktokv.com
+.mon31-normal-no1a.tiktokv.eu
 .mon31-normal-useast1a.tiktokv.com
+.mon31-normal-useastred.tiktokv.eu
 .mon32-normal.tiktokv.com
 .mon32-normal-alisg.tiktokv.com
+.mon32-normal-no1a.tiktokv.eu
 .mon32-normal-useast1a.tiktokv.com
+.mon32-normal-useastred.tiktokv.eu
 .monbk.tiktokv.com
 .mssdk-boot.tiktokv.com
 .mssdk-i18n.tiktokv.com
