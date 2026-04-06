@@ -50,7 +50,6 @@
 .skynet.2bsafe.info
 .doh.2kil.com
 .dns.2poi.com
-.lvpn.2rdp.ru
 .dns.2t9.de
 .doh.30x.me
 .318341906.fun
@@ -305,10 +304,7 @@
 .dns.ashleyjackson.net
 .doh.asli.id
 .dns.asterimoon.com
-.amgr.asuscomm.com
 .dandelionsprout.asuscomm.com
-.himeko297.asuscomm.com
-.xkariak.asuscomm.com
 .dns.asysec.com
 .oci02.at9.eu
 .adguardhome.atakorah.com
@@ -327,7 +323,6 @@
 .secure.avastdns.com
 .adguard.avavd.ru
 .vps.avc.cx
-.adguard.avdkishore.dev
 .axaxa.fun
 .dnstx.axhy.cc
 .axistechsupport.com
@@ -587,7 +582,6 @@
 .adguard.veanswart.cloudns.be
 .zeusvps.cloudns.nz
 .dns.cloudseriousshit.com
-.dns-fr-psv1.cloudsides.com
 .dns.cloudtrust.solutions
 .ca.doh.cloudveil.org
 .us.doh.cloudveil.org
