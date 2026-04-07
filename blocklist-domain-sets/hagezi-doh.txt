@@ -712,7 +712,6 @@
 .cryptroute.com
 .ae-agh1.dns.cryptroute.net
 .dns.crystalyx.net
-.dns.csa-rz.de
 .dns.csaonline.de
 .a5135324.csie.io
 .dns.csswg.org
@@ -887,7 +886,6 @@
 .dns2.dns-ga.de
 .dns3.dns-ga.de
 .doh.dns-ga.de
-.secure-dns.dns-ga.de
 .dns.dns-heimdall.com
 .dns.dns-over-https.com
 .i.dns-over-https.tk
@@ -1435,12 +1433,10 @@
 .zuk.freemyip.com
 .dns.freopc.fr
 .dns.freyja.pw
-.dns.friezer.eu
 .frkn.frkn.cloud
 .ivica-vulas.from.hr
 .dns.froth.zone
 .dns.fsociety.club
-.dns.fsociety.red
 .ychk.ft1991.top
 .ablock.fuckit.ovh
 .dns.fulgore.fr
@@ -1479,7 +1475,6 @@
 .getdnsapi.net
 .dns.getnoclip.link
 .ashixu.ggff.net
-.jkmoon.ggff.net
 .adguard.ghkyzz.us
 .dns.ghost.pm
 .gibblets.top
@@ -1599,7 +1594,6 @@
 .dns.herkhof.nl
 .adg.herry.dev
 .dns.msk.hexagon1736.com
-.dns.hexservers.com
 .hexxitcompany.com
 .httpdns.ocloud.heytapmobi.com
 .hfgx.shop
@@ -1792,7 +1786,6 @@
 .dns1.irumatech.com
 .dns.is0mino.com
 .mickedi.isgood.host
-.mydndworld.isgood.host
 .wg-ag.isgood.host
 .dns.islandnet.com
 .dns.it-pa.net
