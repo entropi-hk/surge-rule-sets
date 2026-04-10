@@ -217,7 +217,6 @@
 .dns.albony.xyz
 .dnsnl.alekberg.net
 .agh.alematho.de
-.ag.alexf.cc
 .diskstation.alexpollard.net
 .management.alexpollard.net
 .httpdns.alicdn.com
@@ -299,12 +298,17 @@
 .resolver.as203038.net
 .doh.asagiri.moe
 .grgrgrkeepcalmkeepcalm.asatid12.ir
+.doh.asecdns.com
+.dot.asecdns.com
 .midgard.asguardian.de
 .nilfheim.asguardian.de
 .dns.ashleyjackson.net
 .doh.asli.id
 .dns.asterimoon.com
+.amgr.asuscomm.com
 .dandelionsprout.asuscomm.com
+.himeko297.asuscomm.com
+.xkariak.asuscomm.com
 .dns.asysec.com
 .oci02.at9.eu
 .adguardhome.atakorah.com
@@ -719,7 +723,7 @@
 .cubedns.com
 .iux3-s.cuiy4trg8fmosya2iip3ci.name
 .qual.cuprum.ru
-.dns.curser.dev
+.curser.dev
 .dns.cwlys.com
 .gc.cyberbeta.cn
 .nanopi.cybergroove.net
@@ -901,6 +905,7 @@
 .dns8.org
 .dnsbunker.org
 .ns1.recursive.dnsbycomodo.com
+.ns2.recursive.dnsbycomodo.com
 .2.dnscrypt-cert.shield-2.dnsbycomodo.com
 .dnscity.org
 .abe01.dnscry.pt
