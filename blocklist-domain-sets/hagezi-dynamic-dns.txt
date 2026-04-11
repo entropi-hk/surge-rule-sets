@@ -474,6 +474,7 @@
 .eurotank.ro
 .eva.hk
 .everton.com
+.evils.in
 .expired-dns.com
 .ez-dns.com
 .ez-ip.net
@@ -506,6 +507,7 @@
 .for-our.info
 .for-some.biz
 .for-the.biz
+.foroemprende.com
 .forss.to
 .fortiddns.com
 .forumz.info

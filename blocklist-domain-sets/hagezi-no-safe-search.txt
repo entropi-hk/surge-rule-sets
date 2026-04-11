@@ -37,7 +37,6 @@
 .searx.com.au
 .search.cronobox.one
 .searxng.cups.moe
-.searx.daetalytica.io
 .search.darkness.services
 .search.davidovski.xyz
 .whoogle.dcs0.hu
@@ -132,8 +131,6 @@
 .searx.openhoofd.nl
 .openworlds.info
 .oscobo.com
-.searx.ouahpiti.info
-.search.pabloferreiro.es
 .peekier.com
 .presearch.com
 .privacia.org
@@ -156,7 +153,6 @@
 .searx.bar
 .searx.ch
 .searx.info
-.searx.ir
 .searx.ninja
 .searx.org
 .searx.party
@@ -166,7 +162,6 @@
 .searx.stream
 .searx.work
 .searx.xyz
-.searxng.biz
 .searxzh.cn
 .search.seds.nl
 .searx.semipvt.com

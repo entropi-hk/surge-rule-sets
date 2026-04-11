@@ -1143,6 +1143,7 @@
 .dns.dragon0697.me
 .drahonn.pro
 .dns.dremaxx.de
+.droyd.top
 .dns.druta.me
 .agh.dshubham.xyz
 .adguard.dsns.cloud
@@ -1362,6 +1363,7 @@
 .dns.farshmc.ru
 .adh.fastpacefixit.info
 .adguardhome.favrep.ovh
+.dns.faze.dev
 .ns0.fdn.fr
 .ns1.fdn.fr
 .dns.fdue.de
@@ -1491,6 +1493,7 @@
 .dns.giriprabhat.com
 .doh.ptqy.gitv.tv
 .h.gjrick.tw
+.sdns22.gkonuralp.com
 .gl33tch.pro
 .glacius.top
 .dns.glampool.cloud
@@ -1504,6 +1507,7 @@
 .dns.api.staging.globuscs.info
 .dns.api.test.globuscs.info
 .agh.gloom.nexus
+.dns.glorydns.com
 .dns.glsoft.ai
 .dns.gnb09.id
 .moph.go.th
@@ -1742,6 +1746,7 @@
 .adguard.ihatemy.live
 .dns.ihaveacloud.com
 .iij.jp
+.ikarosalpha.xyz
 .dns.ikataruto.com
 .mnsvless.ikwb.com
 .ilinhy.com
