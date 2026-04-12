@@ -2128,6 +2128,7 @@
 .mastergad.me
 .masters-of-cloud.de
 .dns.mateo.ovh
+.dns.mathewakhil.online
 .rasp.matthias-iwer.de
 .dns.matthias-prost.com
 .maxfong.cc
@@ -2280,6 +2281,7 @@
 .newlibrarian.myqnapcloud.com
 .myrusvpn.de
 .mysolod.xyz
+.dns.mytest.cc
 .myv2ray.cn
 .area51.mywire.org
 .dnsmm.mywire.org
@@ -2858,6 +2860,7 @@
 .dns.schmidt-zoarn.de
 .moise-et-maurice-gardent-la-maison.schneiderus.org
 .dns1.schooldns.nl
+.dns.scott.ovh
 .dns.scott-smith.us
 .scottdylewski.com
 .dns.sct-pro.com
