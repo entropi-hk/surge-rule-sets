@@ -1273,6 +1273,7 @@
 .skc.su
 .skies.tw
 .slasdot.com
+.sleepless.hk
 .sline.net
 .sly.io
 .slyip.net
@@ -1302,6 +1303,7 @@
 .ssl443.org
 .sslip.io
 .ssmailer.com
+.star.is
 .stemmetje.com
 .stes.fi
 .stfu-kthx.net
@@ -1416,6 +1418,7 @@
 .vpntraki.com
 .vpnx.nl
 .vr.lt
+.vxe6.net
 .wakingmoon.com
 .wan64.de
 .wanip.ch

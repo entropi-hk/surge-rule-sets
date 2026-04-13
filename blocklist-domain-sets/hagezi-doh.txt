@@ -2954,6 +2954,7 @@
 .adguardhome.softcloud.pe
 .clientdns3.softcom.net
 .myprivityvpn.softether.net
+.solaxy.live
 .wtbd02.solowalk.top
 .ns.solutics.ec
 .ns.solutionsbest.de
@@ -2977,6 +2978,7 @@
 .resolve2.srv-pro.de
 .adguard.sscw.win
 .ssh-storage.ru
+.dns.sshub.win
 .doh.ntu.ssooss.win
 .ag.ssrahul96.xyz
 .dns.sstomp.nl
@@ -3092,6 +3094,8 @@
 .de.teradns.org
 .ny.teradns.org
 .sg.teradns.org
+.tx.teradns.org
+.uk.teradns.org
 .apne1.dns.terumi.club
 .dns.soldier.terumi.club
 .dns.tesem.dog
