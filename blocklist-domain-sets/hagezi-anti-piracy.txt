@@ -3161,6 +3161,7 @@
 .rekcart.duckdns.org
 .thinking.duckdns.org
 .tr4ck3r.duckdns.org
+.vito-tracker.duckdns.org
 .tracker.ducks.party
 .duckwad.net
 .dummipedia.org
