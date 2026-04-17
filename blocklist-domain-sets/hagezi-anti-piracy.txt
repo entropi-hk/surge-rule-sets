@@ -4324,6 +4324,7 @@
 .fstream.info
 .fstream.net
 .ftflix.com
+.open.ftorrent.com
 .ftp.pet
 .ftp2web.com
 .ftpbd.com
@@ -6921,6 +6922,7 @@
 .moviepoka.com
 .movierot.com
 .movierr.online
+.movierulz.yachts
 .movierulzhd.gold
 .movies.cab
 .movies-d.com
@@ -11726,6 +11728,7 @@
 .watch32.is
 .watch32hd.co
 .watch32hd.org
+.watchadsontape.com
 .watchamovie.today
 .watchanimeworld.net
 .watchasian.co
