@@ -225,6 +225,7 @@
 .tr-weather.vivoglobal.com
 .uk-timesync.vivoglobal.com
 .err.up.vivoglobal.com
+.xn--ex-adreq-asa-c5b.vivoglobal.com
 .xn-ex-adreq-asa-c5b.vivoglobal.com
 .za-p.vivoglobal.com
 .zasc-cota.vivoglobal.com
