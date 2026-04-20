@@ -11553,7 +11553,6 @@
 .ohgodplease.help
 .adguard.ohmhv57.org
 .ohubhsvf.com
-.ohzavie2.xyz
 .oixaqgnk.com
 .ok-vpn.io
 .okado.online
@@ -11620,7 +11619,6 @@
 .onion.lt
 .onion.lu
 .onion.ly
-.onion.nu
 .onion.rip
 .onion.sh
 .onion.to
@@ -11727,7 +11725,6 @@
 .oraclevpn.com
 .orangeproxy.net
 .proxy.ordentlichbreit.de
-.historyofutopia.orekhov.space
 .orfjgtif.com
 .mathiaspo.aarogyamnepal.org.np
 .securely.abbotsfordhallforhire.org.au
@@ -11904,7 +11901,6 @@
 .wowinterstellar.pages.dev
 .zatoga.pages.dev
 .paimist.com
-.painee2a.xyz
 .vpn-ru-msk.pakharenko.ru
 .skills.notes.pakla.pl
 .paladinvpn.com
@@ -12006,7 +12002,6 @@
 .pbyesgzh.cc
 .pc-kuailian.cn
 .pc-kuailian.net
-.pc-lets.com
 .pc-letsvpn.com
 .pc-streaming.com
 .dns.pccoach.nl
@@ -12534,7 +12529,6 @@
 .proxy.sx
 .proxy.yt
 .proxy-123.com
-.proxy-2014.com
 .proxy-best.com
 .proxy-bypass.com
 .proxy-cheap.com
@@ -12883,7 +12877,6 @@
 .quickprox.com
 .quickproxies.com
 .quicksilvervpn.com
-.dns.quickso.cn
 .dns.quiet.rocks
 .quintex.com
 .quivano.xyz
@@ -12903,7 +12896,6 @@
 .quorilo.ru
 .quotivatehub.com
 .qustano.xyz
-.quwpuslemw.online
 .qv2ray.org
 .qvkyjkus.cc
 .qwclash.com
@@ -12978,7 +12970,6 @@
 .rainforest.lol
 .raininglondon.com
 .rainshadow.help
-.raj.pw
 .rajgdpqu.com
 .ns.ral9005.org
 .raldrix.ru
@@ -13319,7 +13310,6 @@
 .rwzlsmyv.com
 .dns1.ryan-palmer.com
 .ryanprojects.ir
-.excel.theme.ryansilvester.com
 .vpn.rynet.link
 .ryonosuke.jp
 .ryonosuke.xyz
@@ -13568,7 +13558,6 @@
 .sec-tunnel.com
 .dns.sec511.com
 .quiz.teach.secold.com
-.secondbackupdomain.com
 .secretbrowser.net
 .secrethifixie.com
 .secretproxy.org
@@ -13780,10 +13769,6 @@
 .free.shecan.ir
 .pro.shecan.ir
 .dns.sheggi.ch
-.canvas-signup-rn.shela.nu
-.goguardianlearning.shela.nu
-.iqtest.shela.nu
-.type.shela.nu
 .shellfire.net
 .shelljacket.us
 .shemadefuckingbeans.wtf
@@ -13794,6 +13779,7 @@
 .shijieyunxz.com
 .dns.shimul.me
 .do.shimul.me
+.shitblocker.com
 .shopboog.com
 .shopcube.pro
 .shopmirrorless.xyz
@@ -13928,14 +13914,12 @@
 .slovovpn.help
 .dns1.slowb.ro
 .dns2.slowb.ro
-.001.smallnode.net
 .smart-sense.org
 .smartcamp.su
 .smartdnsproxy.com
 .onlyforschool123.smarter-homes.com
 .lunarsync.smartfoloo.space
 .dns.smartguard.io
-.edison.smartinnovation.md
 .ma.smartjz.cn
 .smartproxy.com
 .webproxy.smartproxy.org
@@ -14640,7 +14624,6 @@
 .tagvpnglobal.com
 .tagweb.vip
 .tagxx.vip
-.taicha5.online
 .tailnet.ru
 .tailscale.com
 .taishan.pro
@@ -14783,7 +14766,6 @@
 .test3.net
 .testbs.net
 .testdomainname.xyz
-.p-nation.testing4fun.xyz
 .supported.testing4fun.xyz
 .testred.xyz
 .testvpn.info
@@ -14805,7 +14787,6 @@
 .thankvpn.com
 .the-cloak.com
 .typingpractice.theantzfarm.space
-.unplatonicallydiybt.theantzfarm.space
 .102.theartieschaffer.com
 .111.theartieschaffer.com
 .116.theartieschaffer.com
@@ -14851,7 +14832,6 @@
 .thehoney.net
 .thehoneyponger.org
 .adguard.theil.dev
-.bigantfarm.thejeremybecker.com
 .thejungla.com
 .ela.smart.thelecks.com
 .themathoffun.xyz
@@ -15105,7 +15085,6 @@
 .totorocloud.info
 .totorocloud.net
 .totorocloud.org
-.touch-vpn.net
 .cease.touchofpink.ca
 .touchvpn.net
 .touhou.tel

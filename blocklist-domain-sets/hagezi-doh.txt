@@ -2704,7 +2704,6 @@
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
-.dns.quickso.cn
 .dns.quiet.rocks
 .ant.dns.qwer.pw
 .dog.dns.qwer.pw
@@ -2727,7 +2726,6 @@
 .ginnungagap.rabenhain.net
 .adguard.rabmoor.cz
 .dns.api.rackspacecloud.com
-.raj.pw
 .ns.ral9005.org
 .dns.ramansarda.com
 .doh.rasmusminde.dk
@@ -2902,6 +2900,7 @@
 .httpdns.n.shifen.com
 .dns.shimul.me
 .do.shimul.me
+.shitblocker.com
 .adguard.shoupperuser.com
 .dns.shrike.ru
 .penetrator.shurakenas.ru
@@ -2936,7 +2935,6 @@
 .dns.slinkyman.net
 .dns1.slowb.ro
 .dns2.slowb.ro
-.001.smallnode.net
 .smartcamp.su
 .dns.smartguard.io
 .singy.smartq.dev

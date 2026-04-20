@@ -3508,6 +3508,7 @@
 .eurostreamings.top
 .eurostreamings.vip
 .eurostreamings.wiki
+.eurostreamings.xyz
 .bt.eutorrents.com
 .ev01.net
 .ev01.to
@@ -7642,7 +7643,6 @@
 .bt.okmp3.ru
 .ol-am.top
 .olala123-warez.com
-.olamovies.app
 .olamovies.download
 .olamovies.top
 .olamovies.watch
@@ -8083,7 +8083,6 @@
 .pobieramy24.xyz
 .pobreflix.auction
 .pobreflix.com
-.pobreflixonline.com
 .forum.pocketnavigation.de
 .6.pocketnet.app
 .podtropolis.com
@@ -8183,7 +8182,6 @@
 .primewire.zip
 .primewirestatus.org
 .privatehd.to
-.privatemoviez.help
 .region.nl1.privex.cc
 .privtracker.com
 .pro-evolution.org
@@ -8675,7 +8673,6 @@
 .root-warez.com
 .rootsofts.com
 .roshy.tv
-.rotorrent.ro
 .roxiestreams.cc
 .roxiestreams.info
 .roxiestreams.pro
@@ -9085,6 +9082,7 @@
 .skymovieshd.cv
 .skymovieshd.diy
 .skymovieshd.earth
+.skymovieshd.fast
 .skymovieshd.guru
 .skymovieshd.house
 .skymovieshd.land
@@ -9521,14 +9519,17 @@
 .streami.su
 .streaming-community.art
 .streaming-community.asia
+.streaming-community.courses
 .streaming-community.fit
+.streaming-community.kaufen
+.streaming-community.sarl
+.streaming-community.surf
 .streaming-community.trade
 .streaming-french.com
 .streaming-series.org
 .streamingaddons.xyz
 .streamingcommunity.actor
 .streamingcommunity.ag
-.streamingcommunity.airforce
 .streamingcommunity.app
 .streamingcommunity.army
 .streamingcommunity.asia
@@ -9584,7 +9585,6 @@
 .streamingcommunity.help
 .streamingcommunity.icu
 .streamingcommunity.info
-.streamingcommunity.io
 .streamingcommunity.ist
 .streamingcommunity.it
 .streamingcommunity.kaufen
@@ -9920,11 +9920,9 @@
 .surrealmoviez.info
 .susflix.tv
 .suspic.com
-.suteki-yume.net
 .suzihaza.com
 .sverigeplay.tv
 .swapnonetwork.net
-.swatchseries.info
 .swatchseries.is
 .swatchseries.ru
 .swatchseries.to
@@ -9986,7 +9984,6 @@
 .tantifilm.coach
 .tantifilm.com
 .tantifilm.cool
-.tantifilm.diy
 .tantifilm.education
 .tantifilm.eu
 .tantifilm.exchange
@@ -9999,10 +9996,7 @@
 .tantifilm.kaufen
 .tantifilm.land
 .tantifilm.lat
-.tantifilm.live
-.tantifilm.living
 .tantifilm.locker
-.tantifilm.mba
 .tantifilm.me
 .tantifilm.mobi
 .tantifilm.name
@@ -10347,7 +10341,6 @@
 .toloka.to
 .trun.tom.ru
 .tomehub.xyz
-.tomoa.net
 .toolba.se
 .toolhip.com
 .toolzu.com
