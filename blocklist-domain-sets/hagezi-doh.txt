@@ -3332,7 +3332,6 @@
 .dnsbk.wns.watch
 .ag.wntrmute.net
 .block-solution.wolfplaces.com
-.woodbridge.club
 .dns.woodyli.dev
 .doh.ndmc.work.gd
 .dds.wpme.pl

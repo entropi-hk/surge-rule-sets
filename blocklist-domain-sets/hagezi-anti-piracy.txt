@@ -195,6 +195,7 @@
 .1ddl.org
 .1desiremovies.foo
 .1fichier.com
+.1filmyfly.fyi
 .1filmyfly.top
 .1flix.to
 .1gabba.net
@@ -337,6 +338,8 @@
 .5movies.run
 .5movies.to
 .5moviesfree.net
+.5movieshub.com
+.5moviesto.com
 .5play.app
 .5play.org
 .5tigorsk.ru
@@ -356,6 +359,7 @@
 .bit-torrents.6x.to
 .warez-fusion.6x.to
 .wzone.6x.to
+.720p-izlet.com
 .720pstream.me
 .720pstream.nu
 .720pstream.se
@@ -395,6 +399,7 @@
 .9anime.ru
 .9anime.to
 .9anime.zone
+.9animetv.ink
 .9animetv.to
 .9divx.com
 .9goal.tv
@@ -581,6 +586,7 @@
 .allmacworlds.com
 .allmanga.to
 .allmodapk.de
+.allmovieland.one
 .allmovieland.you
 .allmoviesforyou.co
 .allmovieshub.win
@@ -725,6 +731,7 @@
 .altadefinizionegratis.cloud
 .altadefinizionegratis.cool
 .altadefinizionegratis.cyou
+.altadefinizionegratis.deals
 .altadefinizionegratis.fit
 .altadefinizionegratis.forum
 .altadefinizionegratis.fun
@@ -836,6 +843,7 @@
 .animedaisuki.moe
 .animedao.com
 .animedao.to
+.animefillerchecker.com
 .animeflix.io
 .animeflix.team
 .animeflv.biz
@@ -877,6 +885,7 @@
 .animepace.si
 .animepahe.com
 .animepahe.org
+.animepahe.pw
 .animepahetv.to
 .animepill.com
 .animeplex.fun
@@ -2611,6 +2620,7 @@
 .sons-of-anarchy-3.cz.cc
 .torrents.czteam.ro
 .cztorrent.net
+.tracker.d.tube
 .d-addicts.com
 .d0000d.com
 .d00per.com
@@ -3788,6 +3798,7 @@
 .filmguro.site
 .filmheaven.com
 .kinox.filmi.space
+.filminifullhdizle.com
 .filmisland.org
 .filmitastreaming.zone
 .filmitorrent.net
@@ -3866,6 +3877,7 @@
 .filmrls.com
 .films-ddl.net
 .films-iphone.com
+.filmsaati1.cc
 .filmsenzalimite.one
 .filmsenzalimiti.blog
 .filmsenzalimiti.co
@@ -4886,6 +4898,7 @@
 .hdfilme.tube
 .hdfilme.tv
 .hdfilme.uno
+.hdfilme.win
 .hdfilme-to.my
 .hdfilme-to.top
 .hdfilme-tv.cc
@@ -5239,6 +5252,7 @@
 .hianime.nz
 .hianime.to
 .hianimes.ro
+.hianimetv.cfd
 .hicartoon.to
 .hificode.in
 .tracker.hifimarket.in
@@ -6570,6 +6584,7 @@
 .megakino2.net
 .megakino2.org
 .megakino3.com
+.megakino3.org
 .megakinox.top
 .megamanmaker.com
 .megamodapk.com
@@ -10020,6 +10035,9 @@
 .tapecontent.net
 .tapedown.com
 .tapochek.net
+.taraftarium24-amp.online
+.taraftarium24-hdizle17.vip
+.taraftarium24-hdizle19.vip
 .taringa.net
 .tarjetaroja.me
 .tarjetarojaenvivo.me
@@ -10952,7 +10970,6 @@
 .mp3juices.unblocked.gdn
 .newalbumreleases.unblocked.co
 .putlocker.unblocked.ist
-.watchepisodeseries.unblocked.nu
 .unblockedbay.info
 .unblockedgames.world
 .unblockedpiratebay.com
@@ -10963,7 +10980,6 @@
 .unblockit.bz
 .unblockit.cam
 .unblockit.id
-.unblockit.llc
 .unblockit.pro
 .unblockit.rsvp
 .unblockit.top
@@ -11232,13 +11248,11 @@
 .vegamovies.group
 .vegamovies.haus
 .vegamovies.help
-.vegamovies.hockey
 .vegamovies.host
 .vegamovies.hot
 .vegamovies.icu
 .vegamovies.im
 .vegamovies.info
-.vegamovies.ing
 .vegamovies.institute
 .vegamovies.investments
 .vegamovies.is
@@ -11545,6 +11559,7 @@
 .voe-network.net
 .voeunblk.com
 .voidboost.tv
+.voir-anime.to
 .voir-seriestreaming.org
 .voirfilm.vip
 .voirfilms.al
@@ -11975,7 +11990,6 @@
 .xie22.com
 .ximepa.ru
 .xlist.ro
-.xmovie8.pro
 .xmovies.ws
 .xmovies8.fm
 .xmovies8.fun
@@ -12046,7 +12060,6 @@
 .yalla-shoot.mov
 .yalla-shoot-mobasher.com
 .yalla-shootv.live
-.yalla-shootx.org
 .yallashoothub.com
 .yamgo.com
 .yams.tf
@@ -12141,6 +12154,7 @@
 .utvbd.yolasite.com
 .yomovies.pet
 .yomovies.productions
+.yomovies.technology
 .yomovies.uno
 .tracker.yoshi210.com
 .yotoshi.com
