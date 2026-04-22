@@ -2690,6 +2690,7 @@
 .dns.qrtz.club
 .qstam.ru
 .hostdare.qtxd.net
+.alpha-dns.quad9.net
 .dns.quad9.net
 .dns-nosec.quad9.net
 .dns10.quad9.net
