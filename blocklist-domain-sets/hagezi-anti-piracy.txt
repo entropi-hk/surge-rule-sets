@@ -5536,6 +5536,7 @@
 .ipstresser.com
 .iptorrents.com
 .iptv-web.app
+.iptv4me.net
 .iptvcanarias.tv
 .iptvguard.app
 .iptvonly.tv
@@ -7955,6 +7956,7 @@
 .pijafka.pl
 .tracker.pimp4003.net
 .pinoymovieshub.tv
+.pinoymovieshub.win
 .pinoytorrents.net
 .tv.pipexbd.com
 .piraat.xyz
