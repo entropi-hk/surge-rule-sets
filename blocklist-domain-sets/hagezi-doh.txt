@@ -383,7 +383,6 @@
 .dns.bgeneto.com
 .dns.bibica.net
 .dns.bibitos.cc
-.mydns.bielperes.me
 .httpdns.bilivideo.com
 .goga7777777.bissnes.org
 .ns3.bit-trail.nl
@@ -467,7 +466,6 @@
 .81xyz.brudnowski.eu
 .adguard.bse4792.site
 .doh.bt.com
-.bubblex2.top
 .goose.buckyfan.net
 .doh.bugdns.com
 .stratus.bugz.fr
@@ -884,10 +882,6 @@
 .mikrobill.dns-cloud.net
 .proariel.dns-dynamic.net
 .dns-free.link
-.dns1.dns-ga.de
-.dns2.dns-ga.de
-.dns3.dns-ga.de
-.doh.dns-ga.de
 .dns.dns-heimdall.com
 .dns.dns-over-https.com
 .i.dns-over-https.tk
@@ -1226,7 +1220,6 @@
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
 .saomai.dynu.com
-.gustamadh.dynv6.net
 .dns.dynx.pro
 .adg.dz.ax
 .az.dz4fun.top
@@ -1577,7 +1570,6 @@
 .dns.hannielzhang.com
 .jp.hannielzhang.com
 .d.hansj.cc
-.dns.haoxuan.xyz
 .resolver.haringstad.com
 .resolver-eu.haringstad.com
 .adguard.hartley.cloud
