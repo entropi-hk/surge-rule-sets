@@ -1031,6 +1031,7 @@
 .n8z7zwivjg.execute-api.us-east-1.amazonaws.com
 .tb2hgc4485.execute-api.us-east-1.amazonaws.com
 .w6wgmwa4bd.execute-api.us-east-1.amazonaws.com
+.brightdata-app-production-app-bucket.s3.us-east-1.amazonaws.com
 .mellowtel-bucket.s3.us-east-1.amazonaws.com
 .msstore-submissions.s3.us-east-1.amazonaws.com
 .xv-client-json-configuration.s3.us-east-1.amazonaws.com
