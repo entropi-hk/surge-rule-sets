@@ -2938,6 +2938,7 @@
 .dontorrent.photos
 .dontorrent.pink
 .dontorrent.promo
+.dontorrent.reisen
 .dontorrents.com
 .dontorrents.org
 .dood.ac
@@ -6236,6 +6237,7 @@
 .limetorrents.xyz
 .limetorrents.zone
 .limetorrentx.cc
+.limontorrents.club
 .line-net.ru
 .link-base.org
 .linkbucks.com
