@@ -2087,6 +2087,7 @@
 .cineby.lat
 .cineby.ru
 .cineby.sbs
+.cineby.sc
 .cineby.shop
 .cineby.wiki
 .cineby.work
@@ -4898,6 +4899,7 @@
 .hdfilme.tv
 .hdfilme.uno
 .hdfilme.win
+.hdfilme-de.my
 .hdfilme-to.my
 .hdfilme-to.top
 .hdfilme-tv.cc
@@ -4987,6 +4989,7 @@
 .hdmovie2.email
 .hdmovie2.engineering
 .hdmovie2.enterprises
+.hdmovie2.equipment
 .hdmovie2.expert
 .hdmovie2.exposed
 .hdmovie2.family
@@ -9572,6 +9575,7 @@
 .streaming-community.kaufen
 .streaming-community.sarl
 .streaming-community.surf
+.streaming-community.team
 .streaming-community.trade
 .streaming-french.com
 .streaming-series.org
@@ -11539,6 +11543,7 @@
 .viprow.nu
 .vipstand.pm
 .vipstream.tv
+.vito-tracker.space
 .vitorrent.org
 .vivatv.io
 .bbs.vivo.com
