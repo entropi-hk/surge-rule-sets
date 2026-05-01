@@ -4553,6 +4553,7 @@
 .crash1ytics.com
 .cratesg.top
 .crawlbase.com
+.crawler.mobi
 .crazycattle3d.lol
 .crazyfastrace.lol
 .crazyproxy.org
@@ -6683,6 +6684,7 @@
 .fastpartyanimals.com
 .fastproxy.nl
 .fastproxy.org
+.fastproxy.win
 .fastproxynetwork.com
 .fastpubg.com
 .fastpure.net
@@ -13424,6 +13426,7 @@
 .proxybrowser.xyz
 .proxybrowsing.com
 .proxybuss.com
+.proxycell.app
 .proxycloud.net
 .proxycloyd.com
 .proxycompass.com
@@ -13497,6 +13500,7 @@
 .proxyshare.app
 .proxyshare.com
 .proxyshare.dev
+.proxyshare.network
 .proxysheep.com
 .proxysite.cc
 .proxysite.cloud
@@ -16243,6 +16247,7 @@
 .tzwpdkgn.com
 .tzzudzb.cn
 .u-proxy.com
+.u2dpn.xyz
 .u8sj3.com
 .uabqnyzc.com
 .uaconnecter.click
