@@ -2178,6 +2178,7 @@
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mni.li
+.moamao.shop
 .dnstls.mobik.com
 .query.mobyds.com
 .doh.mochou.site

@@ -72,7 +72,6 @@
 .10hitmovies.com
 .10hitmovies.help
 .10hitmovies.lat
-.10hitmovies.lol
 .10hitmovies.one
 .10kol.tv
 .10mbit.com
@@ -157,7 +156,6 @@
 .123moviestv.net
 .123movieswww.com
 .123putlocker.io
-.123stream.la
 .123streams.org
 .123tvnow.com
 .123unblock.art
@@ -192,7 +190,6 @@
 .1ddl.org
 .1desiremovies.foo
 .1fichier.com
-.1filmyfly.fyi
 .1filmyfly.mov
 .1filmyfly.top
 .1flix.to
@@ -216,7 +213,6 @@
 .1movietv.com
 .1nd.hu
 .1progs.ru
-.1shows.nl
 .1soft.space
 .1stream.top
 .1street.ru
@@ -738,6 +734,7 @@
 .altadefinizionegratis.hair
 .altadefinizionegratis.help
 .altadefinizionegratis.homes
+.altadefinizionegratis.host
 .altadefinizionegratis.ink
 .altadefinizionegratis.life
 .altadefinizionegratis.monster
@@ -752,6 +749,7 @@
 .altadefinizionegratis.skin
 .altadefinizionegratis.space
 .altadefinizionegratis.store
+.altadefinizionegratis.surf
 .altadefinizionegratis.top
 .altadefinizionegratis.vip
 .altadefinizionegratis.watch
@@ -973,11 +971,8 @@
 .ansktracker.net
 .antbd.com
 .antbd.net
-.antenapluto.store
-.antenasouth.store
 .antenasport.online
 .antenasport.site
-.antenawest.store
 .antennasport.ru
 .tracker.anthelion.me
 .anthousebd.net
@@ -2621,7 +2616,6 @@
 .d00per.com
 .d123movies.to
 .d4download.com
-.d4ktv.info
 .bingoportal.da.ru
 .daddylive.sx
 .daddylive3.com
@@ -2863,6 +2857,7 @@
 .dizipal1936.com
 .dizipal2062.com
 .dizipal2063.com
+.dizipal2064.com
 .dizipal22.plus
 .dizipal754.vip
 .dizipal755.vip
@@ -5549,7 +5544,6 @@
 .iptvguard.app
 .iptvonly.tv
 .iptvprova.com
-.iptvs.pw
 .iptvsource.com
 .iptvstream.tv
 .iptvsupra.com
@@ -6056,7 +6050,6 @@
 .komikcast03.com
 .komiksin.net
 .komikstation.org
-.kondoplay.cfd
 .koora-live.io
 .koora365.io
 .kooralivs.com
@@ -9592,6 +9585,7 @@
 .streaming-community.fit
 .streaming-community.kaufen
 .streaming-community.sarl
+.streaming-community.study
 .streaming-community.surf
 .streaming-community.team
 .streaming-community.trade
@@ -10144,7 +10138,6 @@
 .teleparty.com
 .telepisodes.org
 .telerium.lol
-.telestream.mom
 .tennis.stream
 .tenvoi.com
 .tenyardtorrents.com
@@ -10425,7 +10418,6 @@
 .top-serie.org
 .torrents.top-site-list.com
 .top123movies.com
-.top1iptv.my
 .topanalyse.org
 .topbytes.net
 .topcartoons.tv
