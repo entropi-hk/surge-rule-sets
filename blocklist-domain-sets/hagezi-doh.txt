@@ -104,7 +104,6 @@
 .my.8484848.cn
 .dns.853852.xyz
 .dns19.854000.xyz
-.dns.866865.xyz
 .tyo.883933770.xyz
 .dns.886886886.xyz
 .dns.888654.xyz
@@ -118,7 +117,6 @@
 .de-passage.9273082020.ru
 .jp.95576.app
 .959818.xyz
-.dd.961188.xyz
 .bella.981377612.xyz
 .9827015.xyz
 .dns.985900.xyz
@@ -447,7 +445,6 @@
 .dns4.bortus.io
 .doh.bortzmeyer.fr
 .cloudns.bosco.ovh
-.botclassic.com
 .dns.bovat.net
 .adguard.boykevanvugt.nl
 .adguard2.boykevanvugt.nl

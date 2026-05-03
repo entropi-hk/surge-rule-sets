@@ -216,6 +216,8 @@
 .1soft.space
 .1stream.top
 .1street.ru
+.1tamilblasters.date
+.1tamilblasters.gripe
 .1tamilblasters.how
 .1tamilmv.army
 .1tamilmv.gs
@@ -308,7 +310,6 @@
 .4kvod.tv
 .4megaupload.com
 .4mirrorlink.com
-.4movierulz.mn
 .4pda.to
 .4players.org
 .4realtorrentz.com
@@ -556,7 +557,6 @@
 .alibabanetwork.net
 .alice.al
 .alienflix.net
-.aliez.me
 .aliez.tv
 .alifanet.com
 .iptv.aliflailabd.com
@@ -670,7 +670,6 @@
 .altadefinizione.red
 .altadefinizione.ru
 .altadefinizione.solutions
-.altadefinizione.soy
 .altadefinizione.tienda
 .altadefinizione.tokyo
 .altadefinizione.tours
@@ -750,7 +749,6 @@
 .altadefinizionegratis.space
 .altadefinizionegratis.store
 .altadefinizionegratis.surf
-.altadefinizionegratis.top
 .altadefinizionegratis.vip
 .altadefinizionegratis.watch
 .altadefinizionegratis.wiki
@@ -863,6 +861,7 @@
 .animekaizoku.com
 .animekayo.com
 .animekhor.org
+.animekizz.live
 .animelab.com
 .animeland.tv
 .animeland.us
@@ -895,7 +894,6 @@
 .animesama.fan
 .animeshow.tv
 .animesim.com
-.animesimple.com
 .animesonline.biz
 .animesonline.cc
 .animestars.org
@@ -1202,7 +1200,6 @@
 .awtsport.com
 .axxo.me
 .axxomovies.org
-.ayakalounge.me
 .azm.to
 .azmovies.ag
 .azmovies.xyz
@@ -1283,7 +1280,6 @@
 .beaconlink.net
 .beatbump.io
 .beatrice-raws.org
-.beatz.bz
 .beatz.us
 .because.moe
 .bedro.cloud
@@ -1334,7 +1330,6 @@
 .bhalukabroadband.com
 .bhlegend.com
 .bhpt4vip.com
-.bhuiyan-online.com
 .biberona.com
 .bibliotik.me
 .bigbbs.eu
@@ -1372,6 +1367,7 @@
 .bit-torrent.ru
 .bit66.com
 .bitcine.app
+.bitcine.net
 .bitcity.hu
 .tracker.bitcoinindia.space
 .bitcomet.com
@@ -1536,7 +1532,6 @@
 .bluebird-hd.org
 .tracker.bluefrog.pw
 .bluehorizon4.site
-.bluemediafile.sbs
 .bluemediafile.site
 .bluemediafiles.com
 .bluemediafiles.xyz
@@ -1549,7 +1544,6 @@
 .bmitbd.com
 .bmovies.is
 .bmovies.nl
-.bmovies.vip
 .bms-hosxp.com
 .bmtorrents.net
 .bmwfilms.com
@@ -1637,6 +1631,7 @@
 .boxbit.org
 .boxfilmes.net
 .boxingstreams100.com
+.boxingusa.info
 .boxofficewatch.com
 .boxopus.com
 .boxpirates.to
@@ -1689,7 +1684,6 @@
 .btdb.io
 .btdig.com
 .btdigg.org
-.btdoor.cc
 .bteye.org
 .btgigs.info
 .btjunkie.org
@@ -1712,12 +1706,12 @@
 .btshoufa.net
 .btsow.online
 .btsow.pics
-.bttrove.org
 .btzone.org
 .tracker.btzoo.eu
 .bubarindpr.com
 .buchkammer.sbs
 .buddyfly.top
+.buffmovie.com
 .buffstream.io
 .buffstreams.app
 .buffstreams.sx
@@ -1798,6 +1792,7 @@
 .capcutmod.io
 .capcutmodapk.id
 .carapax.net
+.cargostream.net
 .carparkingmultimod.com
 .tracker.carpt.net
 .carr.codes
@@ -2067,7 +2062,6 @@
 .cineblog01.ventures
 .cineblog01.vet
 .cineblog01.vg
-.cineblog01.wine
 .cineblog01.ws
 .cineblog01.wtf
 .cineblog01.xn--6frz82g
@@ -2189,7 +2183,6 @@
 .cmovieshd.xyz
 .cn101.ru
 .cnetworkbd.net
-.cny.fan
 .321movies.co.uk
 .althub.co.za
 .an1.co.in
@@ -2293,7 +2286,6 @@
 .fnet.com.bd
 .tracker.frontalweb.com.ar
 .ftp.com.bd
-.futebolaovivogratis.com.br
 .hdclub.com.ua
 .hdfilme.com.cv
 .hdhub4ui.com.in
@@ -2323,7 +2315,6 @@
 .salamonline.com.bd
 .seriezloaded.com.ng
 .skynet.com.bd
-.slnisp.com.bd
 .soap2day.com.co
 .starflix.com.br
 .steamunlocked.com.br
@@ -5367,6 +5358,7 @@
 .ibooks.bz
 .ibooks.to
 .iboxbd.online
+.icbox.info
 .icefilms.info
 .icefilms-info.com
 .icemovies.xyz
@@ -6308,6 +6300,7 @@
 .load.to
 .tracker.loadbt.com
 .tracker.loadpeers.org
+.loffe414wil.com
 .logansmovies.com
 .tracker.logirl.moe
 .open.lolicon.eu
@@ -6342,6 +6335,7 @@
 .lordfilmkxr.lat
 .lordfilmtug.lol
 .lordfilmuwq.ink
+.lordflix.org
 .qg.lorzl.gq
 .losmovies.app
 .losmovies.com
@@ -6456,6 +6450,7 @@
 .malacka.com
 .malavida.com
 .malaysiabay.org
+.mallumv.cyou
 .mallumv.life
 .mamahd.best
 .mamahd.org
@@ -6896,6 +6891,7 @@
 .moviebest.org
 .moviebite.cc
 .movieblogarea.com
+.movieboxa.com
 .movieboxbd.com
 .moviecluphd.store
 .moviecracker.net
@@ -7440,6 +7436,7 @@
 .newzbin.com
 .newzleech.com
 .newznab.com
+.nextflicks.link
 .nextgenroms.com
 .nextorrent.town
 .nextwap.net
@@ -7550,6 +7547,7 @@
 .nortorrent.town
 .nossoplayeronlinehd.blog
 .nosteamgames.ro
+.nostrem.click
 .novafile.com
 .novaflix.io
 .novafork.com
@@ -8197,6 +8195,7 @@
 .powerstresser.com
 .powertracker.org
 .forum.ppcwarez.org
+.ppitv.pl
 .t.ppnow.net
 .ppv.land
 .pqham.com
@@ -8430,6 +8429,7 @@
 .tracker.qingwapt.org
 .qiq.ws
 .musicmania.ql.lt
+.qmovies.net
 .qoob.name
 .qqdl.site
 .qtstm32fan.ru
@@ -8692,6 +8692,7 @@
 .rojadirecta.tv
 .rojadirecta.video
 .rojadirecta.watch
+.rojadirectablog.com
 .rojadirectaenhd.net
 .rojadirectaenvivo.club
 .rojadirectaenvivo.com
@@ -9066,6 +9067,7 @@
 .members.shaw.ca
 .shawty.club
 .shd247.live
+.shd247.pro
 .shhahid4u.day
 .shhahid4u.net
 .shhahid4u.show
@@ -9234,6 +9236,7 @@
 .soaper.vip
 .soaperpage.com
 .soapgate.org
+.soapnatur.com
 .sobt18.sbs
 .socagol.tv
 .soccerbite.net
@@ -9305,6 +9308,7 @@
 .solarmovies-sc.lol
 .solarmoviez.ru
 .solarmoviez.to
+.solartv.to
 .solarwolf23.live
 .solidsoftwaretools.com
 .solidtorrents.net
@@ -9545,6 +9549,7 @@
 .streamcomplet.io
 .streamcomplet.me
 .streamcomplets.net
+.streamconnect.us
 .streamcouch.com
 .streamdeouf.rip
 .streamdor.com
@@ -9860,10 +9865,12 @@
 .streamm4u.ws
 .streammaster.xyz
 .streammovies.to
+.streamobs.click
 .streamonhd.me
 .streamonsport.net
 .streamonsport28.xyz
 .streamoz.me
+.streampass.cc
 .streamruby.com
 .streams.center
 .streamshunters.com
@@ -9965,6 +9972,7 @@
 .supercdn.cc
 .superflix.pro
 .superflix.vc
+.superflixapi.online
 .superfutebol.tv
 .supernetbd.com
 .supernova.to
@@ -9996,6 +10004,7 @@
 .swetv.org
 .tracker.swifte.space
 .swiftnetbd.com
+.swiftstream.top
 .swteam.ws
 .bestoflinks.synology.me
 .ibksturm.synology.me
@@ -10370,6 +10379,7 @@
 .tinyzonetv.cc
 .tinyzonetv.to
 .tioanime.com
+.tipstrong.click
 .tipucrack.com
 .tiranator.com
 .tiraz.net
@@ -11879,6 +11889,7 @@
 .winghd.com
 .winitpro.ru
 .winneritbd.com
+.winning2day.com
 .winobraz.net
 .wintorr.com
 .wintorrents.ru
