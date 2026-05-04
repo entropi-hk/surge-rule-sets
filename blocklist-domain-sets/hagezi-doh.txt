@@ -701,7 +701,6 @@
 .adguard.crestfallen.de
 .cristianocosta.me
 .dns.itsec.crolla.net
-.cryptd.space
 .crypto.sx
 .crypto2049.store
 .dns.cryptomize.com
@@ -846,7 +845,6 @@
 .dns.dhemant.observer
 .dns.isp.dhoho.net
 .dns.diarbagus.id
-.adguard.dientutronghuong.com
 .digitale-gesellschaft.ch
 .digitallink.be
 .dns.digitalsize.net
@@ -878,7 +876,6 @@
 .dns.dns-53.us
 .mikrobill.dns-cloud.net
 .proariel.dns-dynamic.net
-.dns-free.link
 .dns.dns-heimdall.com
 .dns.dns-over-https.com
 .i.dns-over-https.tk
@@ -1189,7 +1186,6 @@
 .site-3.duckdns.org
 .soporte-premium.duckdns.org
 .surviil.duckdns.org
-.testapp-0-1-1.duckdns.org
 .thaibksri.duckdns.org
 .theadblocksg.duckdns.org
 .ts653d.duckdns.org
@@ -1217,7 +1213,6 @@
 .adguard.ekhozie.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
-.saomai.dynu.com
 .dns.dynx.pro
 .adg.dz.ax
 .az.dz4fun.top

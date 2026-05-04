@@ -4409,7 +4409,6 @@
 .covering.run
 .coverproxy.com
 .covertheorange.com
-.covertproxy.com
 .covpn.mom
 .covwskpb.cc
 .doh.cox.net
@@ -4455,7 +4454,6 @@
 .timfplhtaw.crabdance.com
 .yourname.chosen-domain.tld.crabdance.com
 .utopiaunblocker.crabdance.com
-.rammerhead.crackerstreams.org
 .clever.com.santi.craftleds.com
 .history.grade.cranbury.info
 .crash1ytics.com
@@ -4464,7 +4462,6 @@
 .crawler.mobi
 .crazycattle3d.lol
 .crazyfastrace.lol
-.crazyproxy.org
 .crazysurfer.info
 .crbtqxdu.com
 .createssh.net
@@ -4511,7 +4508,6 @@
 .cryoutdome.cryodome.com
 .bx3.cdn.gh-pages.cryodome.com
 .googla.cryodome.com
-.cryptd.space
 .crypticvpn.com
 .crypto.sx
 .crypto-college.cc
@@ -4540,7 +4536,6 @@
 .duck.csproject.org
 .dns.csswg.org
 .helios-browser.ct.ws
-.app.plugga-matte.ct.ws
 .grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws
 .ct-access.pro
 .ct-vpn.com
@@ -4751,7 +4746,6 @@
 .adguard.bug3factory.ddns.net
 .cloak.ddns.net
 .cloudflares.ddns.net
-.darknovafern123amazonaws.ddns.wtf
 .djtesok.ddns.net
 .dnsresolver02.ddns.net
 .dnsvs.ddns.net
@@ -4879,7 +4873,6 @@
 .denstro.ru
 .doh.denypradana.com
 .departlamb.com
-.departsettle.com
 .adguard.depieri.net
 .deproxyserver.com
 .deqyutix.online
@@ -4900,7 +4893,6 @@
 .doh-primary-pool.detoxifypornblocker.com
 .dev-ngrok.com
 .dns.dev-umbrellagov.com
-.hi-kyler.developer.li
 .nirbytesp.developer.li
 .nirdogepx.developer.li
 .sinckfladogenirb.developer.li
@@ -4932,7 +4924,6 @@
 .dichvusocks.net
 .touching.diddy.men
 .xn--28j2a3ar1p.died.pw
-.adguard.dientutronghuong.com
 .difficultycrossing.org
 .digibitdesign.com
 .anonymizing-proxy.digitalcourage.de
@@ -4990,7 +4981,6 @@
 .dns.dionperera.com
 .directconnect.fyi
 .directoryproxy.info
-.dirtyworkproxy.com
 .dns-telkominfra.disacloud.com
 .disbish.com
 .disconnect.me
@@ -5059,7 +5049,6 @@
 .mikrobill.dns-cloud.net
 .aseproxy.aselock.dns-dynamic.net
 .proariel.dns-dynamic.net
-.dns-free.link
 .dns.dns-heimdall.com
 .dns.dns-over-https.com
 .i.dns-over-https.tk
@@ -5340,7 +5329,6 @@
 .downloadhiro.app
 .downloadqq.xyz
 .downloads-kl.com
-.downloads-klvpn.com
 .downloads-kuailian.com
 .downloads-lets.com
 .downloads-letsvpn.com
@@ -5489,7 +5477,6 @@
 .site-3.duckdns.org
 .soporte-premium.duckdns.org
 .surviil.duckdns.org
-.testapp-0-1-1.duckdns.org
 .thaibksri.duckdns.org
 .theadblocksg.duckdns.org
 .ts653d.duckdns.org
@@ -5519,7 +5506,6 @@
 .dunggtrob.online
 .adguard.duongphuckhanh.dev
 .dupatruwi22.fun
-.duqtajc1od3xvawpvysoqq.online
 .durev-connect.online
 .durev-vpn.com
 .durevpn.com
@@ -5549,12 +5535,10 @@
 .interstellar-ad.dynipv6.de
 .majimekun.dynipv6.de
 .rafi.dynns.com
-.nextgenscholars.dynreisser.ch
 .ccadguard.dynu.net
 .adguard.ekhozie.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
-.saomai.dynu.com
 .getjumpscared.dynv6.net
 .ineedmymoney.dynv6.net
 .treesareplanted.dynv6.net
@@ -5890,7 +5874,6 @@
 .easyvalorant.com
 .easyveee.com
 .easyvpn.com
-.easyvpn.zone
 .easyvypr.com
 .easywaiwang.com
 .easywancheng.com
@@ -5994,7 +5977,6 @@
 .eglobaleducation.com
 .egorovna.su
 .vpn.egorrko.ru
-.egymail.ovh
 .ehbxkjhy.com
 .doh.eieidns.com
 .scifi0.eigenlicht.us
@@ -6094,7 +6076,6 @@
 .enetssr.com
 .clock.engalsaati.com
 .moon.engalsaati.com
-.range.engalsaati.com
 .schoology.engalsaati.com
 .standard.engalsaati.com
 .dns.engineer-lib.ru
@@ -6154,7 +6135,6 @@
 .eryno.ru
 .es-proxy.com
 .how-about-no.esal.cl
-.closed.escape-one-massage.biz
 .dns.esegece.com
 .dns-family.esegece.com
 .dns.esnube.es
@@ -6306,7 +6286,6 @@
 .socchanpxy.f5.si
 .f56eb41z.online
 .jp1.f7b6h9.tk
-.f7tfjrsmrvgx4ts1.online
 .dns.f97.xyz
 .dns.fabidouille.com
 .fernn.fabricecosta.com
@@ -6351,8 +6330,6 @@
 .falemonqf.com
 .falemonrl.com
 .falemonrq.com
-.falemons.org
-.falemons.xyz
 .falemonsh.com
 .falemonsr.com
 .falemonvj.com
@@ -6973,14 +6950,6 @@
 .fotiaoqiang.vip
 .fotiaoqiang.xyz
 .fouwer.ru
-.disturbing-the-peace.foxgateway.com
-.get-out-of-my-head-get-out-of-my-head.foxgateway.com
-.i-understand-it-now.foxgateway.com
-.jacob-is-too-tiny.foxgateway.com
-.sena-and-jacob-yap-too-much.foxgateway.com
-.small-kids.foxgateway.com
-.stop-it-now-stop-it-now.foxgateway.com
-.we-need-more.foxgateway.com
 .dns.foximao.cn
 .de-f1.foxyfy.net
 .dns.foxyfy.net
@@ -7202,7 +7171,6 @@
 .live.fumcennis.org
 .fun4school.store
 .doh.funil.de
-.funknetwork.com
 .funnyaisite.org
 .funti.cc
 .funtikspb.ru
