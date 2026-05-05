@@ -1496,7 +1496,6 @@
 .ux.go20.cf
 .privacydns.go6lab.si
 .dns.goertz.digital
-.panel.gogolvpn.com
 .eime.goip.de
 .dohsg.goitoi.co
 .dns.goldplate.org
@@ -1528,7 +1527,6 @@
 .grunwald-marc.de
 .vps.grussenmeyer.com
 .dns.gsmseti.net
-.ms.gswsfh2021.site
 .bigseal1.gu-natee.uk
 .guanmengkai.com
 .dns.guard.io
@@ -1655,7 +1653,6 @@
 .doh.hugang8.cn
 .dns.huizegunsing.nl
 .dns.hujiayucc.cn
-.ads.hunga1k47.com
 .huntllcx.cn
 .doth.huque.com
 .dns.huseynov.work
@@ -1729,7 +1726,6 @@
 .ikarosalpha.xyz
 .dns.ikataruto.com
 .mnsvless.ikwb.com
-.ilinhy.com
 .ilmxs.com
 .ad.imblien.com
 .noads.imbuffering.com
@@ -1807,7 +1803,6 @@
 .fvpn.jarvishome.ru
 .hk.jason666.top
 .adguard.jaydub.cloud
-.aghome.jcconnell.com
 .argus1.jcconnell.com
 .jcdns.fun
 .dns.jd.com
@@ -1959,7 +1954,6 @@
 .kstdownload.com
 .hdns.ksyun.com
 .dns.kugoapps.com
-.adguard.kujoe.com
 .dns.kukal.cz
 .agh.kul-lippek.de
 .dns.kusoneko.moe
@@ -1971,7 +1965,6 @@
 .dns.kzrz.pl
 .dns.l337.site
 .dns.l6.ee
-.ns1.lab321.pro
 .dns.labar.re
 .dns.labnekotest.site
 .doh.lacontrevoie.fr
@@ -1997,7 +1990,6 @@
 .leecurrylawfirm.com
 .adblock.leenit.kr
 .yarp.lefolgoc.net
-.br.servers.legat.ml
 .externalmobiel.lekdijk.online
 .sndkcuf.lekun.me
 .dns.lepilleur.com
@@ -2026,7 +2018,6 @@
 .africadns1.liquidtelecom.net
 .africadns2.liquidtelecom.net
 .sers.lirlab.su
-.dns.liruz.fr
 .dns.listo.click
 .dns.lithvik.com
 .dns.litong.dev
@@ -2050,7 +2041,6 @@
 .deweerd.loseyourip.com
 .ddd.loukky.com
 .ddd3.loukky.com
-.lovekers.cn
 .n5.lsasss.com
 .dns.lsho.top
 .lslnyjq.uk
@@ -2072,7 +2062,6 @@
 .orau.lz0724.com
 .orjp4.lz0724.com
 .addns1.m-it.ro
-.ag.m0fo.com
 .v971850.macloud.host
 .dns.mafyuh.io
 .guard.magic-pics.tk
@@ -2158,7 +2147,6 @@
 .mikezhang.xyz
 .dns.mikopono.nl
 .rwkdwpwsyv48.mikopono.nl
-.dns.milkpie.one
 .dns.millernetwork.uk
 .aitkcrev.minhduc.pw
 .minilla.store
@@ -2357,7 +2345,6 @@
 .dns.netvpn.net
 .cube.neubsi.at
 .dns.neubsi.at
-.katherine-dns.newcore.cl
 .doh.nexen.cloud
 .doh.luigi.nexific.it
 .dns.nextdns.io
