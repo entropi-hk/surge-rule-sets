@@ -2674,7 +2674,6 @@
 .2.dnscrypt-cert.quad9.net
 .dns.quanhd.net
 .quantumpulse.dev
-.quic.lol
 .dns.quickline.ch
 .doh.quickline.ch
 .dot.quickline.ch
@@ -2918,7 +2917,6 @@
 .ag.snrka.ru
 .guard.sntrk.ru
 .adguardhome.softcloud.pe
-.clientdns3.softcom.net
 .myprivityvpn.softether.net
 .solaxy.live
 .wtbd02.solowalk.top
