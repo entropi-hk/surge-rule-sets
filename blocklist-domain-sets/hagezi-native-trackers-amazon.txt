@@ -74,6 +74,9 @@
 .aax-vx-us-us-west-2.amazon-adsystem.com
 .aax.amazon-adsystem.com
 .ads-setu-proxy-eu.amazon.com
+.ads-setu-proxy-fe.amazon.com
+.ads-setu-proxy.amazon.com
+.ads.amazon.com
 .advertising-api-eu.amazon.com
 .advertising.a2z.com
 .advertising.amazon.ae

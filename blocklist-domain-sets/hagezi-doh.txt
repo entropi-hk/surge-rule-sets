@@ -3128,7 +3128,6 @@
 .adguard.trevorpease.me
 .tri-dns.net
 .tributh.net
-.dns.trifanov-online.ru
 .sq.trin.icu
 .doh.tritan-bb.net
 .trovs.ru
@@ -3172,7 +3171,6 @@
 .ines.zfn.uni-bremen.de
 .galileo.math.unipd.it
 .dns.unitech.company
-.dns.unitynetwork.ru
 .unp.im
 .resolver.unstoppable.io
 .doh.unveildns.com
@@ -3406,7 +3404,6 @@
 .adg.yybyy.wiki
 .dns.daemon.za.net
 .zabolotskikh.dev
-.dns.zachbosh.com
 .adguard.zachitect.com
 .zakaria.website
 .akylah.zapto.org
@@ -3434,7 +3431,6 @@
 .zougloub.eu
 .d.zscale.gq
 .ztv.su
-.lookup.zucx.net
 .dns.zui.lol
 .zulkas.top
 .httpdns.zybang.com
