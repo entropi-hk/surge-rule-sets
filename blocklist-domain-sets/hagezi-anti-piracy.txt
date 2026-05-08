@@ -2144,11 +2144,9 @@
 .cinepulse.au
 .cinepulse.cam
 .cinepulse.cc
-.cinepulse.ch
 .cinepulse.cx
 .cinepulse.fr
 .cinepulse.info
-.cinepulse.live
 .cinepulse.lol
 .cinepulse.org
 .cinepulse.to
@@ -2317,6 +2315,7 @@
 .cueclub.com.bd
 .digitalbroadband.com.bd
 .dizipal1.com.tr
+.dizipal2.com.tr
 .www.e24.com.bd
 .ekino.com.ua
 .filmoflix.com.cv
@@ -7262,7 +7261,6 @@
 .mycima.host
 .mycima.im
 .mycima.kim
-.mycima.la
 .mycima.live
 .mycima.loan
 .mycima.lol
@@ -7286,7 +7284,6 @@
 .mycima.study
 .mycima.style
 .mycima.surf
-.mycima.tv
 .mycima.us
 .mycima.vin
 .mycima.ws
@@ -8653,6 +8650,7 @@
 .mail.realliferpg.de
 .realstation.live
 .realstresser.com
+.reanime.to
 .rebellyon.tv
 .reboot.tube
 .receitasone.com
@@ -11070,6 +11068,7 @@
 .ultradownloads.com
 .ultraflixhd.net
 .ultramovies.net
+.cerf.cs.umd.edu
 .websites.umich.edu
 .ummagurau.com
 .umq.me
