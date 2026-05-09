@@ -155,6 +155,7 @@
 .ads.tiktok.tv
 .ads-api.tiktok.com
 .ads-frontier.tiktok.com
+.ads-ru.tiktok.com
 .ads-service.tiktok.com
 .ads-sg.tiktok.com
 .ads-useast2a.tiktok.com
@@ -512,6 +513,7 @@
 .ads-ttp2.tiktokw.eu
 .ads16-normal-useastred.tiktokw.eu
 .analytics-exp-ttp2.tiktokw.eu
+.analytics-exp16-normal-useastred.tiktokw.eu
 .analytics-ie.tiktokw.eu
 .analytics-ipv6.tiktokw.us
 .analytics-ttp2.tiktokw.eu
