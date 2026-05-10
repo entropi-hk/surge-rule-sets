@@ -354,6 +354,7 @@
 .5play.org
 .5tigorsk.ru
 .5tv5.ru
+.60-fps.org
 .6006096.xyz
 .61626c.net
 .64dd.org
@@ -406,6 +407,7 @@
 .958jmt7addr.com
 .960303.xyz
 .9993721.xyz
+.9anime.digital
 .9anime.ru
 .9anime.to
 .9anime.website
@@ -472,9 +474,11 @@
 .a2zcrack.com
 .a8bt.com
 .aarsen.me
+.abandon5000.com
 .abandonhouse.com
 .abbaspc.net
 .abcflixbd.com
+.crazyhack.abclan.com
 .abcmovies.tv
 .abcmoviesbd.com
 .abcvg.info
@@ -547,6 +551,7 @@
 .ahoylist.net
 .9kmovies.ai.in
 .skymovieshd.ai.in
+.tracker.aibt.xyz
 .aidey.io
 .aimhaven.com
 .aimweb.ru
@@ -637,6 +642,7 @@
 .altadefinizione.agency
 .altadefinizione.al
 .altadefinizione.autos
+.altadefinizione.bar
 .altadefinizione.beauty
 .altadefinizione.bet
 .altadefinizione.bond
@@ -650,6 +656,7 @@
 .altadefinizione.community
 .altadefinizione.cx
 .altadefinizione.cyou
+.altadefinizione.date
 .altadefinizione.dating
 .altadefinizione.de
 .altadefinizione.eu
@@ -670,6 +677,7 @@
 .altadefinizione.life
 .altadefinizione.live
 .altadefinizione.love
+.altadefinizione.ma
 .altadefinizione.me
 .altadefinizione.navy
 .altadefinizione.net
@@ -683,6 +691,7 @@
 .altadefinizione.pink
 .altadefinizione.red
 .altadefinizione.ru
+.altadefinizione.sh
 .altadefinizione.solutions
 .altadefinizione.tienda
 .altadefinizione.tokyo
@@ -713,6 +722,7 @@
 .altadefinizione01.com
 .altadefinizione01.email
 .altadefinizione01.fm
+.altadefinizione01.fyi
 .altadefinizione01.games
 .altadefinizione01.info
 .altadefinizione01.site
@@ -750,6 +760,7 @@
 .altadefinizionegratis.host
 .altadefinizionegratis.ink
 .altadefinizionegratis.life
+.altadefinizionegratis.mom
 .altadefinizionegratis.monster
 .altadefinizionegratis.news
 .altadefinizionegratis.onl
@@ -763,6 +774,7 @@
 .altadefinizionegratis.space
 .altadefinizionegratis.store
 .altadefinizionegratis.surf
+.altadefinizionegratis.today
 .altadefinizionegratis.vip
 .altadefinizionegratis.watch
 .altadefinizionegratis.wiki
@@ -872,6 +884,7 @@
 .animehub.ac
 .animeid.cc
 .animeid.tv
+.animeindex.net
 .animekai.to
 .animekaizoku.com
 .animekayo.com
@@ -896,6 +909,7 @@
 .animepahe.com
 .animepahe.org
 .animepahe.pw
+.animepahe.ru
 .animepahetv.to
 .animepill.com
 .animeplex.fun
@@ -962,13 +976,16 @@
 .ankeschwarz.net
 .annas-archive.ax
 .annas-archive.cc
+.annas-archive.ch
 .annas-archive.com
 .annas-archive.cyou
 .annas-archive.gd
 .annas-archive.gl
 .annas-archive.gs
 .annas-archive.icu
+.annas-archive.li
 .annas-archive.pk
+.annas-archive.pm
 .annas-archive.su
 .annas-archive.sx
 .annas-archive.top
@@ -1063,6 +1080,7 @@
 .apkwind.com
 .apkzone.net
 .embx224539.apl366.me
+.app-valley.vip
 .appdb.to
 .appdoze.com
 .applegamingwiki.com
@@ -1089,6 +1107,7 @@
 .aptoide.com
 .apunka.games
 .apunkagames.com
+.apunkagames.cyou
 .apunkagames.net
 .apunkasoftware.net
 .arabfilms.org
@@ -1161,6 +1180,7 @@
 .at123movies.com
 .at4re.com
 .atarimania.com
+.atdhe.pro
 .ativadorkmspico.com
 .atlas-pro.tv
 .atlaspro.tv
@@ -1188,7 +1208,9 @@
 .audiobookss.com
 .audionews.org
 .audionews.ru
+.audiop2p.com
 .audiostuff.ro
+.audiozonetorrents.com
 .aurastresser.com
 .auratorrent.pl
 .aurorabird6.live
@@ -1345,6 +1367,7 @@
 .bhalukabroadband.com
 .bhlegend.com
 .bhpt4vip.com
+.bhuiyan-online.com
 .biberona.com
 .bibliotik.me
 .bigbbs.eu
@@ -1364,6 +1387,7 @@
 .bingee.watch
 .bingeguy.com
 .bingemachine.com
+.bingewatch.to
 .binimoynet.com
 .binnews.in
 .binnewsgroup.com
@@ -1374,6 +1398,7 @@
 .binzb.com
 .mkvcinemasmovies.bio.link
 .moviesmod.bio.link
+.bioscopeblog.net
 .biotorrents.net
 .birds-of-binaries.com
 .tracker.birkenwald.de
@@ -1404,8 +1429,10 @@
 .bithumen.ru
 .bitlord.com
 .bitlorddl.com
+.bitmanija.net
 .bitme.org
 .bitmetv.org
+.bitmovie.org
 .bitnation.com
 .bitnetbd.com
 .bitnova.info
@@ -1413,6 +1440,7 @@
 .bitport.io
 .bitru.org
 .bitsearch.to
+.bitseduce.com
 .bitsnoop.com
 .bitsources.com
 .bitsparadise.info
@@ -1547,6 +1575,7 @@
 .bluebird-hd.org
 .tracker.bluefrog.pw
 .bluehorizon4.site
+.bluemediafile.online
 .bluemediafile.site
 .bluemediafiles.com
 .bluemediafiles.xyz
@@ -1628,6 +1657,7 @@
 .booter.org
 .booter.pw
 .booter.sx
+.booter.vip
 .booter.xyz
 .bootlegs.su
 .bootylounge.org
@@ -1684,6 +1714,7 @@
 .bt-chat.com
 .tracker.bt-hash.com
 .bt-revolution.net
+.dht.bt251.com
 .bt4g.org
 .tracker.bt4g.com
 .bt4gprx.com
@@ -1693,6 +1724,7 @@
 .btbot.com
 .btbtt.com
 .btbtw.com
+.tracker.btcake.com
 .tainanleba.btchichi.hair
 .t.btcland.xyz
 .btdb.eu
@@ -1881,6 +1913,7 @@
 .cb01.live
 .cb01.love
 .cb01.marketing
+.cb01.me
 .cb01.net
 .cb01.network
 .cb01.news
@@ -1891,6 +1924,7 @@
 .cb01.racing
 .cb01.red
 .cb01.review
+.cb01.sbs
 .cb01.school
 .cb01.social
 .cb01.solutions
@@ -1926,6 +1960,7 @@
 .ccracks.com
 .cctv.army
 .cda-hd.cc
+.cdcovers.cc
 .cddownloadeasy.org
 .cddownloadfree.org
 .cdkeysgames.com
@@ -2032,6 +2067,7 @@
 .cineblog01.boo
 .cineblog01.boutique
 .cineblog01.casa
+.cineblog01.cfd
 .cineblog01.claims
 .cineblog01.cloud
 .cineblog01.codes
@@ -2047,6 +2083,8 @@
 .cineblog01.fun
 .cineblog01.in
 .cineblog01.info
+.cineblog01.ink
+.cineblog01.io
 .cineblog01.ist
 .cineblog01.it
 .cineblog01.kaufen
@@ -2058,6 +2096,7 @@
 .cineblog01.lol
 .cineblog01.love
 .cineblog01.luxe
+.cineblog01.me
 .cineblog01.mom
 .cineblog01.net
 .cineblog01.ooo
@@ -2066,6 +2105,7 @@
 .cineblog01.qpon
 .cineblog01.red
 .cineblog01.rest
+.cineblog01.services
 .cineblog01.sh
 .cineblog01.skin
 .cineblog01.spa
@@ -2168,7 +2208,9 @@
 .circleftp.net
 .circlenetworkbd.net
 .city9x.com
+.citybit.ro
 .citycloudbd.com
+.citymovie.org
 .citynet.live
 .citynetbd.com
 .cityplex.net
@@ -7710,7 +7752,6 @@
 .nullsroyale.net
 .nullsservers.com
 .nunflix.live
-.nunflix.org
 .nunuju.tv
 .nunuyy.cc
 .piratestreaming.nuovo.live
@@ -9385,6 +9426,7 @@
 .softsclub.com
 .softserialskey.com
 .softtorrents.org
+.softwanime.com
 .softwar.ru
 .software-free.net
 .softwarebits.net

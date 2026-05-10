@@ -317,6 +317,7 @@
 .atsilva.link
 .atsssgo.xyz
 .dohtrial.att.net
+.dns.auapi.fun
 .auberge78.site
 .dns.audet.cloud
 .dns.auffray.org
@@ -356,6 +357,7 @@
 .httpdns.baidu.com
 .httpsdns.baidu.com
 .httpdns.baidubce.com
+.dns.baishiyuan.cn
 .adguard.baltes.info
 .bancuh.com
 .barnabech.fr
