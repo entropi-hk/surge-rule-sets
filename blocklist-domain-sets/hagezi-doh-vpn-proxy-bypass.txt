@@ -4021,11 +4021,21 @@
 .dns2.thylacine.co.nz
 .tigervpns.co.uk
 .doh.tsmu.co.id
+.uk-proxy.co.uk
 .unblocksites.co.uk
 .dns1.understandingcyber.co.uk
 .dns.unknown-universe.co.uk
 .vanillacoke.co.uk
 .sainttech.veranda.co.id
+.chejfnreeje.vets.co.il
+.football.coach.vets.co.il
+.fern-the-goat.vets.co.il
+.fernisbest.vets.co.il
+.jncbfekejd.vets.co.il
+.monkeys9238822.vets.co.il
+.wecookedthistimebri.vets.co.il
+.xocjckekrn.vets.co.il
+.yes.vets.co.il
 .vpn-proxies.co.cc
 .vpn-services.co.cc
 .vpncompare.co.uk
@@ -4110,12 +4120,14 @@
 .edu-english.asolafirma.com.ar
 .cmdc.astrodestino.com.ar
 .api.bcsdny.com.de
+.sunmer-camp.bestprograms4kids.com.au
 .67.bfcontrol.com.mx
 .67in2026.bfcontrol.com.mx
 .learnvcsa.bfcontrol.com.mx
 .pnontop.bfcontrol.com.mx
 .vcsa.rosin.bfcontrol.com.mx
 .weloveplayernation.bfcontrol.com.mx
+.tasks.media.bianchetti.com.ar
 .ugh.binodbabusharma.com.np
 .test.businessconnect.com.tr
 .hai.carladutra.com.br
@@ -4132,6 +4144,7 @@
 .co-kuailian.com.cn
 .dns.complianceauditores.com.br
 .eggmanmasterplan.comtek.com.ar
+.tailsmasterplan.comtek.com.ar
 .study.construtoradantas.com.br
 .croxyproxy.com.in
 .cs-kuailian.com.cn
@@ -4488,6 +4501,7 @@
 .crazyfastrace.lol
 .crazysurfer.info
 .crbtqxdu.com
+.createssh.com
 .createssh.net
 .creationlong.org
 .creativechurchnetwork.com
@@ -4509,6 +4523,7 @@
 .crimson-latch.com
 .cristianocosta.me
 .dns.itsec.crolla.net
+.fern.crosbreaker.dev
 .crosswall.cc
 .crownproxy.com
 .crownrealty.org
@@ -4963,6 +4978,7 @@
 .net4ebur.fra1.digitaloceanspaces.com
 .package.nyc3.digitaloceanspaces.com
 .dns.digitalsize.net
+.digitalvpn.info
 .diglet.org
 .dild.loan
 .eka.dilli.dev
@@ -5068,6 +5084,8 @@
 .guigu.dns.army
 .hehehegnmath.dns.army
 .homec92.dns.army
+.jolly1.dns.army
+.moremore.dns.army
 .dns.dns-53.com
 .dns.dns-53.uk
 .dns.dns-53.us
@@ -5354,6 +5372,7 @@
 .downloadhiro.app
 .downloadqq.xyz
 .downloads-kl.com
+.downloads-klvpn.com
 .downloads-kuailian.com
 .downloads-lets.com
 .downloads-letsvpn.com
@@ -5564,6 +5583,7 @@
 .adguard.ekhozie.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
+.saomai.dynu.com
 .getjumpscared.dynv6.net
 .ineedmymoney.dynv6.net
 .treesareplanted.dynv6.net
@@ -6265,6 +6285,7 @@
 .expressvpn.tools
 .expressvpn.works
 .expressvpn.xyz
+.rh4.ext.rocks
 .proxy.extension.vn
 .extratv.org
 .extravpn.top
@@ -6793,6 +6814,7 @@
 .fiberproxy.net
 .fiberproxy.us
 .fidelius.top
+.dns.fifux.be
 .figcat.cc
 .figdon.com
 .figure.run
@@ -6944,6 +6966,7 @@
 .foofriendsgw.com
 .fooksun.xyz
 .real.theory.footynews.info
+.for-privacy.net
 .for-veto.ru
 .foreground.work
 .garland.isd.foresightgroup.pl
@@ -7144,6 +7167,7 @@
 .study.freude-macherei.ch
 .vvv.freya.moe
 .dns.freyja.pw
+.dns.friezer.eu
 .b0oqp4lcca12psyk18labup2rztiltdh.frii.site
 .goonerbuttsex.frii.site
 .school.frii.site
@@ -14493,6 +14517,7 @@
 .simplexsolutionsinc.com
 .simply-history.xyz
 .dns.simplylinux.ch
+.sinaproject.xyz
 .dns.sindominio.net
 .bring-your-own.sinewave.cc
 .sing-box.org

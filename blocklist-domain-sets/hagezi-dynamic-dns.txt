@@ -214,6 +214,7 @@
 .coreytech.com
 .couchpotatofries.org
 .counterlight.com
+.cpct.com
 .cpsnet.cz
 .crabdance.com
 .crackedsidewalks.com
@@ -369,6 +370,7 @@
 .dynamai.com
 .dynamic.domains
 .dynamic-dns.net
+.dynamic-dns.us
 .dynamic-m.com
 .dynamic-site.net
 .dynamicdns.biz

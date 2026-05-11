@@ -937,6 +937,7 @@
 .animetorrents.com
 .animetorrents.me
 .animetosho.org
+.animetosho.xyz
 .animeua.club
 .animeultima.to
 .animevibe.tv
@@ -2303,6 +2304,7 @@
 .swimhereford.co.uk
 .thepb.co.uk
 .thepiratebay.co.com
+.trackerzone.co.uk
 .warez4ever.co.il
 .xalaflix.co.uk
 .coalyf.beer
@@ -2313,6 +2315,7 @@
 .codelist.cc
 .watch.coen.ovh
 .coexist.biz
+.coflix.app
 .coflix.bet
 .coflix.blog
 .coflix.boo
@@ -2323,6 +2326,7 @@
 .coflix.fi
 .coflix.foo
 .coflix.men
+.coflix.moe
 .coflix.mov
 .coflix.nexus
 .coflix.ninja
@@ -2401,8 +2405,10 @@
 .salamonline.com.bd
 .seriezloaded.com.ng
 .skynet.com.bd
+.slnisp.com.bd
 .soap2day.com.co
 .starflix.com.br
+.startflix.com.br
 .steamunlocked.com.br
 .streamm4u.com.co
 .strimki.com.pl
@@ -2421,9 +2427,11 @@
 .xalaflix.com.se
 .yt1s.com.co
 .www.midea123.z-media.com.cn
+.zenkimex.com.mx
 .comandofilmetorrent.com
 .comandohdtorrents.com
 .comandotorrenthd.net
+.comandotorrents.com
 .comandotorrents.org
 .comandotorrentshd.net
 .mywebpages.comcast.net
@@ -2502,6 +2510,7 @@
 .crack.ms
 .crack-cd.com
 .crack-cd.net
+.crack4patch.com
 .crack4soft.com
 .crack55.com
 .crack81.com
@@ -2781,6 +2790,7 @@
 .ddosbreak.com
 .ddosclub.com
 .ddosforhire.net
+.ddosit.net
 .ddostheworld.com
 .ddownload.com
 .tracker.ddunlimited.net
@@ -2818,6 +2828,7 @@
 .open.demonoid.ch
 .open-tracker.demonoid.ch
 .open-v6.demonoid.ch
+.public.demonoid.ch
 .demons-eye.me
 .dendox.org
 .deporte-libre.click
@@ -2849,6 +2860,7 @@
 .dfast.app
 .dfichiers.com
 .dflix.live
+.em.dfnbd.net
 .tube.dfnbd.net
 .dfox.it
 .mixes.dfx.at
@@ -2880,6 +2892,7 @@
 .digimoviez40.top
 .diginetbd.net
 .digital-eliteboard.com
+.digital-zone.xyz
 .digitalboots.net
 .tracker.digitalcore.club
 .www2.digitaldistractions.org
@@ -2975,6 +2988,7 @@
 .share.dmhy.org
 .u2.dmhy.org
 .dna2day.com
+.dnbtracker.org
 .dnetbd.com
 .dnetdrive.com
 .dnf24.com
@@ -3001,6 +3015,7 @@
 .dodi-repacks.site
 .dognzb.cr
 .doile378vtt.com
+.tracker.doko.moe
 .dokumen.pub
 .dokumentalne.net
 .dolwiz.com
@@ -3042,8 +3057,10 @@
 .dood.com
 .dood.contractors
 .dood.cool
+.dood.dev
 .dood.digital
 .dood.fan
+.dood.fans
 .dood.fun
 .dood.host
 .dood.ink
@@ -3054,6 +3071,7 @@
 .dood.ltd
 .dood.lu
 .dood.meme
+.dood.mov
 .dood.mx
 .dood.net
 .dood.news
@@ -3085,6 +3103,7 @@
 .dood.ws
 .dood.yt
 .dood.zip
+.doodcdn.co
 .doodcdn.com
 .doodcdn.io
 .doodd.stream
@@ -3171,6 +3190,7 @@
 .downturk.net
 .doxma.com
 .dp27.ru
+.dpstream.cc
 .dpstream.lol
 .dpstream.net
 .dpstream.rip
@@ -3193,6 +3213,7 @@
 .dramago.com
 .dramaqu.app
 .dramaqu.cloud
+.dramaqu.info
 .dramaqu.net
 .dramaqu.vip
 .dramaqu.website
@@ -3516,6 +3537,7 @@
 .eurostreaming.it
 .eurostreaming.live
 .eurostreaming.loans
+.eurostreaming.lol
 .eurostreaming.love
 .eurostreaming.makeup
 .eurostreaming.me
@@ -3540,6 +3562,7 @@
 .eurostreaming.us
 .eurostreaming.vg
 .eurostreaming.vip
+.eurostreaming.vote
 .eurostreaming.voto
 .eurostreaming.watch
 .eurostreaming.website
@@ -3591,6 +3614,7 @@
 .everydayjones.com
 .everythingmoe.com
 .everythingmoe.org
+.evil-zone.org
 .evillagectg.com
 .evillinks.de
 .evolution-network.ws
@@ -3659,6 +3683,7 @@
 .eztv.yt
 .eztv-torrent.com
 .eztvefnet.org
+.eztvmirror.com
 .eztvproxy.com
 .eztvstatus.com
 .eztvstatus.net
@@ -3775,6 +3800,7 @@
 .tracker.filepit.to
 .fileporn.org
 .filerio.com
+.filerio.in
 .filerush.com
 .tracker.files.fm
 .files4you.org
@@ -3851,6 +3877,7 @@
 .filmeseseriesonline.info
 .filmesonline.top
 .filmesonline2.com
+.filmesonlinegratis.co
 .filmesonlinepipoca.com
 .filmestorrent.tv
 .filmesviatorrents.biz
@@ -3915,6 +3942,7 @@
 .filmpertutti.de
 .filmpertutti.fm
 .filmpertutti.group
+.filmpertutti.info
 .filmpertutti.it
 .filmpertutti.li
 .filmpertutti.media
@@ -3943,7 +3971,9 @@
 .films-iphone.com
 .filmsaati1.cc
 .filmsenzalimite.one
+.filmsenzalimiti.best
 .filmsenzalimiti.blog
+.filmsenzalimiti.club
 .filmsenzalimiti.co
 .filmsenzalimiti.com
 .filmsenzalimiti.cool
@@ -4120,14 +4150,17 @@
 .flenix.net
 .flextorrents.com
 .flibustier64.com
+.flickystream.com
 .flimmerstube.com
 .flixanity.site
+.flixanity.xyz
 .flixdump.com
 .flixgo.net
 .flixhd.cc
 .flixhd.org
 .flixhq.app
 .flixhq.id
+.flixhq.lol
 .flixhq.net
 .flixhq.to
 .flixhub.net
@@ -4150,6 +4183,7 @@
 .flixtor.to
 .flixtor.vc
 .flixtor.win
+.flixwatch.site
 .flixwave.me
 .flixwave.to
 .flixxcine.app
@@ -4218,6 +4252,7 @@
 .footfy.pro
 .footy-bite.com
 .footybite.cc
+.footybite.com
 .footybite.io
 .footybite.one
 .foreverdrowning.com
@@ -4321,6 +4356,7 @@
 .freemoviesfull.com
 .freemp3.cc
 .freemp3.fm
+.freemp3juices.cc
 .freemp4moviez.com
 .freeoldies.com
 .freepeer.org
@@ -4328,6 +4364,7 @@
 .freerus.ru
 .freeserials.com
 .freesoft-board.to
+.freesoftonic.com
 .freesportstime.com
 .freestreams-live.top
 .freestreams-live1.com
@@ -4393,6 +4430,7 @@
 .fsave.net
 .fshare.vn
 .fsharetv.co
+.fshd.ro
 .one.fsphost.com
 .fstream.info
 .fstream.net
@@ -4408,6 +4446,7 @@
 .fuckfbi.me
 .fucktimkuik.org
 .fudanedu.ru
+.full-tv.xyz
 .full4movies.help
 .fullcrackserial.net
 .fulldls.com
@@ -4450,6 +4489,7 @@
 .futemax.app
 .futemax.cl
 .futemax.gratis
+.futemax.ink
 .futplayhd.net
 .future.net
 .futurenet-bd.com
@@ -4493,6 +4533,7 @@
 .gamegula.org
 .gamehayvl.com
 .gamekillerapp.com
+.gameloo.info
 .gamemodmobile.com
 .gamemp3s.net
 .gameofbay.org
@@ -6680,6 +6721,7 @@
 .megakino3.com
 .megakino3.org
 .megakino3.to
+.megakino4.com
 .megakinox.top
 .megamanmaker.com
 .megamodapk.com
@@ -9628,6 +9670,8 @@
 .stalker-world.ru
 .stanthecaddy.com
 .star4m.com
+.starckfilmes-v14.com
+.starckfilmes-v15.com
 .stardiima.top
 .starfiles.co
 .starflixbd.com
@@ -10086,6 +10130,10 @@
 .sudo-flix.lol
 .sudo-flix.rip
 .suesupriano.com
+.sultansportv0350.com
+.sultansportv0470.com
+.sultansportv0770.com
+.sultansportv0810.com
 .sumorb.com
 .sumotorrent.com
 .sumotorrent.sx
@@ -10227,6 +10275,9 @@
 .taraftarium24-amp.online
 .taraftarium24-hdizle17.vip
 .taraftarium24-hdizle19.vip
+.taraftarium24-patron33.vip
+.taraftarium24bjk.com
+.taraftarium24pro10.site
 .taringa.net
 .tarjetaroja.me
 .tarjetarojaenvivo.me
@@ -12222,6 +12273,7 @@
 .yallashoothub.com
 .yamgo.com
 .yams.tf
+.yanime.online
 .yaplukon.org
 .yaps.cc
 .yarrlist.net

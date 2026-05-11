@@ -1216,6 +1216,7 @@
 .adguard.ekhozie.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
+.saomai.dynu.com
 .dns.dynx.pro
 .adg.dz.ax
 .az.dz4fun.top
@@ -1366,6 +1367,7 @@
 .dot.ffmuc.net
 .dns.ffnw.de
 .fidelius.top
+.dns.fifux.be
 .dns.filipccz.eu
 .fimoshinckaya-federation.site
 .home.firetiresinc.com
@@ -1424,6 +1426,7 @@
 .zuk.freemyip.com
 .dns.freopc.fr
 .dns.freyja.pw
+.dns.friezer.eu
 .frkn.frkn.cloud
 .ivica-vulas.from.hr
 .dns.froth.zone
