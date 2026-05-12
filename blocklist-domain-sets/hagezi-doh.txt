@@ -1564,6 +1564,7 @@
 .dns.hanahira.dev
 .adguard.haneulo.com
 .dns.hanmey.de
+.hanniel.tech
 .dns.hannielzhang.com
 .jp.hannielzhang.com
 .d.hansj.cc
@@ -1732,7 +1733,9 @@
 .ikarosalpha.xyz
 .dns.ikataruto.com
 .mnsvless.ikwb.com
+.ilinhy.com
 .ilmxs.com
+.dns.imaicool.com
 .ad.imblien.com
 .noads.imbuffering.com
 .dns.imchristian.de
@@ -1880,6 +1883,7 @@
 .kallemarc.de
 .adguard.kalyanmudumby.com
 .dns.kamilszczepanski.com
+.jp.kano.sh
 .adguard.kantinyoyok.xyz
 .dns.kapite.in
 .dns.kapoww.tk
@@ -1998,6 +2002,7 @@
 .yarp.lefolgoc.net
 .externalmobiel.lekdijk.online
 .sndkcuf.lekun.me
+.lelux.fi
 .dns.lepilleur.com
 .dns.lermer.nl
 .lesuo.top

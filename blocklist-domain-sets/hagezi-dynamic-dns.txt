@@ -248,7 +248,6 @@
 .ddnsking.com
 .ddnslive.com
 .ddnss.ch
-.ddnss.de
 .ddnss.eu
 .ddnss.org
 .ddnssec.de
@@ -626,7 +625,6 @@
 .gw.lt
 .gw1.org
 .h-o-s-t.name
-.h0stname.net
 .h1x.com
 .h4ck.me
 .hackquest.com
@@ -647,6 +645,7 @@
 .hiddencorner.org
 .hijaxdesigns.com
 .hin.tw
+.hiprinter.com
 .his.name
 .hitremixes.com
 .hldns.ru
@@ -657,7 +656,6 @@
 .hokum-smack.com
 .home.kg
 .home-webserver.de
-.home64.de
 .homedns.org
 .homeftp.net
 .homeftp.org
@@ -905,7 +903,6 @@
 .maurinfor.com
 .mcsoft.org
 .mcwrite.net
-.ddns.me.uk
 .dynamicdns.me.uk
 .medbury.com
 .medittech.com
@@ -1156,7 +1153,6 @@
 .pudim.info
 .qc.to
 .qhigh.com
-.qlbv.vn
 .qpoe.com
 .qthome.org
 .quackerscomic.com
@@ -1183,6 +1179,7 @@
 .root64.de
 .roth.ca
 .route64.de
+.roxa.org
 .rpz.su
 .rtam.net
 .rum.si
@@ -1350,7 +1347,6 @@
 .thingsnewandused.com
 .thruhere.net
 .tinyrealm.com
-.tobuy.us
 .toh.info
 .topdns.com
 .topsddns.net
