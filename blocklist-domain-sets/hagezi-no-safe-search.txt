@@ -195,6 +195,7 @@
 .searx.stream
 .searx.work
 .searx.xyz
+.searxng.biz
 .searxzh.cn
 .skyn3t.in
 .suchfeuer.de

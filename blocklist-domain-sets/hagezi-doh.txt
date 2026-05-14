@@ -2570,6 +2570,7 @@
 .dns.struchkov.dev
 .dns.stud.cloud
 .la-doh.stuptech.com
+.doh.sublime9.xyz
 .doh.suche.org
 .dns.suhaila.dev
 .resolver.sunet.se
