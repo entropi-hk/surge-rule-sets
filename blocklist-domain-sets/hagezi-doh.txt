@@ -2701,6 +2701,7 @@
 .chronicle14.tplinkdns.com
 .ebpmc.tplinkdns.com
 .ngk81hc.tplinkdns.com
+.dns.tracker.ink
 .access.traders-friend.com
 .resolv1.trash.net
 .resolv2.trash.net
@@ -2783,6 +2784,7 @@
 .dns.vk09.ru
 .dns.vlo.cc
 .dns.vmisch.tech
+.dns.vod11.xyz
 .httpdns.volcengineapi.com
 .dns.volsap.ovh
 .adguard.vozersky.com
@@ -2884,6 +2886,7 @@
 .dns.xv.fi
 .dns.xwdmw.xyz
 .dns.xwu.us
+.v2.xx3210766.live
 .dns.xydustc.me
 .v1.xylto.com
 .dns.y2f.xyz

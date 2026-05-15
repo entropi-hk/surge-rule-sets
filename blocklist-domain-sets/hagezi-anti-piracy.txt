@@ -181,6 +181,7 @@
 .tainanleba.btchichi.hair
 .t.btcland.xyz
 .tracker.btschool.club
+.tr.btube3.com
 .tracker.btzoo.eu
 .tracker.bug38.com
 .csite.bugs3.com
@@ -1139,6 +1140,7 @@
 .udp.trackarr.org
 .bvarf.tracker.sh
 .nyaa.tracker.wf
+.open.tracker.ink
 .sukebei.tracker.wf
 .tracker.trackton.ga
 .tracker.tritan.gg
@@ -1201,8 +1203,10 @@
 .rlsbb.unblockit.asia
 .rlsbb.unblockit.black
 .rlsbb.unblockit.casa
+.rlsbb.unblockit.dad
 .rlsbb.unblockit.date
 .rlsbb.unblockit.download
+.rlsbb.unblockit.esq
 .rlsbb.unblockit.ing
 .rlsbb.unblockit.meme
 .rlsbb.unblockit.mov
@@ -1297,6 +1301,7 @@
 .w.wwwww.wtf
 .ns-1.x-fins.com
 .tracker.x6c.co
+.bt.xbox-sky.com
 .tracker.xdvdz.com
 .share.xfapi.top
 .tracker.xfapi.top
@@ -1310,6 +1315,7 @@
 .torrentum.y0.pl
 .en.y2mate.is
 .garaje.ya.com
+.tracker.yangxiaoguozi.cn
 .trackers.ydns.eu
 .wegkxfcivgx.ydns.eu
 .tracker.yemekyedim.com
@@ -2064,6 +2070,7 @@
 .altadefinizionegratis.host
 .altadefinizionegratis.ink
 .altadefinizionegratis.life
+.altadefinizionegratis.living
 .altadefinizionegratis.mom
 .altadefinizionegratis.monster
 .altadefinizionegratis.news
@@ -2077,6 +2084,7 @@
 .altadefinizionegratis.skin
 .altadefinizionegratis.space
 .altadefinizionegratis.store
+.altadefinizionegratis.study
 .altadefinizionegratis.surf
 .altadefinizionegratis.today
 .altadefinizionegratis.vip
@@ -3981,6 +3989,7 @@
 .dontorrent.promo
 .dontorrent.racing
 .dontorrent.reisen
+.dontorrent.rocks
 .dontorrents.com
 .dontorrents.org
 .dood.ac
@@ -6223,6 +6232,7 @@
 .ikwilthepiratebay.org
 .il-geniodellostreaming.bond
 .il-geniodellostreaming.club
+.il-geniodellostreaming.forum
 .ilcorsaronero.info
 .ilcorsaronero.link
 .ilf.net
@@ -11358,6 +11368,7 @@
 .tuxdistro.com
 .tv-livestream.online
 .tv-mediatheken.de
+.tv-qc.net
 .tv0800.com
 .tv1337.buzz
 .tv24bd.com
@@ -11462,6 +11473,7 @@
 .uhdmovies.store
 .uhdmovies.stream
 .uhdmovies.surf
+.uhdmovies.tips
 .uhdmovies.tube
 .uhdmovies.us
 .uhdmovies.wiki
@@ -11531,6 +11543,7 @@
 .unblockthe.net
 .unblocktheship.org
 .unblocktorrent.com
+.unblocktpb.com
 .unblockweb.one
 .undercream.com
 .underground-gamer.com
@@ -11566,6 +11579,7 @@
 .unlockedapk.com
 .unlockedpiratebay.com
 .up-4ever.net
+.upawg.ca
 .updatesofts.com
 .upeer.me
 .upfiles.com
@@ -11612,6 +11626,7 @@
 .utorrent.com
 .utorrent.li
 .utorrentfilmi.ru
+.utorrentgames.best
 .utorrentz2.in
 .uwatch.to
 .uwatchfree.icu
@@ -11664,6 +11679,7 @@
 .vegamovies.bj
 .vegamovies.black
 .vegamovies.boo
+.vegamovies.bot
 .vegamovies.build
 .vegamovies.business
 .vegamovies.cab
@@ -11678,6 +11694,7 @@
 .vegamovies.cheap
 .vegamovies.christmas
 .vegamovies.church
+.vegamovies.city
 .vegamovies.cl
 .vegamovies.codes
 .vegamovies.com
@@ -11710,6 +11727,7 @@
 .vegamovies.forex
 .vegamovies.forum
 .vegamovies.free
+.vegamovies.frl
 .vegamovies.gd
 .vegamovies.gives
 .vegamovies.giving
@@ -11762,6 +11780,7 @@
 .vegamovies.ph
 .vegamovies.phd
 .vegamovies.photos
+.vegamovies.pics
 .vegamovies.porn
 .vegamovies.press
 .vegamovies.ps
@@ -11776,8 +11795,11 @@
 .vegamovies.rs
 .vegamovies.rw
 .vegamovies.sale
+.vegamovies.sc
 .vegamovies.school
 .vegamovies.schule
+.vegamovies.se
+.vegamovies.services
 .vegamovies.shoes
 .vegamovies.si
 .vegamovies.skin
@@ -11790,6 +11812,7 @@
 .vegamovies.studio
 .vegamovies.supplies
 .vegamovies.support
+.vegamovies.tg
 .vegamovies.theater
 .vegamovies.tips
 .vegamovies.to
@@ -11816,6 +11839,7 @@
 .vegamovies.works
 .vegamovies.world
 .vegamovies.wtf
+.vegamovies.yoga
 .vegamovies.yt
 .vegamovies.zip
 .vegamovies6.com
@@ -12066,6 +12090,7 @@
 .warez.to
 .warez-bb.icu
 .warez-bb.org
+.warez-centre.com
 .warez-files.com
 .warez-heaven.ws
 .warez-host.com
@@ -12109,6 +12134,7 @@
 .warezstore.org
 .warezteam.ws
 .wareztheme.com
+.wareztorrent.com
 .wareztown.to
 .wareztuga.ws
 .warezturkey.org
@@ -12171,15 +12197,18 @@
 .watchsports.to
 .watchstream.site
 .watchtvepisodes.me
+.watchug.com
 .watchwrestling.in
 .watchwrestling.la
 .watchwrestling24.net
 .wawa-mania.ws
 .wawacity.blue
+.wawacity.ec
 .wawacity.ninja
 .wawacity.one
 .wawacity.red
 .wawacity.su
+.wawacity.tech
 .wawacity.tv
 .wawacity.vip
 .wawacity.ws
@@ -12514,9 +12543,11 @@
 .yifyhdtorrent.com
 .yifymovies.xyz
 .yifymoviesmx.live
+.yifymovietorrent.com
 .yifystatus.com
 .yifysub.net
 .yifysubtitles.me
+.yifysubtitles.vip
 .yifytorrent.cc
 .yifytorrent.vip
 .yifytorrents.net
@@ -12579,6 +12610,7 @@
 .yts.vc
 .yts.ws
 .yts.yt
+.yts.zone
 .yts-movie.cc
 .yts2.com
 .ytsauto.pro

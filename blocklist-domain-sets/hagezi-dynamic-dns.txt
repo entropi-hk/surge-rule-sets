@@ -57,10 +57,10 @@
 .99tac.com
 .abatek.com
 .abmetalmecanica.com
+.abrdns.com
 .access.ly
 .accesscam.org
 .acmetoy.com
-.ad.jp
 .adagio.tw
 .afraid.org
 .agropeople.ru
@@ -1371,6 +1371,7 @@
 .twsuser.com
 .tzo.com
 .ucvradio.cl
+.udp64.de
 .ufcfan.org
 .ufodns.com
 .ugo.si
