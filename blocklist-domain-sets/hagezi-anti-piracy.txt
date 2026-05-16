@@ -1359,7 +1359,6 @@
 .003396815.xyz
 .004430.xyz
 .0123456789nonexistent.com
-.0123movie.net
 .0123movie.onl
 .0123movie.online
 .0123movie.stream
@@ -1669,6 +1668,7 @@
 .4stream.gg
 .4watch.net
 .54new.com
+.55movierulz.com
 .57722252pnx.com
 .5927778.xyz
 .5dbgwxjk.com
@@ -10160,6 +10160,8 @@
 .streaming-community.asia
 .streaming-community.courses
 .streaming-community.fit
+.streaming-community.garden
+.streaming-community.guru
 .streaming-community.kaufen
 .streaming-community.sarl
 .streaming-community.study
