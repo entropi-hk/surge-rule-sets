@@ -274,7 +274,6 @@
 .dns.azfar.my
 .doh.azoris.ovh
 .sradg.eastus.cloudapp.azure.com
-.sradg2.eastus.cloudapp.azure.com
 .doh1.b-cdn.net
 .doh2.b-cdn.net
 .dns.b33.network
@@ -378,14 +377,12 @@
 .dns.brembeck.cloud
 .dns.briac-mlb.fr
 .dns.system.brianhong.kr
-.ag.brianlee.fun
 .dns.brionesserver.net
 .agh.broaddy.com
 .dns.brono.cloud
 .home.bruckmoser.it
 .81.brudnowski.eu
 .81xyz.brudnowski.eu
-.adguard.bse4792.site
 .doh.bt.com
 .goose.buckyfan.net
 .doh.bugdns.com
