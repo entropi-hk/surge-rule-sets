@@ -508,13 +508,8 @@
 .dns-one.lins.co.tt
 .dns-three.lins.co.tt
 .guard.lumusimc.co.uk
-.adg.mnml.co.in
 .dns.neilzone.co.uk
-.dns.nerdytechgeeks.co.za
-.ns.nerdytechgeeks.co.za
-.ns01.nerdytechgeeks.co.za
 .ns02.nerdytechgeeks.co.za
-.ns03.nerdytechgeeks.co.za
 .home.norvrandt.co.uk
 .dns.nzxti5.co.uk
 .dns.oliviertv.co.za
@@ -1042,7 +1037,6 @@
 .dns.dumk.in
 .adguard.duongphuckhanh.dev
 .atlantic.dyn1.de
-.dns.dyn1.de
 .akhilkalwakurthy.dyndns.org
 .ueni.dyndns.org
 .roucious.dyndns-remote.com
@@ -1052,7 +1046,6 @@
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
 .saomai.dynu.com
-.dns.dynx.pro
 .adg.dz.ax
 .az.dz4fun.top
 .dns.dzkji.cn
@@ -1087,7 +1080,6 @@
 .nas.embraced.co
 .gdns.end.pub
 .hk.end.pub
-.adguard.ender.fr
 .dns.engineer-lib.ru
 .dnssec.dns.enginyring.com
 .dns01.enginyring.com
@@ -1381,7 +1373,6 @@
 .dns.msk.hexagon1736.com
 .httpdns.ocloud.heytapmobi.com
 .dns.sgp.hicn.site
-.adg.meviusberry.hidns.co
 .mail.hilton-groups.com
 .dns.hinet.net
 .dns-01.hir.app
