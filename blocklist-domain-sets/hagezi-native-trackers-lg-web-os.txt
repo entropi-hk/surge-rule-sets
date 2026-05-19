@@ -1,4 +1,3 @@
-.alphonso.tv
 .ae-ad-lgsmartad-com.aws-prd.net
 .af-ad-lgsmartad-com.aws-prd.net
 .ag-ad-lgsmartad-com.aws-prd.net
@@ -165,7 +164,6 @@
 .eic-ngfts.lge.com.edgekey.net
 .kic-ngfts.lge.com.edgekey.net
 .qt2-ngfts.lge.com.edgekey.net
-.lgads.tv
 .eic-ngfts.lge.com
 .kic-ngfts.lge.com
 .qt2-ngfts.lge.com
@@ -336,3 +334,5 @@
 .rdl.lgtvcommon.com
 .wiseconfig.lgtvcommon.com
 .h4g3z1-native.lgwebos.web.app
+.alphonso.tv
+.lgads.tv

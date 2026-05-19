@@ -1618,7 +1618,6 @@
 .adguard.kalyanmudumby.com
 .dns.kamilszczepanski.com
 .jp.kano.sh
-.adguard.kantinyoyok.xyz
 .dns.kapite.in
 .dns.kapoww.tk
 .dns.karadag.me
@@ -1679,7 +1678,6 @@
 .xray.krnl.eu
 .dns.krol.cloud
 .hdns.ksyun.com
-.dns.kugoapps.com
 .dns.kukal.cz
 .agh.kul-lippek.de
 .dns.kusoneko.moe
@@ -1710,7 +1708,6 @@
 .tr.league1.xyz
 .adblock.leenit.kr
 .yarp.lefolgoc.net
-.externalmobiel.lekdijk.online
 .sndkcuf.lekun.me
 .dns.lepilleur.com
 .dns.lermer.nl
@@ -1783,7 +1780,6 @@
 .dns.maitrekuc.fr
 .dns.malhuda.com
 .dns.mandre.dev
-.doh.manish.ltd
 .adguard.manmademagic.com
 .dns.maolaohei.xyz
 .dns.maomaovpn.com
@@ -1867,7 +1863,6 @@
 .dns.moonssif.com
 .dns.moonwx.net
 .akunamatata8888.mooo.com
-.alexj123.mooo.com
 .disinformer.mooo.com
 .e23a.mooo.com
 .riga91197.mooo.com
@@ -2165,7 +2160,6 @@
 .dns.ourvau.lt
 .addns.ovalie.ovh
 .vps-1f675aa1.vps.ovh.us
-.dns.ovpn.bond
 .1a.ns.ozer.im
 .1b.ns.ozer.im
 .doh.p2cdn.cn
@@ -3172,7 +3166,6 @@
 .iij.jp
 .ikarosalpha.xyz
 .ilinhy.com
-.ilmxs.com
 .imperio.top
 .incaseineeditoneday.com
 .ingenmannsland.online
