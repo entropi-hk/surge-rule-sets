@@ -2193,7 +2193,6 @@
 .adguard.pggns.de
 .dns.pgnhatrang.com
 .mydns.phatna.net
-.dns.phatnt.org
 .dns.phillipjberry.net
 .adguard.piekacz.pl
 .dns.pierzchlewicz.pl
@@ -2206,7 +2205,6 @@
 .kronos.plan9-dns.com
 .pluton.plan9-dns.com
 .hydra.plan9-ns1.com
-.draco.plan9-ns2.com
 .door.plasmadancer.ru
 .secure-dns.pleumkungz.com
 .thanos.pleumkungz.com
@@ -2511,7 +2509,6 @@
 .wtbd02.solowalk.top
 .ns.solutics.ec
 .ns.solutionsbest.de
-.bwg.sooda.moe
 .adguard.spaceindex.net
 .lomoff.spb.ru
 .wifrousl.spdns.de
@@ -2527,7 +2524,6 @@
 .resolve.srv-pro.de
 .resolve02.srv-pro.de
 .resolve2.srv-pro.de
-.adguard.sscw.win
 .dns.sshub.win
 .doh.ntu.ssooss.win
 .ag.ssrahul96.xyz
@@ -2628,10 +2624,6 @@
 .iana.tenta.io
 .opennic.tenta.io
 .ag.teqilla.tk
-.au.teradns.org
-.de.teradns.org
-.ny.teradns.org
-.sg.teradns.org
 .tx.teradns.org
 .uk.teradns.org
 .apne1.dns.terumi.club
