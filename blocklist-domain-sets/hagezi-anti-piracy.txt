@@ -2263,6 +2263,7 @@
 .animeultima.to
 .animevibe.tv
 .animevostfr.tv
+.animeworld.me
 .animeworld.so
 .animeworld.tv
 .animex.click
@@ -7780,6 +7781,7 @@
 .movierulzhd.gold
 .movierulznet.com
 .movierulzonline.com
+.movierulzpl.com
 .movierulzzplz.com
 .movies.cab
 .movies-d.com
@@ -8280,6 +8282,7 @@
 .newhdmovie2.com
 .newhdmovie2.net
 .newhdmovie2.one
+.newhdmovie2.pro
 .newhdmovies.org
 .newhdmovies.top
 .newhdmovies24.net

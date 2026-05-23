@@ -2901,6 +2901,7 @@
 .dns.zarchbox.fr
 .register.zedzander.com
 .dns.zemows.industries
+.doh.zephyrus.id
 .adguard-kartoffel.zernico.de
 .oraclejp01.zerotorez.com
 .dns.zfsystem.tech

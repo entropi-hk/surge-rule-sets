@@ -7381,6 +7381,7 @@
 .classroom.zaydkrunz.com
 .register.zedzander.com
 .dns.zemows.industries
+.doh.zephyrus.id
 .brainpop.zeptoinitiative.org
 .closetome.zeptoinitiative.org
 .drive.zeptoinitiative.org
@@ -16271,6 +16272,7 @@
 .villalazza.stream
 .vilor.site
 .vimstera.xyz
+.vinny-stinks-like-dudu.com
 .vipdownloadmena.xyz
 .vipfive.xyz
 .vipfour.xyz
