@@ -1923,6 +1923,7 @@
 .allmovieland.one
 .allmovieland.you
 .allmoviesforyou.co
+.allmovieshub.agency
 .allmovieshub.win
 .allmyroms.net
 .allmyvideos.net
@@ -5213,6 +5214,7 @@
 .freeky.to
 .freeline.ws
 .freemediabd.com
+.freemovie-sites.net
 .freemovies.media
 .freemovies360.com
 .freemoviesfull.com
@@ -10226,6 +10228,7 @@
 .streamcomplet.me
 .streamcomplets.net
 .streamconnect.us
+.streamcorner.cc
 .streamcorner.click
 .streamcouch.com
 .streamdeouf.rip
