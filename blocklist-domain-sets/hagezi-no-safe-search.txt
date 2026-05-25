@@ -69,7 +69,6 @@
 .trovu.komun.org
 .search.laksith.dev
 .searx.lavatech.top
-.searx.linux.pizza
 .whoogle.lunar.icu
 .searx.lwhr.xyz
 .searx.lynnesbian.space
@@ -86,7 +85,6 @@
 .search.nebulacentre.net
 .searx.netzspielplatz.de
 .searxng.nicfab.eu
-.searx.nightmare.life
 .searx.nixnet.services
 .searxng.no-logs.com
 .whoogle.no-logs.com
@@ -166,7 +164,6 @@
 .mojeek.com
 .monstercrawler.com
 .mwmbl.org
-.neeva.com
 .nibblehole.com
 .nigma.eu
 .null.media
