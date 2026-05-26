@@ -6317,6 +6317,7 @@
 .doh-02.spectrum.com
 .doh-03.spectrum.com
 .sainttech.spencerbosworth.com
+.www-testus.spiderprx.com
 .www-proxy.spin.rip
 .dns.spirio.fr
 .soadfjrksf.lasdkfj.sportconceptmedia.ru
@@ -14990,7 +14991,6 @@
 .sitenable.com
 .sitenable.in
 .sitenable.org
-.sitescrack.host
 .sitespeedtest.net
 .sitesunblocked.com
 .siteunblock.org
@@ -15621,6 +15621,8 @@
 .towersflowerss.com
 .towervpn.com
 .tproxy.ink
+.tproxy.mom
+.tproxyru.live
 .tpymainx01.ru
 .tq8izzzrqtktkdoarptl3u.online
 .tqqzrbjd.com

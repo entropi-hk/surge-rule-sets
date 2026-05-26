@@ -354,6 +354,7 @@
 .citrixtelemetryeheu-alias.servicebus.windows.net
 .ehtelemetrystaging-alias.servicebus.windows.net
 .ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+.hme-live-loganalytics-namespace.servicebus.windows.net
 .hme-uat-loganalytics-namespace.servicebus.windows.net
 .licensingtelemetry-prod.servicebus.windows.net
 .nexxtv-events.servicebus.windows.net
