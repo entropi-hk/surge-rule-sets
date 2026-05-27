@@ -523,6 +523,7 @@
 .doh.tsmu.co.id
 .dns1.understandingcyber.co.uk
 .dns.unknown-universe.co.uk
+.doh.vpsdns.co.za
 .dns.walshnet.co.uk
 .agh.workfordemo.co.in
 .crusnik80.co.za
@@ -2024,6 +2025,7 @@
 .dns.niccoli.cc
 .dns.nick-slowinski.de
 .dns.nicolas.vip
+.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 .doh-own-recursion.nicolas-dorriere.fr
 .doh-random-upstream.nicolas-dorriere.fr
 .dns1.nielsdb.be

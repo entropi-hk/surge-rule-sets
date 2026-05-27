@@ -2016,6 +2016,7 @@
 .dns.unknown-universe.co.uk
 .sainttech.veranda.co.id
 .yes.vets.co.il
+.doh.vpsdns.co.za
 .dns.walshnet.co.uk
 .long.live.gaup.webconstructions.co.uk
 .crandall.kirkinator.webconstructions.co.uk
@@ -5238,6 +5239,7 @@
 .lightspeedmenolike.nicher.cl
 .dns.nick-slowinski.de
 .dns.nicolas.vip
+.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 .doh-own-recursion.nicolas-dorriere.fr
 .doh-random-upstream.nicolas-dorriere.fr
 .dns1.nielsdb.be
