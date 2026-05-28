@@ -304,6 +304,7 @@
 .analytics-listener.trafficmanager.net
 .beacons.trafficmanager.net
 .bingads.trafficmanager.net
+.ch-asimov-leafs-events-data.trafficmanager.net
 .collector-main.trafficmanager.net
 .dsp-ad-cache-tm.trafficmanager.net
 .eventservice.trafficmanager.net

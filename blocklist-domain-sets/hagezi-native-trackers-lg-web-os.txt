@@ -165,6 +165,7 @@
 .kic-ngfts.lge.com.edgekey.net
 .qt2-ngfts.lge.com.edgekey.net
 .eic-ngfts.lge.com
+.eic-qt2-ngfts.lge.com
 .kic-ngfts.lge.com
 .qt2-ngfts.lge.com
 .ruc-ngfts.lge.com

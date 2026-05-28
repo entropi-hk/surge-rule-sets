@@ -2438,6 +2438,7 @@
 .dns1.serdcebolit.ru
 .forzalaquila.servebeer.com
 .privatnas.servebeer.com
+.doh.serverhost.no
 .adguard.servernation.xyz
 .node9.servernode.store
 .adguard.serverrune.be
