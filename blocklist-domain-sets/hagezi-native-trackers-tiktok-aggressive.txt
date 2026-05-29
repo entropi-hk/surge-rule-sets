@@ -1,5 +1,7 @@
 .p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 .frontier23-normal-alisg.tiktokv.com.bpgslb.com
+.ads-sg.business-tiktok.com
+.ads-va.business-tiktok.com
 .frontier.byteoversea.com
 .gplog-sg.byteoversea.com
 .gplog-va.byteoversea.com

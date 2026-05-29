@@ -1,3 +1,5 @@
+.ads-sg.business-tiktok.com
+.ads-va.business-tiktok.com
 .frontier.byteoversea.com
 .gplog-sg.byteoversea.com
 .gplog-va.byteoversea.com
