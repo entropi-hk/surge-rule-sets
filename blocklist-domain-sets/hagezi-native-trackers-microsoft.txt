@@ -36,6 +36,12 @@
 .g.bing.com
 .raka.bing.com
 .c.bingapis.com
+.upload.fp.measure.office.com.corp.mmco.int.cardano.com
+.exo.nel.measure.office.net.cardano.com
+.identity.nel.measure.office.net.cardano.com
+.m365cdn.nel.measure.office.net.cardano.com
+.spo.nel.measure.office.net.cardano.com
+.teams.nel.measure.office.net.cardano.com
 .insights.cloud.microsoft
 .measure.office.net.edgesuite.net
 .collector.azure.eaglex.ic.gov
