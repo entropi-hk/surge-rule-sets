@@ -491,6 +491,7 @@
 .teamspeak.adriason.co.uk
 .adguard.cell.co.id
 .dns.chaosen3.co.uk
+.jb1doh.cipherdns.co.za
 .dns-01.computerservices.co.nz
 .dns-02.computerservices.co.nz
 .adg.datamatter.co.za
