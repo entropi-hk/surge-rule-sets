@@ -257,10 +257,6 @@
 .dns.auapi.fun
 .dns.audet.cloud
 .dns.auffray.org
-.africa.avastdns.com
-.europe.avastdns.com
-.europe-west.avastdns.com
-.secure.avastdns.com
 .adguard.avavd.ru
 .vps.avc.cx
 .dnstx.axhy.cc
@@ -2879,6 +2875,7 @@
 .dns.yuu-g.net
 .dns.yuyz.net
 .dns.yuzia.cc
+.doh.ywhost.com
 .httpdns.gslb.yy.com
 .dns.yyaan.com
 .dns.yyaan.top
@@ -2977,9 +2974,7 @@
 .aridia.ru
 .atris.cyou
 .atsilva.link
-.atsssgo.xyz
 .auberge78.site
-.axaxa.fun
 .axistechsupport.com
 .b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 .bancuh.com
