@@ -300,6 +300,7 @@
 .cloud.beerloga.su
 .senko.beerloga.su
 .dns.belnet.be
+.adblock.benmeyer.net
 .dns.bermeitinger.eu
 .domburg.beruys.com
 .dns.bgeneto.com
@@ -386,8 +387,6 @@
 .dns.burgas.pro
 .dns.busold.ws
 .dns.butterfly87.sbs
-.adc.bxq.net
-.sig.bxq.net
 .dns.c0ntroller.de
 .jujuba.cafuringa.org
 .dns.cahlen.com
@@ -539,6 +538,7 @@
 .dns.7sec.com.br
 .dns.alwynstudio.com.au
 .kdgnkjho4od8w40.americasnet.com.br
+.akari.anime.com.my
 .isekai.anime.com.my
 .shinano.anime.com.my
 .test.businessconnect.com.tr
@@ -561,6 +561,7 @@
 .dns.weixin.qq.com.cn
 .dns.redhosting.com.ar
 .host94.rheingold.com.ua
+.dns.rkjha.com.np
 .cloud.securifi.com.my
 .dns.snaketech.com.br
 .adg.spacework.com.mx
@@ -606,6 +607,7 @@
 .dns2.cybrespace.net
 .dns.cynthialabs.net
 .dns.cysynex.cloud
+.honor.cyvexadns.online
 .nextcloud.d-alahmad.de
 .dns.d365.in
 .s2.d3mik.ru
@@ -912,6 +914,7 @@
 .yyz01.dnscry.pt
 .yyz02.dnscry.pt
 .zal01.dnscry.pt
+.zrh01.dnscry.pt
 .dns1.dnscrypt.ca
 .do.dnscrypt.uk
 .doh.dnscrypt.uk
@@ -944,7 +947,6 @@
 .fr1.dnswarden.com
 .sg1.dnswarden.com
 .uncensored-dot.dnswarden.com
-.dnsfilter.domotik.us
 .doh.domreg.lt
 .takhtakh.domyah.net
 .dns.doserver.top
@@ -969,7 +971,6 @@
 .yukito.duanzx.top
 .adfreemb.duckdns.org
 .adgrm.duckdns.org
-.adguardcalpena.duckdns.org
 .andryk111.duckdns.org
 .andrykarcew.duckdns.org
 .armm.duckdns.org
@@ -985,6 +986,7 @@
 .home27.duckdns.org
 .homejerem.duckdns.org
 .hrsm12181.duckdns.org
+.isfrntshck-pipka.duckdns.org
 .jfeoks.duckdns.org
 .jonzalvo.duckdns.org
 .jurre-home.duckdns.org
@@ -1076,6 +1078,7 @@
 .dns.envs.net
 .dns.enzomtp.party
 .adguard.eoghan-net.com
+.adguard2.eoghan-net.com
 .dns.epcot.fr
 .dns.epic.st
 .bl.eq.md
@@ -1111,6 +1114,7 @@
 .armorrush.eu.org
 .beautifullife.eu.org
 .beautifulthings.eu.org
+.blackbb.eu.org
 .clic.eu.org
 .r1bnc.eu.org
 .sukidayo.eu.org
@@ -1150,6 +1154,7 @@
 .dns.farshmc.ru
 .adh.fastpacefixit.info
 .adguardhome.favrep.ovh
+.dns2.fawz.de
 .ns0.fdn.fr
 .ns1.fdn.fr
 .agh.feblab.click
@@ -1166,7 +1171,6 @@
 .dns.ffnw.de
 .dns.fifux.be
 .dns.filipccz.eu
-.home.firetiresinc.com
 .adg.fiyaajans.com
 .dns.fizz.studio
 .resolve.fknw.de
@@ -1420,6 +1424,7 @@
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work
+.dns.hussainnabil.de
 .dns.huth.nu
 .v2-1.huwenqiang.xyz
 .ad.huyct.net
@@ -1615,6 +1620,7 @@
 .dns.kastner-online.de
 .dns.kawa.tf
 .dns.kc2wbx.com
+.ad.kccsl.top
 .dns.kebree.fr
 .dns2.keinewerbung.me
 .guard.keiper.net
@@ -1777,6 +1783,7 @@
 .home.marcrnt.de
 .ag.marschi.de
 .dns.marschi.de
+.dt.marss.vip
 .ddns.martinmore.online
 .adguard.marto.si
 .extra.mask.ad
@@ -2040,6 +2047,7 @@
 .adguard.nocnik.org
 .cattery.noddos.top
 .cattery2.noddos.top
+.ag.node15.com
 .pi1.node15.com
 .dns.nodoa.me
 .nfnvr.noiselink.com
@@ -2389,6 +2397,7 @@
 .doh.safesurfer.io
 .dns.safko.eu
 .dns.sainternet.xyz
+.dns.sales-kbr.online
 .lime.samonte.ovh
 .cloud.samutz.com
 .dns.saneaki.com
@@ -2430,6 +2439,7 @@
 .dns.seia.io
 .dns.seiffert.me
 .dns.sellan.fr
+.korridor.semia-infra.net
 .adguard.senthil.us
 .dns.serdcebolit.ru
 .dns1.serdcebolit.ru
@@ -2693,6 +2703,7 @@
 .vless-service.ufodns.com
 .blokuj.ujwie.co
 .nitter.ujwie.co
+.adguard.ulbricht.cloud
 .rb750gr3.ulfhednar.ru
 .doh.ultradns.com
 .dns.umbrella.com
@@ -2866,6 +2877,7 @@
 .dns.youni.win
 .guard.yps.tw
 .dus.ysbs.uk
+.doh.yspv.ru
 .dns.ytpom.ru
 .dns2.ytpom.ru
 .dns.yu.dev
@@ -3083,6 +3095,7 @@
 .excelkin.online
 .extratv.org
 .eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
+.f4f.es
 .fanscloud.net
 .faradns.net
 .faradns2.net
@@ -3104,6 +3117,7 @@
 .gl33tch.pro
 .glacius.top
 .globalcloud.ir
+.goldview.in
 .golegana.de
 .graveofhope.ru
 .greatideasforlife.lol
@@ -3201,6 +3215,7 @@
 .mailkyb.co
 .maincloud.ir
 .malanser.ru
+.malelolula.store
 .maqgie.xyz
 .mastergad.me
 .masters-of-cloud.de
@@ -3301,6 +3316,7 @@
 .safeservedns.com
 .sascha-rabold.de
 .schimtar.com
+.schulhelfer-mathe-deutsch.de
 .scottdylewski.com
 .sdvizhkov.ru
 .selsby.info
