@@ -1332,9 +1332,6 @@
 .adg-nl.h4nt3r.com
 .adg-swe.h4nt3r.com
 .adguard.h4nt3r.com
-.clean.hadan-dns.de
-.ns1.hadan-dns.de
-.ns2.hadan-dns.de
 .secure.hafnova.com
 .dns.hahnjo.de
 .dns.haka.se
@@ -1415,7 +1412,6 @@
 .doh.hshkf.com
 .pub.hsuan.ink
 .dnsguard.hte.vn
-.dns3.hu10us22.win
 .dns.huanmave.cc
 .dns.huas.me
 .httpdns.huaweicloud.com
@@ -1558,7 +1554,6 @@
 .host.jerry-lee.uk
 .dns.jerryw.cn
 .adguard.jfchenier.ca
-.adguard.jfpii.com
 .dns.jhangy.us
 .dns.jichi.io
 .dns.jimirobaer.be
@@ -3134,7 +3129,6 @@
 .hfgx.shop
 .hg8.asia
 .hgrps.eu
-.himedns.com
 .hitian.me
 .home-server.store
 .home34.su
@@ -3164,7 +3158,6 @@
 .jabber-germany.de
 .jabber-server.de
 .jackyes.ovh
-.jcdns.fun
 .jimmyshjj.top
 .jkdns.me
 .jnprd.com
