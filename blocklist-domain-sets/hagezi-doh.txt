@@ -1695,7 +1695,6 @@
 .adguard2.leadmon.net
 .tr.league1.xyz
 .adblock.leenit.kr
-.yarp.lefolgoc.net
 .sndkcuf.lekun.me
 .dns.lepilleur.com
 .dns.lermer.nl
@@ -1740,7 +1739,6 @@
 .doh.phdns5.lonet.org
 .deweerd.loseyourip.com
 .ddd.loukky.com
-.ddd3.loukky.com
 .n5.lsasss.com
 .dns.lsho.top
 .dns1.luan.contact
@@ -2025,8 +2023,6 @@
 .dns.nick-slowinski.de
 .dns.nicolas.vip
 .doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
-.doh-own-recursion.nicolas-dorriere.fr
-.doh-random-upstream.nicolas-dorriere.fr
 .dns1.nielsdb.be
 .adguard.nielsenhost.dk
 .dns.nieto.app
@@ -2193,7 +2189,6 @@
 .helios.plan9-dns.com
 .kronos.plan9-dns.com
 .pluton.plan9-dns.com
-.hydra.plan9-ns1.com
 .door.plasmadancer.ru
 .secure-dns.pleumkungz.com
 .thanos.pleumkungz.com
@@ -3205,7 +3200,6 @@
 .lukscasino-542-tr.xyz
 .lukscasino-929-tr.xyz
 .maherhost.uk
-.mailkyb.co
 .maincloud.ir
 .malanser.ru
 .malelolula.store
@@ -3228,12 +3222,10 @@
 .morbitzer.de
 .mresquire.com
 .msr177.com
-.mtsdns.ru
 .muxyuji.ru
 .myadg.ru
 .myatris.sbs
 .mydevpn.eu
-.myrusvpn.de
 .mysolod.xyz
 .myv2ray.cn
 .n8nmegapixar.online
