@@ -5631,10 +5631,6 @@
 .edu.ezlearning.qzz.io
 .quasar.ezlearning.qzz.io
 .kams.kii.qzz.io
-.onthe.ksf.qzz.io
-.prx.ksf.qzz.io
-.sat.ksf.qzz.io
-.we-are.ksf.qzz.io
 .zouter.zhang3118.qzz.io
 .661.qzz.io
 .beanweb.qzz.io
@@ -5661,7 +5657,6 @@
 .educational.radissontucson.com
 .school.edu.radix-site.com
 .check.ragpets.com
-.looking.rainbowcup.com
 .ns.ral9005.org
 .luminalvcsa.ramalhais.com
 .madeby-vcsa.ramalhais.com
@@ -5686,7 +5681,6 @@
 .dns.readlook.tk
 .learn.readymindit.com
 .research.readymindit.com
-.waguri.real3m.com
 .agh.realwap.net
 .www-p.reaper.mx
 .hk.reaticle.com
@@ -5749,7 +5743,6 @@
 .zetland.rm-ni.uk
 .sudo.rm-rf.cloud
 .adguard.ro0t.us
-.blob.ro0t.hm
 .uc.robby.blue
 .skibidirizz.robinhud.com
 .1.rock-review.ru
@@ -5786,7 +5779,6 @@
 .sg.rslvr.eu
 .us.rslvr.eu
 .adguard.ruby.ci
-.reidhtml.rude.li
 .soltsio.rude.li
 .adg.rueiliu.space
 .gw-px-le-4223-3w5hsuiikq-ey.a.run.app
@@ -5946,7 +5938,6 @@
 .doh.serverhost.no
 .adguard.servernation.xyz
 .node9.servernode.store
-.ikeepgooning.serverpit.com
 .adguard.serverrune.be
 .assets-prod-a230.s3.serverwild.com
 .dns.servizimv.it
@@ -6001,7 +5992,6 @@
 .the.simplecharity.com
 .dns.simplylinux.ch
 .dns.sindominio.net
-.bring-your-own.sinewave.cc
 .family.sinuabi.ee
 .northfayetteschools-org.sitesi.tc
 .moto.adg.siudzinski.net
@@ -6052,7 +6042,6 @@
 .interstellarisback.smelly.cc
 .language.smelly.cc
 .api.smoz.me
-.waguri.snapframework.com
 .dns.sneakypanda.org
 .home.snow-sugar.net
 .ag.snrka.ru
@@ -6069,7 +6058,6 @@
 .wtbd02.solowalk.top
 .ns.solutics.ec
 .ns.solutionsbest.de
-.algebra.somgelida.net
 .thtghrabf.soon.it
 .r.soraapp.gq
 .sentry.soraapp.gq
@@ -14131,7 +14119,6 @@
 .purevqn.com
 .pushvpn.com
 .puvyubd.cn
-.pvcozadopa50e.online
 .pvlxwwr.cn
 .pvmj.top
 .pw7t90o9kvccsjp2pjxgzessp.online
@@ -14187,7 +14174,6 @@
 .qiventa.ru
 .qiventa.xyz
 .qivs.top
-.qkjyowzo.com
 .qlmrze.com
 .qnid.cc
 .qntfrkbz.com
@@ -14198,7 +14184,6 @@
 .qqmcfw.tech
 .qrykgvdh.com
 .qstam.ru
-.qt8grzqktbipoye.online
 .qtrwplkdz.com
 .quad9.net
 .quanqiuyun07.com
@@ -14358,7 +14343,6 @@
 .rinki.pro
 .rinki.space
 .rinki.wiki
-.rinki.xyz
 .riolu.icu
 .riolu.ooo
 .riolu.work
@@ -14511,7 +14495,6 @@
 .schoology.college
 .schoology123.org
 .schoolooks.com
-.schoolooks.net
 .schoolwebproxy.com
 .schulhelfer-mathe-deutsch.de
 .sciencenews.cc
@@ -14529,7 +14512,6 @@
 .sd03-pgy032qg.top
 .sd04-bmbb7vmk.top
 .sd2ffdsd43i.xyz
-.sdhtqxiy.com
 .sdmvipaff.cc
 .sdusxwln.cc
 .sdvizhkov.ru
@@ -14587,9 +14569,7 @@
 .servefaststatic.work
 .server2386.com
 .server3233.com
-.serverh1ub.ir
 .serverhoya.com
-.serverp1anel.ir
 .serverssh.net
 .servis4u.top
 .serviseapi.com
@@ -14597,7 +14577,6 @@
 .setupvpn.com
 .sevengain.com
 .sf-helper.com
-.sfa2kddffd9nlvf3vjg7a.online
 .sfasoftballcamps.com
 .sfcxop.cc
 .sflpc7kc.online
@@ -14652,7 +14631,6 @@
 .shark-in-chinaz.com
 .shellfire.net
 .shelljacket.us
-.shemadefuckingbeans.wtf
 .shendengjiasu.com
 .shflora.com
 .shieldproxy.net
@@ -14673,7 +14651,6 @@
 .shuttlemath.com
 .shuttleproxy.com
 .sia.tech
-.sibitc.ir
 .siftfilter.com
 .sigma-vpn.store
 .sigmavpn.help
