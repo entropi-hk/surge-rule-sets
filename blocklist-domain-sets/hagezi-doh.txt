@@ -2530,7 +2530,6 @@
 .adguard.streamlas.fr
 .dns.streamsmoke.com
 .dns.streamvine.app
-.dns.stresslab.party
 .www.vpn.stroialliance.com
 .dns.struchkov.dev
 .dns.stud.cloud
@@ -2634,7 +2633,6 @@
 .jp.tiar.app
 .doh.tiarap.org
 .jp.tiarap.org
-.adguard.tigrex.net
 .dns.timboeh.me
 .ad.timefine.org
 .adb.timnichollsphotography.com
@@ -2770,7 +2768,6 @@
 .dns.wdnts.eu
 .dns.engineer.web.id
 .dns.jsd.web.id
-.server.padil.web.id
 .doh.this.web.id
 .dns6.web.id
 .h4g3z1-doh.web.app
@@ -2855,7 +2852,6 @@
 .adguard.yavuztutcu.net
 .adguardhome.yavuztutcu.net
 .biba.ydns.eu
-.sg.yepdns.com
 .adguard.ygd.lol
 .ns6.ygy.ru
 .dns.yingroad.top
@@ -3369,7 +3365,6 @@
 .vladpro.ru
 .vorlif.org
 .vpnhellings.nl
-.vuivn.site
 .wallpap.eu
 .wantaquddin.com
 .waydnes.ru
@@ -3396,7 +3391,6 @@
 .xorbiadns.com
 .ychen.cf
 .ychen.gq
-.yeralin.net
 .your-dns.run
 .yovbak.com
 .ys4.de
