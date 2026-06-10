@@ -1,11 +1,15 @@
 .vhs.wwstat.com.eo.unicomcdn.com.cn
 .az.appstore.vivo.com.cn
 .adlog.vivo.com.cn
+.ads-marketing-vivofs.vivo.com.cn
+.adsdk.vivo.com.cn
 .adxlog-adnet.vivo.com.cn
 .appstore-trace-h5sdk.vivo.com.cn
 .dsplog-adnet.vivo.com.cn
+.st-ads-jssdk.vivo.com.cn
 .trace-h5sdk.vivo.com.cn
 .tracking-adnet.vivo.com.cn
+.ads-marketing-vivofs.vivo.com.cn.ctdns.cn
 .vhs.wwstat.com.ctdns.cn
 .trackercollect.ddxq.mobi
 .trackerfeed.ddxq.mobi
@@ -62,6 +66,7 @@
 .cname-in-bom01-nginxpool03.vivoglobal.com
 .cname-in-ctdbonrt-stsdk.vivoglobal.com
 .cname-sin01-stsdk09.vivoglobal.com
+.co-domaincfg.vivoglobal.com
 .co-pnrt-stsdk.vivoglobal.com
 .co-romsp-unifyconfig.vivoglobal.com
 .co-st-sl.vivoglobal.com
@@ -185,6 +190,7 @@
 .sca-onrt-stsdk.vivoglobal.com
 .sca-ort-stsdk.vivoglobal.com
 .sca-p.vivoglobal.com
+.sca-pnrt-stsdk.vivoglobal.com
 .sca-romsp-unifyconfig.vivoglobal.com
 .sca-st-sl.vivoglobal.com
 .sca-stsdk.vivoglobal.com
