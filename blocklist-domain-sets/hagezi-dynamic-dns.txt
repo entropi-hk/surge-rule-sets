@@ -16,6 +16,7 @@
 .limit.org.uk
 .h4g3z1-dyndns.web.app
 .0000000000000000000000.com
+.0rg.us
 .0x.no
 .100mountain.com
 .10dv.com
@@ -272,6 +273,7 @@
 .dhs.org
 .digikabel.hu
 .digitalgroupe.com
+.dip.jp
 .diskstation.eu
 .diskstation.me
 .diskstation.org
@@ -347,6 +349,7 @@
 .dsmynas.net
 .dsmynas.org
 .dtdns.com
+.dtdns.net
 .dtdns.org
 .dubya.info
 .dubya.net
@@ -425,6 +428,7 @@
 .dynnamn.ru
 .dynns.com
 .dyns.be
+.dyns.cx
 .dyns.net
 .dynserv.org
 .dynssl.com
@@ -1258,6 +1262,7 @@
 .sexxxy.biz
 .shacknet.biz
 .shacknet.us
+.shadir.com
 .sharkltd.com
 .sheatfish.org
 .sheepindonesia.org

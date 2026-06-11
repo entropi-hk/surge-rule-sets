@@ -227,6 +227,7 @@
 .doh.appliedprivacy.net
 .dot1.appliedprivacy.net
 .dns.aquilenet.fr
+.dns.arapurayil.com
 .doh.archuser.org
 .dns.ares-taiwan.com
 .dns.arkbotech.com
@@ -971,6 +972,7 @@
 .yukito.duanzx.top
 .adfreemb.duckdns.org
 .adgrm.duckdns.org
+.adguardcalpena.duckdns.org
 .andryk111.duckdns.org
 .andrykarcew.duckdns.org
 .armm.duckdns.org
