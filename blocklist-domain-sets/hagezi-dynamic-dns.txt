@@ -15,6 +15,7 @@
 .dynamicdns.org.uk
 .limit.org.uk
 .h4g3z1-dyndns.web.app
+.dyndns.za.org
 .0000000000000000000000.com
 .0rg.us
 .0x.no
@@ -341,6 +342,7 @@
 .doomdns.com
 .doomdns.org
 .dougtreadwell.com
+.doyleandprendergast.com
 .dp76.com
 .dpcube.com
 .dray-dns.de
@@ -490,6 +492,7 @@
 .eurotank.ro
 .eva.hk
 .everton.com
+.evils.in
 .expired-dns.com
 .ez-dns.com
 .ez-ip.net
@@ -529,6 +532,7 @@
 .fortiddns.com
 .forumz.info
 .fragmentary.info
+.free-ddns.com
 .freeddns.com
 .freeddns.org
 .freeddns.uk
@@ -604,6 +608,7 @@
 .game-host.org
 .game-server.cc
 .garmanage.com
+.garypatel.com
 .gastright.com
 .geekgalaxy.com
 .geobattery.com
@@ -743,6 +748,7 @@
 .ipnodns.ru
 .ipq.co
 .iprowave.com
+.ipupdater.com
 .ipv64.de
 .ipv64.net
 .is-a-anarchist.com

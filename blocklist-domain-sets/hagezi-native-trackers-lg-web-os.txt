@@ -162,6 +162,7 @@
 .zm-ad-lgsmartad-com.aws-prd.net
 .zw-ad-lgsmartad-com.aws-prd.net
 .eic-ngfts.lge.com.edgekey.net
+.eic-qt2-ngfts.lge.com.edgekey.net
 .kic-ngfts.lge.com.edgekey.net
 .qt2-ngfts.lge.com.edgekey.net
 .eic-ngfts.lge.com

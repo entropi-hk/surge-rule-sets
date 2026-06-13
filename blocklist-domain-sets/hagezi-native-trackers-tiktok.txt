@@ -143,7 +143,6 @@
 .vas-hl-x.snssdk.com
 .vcl-brain.snssdk.com
 .xlog.snssdk.com
-.url4077.ads-service.tiktok.com
 .ads.us.tiktok.com
 .ads-ttp2.us.tiktok.com
 .analytics.us.tiktok.com
@@ -158,7 +157,6 @@
 .ads.tiktok.tv
 .ads-api.tiktok.com
 .ads-frontier.tiktok.com
-.ads-ru.tiktok.com
 .ads-sg.tiktok.com
 .analytics.tiktok.com
 .analytics-attribution.tiktok.com
