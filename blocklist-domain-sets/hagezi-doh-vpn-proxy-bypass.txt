@@ -471,6 +471,7 @@
 .starvpn.app.link
 .ds.appl.pk
 .dns.apple.com
+.mask-api.fe.apple-dns.net
 .dns.applewebkit.dev
 .doh.appliedprivacy.net
 .dot1.appliedprivacy.net
@@ -2690,6 +2691,7 @@
 .family.dns.doubleangels.com
 .ieatfeet.dougtreadwell.com
 .dotserver.douyucdn.cn
+.school.dovereducation.org
 .dns35.allone.dpdns.org
 .adguard.llf520.dpdns.org
 .parsa.dpdns.org
@@ -4518,6 +4520,7 @@
 .dns.liberador.net
 .dns.libost.xyz
 .us.libost.xyz
+.neon.lifepixeled.com
 .dns.lifeym.xyz
 .dns.lightmaster.pw
 .dns.lihj.me
@@ -5302,6 +5305,7 @@
 .cn-kuailian.org.cn
 .dnsprivacy.org.uk
 .kuailianworld.org.cn
+.mdpa.org.tw
 .teslacoils.org.uk
 .grammerhelper.organized-cloud.eu
 .gov.orion-stella.com
@@ -5661,6 +5665,7 @@
 .edu.ezlearning.qzz.io
 .quasar.ezlearning.qzz.io
 .kams.kii.qzz.io
+.onthe.ksf.qzz.io
 .zouter.zhang3118.qzz.io
 .661.qzz.io
 .beanweb.qzz.io
@@ -6388,6 +6393,11 @@
 .galaxy.tcloud.my
 .galaxyisthebest.tcloud.my
 .home.tcloud.my
+.math1.tcloud.my
+.math2.tcloud.my
+.math3.tcloud.my
+.math4.tcloud.my
+.math5.tcloud.my
 .babybee.tcogpcal.org
 .khajujawegifwqaiugwa.tcp64.de
 .tcpghe.tcp64.de
@@ -12674,6 +12684,7 @@
 .longss.xyz
 .lonmq6.xyz
 .lookingglass.site
+.looquae8.xyz
 .looseforbid.com
 .lopana.com
 .lor-vino.ru
@@ -12731,9 +12742,11 @@
 .lzarflbw.com
 .m3mhtvbfy.online
 .mad4todo.com
+.madeinchile.io
 .madonna.run
 .magiccloak.net
 .maherhost.uk
+.maichongvpn.com
 .maifot.com
 .mailproxy.info
 .maincloud.ir
@@ -12784,6 +12797,7 @@
 .mathnotes.help
 .mathnotes.icu
 .mathpoop.com
+.mathprofession.buzz
 .mathquizzer.net
 .mathrules.dev
 .mathwonders.xyz
@@ -12892,6 +12906,7 @@
 .miseryrecord.com
 .missionjesus.net
 .mistasinresolver.ru
+.mixing.run
 .mixturestab.com
 .mizban-r.site
 .mjiwzmck.com
@@ -13200,6 +13215,7 @@
 .mzkxz.top
 .mzkxz.us
 .n-kuailian.com
+.n0.eu
 .n6j3iyl.online
 .n8nmegapixar.online
 .n8ogo8f3kjb.online
@@ -13215,6 +13231,7 @@
 .naiyun.info
 .naizi.vip
 .najiakeji.top
+.name-meaning.us
 .nanoproxy.com
 .naokdfxw.com
 .napps-1.com
@@ -13229,6 +13246,7 @@
 .nashvpn.app
 .nashvpn.biz
 .nashvpn.io
+.nashvpn.mom
 .nashvpn.net
 .nashvpn.top
 .natfrp.cloud
@@ -13545,6 +13563,7 @@
 .okyuovkg.com
 .oldmillschool.org
 .oleg.loan
+.olegofriend.ru
 .olipa.ru
 .olivaro.ru
 .olviro.ru
@@ -13568,6 +13587,7 @@
 .onesy.top
 .onevpn.com
 .onion.am
+.onion.ca
 .onion.cab
 .onion.casa
 .onion.city
@@ -13729,6 +13749,7 @@
 .papervpn.top
 .par-vino.ru
 .paradise-human.shop
+.parsazr.ir
 .partmo5.xyz
 .parvino.ru
 .pasdfn.com
@@ -16397,6 +16418,7 @@
 .vtbimdkh.com
 .vthiawvu.com
 .vthrnrwrbtq2n1xpjt5d.online
+.vuivn.site
 .vul-trio.ru
 .vultrio.ru
 .vundekra.com

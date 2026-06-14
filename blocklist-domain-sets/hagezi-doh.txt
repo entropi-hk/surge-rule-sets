@@ -223,6 +223,7 @@
 .ag.apollohct.com
 .ds.appl.pk
 .doh.dns.apple.com
+.mask-api.fe.apple-dns.net
 .dns.applewebkit.dev
 .doh.appliedprivacy.net
 .dot1.appliedprivacy.net
@@ -3248,6 +3249,7 @@
 .mydevpn.eu
 .mysolod.xyz
 .myv2ray.cn
+.n0.eu
 .n8nmegapixar.online
 .najiakeji.top
 .nelsonleung.org
@@ -3389,6 +3391,7 @@
 .vladpro.ru
 .vorlif.org
 .vpnhellings.nl
+.vuivn.site
 .wallpap.eu
 .wantaquddin.com
 .waydnes.ru
