@@ -122,6 +122,7 @@
 .vps.559299366.xyz
 .dns.565349.xyz
 .dns.58jdl.com
+.scratchdevfourums.5a3bz.cn
 .dns.6level.net
 .agh.710523.xyz
 .ayman-dns.731my.com
@@ -955,6 +956,7 @@
 .vps.calilnegociosimobiliarios.shop
 .dns.caliph.dev
 .tor.calyxinstitute.org
+.us1.cambrianscientific.com
 .9thballs.camdvr.org
 .bananakun.camdvr.org
 .chickenalert.camdvr.org
@@ -2180,6 +2182,7 @@
 .history.southern.com.my
 .mehmetgayalo.southern.com.my
 .adg.spacework.com.mx
+.recap.arts.sumyk.com.br
 .art.sunilamaharjan.com.np
 .r4ne-fern-2.suwal.com.np
 .r4sele.suwal.com.np
@@ -2239,6 +2242,7 @@
 .p-kuailian.com.cn
 .powerschool.com.de
 .proxy.com.de
+.proxyweb.com.es
 .purevpn.com.tw
 .pv-kuailian.com.cn
 .qwq-kuailian.com.cn
@@ -2693,6 +2697,8 @@
 .dotserver.douyucdn.cn
 .school.dovereducation.org
 .dns35.allone.dpdns.org
+.sat.api.ksfto.dpdns.org
+.sat.ksfto.dpdns.org
 .adguard.llf520.dpdns.org
 .parsa.dpdns.org
 .de-adguard.dr3ff1c13nt.com
@@ -2777,6 +2783,7 @@
 .o--o.duckdns.org
 .pitchforkwaydns.duckdns.org
 .proxy-creator-shadow-browser-1.duckdns.org
+.proxy-creator-shadow-browser-2.duckdns.org
 .proxy-creator-shadow-browser-3.duckdns.org
 .punono.duckdns.org
 .rcpc2.duckdns.org
@@ -2785,6 +2792,7 @@
 .sabeendns.duckdns.org
 .salvadoserver.duckdns.org
 .shadowbrowser.duckdns.org
+.site-2.duckdns.org
 .site-3.duckdns.org
 .soporte-premium.duckdns.org
 .surviil.duckdns.org
@@ -2792,6 +2800,7 @@
 .theadblocksg.duckdns.org
 .ts653d.duckdns.org
 .tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .unixfox.duckdns.org
 .welovemath123.duckdns.org
 .welovescience123.duckdns.org
@@ -2811,6 +2820,8 @@
 .ueni.dyndns.org
 .roucious.dyndns-remote.com
 .jrdnswork.dyndns1.de
+.resolver1.dyndnsinternetguide.com
+.resolver2.dyndnsinternetguide.com
 .adbox-v9.dynipv6.de
 .interstaller-ae.dynipv6.de
 .interstellar-ad.dynipv6.de
@@ -2820,6 +2831,7 @@
 .ccadguard.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
+.saomai.dynu.com
 .gustamadh.dynv6.net
 .dns.dynx.pro
 .adg.dz.ax
@@ -3744,6 +3756,7 @@
 .connorisnotawesomesaucelolz.heronquays.com
 .zavierissoawesomesauce.heronquays.com
 .adg.herry.dev
+.therealbeezchurger.hetz.pro
 .dns.msk.hexagon1736.com
 .httpdns.ocloud.heytapmobi.com
 .dns.sgp.hicn.site
@@ -4600,6 +4613,7 @@
 .orau.lz0724.com
 .orjp4.lz0724.com
 .addns1.m-it.ro
+.purchase.machines.asia
 .v971850.macloud.host
 .dns.mafyuh.io
 .guard.magic-pics.tk
@@ -5406,6 +5420,7 @@
 .ultraviolet-static-dhd.pages.dev
 .unblockit.pages.dev
 .uv-staticf.pages.dev
+.vaporgithub.pages.dev
 .vaporsite.pages.dev
 .wowinterstellar.pages.dev
 .zatoga.pages.dev
@@ -5666,6 +5681,8 @@
 .quasar.ezlearning.qzz.io
 .kams.kii.qzz.io
 .onthe.ksf.qzz.io
+.prx.ksf.qzz.io
+.sat.ksf.qzz.io
 .zouter.zhang3118.qzz.io
 .661.qzz.io
 .beanweb.qzz.io
@@ -5962,6 +5979,7 @@
 .dns.seia.io
 .box.seidenstrabe.com
 .dns.seiffert.me
+.vpn.self-tech.ru
 .please.sell-my-car.autos
 .dns.sellan.fr
 .korridor.semia-infra.net
@@ -6398,6 +6416,7 @@
 .math3.tcloud.my
 .math4.tcloud.my
 .math5.tcloud.my
+.schoolsucks.tcloud.my
 .babybee.tcogpcal.org
 .khajujawegifwqaiugwa.tcp64.de
 .tcpghe.tcp64.de
@@ -6454,6 +6473,7 @@
 .foil.thanatos.com
 .math.thanatos.com
 .voidnettty.thanatos.com
+.shark.thatguy.space
 .unplatonicallydiybt.theantzfarm.space
 .www.3.theartieschaffer.com
 .www.94.theartieschaffer.com
@@ -13768,8 +13788,10 @@
 .pbavtqle.com
 .pbaz.top
 .pbproxy.red
+.pbproxy2.co
 .pbyesgzh.cc
 .pc-kuailian.cn
+.pc-lets.com
 .pc-letsvpn.com
 .pc-streaming.com
 .pcgo.fun
@@ -13785,6 +13807,7 @@
 .pendrawer.com
 .penphone92.com
 .penrepair.us
+.pentable92.com
 .peoplesproxy.com
 .pepetio.xyz
 .perceivethesis.com
@@ -13794,6 +13817,7 @@
 .peremen.space
 .peremen.website
 .perfect-privacy.com
+.perfectvpn.net
 .perlproxy.com
 .persianreserve.ir
 .personal-config.ru
@@ -13818,6 +13842,8 @@
 .phog.top
 .phonebook92.com
 .phonecar92.com
+.phonephone92.com
+.phonetable92.com
 .phongg.vn
 .photonsecure.com
 .phpatewiw.online
@@ -13838,6 +13864,7 @@
 .pingbi.xyz
 .pingmybee.net
 .pingvpn.com
+.pinkproxy.xyz
 .pinweb.info
 .piplvpn.com
 .pipster.org
@@ -13979,6 +14006,7 @@
 .ppg02-mqelltoq.top
 .ppira.com
 .pplhycmd.com
+.pplsearcher.com
 .ppozer2.xyz
 .ppp.yt
 .ppppp.click
@@ -14087,6 +14115,7 @@
 .proxii.net
 .proximize.me
 .proxite.de
+.proxite.eu
 .proxite.in
 .proxite.info
 .proxite.net
@@ -14109,6 +14138,7 @@
 .proxy.sx
 .proxy.yt
 .proxy-123.com
+.proxy-anywhere.com
 .proxy-best.com
 .proxy-bypass.com
 .proxy-cheap.com
@@ -14138,6 +14168,7 @@
 .proxyarab.com
 .proxybase.org
 .proxybits.com
+.proxyboost.net
 .proxybox.ru
 .proxybros.com
 .proxybrowse.info
@@ -14151,6 +14182,7 @@
 .proxycloud.net
 .proxycloyd.com
 .proxycompass.com
+.proxycroxy.site
 .proxycroxyid.id
 .proxydb.net
 .proxydrop.com
@@ -14210,6 +14242,7 @@
 .proxysan.info
 .proxyscope.com
 .proxyscrape.com
+.proxyscraper.net
 .proxyscraper.org
 .proxyserver.com
 .proxyserver-free.com
@@ -14236,6 +14269,7 @@
 .proxysneak.com
 .proxysocks5.com
 .proxyspace.pro
+.proxysurfing.org
 .proxytime.net
 .proxytitan.com
 .proxytree.net
@@ -14301,6 +14335,7 @@
 .purevpn.fr
 .purevpn-tools.com
 .purevqn.com
+.pushokey.com
 .pushvpn.com
 .puvyubd.cn
 .pvlxwwr.cn
@@ -14380,12 +14415,15 @@
 .quastra.ru
 .quensiro.ru
 .quentaviro.xyz
+.quic.lol
+.quick-proxy.com
 .quickbypass.com
 .quickcache.click
 .quickcache.space
 .quickcache.website
 .quickkq.com
 .quickprox.com
+.quickproxies.com
 .quickq-jsq.com
 .quickqjiasu.net
 .quicksilvervpn.com
@@ -14513,6 +14551,7 @@
 .rethinkdns.com
 .revelio.top
 .revko.info
+.rewardpumpkin.com
 .rfnprotection.uk
 .rfoncizw.com
 .rgvpn.cc
@@ -14524,6 +14563,7 @@
 .rimavet.baby
 .ringvpn.com
 .rinki.ink
+.rinki.live
 .rinki.pro
 .rinki.space
 .rinki.wiki
@@ -14680,6 +14720,8 @@
 .schoology.college
 .schoology123.org
 .schoolooks.com
+.schoolooks.net
+.schoolsprepared.org
 .schoolwebproxy.com
 .schulhelfer-mathe-deutsch.de
 .sciencenews.cc
@@ -14727,6 +14769,7 @@
 .securevpn.io
 .securevpnmaster.com
 .securewebproxy.net
+.securitales.com
 .securitykiss.com
 .securly.mom
 .securlypro.site
@@ -14742,6 +14785,7 @@
 .seelabour.com
 .seeproxy.me
 .seeu.dev
+.seipvscpuneji.xyz
 .selenite.cc
 .seligmania-online.com
 .selsby.info
@@ -14754,6 +14798,7 @@
 .servefaststatic.work
 .server2386.com
 .server3233.com
+.servergo.pw
 .serverhoya.com
 .serverssh.net
 .servis4u.top
@@ -14789,6 +14834,7 @@
 .shadowsocks.click
 .shadowsocks.org
 .shadowsocksvpn.net
+.shadowsurf.com
 .shaft.world
 .shakdns.cc
 .shakhle.ir
@@ -14882,6 +14928,7 @@
 .sjaarzmo.com
 .sjlx.win
 .skibidislicers.xyz
+.skibiditoi.lat
 .skilledconfine.com
 .skipdns.link
 .skipns.com
@@ -14992,6 +15039,7 @@
 .springmultimedia.space
 .spwvpn.com
 .spxojvuq.cc
+.spyoff.com
 .spys.one
 .spysurfing.com
 .sq-free.com
@@ -15120,6 +15168,7 @@
 .strovix.ru
 .structoriumwings.ru
 .sttlink.com
+.studebaker.ir
 .studysurf.com
 .stun.su
 .stunnel.cc
@@ -15129,6 +15178,7 @@
 .su89-cdn.net
 .suazwlmz.com
 .subclsnet.com
+.suissl.com
 .sulink.life
 .summitag.org
 .suniproxy.com
@@ -15154,10 +15204,13 @@
 .supervpn.best
 .supervpn.cc
 .supervpn.dev
+.supervpn.help
 .supervpn.homes
 .supervpn.im
+.supervpn.info
 .supervpn.lat
 .supervpn.net
+.supervpn.top
 .supervpn-ru.com
 .supremebarbershopclarendon.net
 .suredns.nl
@@ -15194,6 +15247,7 @@
 .surfsharkdeals.com
 .surfsharkstatus.com
 .surfsharkvpn.online
+.surfshell.io
 .surfsjark.com
 .surfsuark.com
 .surfy-chinaz.com
@@ -15220,6 +15274,7 @@
 .sweetline.info
 .swiftcdn.org
 .swiftclouds.xyz
+.swiftshieldvpn.com
 .swissvpn.net
 .switchvpn.com
 .switchvpn.net
@@ -15242,6 +15297,7 @@
 .tabijibiyori.org
 .tablebook92.com
 .tablecar92.com
+.tablephone92.com
 .tagss.pro
 .tagss-verification.org
 .tagss11.com
@@ -15272,6 +15328,8 @@
 .taxif.us
 .tbgthmrg.com
 .tbjr6.com
+.tbjr6.net
+.tbjr6.org
 .tbunet.com
 .tcp-reset-club.net
 .tcpvpn.com
@@ -15281,6 +15339,7 @@
 .tecdrive.site
 .techdatacdn.com
 .techhuman.cn
+.technofix.ir
 .techtecnow.club
 .techvaso.com
 .tecworx.at
@@ -15449,6 +15508,7 @@
 .topsun.pw
 .toptip.cc
 .topvpn.cc
+.topvpn.cn
 .topvpnguides.com
 .topvpntype.com
 .tor-gateways.de
@@ -15526,6 +15586,7 @@
 .trivaro.ru
 .trivian.ru
 .trkwfvkc.cc
+.trlone.com
 .tronlit.com
 .tronyza.com
 .trovalo.ru
@@ -15618,6 +15679,7 @@
 .uboo.st
 .uboost.am
 .uboost.download
+.uboost.shop
 .uboost.site
 .uboost.space
 .uboost.top
@@ -15650,6 +15712,7 @@
 .ukumlmrst0igs.online
 .ukvvbso.cn
 .ulta.am
+.ultimatearca.de
 .ultimatepro.us
 .ultimateproxy.net
 .ultrabestproxy.com
@@ -15694,6 +15757,7 @@
 .unblockbook.biz
 .unblockd.org
 .unblockdirect.com
+.unblocked.africa
 .unblocked.biz
 .unblocked.buzz
 .unblocked.cloud
@@ -15896,9 +15960,11 @@
 .v2ny.de
 .v2ny.mom
 .v2ny.net
+.v2ny.one
 .v2ny.org
 .v2ny.pro
 .v2ny.top
+.v2ny.xyz
 .v2plus.cc
 .v2ray.cc
 .v2rayclient.com
@@ -15970,6 +16036,7 @@
 .vanyavpn.sc
 .vanyavpn.se
 .vanyavpn.sh
+.vapor.my
 .vapor.onl
 .vaporized.help
 .vaporon.top
@@ -16048,6 +16115,7 @@
 .vilor.site
 .vimstera.xyz
 .vinny-stinks-like-dudu.com
+.vipanol.app
 .vipdownloadmena.xyz
 .vipfive.xyz
 .vipfour.xyz
@@ -16082,6 +16150,7 @@
 .vocaloid.pro
 .vofasts.xyz
 .voidd.network
+.voidtickets.xyz
 .volatr.xyz
 .voltrex.ru
 .vonodebit.xyz
@@ -16138,6 +16207,7 @@
 .vpn-professional.company
 .vpn-quick.com
 .vpn-russia.app
+.vpn-service.us
 .vpn-shield.help
 .vpn-simple.com
 .vpn-sky.info
@@ -16197,6 +16267,7 @@
 .vpncenter.com
 .vpncentral.com
 .vpnchief.com
+.vpncity.com
 .vpnclient.help
 .vpnclientapp.com
 .vpnconfig.mom
@@ -16242,6 +16313,7 @@
 .vpnhellings.nl
 .vpnhero.app
 .vpnhood.com
+.vpnhost.info
 .vpnhouse.net
 .vpnhub.com
 .vpni.lol
@@ -16330,6 +16402,7 @@
 .vpnpro.com
 .vpnpro.quest
 .vpnproxy.app
+.vpnproxy.org
 .vpnproxy.site
 .vpnproxymaster.app
 .vpnproxymaster.com
@@ -16355,6 +16428,7 @@
 .vpnsec.com
 .vpnsecure.me
 .vpnserver.mom
+.vpnservice.ru
 .vpnshazam.com
 .vpnshieldapp.com
 .vpnside.com
@@ -16400,6 +16474,7 @@
 .vpnwholesaler.com
 .vpnxray.site
 .vpnzero.ru
+.vpopple.world
 .vpork.com
 .vpr.lol
 .vproxyy.online

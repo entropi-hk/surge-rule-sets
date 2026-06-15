@@ -1016,6 +1016,7 @@
 .rexdns.duckdns.org
 .sabeendns.duckdns.org
 .salvadoserver.duckdns.org
+.site-2.duckdns.org
 .site-3.duckdns.org
 .soporte-premium.duckdns.org
 .surviil.duckdns.org
@@ -1023,6 +1024,7 @@
 .theadblocksg.duckdns.org
 .ts653d.duckdns.org
 .tuandns.duckdns.org
+.tungdnsne.duckdns.org
 .unixfox.duckdns.org
 .wired-guardian.duckdns.org
 .workcavestl.duckdns.org
@@ -1035,11 +1037,14 @@
 .akhilkalwakurthy.dyndns.org
 .ueni.dyndns.org
 .roucious.dyndns-remote.com
+.resolver1.dyndnsinternetguide.com
+.resolver2.dyndnsinternetguide.com
 .rafi.dynns.com
 .adguard.ekhozie.dynu.net
 .ccadguard.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
+.saomai.dynu.com
 .gustamadh.dynv6.net
 .dns.dynx.pro
 .adg.dz.ax
@@ -3303,6 +3308,7 @@
 .qqmcfw.tech
 .qstam.ru
 .quantumpulse.dev
+.quic.lol
 .r1bnc.com
 .rayneau.fr
 .rd-service.moscow
