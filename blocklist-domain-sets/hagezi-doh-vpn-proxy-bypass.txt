@@ -6262,7 +6262,6 @@
 .us-proxy.startpage.com
 .us1-browse.startpage.com
 .us2-browse.startpage.com
-.us3-browse.startpage.com
 .dns.startupstack.tech
 .idea.graph.statboss.com
 .adguard.stealbit.com
