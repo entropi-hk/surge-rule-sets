@@ -1,3 +1,4 @@
+.3px.axp.amazon-adsystem.com
 .aan.amazon.co.jp
 .aan.amazon.co.uk
 .aan.amazon.com
@@ -10,6 +11,7 @@
 .aax-apse-dtb-mobile.amazon-adsystem.com
 .aax-apse-dtb-web.amazon-adsystem.com
 .aax-audio.amazon-adsystem.com
+.aax-beta-us-east.axp.amazon-adsystem.com
 .aax-cpm.amazon-adsystem.com
 .aax-dtb-cf.amazon-adsystem.amazon.com
 .aax-dtb-cf.amazon-adsystem.com
@@ -35,6 +37,7 @@
 .aax-fe-sin-rtb.amazon-adsystem.com
 .aax-fe-sin.amazon-adsystem.com
 .aax-fe.amazon-adsystem.com
+.aax-gamma-us-east.axp.amazon-adsystem.com
 .aax-ott-c2s.amazon-adsystem.com
 .aax-ott-sdk.amazon-adsystem.amazon.com
 .aax-ott-sdk.amazon-adsystem.com
@@ -97,6 +100,9 @@
 .advertising.amazon.it
 .advertising.amazon.nl
 .advertising.amazon.sa
+.aes-beta.axp.amazon-adsystem.com
+.aes.eu-south.ono.axp.amazon-adsystem.com
+.aes.eu-west.ono.axp.amazon-adsystem.com
 .alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 .alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 .alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
@@ -106,6 +112,7 @@
 .api.us-west-2.aiv-delivery.net
 .applab-sdk.amazon.com
 .aps.amazon-adsystem.com
+.aps.axp.amazon-adsystem.com
 .assoc-amazon.ca
 .assoc-amazon.co.uk
 .assoc-amazon.com
@@ -125,7 +132,6 @@
 .aviary.amazon.co.jp
 .aviary.amazon.com
 .aviary.amazon.de
-.axp.amazon-adsystem.com
 .bugs.firebat.prime-video.amazon.dev
 .bugsnag-event.monitor.core.app.alexa.a2z.com
 .bugsnag.appstore.a2z.com
@@ -141,6 +147,8 @@
 .device-metrics-us.amazon.com
 .dra.amazon-adsystem.com
 .events.app-performance.music.amazon.dev
+.fe.ono.axp.amazon-adsystem.com
+.fe.us-west.ono.axp.amazon-adsystem.com
 .federatedanalytics.amazon.com
 .fls-cn.amazon-adsystem.com
 .fls-cn.amazon.cn
@@ -190,6 +198,7 @@
 .ir-nl.amazon-adsystem.com
 .ir-uk.amazon-adsystem.com
 .kraken-measurements.s3-external-1.amazonaws.com
+.live-events.ono.axp.amazon-adsystem.com
 .mads-eu.amazon.com
 .mads-fe.amazon.com
 .mads.amazon-adsystem.com
@@ -230,6 +239,7 @@
 .rcm-na.amazon-adsystem.com
 .rcm-uk.amazon.co.uk
 .rcm.amazon.com
+.rtb.axp.amazon-adsystem.com
 .rum.ap-northeast-1.amazonaws.com
 .rum.ap-southeast-1.amazonaws.com
 .rum.ca-central-1.amazonaws.com
@@ -306,6 +316,7 @@
 .unagi.amazon.sa
 .unagi.amazon.se
 .unagi.amazon.sg
+.us-east.ono.axp.amazon-adsystem.com
 .vaes-eu-preprod.amazon-adsystem.com
 .vaes-eu.amazon-adsystem.com
 .vaes-fe-preprod.amazon-adsystem.com
