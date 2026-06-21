@@ -52,6 +52,7 @@
 .results.excite.com
 .search.fascinated.cc
 .search.femboy.ad
+.searx.feneas.org
 .searx.foo.li
 .search.freestater.org
 .search.funami.tech
@@ -164,6 +165,7 @@
 .mojeek.com
 .monstercrawler.com
 .mwmbl.org
+.neeva.com
 .nibblehole.com
 .nigma.eu
 .null.media
@@ -183,6 +185,7 @@
 .searx.bar
 .searx.ch
 .searx.info
+.searx.ir
 .searx.ninja
 .searx.org
 .searx.party

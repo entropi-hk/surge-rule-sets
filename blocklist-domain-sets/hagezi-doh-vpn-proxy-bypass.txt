@@ -128,7 +128,6 @@
 .ayman-dns.731my.com
 .dns.73zls.com
 .ns.77ll.ru
-.idk.7btech.com
 .hopethishelps.7geo7.ru
 .noad.800216.xyz
 .ad.800801.xyz
@@ -447,7 +446,6 @@
 .dns.anon.no
 .a-regist.anondns.net
 .appleicloud.anondns.net
-.waguri.answer168.com
 .email.anti-spam.technology
 .playernation.anti-spam.technology
 .know.core.antidemon.com
@@ -489,7 +487,6 @@
 .dns.ares-taiwan.com
 .emisjoking.argentinavision2020.com
 .dns.arkbotech.com
-.doh.armadillodns.net
 .nsec.arnor.org
 .dns.articrevised.cc
 .dns.artikel10.org
@@ -692,11 +689,7 @@
 .thorn.barneysaurous.net
 .archlinuxisthebestlol.baselinux.net
 .dashboardd.baselinux.net
-.agriculture.arts.bastaff.ru
 .aphistorytutoring.bastaff.ru
-.galaxy-glint.bastaff.ru
-.leave-school.bastaff.ru
-.smack.bastaff.ru
 .tacobelljobs.bastaff.ru
 .we-hate-school.bastaff.ru
 .home.basthorst.eu
@@ -2012,7 +2005,6 @@
 .nordvpn.co.za
 .onlineproxy.co.uk
 .pooblet.co.za
-.proxay.co.uk
 .proxify.co.uk
 .proxywebsite.co.uk
 .quickproxy.co.uk
@@ -2836,7 +2828,6 @@
 .ccadguard.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
-.saomai.dynu.com
 .gustamadh.dynv6.net
 .dns.dynx.pro
 .adg.dz.ax
@@ -3532,12 +3523,6 @@
 .adguard.glbd.fr
 .fr33ze.gleeze.com
 .kayleesickfern.gleeze.com
-.alpha.y.glenwaverleychurches.org
-.beta.y.glenwaverleychurches.org
-.delta.y.glenwaverleychurches.org
-.epsilon.y.glenwaverleychurches.org
-.kappa.y.glenwaverleychurches.org
-.lambda.y.glenwaverleychurches.org
 .dns.glf.wtf
 .dns.api.globus.org
 .dns.api.preview.globus.org
@@ -3654,7 +3639,6 @@
 .adg.grinavto.ru
 .dns.grinevich.eu
 .dnsblock.grisumedia.de
-.nana.rammer.grnyiui.shop
 .zinko.grocerybear.lat
 .dns.groupesaintmichel.fr
 .educationalpotato.math-games123.groups.id
@@ -3669,7 +3653,6 @@
 .dns.gsmseti.net
 .bigseal1.gu-natee.uk
 .dns.guard.io
-.dns.guardmydns.com
 .brave-soul-210.guesstheanimal.org
 .fair-earth-131.guesstheanimal.org
 .kind-bear-497.guesstheanimal.org
@@ -3869,9 +3852,6 @@
 .dns.housedenolf.be
 .freemnt.hpitto.com
 .grid.know.hs.vc
-.defoclasswork.hs.vc
-.freakybob.hs.vc
-.jahyussif.hs.vc
 .apply.hsdjefferson.org
 .info.hsdjefferson.org
 .doh.hshkf.com
@@ -4238,7 +4218,6 @@
 .tj.jamesxue.xyz
 .hk.janebooom.com
 .clever.jansenmedical.net
-.px.jarnus.xyz
 .fvpn.jarvishome.ru
 .hk.jason666.top
 .edu-kko38.jawvinit.com
@@ -4246,8 +4225,6 @@
 .vocab.clever.jaytex.org
 .argus1.jcconnell.com
 .dns.jd.com
-.anyweatherispepsiweather.1903.jdymqic.shop
-.6767alpharizzmath.jdymqic.shop
 .securly.com.jedimasters.net
 .doh.jeroenhd.nl
 .host.jerry-lee.uk
@@ -4336,11 +4313,8 @@
 .carcher.com.justlearning.net
 .ixl.workstations.extra.justlearning.net
 .chemistrytheoandalgebra.justlearning.net
-.exponets.justlearning.net
 .geography-lessons.justlearning.net
 .learntoteach.justlearning.net
-.schoolsoftexas.justlearning.net
-.standley.justlearning.net
 .studyingsocool.justlearning.net
 .texashistory.justlearning.net
 .tubaiscool.justlearning.net
@@ -4555,8 +4529,6 @@
 .mirror4.es-mad-1.linodeobjects.com
 .stream-as.jp-osa-1.linodeobjects.com
 .adg.lintasjrg.xyz
-.omar.linxy.eu
-.omarcreatedthis.linxy.eu
 .quickvpn.lipisoft.com
 .vocab.mass.liquidateart.com
 .africadns1.liquidtelecom.net
@@ -5457,7 +5429,6 @@
 .testing.paulsfamilyhistory.com
 .dns.paxavemedia.com
 .silentslab.pay-per-head-solutions.com
-.loan.paymdm.xyz
 .vps-ovh.pb2004.pl
 .ip65-38-99-44.pbiaas.com
 .ip74-208-64-80.pbiaas.com
@@ -5990,7 +5961,6 @@
 .dns.seia.io
 .box.seidenstrabe.com
 .dns.seiffert.me
-.vpn.self-tech.ru
 .please.sell-my-car.autos
 .dns.sellan.fr
 .korridor.semia-infra.net
@@ -6489,7 +6459,6 @@
 .math.thanatos.com
 .voidnettty.thanatos.com
 .shark.thatguy.space
-.unplatonicallydiybt.theantzfarm.space
 .www.3.theartieschaffer.com
 .www.94.theartieschaffer.com
 .www.p.theartieschaffer.com
@@ -7239,7 +7208,6 @@
 .04df72fd51bbf22b7ad9b97354d5cf4bad819419.com
 .0525e2dec3a618a29309a7ca27557dc65832cc6c.com
 .0538c3060b94774da3ee011552255739.top
-.06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com
 .0815cloud.de
 .084899.cn
 .098th189h98fh892.online
@@ -7425,7 +7393,6 @@
 .51caiyun.com
 .52lqvpn.com
 .530e40d68a1f147a86c139427b64fac55ba83b87.com
-.531274e80907f3a26c18dd8aabd4fca776d65870.com
 .53r6z.cn
 .54084db9b94f2fc62e22a2f4bf6cf17e.top
 .5537955585be9a774f79ea792941d72404fe69d3.com
@@ -7891,7 +7858,6 @@
 .anol.loan
 .anomivpn.com
 .anonine.com
-.anonproxy.org
 .anonto.pw
 .anonvpn.io
 .anonwebproxy.com
@@ -8845,7 +8811,6 @@
 .cashraven.io
 .casinovpn.com
 .casuary.beer
-.catch.gift
 .catchcurrent.com
 .catchen121299.top
 .catcottage.us
@@ -9883,7 +9848,6 @@
 .easyvalorant.com
 .easyveee.com
 .easyvpn.com
-.easyvpn.zone
 .easyvypr.com
 .easywaiwang.com
 .easywancheng.com
@@ -11047,7 +11011,6 @@
 .gztech.me
 .gzyabio.cn
 .h-vpn.org
-.h0w.cc
 .habd.me
 .hackkcah.com
 .hackkcah.xyz
@@ -11644,7 +11607,6 @@
 .ikuuu.one
 .ilazonrw.com
 .ilcsdnkf.com
-.ilinhy.com
 .ilink-a.com
 .iloveandroiddlvpn.com
 .iloveandroidvpn.com
@@ -11697,7 +11659,6 @@
 .intego.com
 .interdoge.cfd
 .interncloud.info
-.internetbypass.com
 .internetcloak.com
 .interssh.com
 .intertop.link
@@ -11811,7 +11772,6 @@
 .jackyes.ovh
 .jagoanssh.com
 .jagovpn.com
-.jailbreaked.net
 .jakofyol.cc
 .jalmira.ru
 .jaltrix.ru
@@ -12719,7 +12679,6 @@
 .lomiraq.ru
 .longss.xyz
 .lonmq6.xyz
-.lookingglass.site
 .looquae8.xyz
 .looseforbid.com
 .lopana.com
@@ -13864,7 +13823,6 @@
 .photonsecure.com
 .phpatewiw.online
 .phpbido.com
-.phproxysite.com
 .phyi.loan
 .physicsbutfun.com
 .pi-dns.com
@@ -14454,7 +14412,6 @@
 .quoltira.ru
 .quonira.ru
 .quorilo.ru
-.quotivatehub.com
 .qustano.xyz
 .qv2ray.org
 .qvkyjkus.cc
@@ -14567,7 +14524,6 @@
 .rethinkdns.com
 .revelio.top
 .revko.info
-.rewardpumpkin.com
 .rfnprotection.uk
 .rfoncizw.com
 .rgvpn.cc
@@ -14611,7 +14567,6 @@
 .rock1314.com
 .rocketjiasu.net
 .rocketnews.site
-.rocketprox.com
 .rocketube.online
 .rocketvpn.net
 .rockwell.website
@@ -15497,7 +15452,6 @@
 .tnquyfpp.com
 .tns5gcwfy.online
 .tntv2.com
-.tnvpn.com
 .toaster.lol
 .toggle.org
 .togglevpn.org
@@ -15510,7 +15464,6 @@
 .toolara.net
 .toolcio.com
 .top-medical-schools.org
-.top-proxy.site
 .top10vpn.com
 .top10vpnapp.com
 .topcenter.one
@@ -15527,7 +15480,6 @@
 .topvpn.cn
 .topvpnguides.com
 .topvpntype.com
-.tor-gateways.de
 .tor2web.fi
 .tor2web.io
 .tor2web.it
@@ -16221,7 +16173,6 @@
 .vpn-planetvpn.net
 .vpn-private.net
 .vpn-professional.company
-.vpn-quick.com
 .vpn-russia.app
 .vpn-service.us
 .vpn-shield.help
@@ -16531,7 +16482,6 @@
 .walln.com
 .wallpap.eu
 .wanchengvpn.com
-.wanchengwangluo.com
 .wandayun.com
 .wanjuwawa.cn
 .wantaquddin.com

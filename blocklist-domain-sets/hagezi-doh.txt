@@ -232,7 +232,6 @@
 .doh.archuser.org
 .dns.ares-taiwan.com
 .dns.arkbotech.com
-.doh.armadillodns.net
 .nsec.arnor.org
 .dns.articrevised.cc
 .dns.artikel10.org
@@ -1044,7 +1043,6 @@
 .ccadguard.dynu.net
 .flyloadguard.dynu.net
 .quangdo92.dynu.net
-.saomai.dynu.com
 .gustamadh.dynv6.net
 .dns.dynx.pro
 .adg.dz.ax
@@ -1329,7 +1327,6 @@
 .dns.gsmseti.net
 .bigseal1.gu-natee.uk
 .dns.guard.io
-.dns.guardmydns.com
 .dns2.guidocioni.it
 .homedns.gumeniuk.com
 .dns.gupthabrothers.in
@@ -2179,7 +2176,6 @@
 .wg.pastorov.ru
 .nas.patrick-antoine.fr
 .dns.paxavemedia.com
-.loan.paymdm.xyz
 .vps-ovh.pb2004.pl
 .dns.pccoach.nl
 .rpz-public-resolver1.rrdns.pch.net
@@ -3162,7 +3158,6 @@
 .ib.systems
 .iij.jp
 .ikarosalpha.xyz
-.ilinhy.com
 .imperio.top
 .incaseineeditoneday.com
 .ingenmannsland.online
