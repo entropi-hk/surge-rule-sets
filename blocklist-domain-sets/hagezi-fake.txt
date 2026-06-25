@@ -77,6 +77,7 @@
 .leathershire.co.uk
 .levoit.co.at
 .lilysilk.co.at
+.lloyd.co.at
 .loewe.co.at
 .lowa.co.at
 .luxeparfum.co.uk
@@ -574,7 +575,6 @@
 .gwcshop.towncabco.com
 .ad.toygzv.shop
 .atbh.toygzv.shop
-.at.trabajo.org
 .pt.tradingzone.pro
 .idjebhi.r.tsp1-brevo.net
 .web.tyrioncapital.live
@@ -1269,6 +1269,7 @@
 .anhaenger-geraete.com
 .anhaenger-von-thule.de
 .anhaengerkauf24.com
+.anhaengerklasen.de
 .anhaengerkreuter.com
 .anhaengermarkt.com
 .anhaengers.online
@@ -2005,6 +2006,7 @@
 .beautyhaarshop.com
 .beautyhabitps.shop
 .beautyhausberlin.de
+.beautyhealthsupplies.com
 .beautyketten.com
 .beautykoopje.com
 .beautyonthebrink.com
@@ -2575,7 +2577,6 @@
 .bobbyananta.com
 .bobostore.de
 .bocancilowa.com
-.bocapital.com
 .bocastory.com
 .bocceli.com
 .body-gear.to
@@ -2749,7 +2750,6 @@
 .brinkmannkanzlei.de
 .briospielzeug.com
 .briospielzeugrabatt.com
-.british-columbia-hotels.com
 .britishnewstoday.com
 .brivalfin-invest.com
 .brnghl.shop
@@ -3682,7 +3682,6 @@
 .cutlerymarkets.com
 .cutterfarm.de
 .cv-tech-onlineshop.de
-.cvc-capital-partners.com
 .cvmaker.de
 .cvneed.com
 .cwl-experts.org
@@ -3973,6 +3972,7 @@
 .deinrufretter.com
 .deinsportimperium.de
 .deinthuleshop.de
+.deintrikot.at
 .dejia.shop
 .dekhujoshop.com
 .dekoartikelrabatt.de
@@ -5304,6 +5304,7 @@
 .fantomfx.net
 .faobunricate.com
 .farahattire.com
+.farben-profis.com
 .farben-store.com
 .farbenruhe.ch
 .fargo-global.com
@@ -6086,6 +6087,7 @@
 .gartenmaher.com
 .gartenmaschinen24.de
 .gartenmaschinenzubehor.com
+.gartenmaxe.de
 .gartenmoebelangebote.de
 .gartenmoebelwelt.com
 .gartenmotor.de
@@ -6436,7 +6438,6 @@
 .glossierireland.com
 .glossise.com
 .glovano.com
-.glovio.de
 .glow-haven.de
 .glowblend.de
 .glowency.de
@@ -6549,7 +6550,6 @@
 .goodideatrade.com
 .goodiptvc.com
 .goodjobfull.com
-.goodlike.de
 .goodmecar.click
 .goodmedsshops.com
 .goodotisnop.click
@@ -6728,6 +6728,7 @@
 .guessosterreich.at
 .guessoutletdeutschland.de
 .guest-pend3120.com
+.gueta-handel.com
 .gueyeclasse-shop.com
 .gugeunk.de
 .guide-placements-alternatifs.com
@@ -7096,6 +7097,7 @@
 .heizklar.eu
 .heizl.de
 .heizlager.de
+.heizleo.de
 .heizline.at
 .heiznow.de
 .heizo24.de
@@ -7527,7 +7529,6 @@
 .hotels-colombo.com
 .hotels-inform4281.com
 .hotelsinperm.ru
-.hotelsofmenorca.com
 .hotelwareus.com
 .hotelwhales.com
 .hotix.de
@@ -8114,6 +8115,7 @@
 .jn-recruitment.at
 .jncojeans.de
 .jo-joshop.com
+.joachim-gartengeraete.de
 .joaostoreoficial.com
 .jobam.shop
 .jobdreamonline.com
@@ -8748,7 +8750,6 @@
 .kovison.de
 .kowela.com
 .kpoweronline.com
-.krabihotelsthailand.net
 .kraft-profil-technik.eu
 .kraftdesweins.com
 .kraftholz-pellet.shop
@@ -9653,6 +9654,7 @@
 .malens-boutique.de
 .malentestheaterpalast.de
 .malerbedarf-sales.com
+.malergeschaft.com
 .mall-outdoors.com
 .mallof.shop
 .mallorca-holidayhomes.com
@@ -11099,7 +11101,6 @@
 .nxtstreetlondon.com
 .nyfolk.de
 .nyutxe.shop
-.nze.com
 .nzwir.shop
 .oakdalerotary.org
 .oakhabitsy.com
@@ -11452,7 +11453,6 @@
 .optessentialoils.com
 .optimalattire.com
 .optimaltackle.com
-.optimarkets.com
 .optimia.top
 .optimizeactive.shop
 .optimizehq.shop
@@ -11791,6 +11791,7 @@
 .pedalfreunde.de
 .pedalpalast.de
 .pedalparadies.com
+.pedalprofi.de
 .pedalyst.com
 .peekcloppenburg-berlin.de
 .peelerrabatt.de
@@ -13236,6 +13237,7 @@
 .schachworkshop.de
 .schafflutzel-motorgerate.com
 .schallreiniger.de
+.schaltersteckdosen.com
 .schaltwerkfahrrad.de
 .scharfemesser.de
 .scharfeprofession.com
@@ -13900,6 +13902,7 @@
 .solarc.click
 .solarcheck.at
 .solaregis.com
+.solarek-energie.com
 .solarenergie-beleuchtung.de
 .solarenergyplatinum.com
 .solarfehlercodes.de
@@ -14600,6 +14603,7 @@
 .talerkaffee.de
 .talkbuds.de
 .tallerfelix.com
+.talvurieks.at
 .tamarisoutlet.com
 .tambaro.de
 .tandexo.com
@@ -14642,7 +14646,6 @@
 .tddexpresslogistics.com
 .tdglobalcompany.io
 .tdxsz.com
-.te.de
 .teachbrigh.com
 .teambike-hamburg.de
 .teameffekt.de
@@ -15148,6 +15151,7 @@
 .toxic-off.shop
 .toy-boxsales.com
 .toyevs.store
+.toyfunrealm.com
 .toyhasbro.com
 .toymr.com
 .toyowner.com
@@ -15380,7 +15384,6 @@
 .ttkarriere.com
 .tts-beratung.de
 .tttrilliant-fx.net
-.tudio.de
 .tuftex-balloons.com
 .tuinbalkon.com
 .tunepart.com
@@ -16106,6 +16109,7 @@
 .warmlifes.com
 .warmlogic.de
 .warmood.ch
+.warmthota.com
 .warmthsta.com
 .warmthvo.com
 .wascheparfume.de
@@ -16745,6 +16749,7 @@
 .zezzo.de
 .zfggmbh.de
 .zhubni.eu
+.zibitcoin.net
 .ziegler-handel.de
 .ziegler-kanzlei.de
 .ziegler-rechtsanwaelte.de
@@ -16807,6 +16812,7 @@
 .zusammenmitthule.de
 .zusellmk.click
 .zuverlassigerkredit.com
+.zwclsaablueashe.shop
 .zweirad-dach.de
 .zwergspitzpomeranian.com
 .zxmcm.com
