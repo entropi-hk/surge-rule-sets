@@ -97,6 +97,7 @@
 .speedos.co.at
 .staud.co.at
 .superdry.co.at
+.talvurieks-official.co.at
 .teddith.co.uk
 .timbuk2.co.at
 .uggs.co.at
@@ -5472,7 +5473,6 @@
 .figurinestoys.com
 .filamentmarkt.com
 .filamniceent.com
-.fillamoda.com
 .fillethumn.com
 .fillinger.shop
 .filloutlet.com
@@ -13764,6 +13764,7 @@
 .skirt-discount-store.shop
 .skispeichern.com
 .skisurfskate.com
+.skisurfsports.com
 .skometa.com
 .sktoolsworkshop.com
 .sky-trikot-shop.de
@@ -14614,6 +14615,12 @@
 .talkbuds.de
 .tallerfelix.com
 .talvurieks.at
+.talvurieks.com
+.talvurieks.org
+.talvurieks-ai.at
+.talvurieks-austria.at
+.talvurieks-official.net
+.talvurieks-official-at.com
 .tamarisoutlet.com
 .tambaro.de
 .tandexo.com
@@ -15568,6 +15575,9 @@
 .urnsey.shop
 .ursime.com
 .ursulam.com
+.urvlentoki.com
+.urvlentoki-at.com
+.urvlentoki-ie.com
 .urzadomzone.com
 .us-shop.online
 .us-supplements.to
@@ -16338,6 +16348,7 @@
 .whiskysorten.com
 .whiteacehealthcare.uk
 .whitecoatjourney.com
+.whitelake-invest.com
 .whiterock-financial.eu
 .wholesalebaseballnets.com
 .whzyxd.com
