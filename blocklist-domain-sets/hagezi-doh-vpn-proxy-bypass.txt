@@ -6835,6 +6835,7 @@
 .nwea.veriler.com
 .virtualenglish.verolook.com
 .jahyussif.verymad.net
+.ohttp.prod.via.google
 .cludenxenibyte.viar3d.com
 .ilovenirb.viar3d.com
 .mathteacher.viar3d.com
@@ -10341,7 +10342,6 @@
 .feitan.cloud
 .feitan.me
 .feiyujiasu.net
-.feiyulink.net
 .felqorn.lol
 .felravo.ru
 .feltra.ru
@@ -14451,6 +14451,7 @@
 .ralveno.ru
 .ramivo.ru
 .rammerhead.org
+.randomdomain.shop
 .rankedmc.win
 .ranqigaibiao.com
 .rapidcdn.click
