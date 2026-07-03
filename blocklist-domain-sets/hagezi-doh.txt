@@ -90,7 +90,6 @@
 .tyo.883933770.xyz
 .dns.886886886.xyz
 .dns.888654.xyz
-.dns.890806.xyz
 .arches-srv1.8ws.net
 .arches-srv2.8ws.net
 .outie.8ws.net
@@ -130,7 +129,6 @@
 .ajlxwk4kedu5.absq.ch
 .pebdbvi58gbc.absq.ch
 .block.abstergo.it
-.doh.iucc.ac.il
 .adguard1.unima.ac.id
 .adguard2.unima.ac.id
 .open-resolver1.unima.ac.id
@@ -237,7 +235,6 @@
 .dns.artikel10.org
 .resolver.as203038.net
 .doh.asagiri.moe
-.grgrgrkeepcalmkeepcalm.asatid12.ir
 .doh.asecdns.com
 .dot.asecdns.com
 .midgard.asguardian.de
@@ -258,11 +255,9 @@
 .dns.auapi.fun
 .dns.audet.cloud
 .dns.auffray.org
-.adguard.avavd.ru
 .vps.avc.cx
 .dnstx.axhy.cc
 .dns.axto.me
-.dns.aykanbacaksoy.de
 .adguard.ayrespace.cc
 .adguard2.ayrespace.cc
 .home.azagra.dev
@@ -2990,7 +2985,6 @@
 .andrey93rus.ru
 .andy123123.xyz
 .angrysky.ru
-.anhphamhn82.uk
 .anixlab.com
 .applied-privacy.net
 .arashi.solutions
@@ -2998,7 +2992,6 @@
 .aridia.ru
 .atris.cyou
 .atsilva.link
-.auberge78.site
 .axistechsupport.com
 .b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 .bancuh.com
