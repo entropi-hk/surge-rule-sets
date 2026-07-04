@@ -15,7 +15,6 @@
 .search.aol.com
 .suche.aol.de
 .search.azkware.net
-.librex.baczek.me
 .searx.baczek.me
 .searx.bbaovanc.com
 .search.biboumail.fr

@@ -378,7 +378,6 @@
 .81xyz.brudnowski.eu
 .doh.bt.com
 .goose.buckyfan.net
-.doh.bugdns.com
 .stratus.bugz.fr
 .dns.burgas.pro
 .dns.busold.ws
@@ -489,7 +488,6 @@
 .adg.datamatter.co.za
 .pihole.datamatter.co.za
 .adguard.discounthost.co.uk
-.www.dnsadguard.co.uk
 .dns.eliv.co.kr
 .gn-z11.franscois.co.za
 .dns.gayanalysing.co.uk
