@@ -602,11 +602,9 @@
 .dns2.cybrespace.net
 .dns.cynthialabs.net
 .dns.cysynex.cloud
-.honor.cyvexadns.online
 .nextcloud.d-alahmad.de
 .dns.d365.in
 .s2.d3mik.ru
-.s3.d3mik.ru
 .dns.d4d.moe
 .dns.d94.xyz
 .dns.daarrk.tech
@@ -711,7 +709,6 @@
 .doh-primary-pool.detoxifypornblocker.com
 .dns.dev-umbrellagov.com
 .adguard.ext.devkon.org
-.dns.devopscloud.icu
 .mainframe.dewed.de
 .dns.dewei.dev
 .dns.dgea.fr
