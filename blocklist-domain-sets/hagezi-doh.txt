@@ -1222,7 +1222,6 @@
 .hebe.freedynamicdns.org
 .dns.freemyemail.com
 .walhalla.freemyip.com
-.wg-aghome.freemyip.com
 .zuk.freemyip.com
 .dns.freopc.fr
 .dns.freyja.pw
@@ -1288,7 +1287,6 @@
 .moph.go.th
 .roadesdyn.go.ro
 .ux.go20.cf
-.privacydns.go6lab.si
 .dns.goertz.digital
 .eime.goip.de
 .dohsg.goitoi.co
@@ -1387,7 +1385,6 @@
 .isolacje.homeip.net
 .adguard.homenetmedia.stream
 .adguard01.homepeter.de
-.dns.hoody.com
 .dns.hopkinton.online
 .dns.hopsken.com
 .2wired.hopto.org
@@ -1453,7 +1450,6 @@
 .vova.vpn.i81.ru
 .vovale.vpn.i81.ru
 .win10virtual.vpn.i81.ru
-.az.i81.ru
 .hr.i81.ru
 .vd.i81.ru
 .aq.iaalai.cn
@@ -2363,6 +2359,7 @@
 .zetland.rm-ni.uk
 .sudo.rm-rf.cloud
 .adguard.ro0t.us
+.vps.robotboard.de
 .1.rock-review.ru
 .dns2.rocksdns.ovh
 .dns.roedel.cloud
