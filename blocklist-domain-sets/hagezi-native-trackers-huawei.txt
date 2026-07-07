@@ -102,6 +102,7 @@
 .honorsearch-drcn.hiboard.hihonorcloud.com
 .honorsearch-dre.hiboard.hihonorcloud.com
 .ads-drcn.platform.hihonorcloud.com
+.ads-dre.platform.hihonorcloud.com
 .ads-drru.platform.hihonorcloud.com
 .log-dra.platform.hihonorcloud.com
 .log-drcn.platform.hihonorcloud.com

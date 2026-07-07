@@ -1592,7 +1592,6 @@
 .addns.jujuland.net
 .dns.jundev.org
 .dns.jungle-im.ir
-.dns.jupitrdns.com
 .jp01.just-a-web.com
 .sgs02.just-a-web.com
 .ad.justincounts.com
@@ -1676,9 +1675,7 @@
 .dns.labar.re
 .dns.labnekotest.site
 .doh.lacontrevoie.fr
-.cdns.lagzerotm.com
 .2024.laijy.top
-.adguard.lamhoangtung.space
 .x.laoban.fun
 .mx1.laoxiao789.com
 .dns.lars-lehmann.net
@@ -1822,7 +1819,6 @@
 .dns.mikopono.nl
 .rwkdwpwsyv48.mikopono.nl
 .dns.millernetwork.uk
-.aitkcrev.minhduc.pw
 .dns.mipauns.com
 .guard.miracloud.fr
 .netcup.mismat.ch
@@ -3164,7 +3160,6 @@
 .jkdns.me
 .jnprd.com
 .johneldenring.lol
-.joouddo.ru
 .josephfamily.org
 .joshberg.org
 .juicysalmon.ru
@@ -3174,7 +3169,6 @@
 .kallemarc.de
 .kavkaz.monster
 .kcolspacrm.ir
-.kekv.fun
 .kellerbier-home.com
 .kennethhuang.com
 .khome.site
@@ -3209,7 +3203,6 @@
 .maherhost.uk
 .maincloud.ir
 .malanser.ru
-.malelolula.store
 .maqgie.xyz
 .mastergad.me
 .masters-of-cloud.de
@@ -3224,7 +3217,6 @@
 .mikewaddick.com
 .mikezhang.xyz
 .minilla.store
-.mistasinresolver.ru
 .moamao.shop
 .morbitzer.de
 .mresquire.com
