@@ -2083,7 +2083,6 @@
 .dns.ofdoom.net
 .adguard.ohmhv57.org
 .adh.olesgroup.com
-.dns.olimpya44.shop
 .dns.oliverweinhold.de
 .dns.olpploiopkuyhiopsfrt.info
 .dns.omada.cafe
@@ -2128,7 +2127,6 @@
 .dns.us-phoenix-1.oraclecloud.com
 .noads.api.org.pl
 .teslacoils.org.uk
-.artemis.orionnexus.top
 .dns.oryxlabs.com
 .dns.osmenoga.com
 .wireguard.osmenoga.com
@@ -2144,7 +2142,6 @@
 .vps-1f675aa1.vps.ovh.us
 .1a.ns.ozer.im
 .1b.ns.ozer.im
-.doh.p2cdn.cn
 .dns.p3k.sk
 .dns.p55k.com
 .dns.pacificmonster.com
@@ -3248,7 +3245,6 @@
 .oowo.de
 .openbld.net
 .opendns.one
-.oscnl.site
 .padermail.net
 .paradise-human.shop
 .pashagame456.com
