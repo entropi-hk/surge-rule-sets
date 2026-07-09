@@ -5237,8 +5237,6 @@
 .de.dns.privex.io
 .nl.dns.privex.io
 .dns.valbatos.pro.vn
-.lightalgebra.pro-house.cl
-.virtualchem.pro-house.cl
 .67-sucks.probac.cl
 .rc-1140.probac.cl
 .science.prole.info
@@ -5252,14 +5250,9 @@
 .vpncdn.protonweb.com
 .webproxy.proxylite.com
 .list.proxyloom.com
-.corelogic.psamson.com
-.science.psamson.com
 .interstellar.nana.psgl.cl
 .nana.rammer.psgl.cl
 .ss.rammer.psgl.cl
-.nana.utopia.psgl.cl
-.dukbyte.psgl.cl
-.scienceiethebeest.com.psicologicemos.com
 .classes.psychology48.com
 .health.psychology48.com
 .science.psychoticgerbil.com
@@ -5295,7 +5288,6 @@
 .dns.qrtz.club
 .hostdare.qtxd.net
 .moc.scinortele-ytilauq.quality-electronics.com
-.notsuchagoodideabro.quality-electronics.com
 .dns.quanhd.net
 .pfft.questobjects.com
 .dns.quickline.ch
@@ -5321,7 +5313,6 @@
 .zouter.zhang3118.qzz.io
 .661.qzz.io
 .beanweb.qzz.io
-.8383hcurfi33783ufhirfu8rf0rhfour67.r-o-o-t.net
 .home.r01.fr
 .resolver.r0cket.net
 .tor.r0cket.net
@@ -5336,7 +5327,6 @@
 .jpser.ra3.us
 .water.rabbitforge.xyz
 .ginnungagap.rabenhain.net
-.adguard.rabmoor.cz
 .d0904c68e362dce88371-d2dc096b53690d6d3857ec60c148f11c.ssl.cf1.rackcdn.com
 .97fd9d2d2372c16421db-c82445aa74ed2d389b26a8a86fc26e69.ssl.cf4.rackcdn.com
 .b0ac15e151420f6dc473-72e85853250626f809e7d6f166ccb9a7.ssl.cf6.rackcdn.com
@@ -5351,7 +5341,6 @@
 .madeby-vcsa.ramalhais.com
 .dns.ramansarda.com
 .nana.ddx.v2.ramos90.ca
-.drive.google.com.rapide.fi
 .thiscopyofartclassisnotgenuine.rare1k.space
 .doh.rasmusminde.dk
 .emby.rasp.tv
@@ -5400,15 +5389,12 @@
 .resolver.rferee.dev
 .dns.rgnv.dev
 .www-madcodg.rgserver.in
-.al-malki-top.rhodec.rocks
-.whendopilotsgotosleep.rhodec.rocks
 .dns.rhscz.eu
 .dns1.rhscz.eu
 .dns2.rhscz.eu
 .adguard.richardapplegate.io
 .subscribevcsa.richreel.com
 .dns.rin.sh
-.school.learning.coding.easy.ixl.rinet.ai
 .ddx.v2.nana.rinet.ai
 .interstellar.nana.rinet.ai
 .rammer.nana.rinet.ai
@@ -5442,7 +5428,6 @@
 .adg.rokh.biz
 .dns.romain.tech
 .dns.ronc.ru
-.justjosh1.com.root.sx
 .hvetemelisapotato123.root.sx
 .vps1.rootax.org
 .vps2.rootax.org
@@ -5469,7 +5454,6 @@
 .sg.rslvr.eu
 .us.rslvr.eu
 .adguard.ruby.ci
-.soltsio.rude.li
 .adg.rueiliu.space
 .gw-px-le-4223-3w5hsuiikq-ey.a.run.app
 .gw-px-le-4224-3w5hsuiikq-ey.a.run.app
@@ -5544,14 +5528,12 @@
 .dns.satellite226.cloud
 .rodgerwhodidthistoyou.satucat.uk
 .securedbyknox.satucat.uk
-.cheap.fursuits.savenowclub.com
 .www-proxy.sayed.page
 .course.music.sbindy.com
 .dns.sbstructure.ir
 .ns1.sc-lezhi.com
 .us.sc92.cn
 .dns.scapetical.com
-.sixseveendj82iiddududjdjeuei.ckm.scarboroughgymelites.ca
 .dns.scarx.net
 .dns.scayn.com
 .hjkhnkhkldfg.dchjvkhdfhbnksdf.sceneco.re
@@ -5621,8 +5603,6 @@
 .dns.sellan.fr
 .korridor.semia-infra.net
 .adguard.senthil.us
-.dns.serdcebolit.ru
-.dns1.serdcebolit.ru
 .forzalaquila.servebeer.com
 .privatnas.servebeer.com
 .doh.serverhost.no
@@ -5651,7 +5631,6 @@
 .purpose.shamanlanding.org
 .tutor.idea.shand.org
 .dns.shareworx.net
-.wedgdh.wefds.sharptutor.net
 .dns.shaw.ca
 .dns.shecan.ir
 .free.shecan.ir
@@ -5670,7 +5649,6 @@
 .kind-wolf-912.shuttle.lol
 .nl.dns.shx.su
 .doh.sidnlabs.nl
-.kendricklaminate.siggjen.eu
 .dns.sildom.me
 .dns.silen.org
 .dns.silentlybren.com
@@ -5735,8 +5713,6 @@
 .dns.sneakypanda.org
 .home.snow-sugar.net
 .ag.snrka.ru
-.guard.sntrk.ru
-.career.snwy.dev
 .vpn.snxi.de
 .dove.soapagent.com
 .petezahpizza.omega.social-networking.me
@@ -5749,7 +5725,6 @@
 .wtbd02.solowalk.top
 .ns.solutics.ec
 .ns.solutionsbest.de
-.thtghrabf.soon.it
 .r.soraapp.gq
 .sentry.soraapp.gq
 .area.level.southtrestle.com
@@ -5770,7 +5745,6 @@
 .wormhole.is.your-savior.spacejamhd.com
 .sigmatic.spacejamhd.com
 .threeproxy.spacejamhd.com
-.turb0warp.spacenaught.us
 .ilovemath.spacetechnology.net
 .lousiana-history-careers-ixl-geoly-education.spacetechnology.net
 .lomoff.spb.ru
@@ -5784,7 +5758,6 @@
 .dns.spirio.fr
 .soadfjrksf.lasdkfj.sportconceptmedia.ru
 .physicaleducation.sportseducationinstructors.org
-.chillenglish.spot.hk
 .s1.srch.top
 .adguard.sre.ovh
 .dns.srijan.site
@@ -6370,6 +6343,7 @@
 .adguard.ulbricht.cloud
 .rb750gr3.ulfhednar.ru
 .debate.major.ulrik.net
+.adguard-ironhide.ultima-thule.ru
 .doh.ultradns.com
 .webdevice.ultrapanel.us
 .dns.umbrella.com
@@ -13617,7 +13591,6 @@
 .prointern.info
 .project-cyber.com
 .project-evoex.de
-.projectorpoint.website
 .projectsgoeasy.ru
 .prontovpn.help
 .pronyx.ru
@@ -13730,8 +13703,6 @@
 .proxydb.net
 .proxydrop.com
 .proxydude.faith
-.proxydude.red
-.proxydude.xyz
 .proxyelite.info
 .proxyen.com
 .proxyer.net
@@ -14082,7 +14053,6 @@
 .renace-re.es
 .renardbleu.dev
 .reniac.su
-.renvpn.lol
 .renzhe.cloud
 .renzhecloud.com
 .repocket.co
@@ -14144,7 +14114,6 @@
 .rockwhisper.com
 .rohex.xyz
 .romanschrom.com
-.ronald.run
 .roodel.com
 .roogen.com
 .roomatic.net
@@ -14172,7 +14141,6 @@
 .runnervamp.net
 .rusa.loan
 .rushproxy.com
-.rusnet-android.click
 .rustynailspace.com
 .rusuojiasu.net
 .rusvpn.com
@@ -14199,7 +14167,6 @@
 .sacarino.es
 .saetvsadf.website
 .safe-inet.com
-.safe-searches.net
 .safebit.space
 .safeclick.email
 .safecloakvpn.com
@@ -14240,14 +14207,12 @@
 .saoudiproxy.info
 .sascha-rabold.de
 .satnet.cv
-.satori.top
 .satoshivpn.help
 .saturnvpn.com
 .savrilo.ru
 .savycrafter.com
 .sawdmg.com
 .sbdc3cw.click
-.sbjct.xyz
 .sbknvp.xyz
 .sbnbgict.com
 .sc-aff.cc
@@ -14351,7 +14316,6 @@
 .sf-helper.com
 .sfasoftballcamps.com
 .sfcxop.cc
-.sflpc7kc.online
 .sfmcut.com
 .sfsso.cn
 .sgwzoch.online
@@ -14433,7 +14397,6 @@
 .signup-express-vpn.guru
 .silenceisnot.fun
 .sillygaming.org
-.sillyy.lol
 .silvaro.ru
 .silvento.ru
 .simiqbwa.com
@@ -14449,7 +14412,6 @@
 .sipidwnt.com
 .sir90hl.com
 .sirqenio.ru
-.sitdns.com
 .site2unblock.com
 .siteblockedbypass.com
 .siteget.net
@@ -14501,7 +14463,6 @@
 .smartproxy.com
 .smartydns.com
 .smdpschool.org
-.smeqczpl.online
 .smfqhpw.cn
 .smirnovfamily.ru
 .sms8b04szwtm.online
@@ -14534,7 +14495,6 @@
 .soso.loan
 .sotavpn.com
 .sotk.am
-.soundsonas.com
 .soundwaveearbuds.com
 .sourceproxy.com
 .sovpn.cc
@@ -14596,7 +14556,6 @@
 .ss-cdn.com
 .ssarea.com
 .ssgreen.org
-.ssh-free.com
 .ssh-storage.ru
 .sshagan.net
 .sshdropbear.net

@@ -2307,7 +2307,6 @@
 .family.rabbitdns.org
 .security.rabbitdns.org
 .ginnungagap.rabenhain.net
-.adguard.rabmoor.cz
 .dns.api.rackspacecloud.com
 .ns.ral9005.org
 .dns.ramansarda.com
@@ -2436,8 +2435,6 @@
 .dns.sellan.fr
 .korridor.semia-infra.net
 .adguard.senthil.us
-.dns.serdcebolit.ru
-.dns1.serdcebolit.ru
 .forzalaquila.servebeer.com
 .privatnas.servebeer.com
 .doh.serverhost.no
@@ -2495,7 +2492,6 @@
 .dns.sneakypanda.org
 .home.snow-sugar.net
 .ag.snrka.ru
-.guard.sntrk.ru
 .adguardhome.softcloud.pe
 .myprivityvpn.softether.net
 .wtbd02.solowalk.top
@@ -2698,6 +2694,7 @@
 .nitter.ujwie.co
 .adguard.ulbricht.cloud
 .rb750gr3.ulfhednar.ru
+.adguard-ironhide.ultima-thule.ru
 .doh.ultradns.com
 .dns.umbrella.com
 .doh.umbrella.com
@@ -3310,7 +3307,6 @@
 .shanghainese.uk
 .shitblocker.com
 .signsservers.ru
-.sitdns.com
 .skydragoness.com
 .smartcamp.su
 .smirnovfamily.ru
