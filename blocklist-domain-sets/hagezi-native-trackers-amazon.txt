@@ -80,6 +80,7 @@
 .ads-setu-proxy-fe.amazon.com
 .ads-setu-proxy.amazon.com
 .ads.amazon.com
+.adserver.pubtech.amazon.dev
 .advertising-api-eu.amazon.com
 .advertising.a2z.com
 .advertising.amazon.ae
@@ -335,6 +336,7 @@
 .vfw-us-west.amazon-adsystem.com
 .vfw-us.amazon-adsystem.com
 .vfw.amazon-adsystem.com
+.vfwm-eu.amazon-adsystem.com
 .vfwm-us-west.amazon-adsystem.com
 .vfwm-us.amazon-adsystem.com
 .vfwm.amazon-adsystem.com

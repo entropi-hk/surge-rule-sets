@@ -334,7 +334,6 @@
 .stats-partner.trafficmanager.net
 .teams-events-data.trafficmanager.net
 .telemetry-lcp.trafficmanager.net
-.tenmax-ads.trafficmanager.net
 .tm-analytics-pr.trafficmanager.net
 .tm-enrollment-telemetry-datacore.trafficmanager.net
 .us-mesh-events-data-leafs.trafficmanager.net

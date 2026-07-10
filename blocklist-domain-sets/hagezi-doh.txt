@@ -2689,7 +2689,6 @@
 .dot.ublockdns.com
 .my.ublockdns.com
 .v1.ufamax.eu
-.vless-service.ufodns.com
 .blokuj.ujwie.co
 .nitter.ujwie.co
 .adguard.ulbricht.cloud
@@ -3366,7 +3365,6 @@
 .wallpap.eu
 .wantaquddin.com
 .waydnes.ru
-.web-rated.ie
 .webteufel-it.solutions
 .whatcaniplay.com
 .wikimedia-dns.org
