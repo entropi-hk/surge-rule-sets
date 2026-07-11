@@ -299,6 +299,7 @@
 .adblock.benmeyer.net
 .dns.bermeitinger.eu
 .domburg.beruys.com
+.dns.bezmezhau.com
 .dns.bgeneto.com
 .dns.bibica.net
 .dns.bibitos.cc
@@ -926,7 +927,6 @@
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
 .seoul.dnsovertor.cc
-.bilidon.dnsuser.info
 .ns.dnsviewer.org
 .doh.asia.dnswarden.com
 .doh.eu.dnswarden.com
@@ -2797,7 +2797,6 @@
 .tls.windyvale.net
 .adguard.wirimij.nl
 .dns3.wistarip.com
-.fi.wjcload.tech
 .vserv.wkind.de
 .dns.wns.watch
 .dnsbk.wns.watch
@@ -2864,7 +2863,6 @@
 .dns.youni.win
 .guard.yps.tw
 .dus.ysbs.uk
-.doh.yspv.ru
 .dns.ytpom.ru
 .dns2.ytpom.ru
 .dns.yu.dev

@@ -662,6 +662,7 @@
 .openvpnpptp.bese.info
 .openvpnpptpserver.bese.info
 .v2202510290637393088.bestsrv.de
+.dns.bezmezhau.com
 .dns.bgeneto.com
 .dns.bibica.net
 .dns.bibitos.cc
@@ -2476,7 +2477,6 @@
 .chuncheon.dnsovertor.cc
 .japan.dnsovertor.cc
 .seoul.dnsovertor.cc
-.bilidon.dnsuser.info
 .ns.dnsviewer.org
 .keeper.do.am
 .googolclasroom.dob.jp
@@ -6253,6 +6253,7 @@
 .adguard.trevorpease.me
 .sq.trin.icu
 .doh.tritan-bb.net
+.ext.troywell.io
 .ext.troywell.org
 .nebula.tru.io
 .apps.truckbel.com
@@ -6582,7 +6583,6 @@
 .solve.piano.wirich.com
 .adguard.wirimij.nl
 .dns3.wistarip.com
-.fi.wjcload.tech
 .vserv.wkind.de
 .dns.wns.watch
 .dnsbk.wns.watch
@@ -6645,7 +6645,6 @@
 .dns.xiumu.org
 .dns.xivilay.dev
 .dns.xlion.tw
-.frogstudioslearning.xlntsolutions.com
 .cloud.xn--4gq62f52gdss.asia
 .gw-1.xn--ehqx7tcnnope.com
 .sazsp.xn--ekervarna-37a.com
@@ -6670,7 +6669,6 @@
 .2.dnscrypt-cert.browser.yandex.net
 .dns.yandex.net
 .dns.yandex.ru
-.shawtagramma.yao.cl
 .adguard.yare.hk
 .phew.yasantala.com
 .agh-hetzner.yasirafique.com
@@ -6695,11 +6693,9 @@
 .net01.youcef.io
 .adguard.youler.com
 .dns.youni.win
-.www.itrsa.home.next.youradbyus.com
 .v22013121930515853.yourvserver.net
 .guard.yps.tw
 .dus.ysbs.uk
-.doh.yspv.ru
 .op.yt47v.cfd
 .dns.ytpom.ru
 .dns2.ytpom.ru
@@ -6724,19 +6720,10 @@
 .nexuss.zapto.org
 .schoolwebsite.zapto.org
 .dns.zarchbox.fr
-.al-malki-top.zavoj.ch
 .classroom.zaydkrunz.com
 .register.zedzander.com
 .dns.zemows.industries
 .doh.zephyrus.id
-.brainpop.zeptoinitiative.org
-.drive.zeptoinitiative.org
-.education.zeptoinitiative.org
-.imcrine.zeptoinitiative.org
-.madebynathan.zeptoinitiative.org
-.madebynathan1.zeptoinitiative.org
-.mastergotmeworkin.zeptoinitiative.org
-.reading.zeptoinitiative.org
 .adguard-kartoffel.zernico.de
 .oraclejp01.zerotorez.com
 .dns.zfsystem.tech
@@ -16353,7 +16340,6 @@
 .xvhquwjv.com
 .xvless.site
 .xvmess.online
-.xvmess.site
 .xvpn.io
 .xvpnsecurity.com
 .xwkpmbnez.com
@@ -16391,7 +16377,6 @@
 .yapend.com
 .yapwxciu.com
 .yarvio.ru
-.yasharteam.com
 .yavdvcrs.com
 .yawdg.net
 .yawtt.net
@@ -16400,7 +16385,6 @@
 .ybmtkbiq.com
 .ybqjaguuii0obex4w.online
 .ybqlymsu.com
-.ybstbrpb.com
 .ychen.cf
 .ychen.gq
 .ycuaoflx.com
@@ -16488,7 +16472,6 @@
 .yovbak.com
 .yoygstbx.com
 .yoyovpn.org
-.yplsambm.com
 .ypork.com
 .yqchonhx.com
 .yrikse.com
@@ -16526,7 +16509,6 @@
 .z1j9ortoc.online
 .z2l8ae5mv83sgzkutimxp.online
 .z3d9.com
-.z4qczlf.online
 .zabolotskikh.dev
 .zaborona.help
 .zacebookpk.com
@@ -16618,7 +16600,6 @@
 .zgcvpn.com
 .zgfree.info
 .zgproxy.org
-.zgsjhdzb.com
 .zgvpn.net
 .zgvpn.org
 .zh-klvpn.com

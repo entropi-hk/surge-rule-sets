@@ -20,6 +20,8 @@
 .connect-drru.hispace.dbankcloud.ru
 .connect-dra.map.dbankcloud.com
 .connect-dre.map.dbankcloud.com
+.ad-drcn.media.dbankcloud.cn
+.ad-drcn.media.dbankcloud.ru
 .adx-dra.op.dbankcloud.com
 .adx-drcn.op.dbankcloud.cn
 .adx-dre.op.dbankcloud.com
@@ -114,6 +116,7 @@
 .grs.hihonorcloud.com
 .ads.cloud.huawei.com
 .ads-drru.cloud.huawei.ru
+.nebula-collector.huawei.com
 .rnd-cbgpas01.huawei.com
 .uba.huaweicloud.com
 .nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com

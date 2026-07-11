@@ -222,6 +222,7 @@
 .mssdk-quic-sg.tiktok.com
 .mssdk-sg.tiktok.com
 .mssdk-va.tiktok.com
+.ad-union-i18n-api.tos-sg.tiktok-row.org
 .mcs.tiktok-row.net
 .p16-tiktok-ads-sg.tiktokcdn.com
 .sf16-ads-format-sign.tiktokcdn.com
