@@ -144,6 +144,7 @@
 .lowa.com.de
 .moderncasa.com.br
 .mundoencantadobrasil.com.br
+.netatmo.com.de
 .nexusonline.com.br
 .ondecomprei.com.br
 .ondeutschland.com.de
@@ -347,6 +348,7 @@
 .699129.myshopify.com
 .a64ad4-3.myshopify.com
 .alderhofatelier.myshopify.com
+.alverogmbh.myshopify.com
 .bakta8.myshopify.com
 .berkshirede.myshopify.com
 .berlinkaffee.myshopify.com
@@ -387,6 +389,7 @@
 .kitchenmarket1.myshopify.com
 .kleinre.myshopify.com
 .kleinzdef.myshopify.com
+.klimag.myshopify.com
 .klimahaus.myshopify.com
 .konigsmarkt-2.myshopify.com
 .kvp0fw-hi.myshopify.com
@@ -760,6 +763,7 @@
 .abipartyxxl.de
 .abl-finance.com
 .abm-industrie.com
+.abmdistrib.com
 .abodeare.com
 .abodeena.com
 .abodespot.com
@@ -1627,6 +1631,7 @@
 .auszeit-seminar.de
 .authilama.com
 .auto-bund.com
+.auto-export-augsburg.de
 .auto-handel.org
 .auto-logik.de
 .auto-partshome.com
@@ -1645,6 +1650,7 @@
 .autoforumoberursel.de
 .autogalerie29.de
 .autogearlabflow.com
+.autohaus-ferkl.de
 .autohausberg-gmbh.de
 .autohausbismuth.de
 .autohauselsdorf.de
@@ -1964,6 +1970,7 @@
 .be-aetlcnshop.com
 .beaccustomed.com
 .beachitem.com
+.beachwalkbali.com
 .beambead.com
 .beamdeals.de
 .beatricesavoy.de
@@ -2418,6 +2425,7 @@
 .bitcoin-everest-ai.fr
 .bitcoin-pharmacy.com
 .bitcoin-trader.net
+.bitcoin-up.io
 .bitcoin-xact.fr
 .bitcoinarchon.com
 .bitcoindecode.io
@@ -2646,6 +2654,7 @@
 .braucheschnell.com
 .braunboutique.com
 .brauneagrar.com
+.braunsale.de
 .bravedrawer.com
 .braviamarket.com
 .breadmachineshop.com
@@ -3820,6 +3829,7 @@
 .deckcalmn.com
 .decohousely.com
 .decokento.com
+.deconestprolab.com
 .decookware.com
 .decoopy.com
 .decor-muse.com
@@ -4598,6 +4608,7 @@
 .electro-market-store.com
 .electro-redeker.de
 .electrokaufen.de
+.electrolager.de
 .electronia24.de
 .electronicade.com
 .electronicgood.com
@@ -4933,6 +4944,7 @@
 .eugeneoutlet.com
 .eumarketstores.com
 .eumeds24.com
+.eumedz.com
 .eunits.de
 .euonlinedeal.shop
 .euortovox.shop
@@ -5040,6 +5052,7 @@
 .exivara24.com
 .exklusiv-online.de
 .exklusivendesign.com
+.exklusivrad.de
 .exo-marketing.com
 .exodermin.com
 .exodermin.eu
@@ -5060,6 +5073,7 @@
 .exptablets.com
 .exquisitpflanze.com
 .exteriork.com
+.extralangrotary.com
 .extraordiny.com
 .extrapassion.club
 .extshginm.com
@@ -5128,6 +5142,7 @@
 .fahrradladen-brand.de
 .fahrradladen-gronau.de
 .fahrradladen-hoffmann.de
+.fahrradladen-klasen.de
 .fahrradladen-neu.com
 .fahrradladenbrand.de
 .fahrradladende.com
@@ -5335,7 +5350,6 @@
 .festgeldsicher.at
 .festivaldefrente.com
 .festoolz.shop
-.fetishmegastore.com
 .fettabsaugung-in-koeln.de
 .fettverbrenneronline.com
 .feuchtigkeits.de
@@ -5861,7 +5875,6 @@
 .galeriemodehaus.com
 .galerieoswald.de
 .galeryfile.com
-.galileofx.com
 .galleria-kaufhof.de
 .gambystudios.com
 .game.toys
@@ -7754,10 +7767,12 @@
 .interactivecoins.com
 .interactiveoption.com
 .interactp.com
+.interholz-de.com
 .interiordesignusa.com
 .interiordome.com
 .interiorene.com
 .interiorlightingshop.com
+.interlux-zentrum.com
 .intermaschineauktion.com
 .interpellet.at
 .interstatesavings.us
@@ -7929,6 +7944,7 @@
 .jerusalemcharity.com
 .jessena.com
 .jetprofund.net
+.jette-handel.de
 .jeulia.de
 .jewellery-palace.com
 .jewelleryina.com
@@ -8028,6 +8044,7 @@
 .jssolution.com
 .jtgmarket.com
 .jtshoponline.com
+.jubin-bicycle.com
 .juergen-runge.de
 .juergenkehrer.de
 .jufahotels.de
@@ -8055,6 +8072,7 @@
 .jyaashop.com
 .jyxliness.com
 .k-apotheke.de
+.k-ebikegmbh.de
 .k-elite-shop.com
 .k4-kulturgarten.de
 .ka-pharm.com
@@ -8064,6 +8082,7 @@
 .kadiwo.de
 .kadonimo.de
 .kadoshops.de
+.kaelte-bringer.de
 .kaelte-held.com
 .kaffee-burg.de
 .kaffee-de.com
@@ -8487,6 +8506,7 @@
 .klempnerwerkzeug.com
 .kleversholz.com
 .klimabonus2026.at
+.klimacare24.de
 .klimmotorrad.com
 .klingerdirndl.com
 .klonl.shop
@@ -8957,6 +8977,7 @@
 .levitraeurope.com
 .levne-kamagra.online
 .levonis.de
+.levorelio.net
 .levtexhomebedsetssale.com
 .levuna.ch
 .leworkshops.com
@@ -9127,6 +9148,7 @@
 .lodiac.com
 .lodischuhedeutschland.com
 .lodischuheonlineshop.de
+.loewe-osterreich.com
 .loewedeutschland.de
 .loftmyhub.com
 .lofza.com
@@ -9903,10 +9925,12 @@
 .microsoft1drive.net
 .microsotfsstore.com
 .midasmarkt.com
+.midea-deutschland.de
 .midea-europa.de
 .midea-europe.de
 .midea-germany.de
 .midea-klima.de
+.midea-portasplit.com
 .mideadeutschland.de
 .mideaklima.de
 .midikleider.com
@@ -11691,7 +11715,6 @@
 .pharmaracapital.com
 .pharmaright.vu
 .pharmaris.net
-.pharmaserve.com
 .pharmatheke-europe.com
 .pharmedio.de
 .pharmrx-1.com
@@ -12733,6 +12756,7 @@
 .royusionalty.com
 .rpebike.online
 .rpgmerchstore.com
+.rqhtyztv.shop
 .rrsstore.com
 .rs-remorque.com
 .rtieej.buzz
@@ -13575,6 +13599,7 @@
 .sofotron.de
 .soft-handel.de
 .softdays-shop.de
+.softelektro.com
 .softritualsco.shop
 .software-onsale.com
 .softwarebilliger1.de
@@ -13712,7 +13737,6 @@
 .soundhive.de
 .sourceforsport.com
 .sovectoron-1-naatlasix-losolara.com
-.sowaswillichauch.de
 .soxfinancial.com
 .space-tennis.com
 .spacebuds.de
@@ -15415,6 +15439,7 @@
 .veramodehaus.de
 .veranoclothing.de
 .veraziahgroup.com
+.verbraucherfokus-test.de
 .vereinsregisterauszug.at
 .verios-gaming.de
 .veripro.de
@@ -15428,6 +15453,7 @@
 .verkehrsbande.com
 .verkettet-dogs.com
 .veroshell.com
+.versand-kaufhaus.de
 .versandhaus-herrmann.de
 .versandoase.de
 .versandpharma.com
@@ -15579,6 +15605,7 @@
 .vivagopro.com
 .vivaharmoni.com
 .vivaia-schuhe.de
+.vivaiacollection.com
 .vivaiaschuhe.at
 .vivaiaschuhe.com
 .vivaiaschuhe.de
@@ -15706,6 +15733,7 @@
 .waco-logistics.com
 .wacoo.de
 .wacooball.com
+.waerme-pumpen24.de
 .waermepumpe-solar.de
 .waermewald.de
 .waermewelt.com
@@ -15943,6 +15971,7 @@
 .wertalmpro.at
 .wertexmarkt.de
 .wertglanzedelmetall.de
+.wertlebenshop.com
 .wertovia.com
 .wertpuls.de
 .weserstore.de
@@ -16233,7 +16262,6 @@
 .yangibeauty.com
 .yangzhi.de
 .yanjushop.com
-.yannelli.net
 .yardigen.store
 .yashigeoutlet.com
 .ybcladmetal.com
@@ -16337,7 +16365,6 @@
 .zctszj.com
 .zebrainvest.com
 .zegnakaufen.de
-.zeigdeinbein.de
 .zeigebericht.de
 .zeigstil.com
 .zeit-modehaus.com

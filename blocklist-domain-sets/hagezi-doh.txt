@@ -234,6 +234,7 @@
 .dns.articrevised.cc
 .dns.artikel10.org
 .resolver.as203038.net
+.dns.as212683.net
 .doh.asagiri.moe
 .doh.asecdns.com
 .dot.asecdns.com

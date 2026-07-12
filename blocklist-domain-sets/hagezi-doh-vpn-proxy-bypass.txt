@@ -479,6 +479,7 @@
 .blog.artweb.website
 .buy.artweb.website
 .resolver.as203038.net
+.dns.as212683.net
 .doh.asagiri.moe
 .doh.asecdns.com
 .dot.asecdns.com
