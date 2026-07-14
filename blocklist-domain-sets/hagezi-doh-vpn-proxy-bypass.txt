@@ -2172,6 +2172,7 @@
 .tromp.creographix.at
 .vcsa.creographix.at
 .adguard.crestfallen.de
+.dns.criena.net
 .dns.itsec.crolla.net
 .fern.crosbreaker.dev
 .bx3.cdn.gh-pages.cryodome.com
@@ -4860,6 +4861,7 @@
 .wise-bear-455.nowgg.me
 .dns.npe.bz
 .adguard.npglocal.com
+.api.npvu.me
 .xpen.ns01.info
 .x.ns1net.com
 .dnscache0.ns71.net
@@ -6855,6 +6857,7 @@
 .1tv8q2k.online
 .1utins.xyz
 .1vpn.app
+.1vpn.co
 .1vpn.org
 .1vpn.website
 .1xiaowang.com
@@ -8578,10 +8581,14 @@
 .closetruth.date
 .cloudbenders.fun
 .cloudbob.fr
+.cloudburstcdn.com
+.cloudflaracdn.com
 .cloudflare-dns.com
 .cloudflare-gateway.com
 .cloudflaredns.com
 .cloudflareresolve.com
+.cloudflingcdn.com
+.cloudlogcdn.com
 .cloudnetcdn.com
 .cloudnetwork.pro
 .cloudnymous.com
@@ -8591,6 +8598,7 @@
 .cloudspacecdn.site
 .cloudssh.net
 .cloudssh.us
+.cloudtimecdn.com
 .cloudvpn.ai
 .cloudvpn.pro
 .clovian.ru
