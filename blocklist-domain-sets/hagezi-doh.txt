@@ -587,7 +587,6 @@
 .dohdot.coxlab.net
 .nrusimha.crabdance.com
 .adguard.crestfallen.de
-.dns.criena.net
 .dns.itsec.crolla.net
 .dns.cryptomize.com
 .ae-agh1.dns.cryptroute.net
@@ -733,7 +732,6 @@
 .dns.dlinders.nl
 .home.dlinkddns.com
 .fargos2.dns.army
-.guigu.dns.army
 .homec92.dns.army
 .dns.dns-53.com
 .dns.dns-53.uk

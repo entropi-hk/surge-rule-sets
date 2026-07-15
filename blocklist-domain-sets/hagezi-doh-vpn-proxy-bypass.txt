@@ -2172,7 +2172,6 @@
 .tromp.creographix.at
 .vcsa.creographix.at
 .adguard.crestfallen.de
-.dns.criena.net
 .dns.itsec.crolla.net
 .fern.crosbreaker.dev
 .bx3.cdn.gh-pages.cryodome.com
@@ -2439,7 +2438,6 @@
 .home.dlinkddns.com
 .edulearnisgood.dmtr.ru
 .fargos2.dns.army
-.guigu.dns.army
 .homec92.dns.army
 .dns.dns-53.com
 .dns.dns-53.uk
