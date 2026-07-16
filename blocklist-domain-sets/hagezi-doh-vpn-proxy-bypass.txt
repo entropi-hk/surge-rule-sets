@@ -427,6 +427,7 @@
 .dns.ru.anitelekom.ru
 .dns.anitelekom.ru
 .sanns.aniuo.com
+.cliffbayschools.anjumanallana.in
 .dns.anne-pierre.fr
 .dns.anon.no
 .a-regist.anondns.net
@@ -634,6 +635,7 @@
 .archlinuxisthebestlol.baselinux.net
 .dashboardd.baselinux.net
 .aphistorytutoring.bastaff.ru
+.aqua.bastaff.ru
 .tacobelljobs.bastaff.ru
 .we-hate-school.bastaff.ru
 .home.basthorst.eu
@@ -804,11 +806,13 @@
 .newyears.brg2.xyz
 .dns.briac-mlb.fr
 .dns.system.brianhong.kr
+.ag.brianlee.fun
 .vacation.briaquaticcabinets.com
 .dns.brionesserver.net
 .r.britannica.cf
 .agh.broaddy.com
 .dns.brono.cloud
+.blooket.broomleigh.org
 .classroom.broomleigh.org
 .home.bruckmoser.it
 .81.brudnowski.eu
@@ -2172,6 +2176,7 @@
 .tromp.creographix.at
 .vcsa.creographix.at
 .adguard.crestfallen.de
+.dns.criena.net
 .dns.itsec.crolla.net
 .fern.crosbreaker.dev
 .bx3.cdn.gh-pages.cryodome.com
@@ -3076,7 +3081,6 @@
 .dns.filipccz.eu
 .collegeprep.fin-tech.com
 .learngeometryfr.fin-tech.com
-.testplease.fin-tech.com
 .nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi
 .canvas-math-tools.firebaseapp.com
 .infamous-scram-test.firebaseapp.com
@@ -4051,6 +4055,7 @@
 .toe.kaiak.top
 .adguard.kalyanmudumby.com
 .dns.kamilszczepanski.com
+.adguard.kantinyoyok.xyz
 .dns.kapite.in
 .dns.kapoww.tk
 .dns.karadag.me
@@ -6007,6 +6012,7 @@
 .92.38.177.16.dyn.tcadmin.net
 .galaxy.is.cool.tcloud.my
 .dms.dms.dms.tcloud.my
+.baablu.tcloud.my
 .galaxy.tcloud.my
 .galaxyisthebest.tcloud.my
 .home.tcloud.my
@@ -6028,6 +6034,7 @@
 .teach.state.teachmetofish.net
 .learning.teamgaming.pw
 .dns.teaminfo.fr
+.arab.is.goated.teamradicus.com
 .dns-br.leonardo.tec.br
 .dns.techcpu.net
 .dns1.techeasy.org
@@ -6712,6 +6719,7 @@
 .httpdns.gslb.yy.com
 .dns.yyaan.com
 .dns.yyaan.top
+.adg.yybyy.wiki
 .dns.daemon.za.net
 .adguard.zachitect.com
 .akylah.zapto.org
@@ -6758,6 +6766,7 @@
 .vpn.zotus.ru
 .d.zscale.gq
 .dns.zui.lol
+.1dollarmeathod.zunbaoyule123.com
 .httpdns.zybang.com
 .ams.core.access.zznet.fun
 .hkg.core.access.zznet.fun
@@ -6791,6 +6800,7 @@
 .112112789.xyz
 .1145145.com
 .123-proxy.net
+.123-proxy.org
 .123000123.xyz
 .123417.xyz
 .123adsas.store
@@ -6803,10 +6813,12 @@
 .123down.org
 .123fr.info
 .123free.info
+.123goproxy.com
 .123hideip.com
 .123inside.net
 .123jsq.top
 .123li.me
+.123me.net
 .123music.app
 .123proxy.app
 .123proxy.biz
@@ -6931,6 +6943,7 @@
 .3kh0.org
 .3nkh5crxol.ch
 .3proxy.de
+.3proxy.us
 .3qguvtvrpyzkatp2.online
 .3x.nz
 .40920604.xyz
@@ -6967,6 +6980,7 @@
 .55780358.xyz
 .55aktnolkvuoctxitm.online
 .55gms.com
+.55gms.me
 .55laomao.com
 .57824.com
 .583838.xyz
@@ -7418,6 +7432,7 @@
 .annual2025.uk
 .ano404.top
 .anol.loan
+.anomivpn.com
 .anonine.com
 .anonto.pw
 .anonvpn.io
@@ -7477,7 +7492,6 @@
 .aoxvpn666.com
 .aoxvpnapp.com
 .apache-iv.com
-.apfgexfusion.com
 .api-gogles.com
 .api-tel.xyz
 .api999.com
@@ -7626,6 +7640,7 @@
 .awardztq.com
 .awebproxy.com
 .awhoer.net
+.axaxa.fun
 .axistechsupport.com
 .axyno.xyz
 .ayako.cc
@@ -7662,6 +7677,7 @@
 .baikalvpn.ru
 .bailey.today
 .bajie.la
+.bajiess.com
 .ballbang.com
 .banana-vpn.com
 .bananaspeed.site
@@ -8236,6 +8252,7 @@
 .browservpn.online
 .brsjk.cn
 .brsueykh.com
+.brunycraft.xyz
 .brunysixl.work
 .brwczgvk.com
 .bsbollbn.com
@@ -11211,6 +11228,7 @@
 .iopgn.com
 .iopl.xyz
 .iosedge.com
+.iosequence.online
 .iosjiasu.net
 .iossync.com
 .ioxy.de

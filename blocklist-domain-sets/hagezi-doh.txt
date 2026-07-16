@@ -372,6 +372,7 @@
 .dns.brembeck.cloud
 .dns.briac-mlb.fr
 .dns.system.brianhong.kr
+.ag.brianlee.fun
 .dns.brionesserver.net
 .agh.broaddy.com
 .dns.brono.cloud
@@ -587,6 +588,7 @@
 .dohdot.coxlab.net
 .nrusimha.crabdance.com
 .adguard.crestfallen.de
+.dns.criena.net
 .dns.itsec.crolla.net
 .dns.cryptomize.com
 .ae-agh1.dns.cryptroute.net
@@ -827,7 +829,6 @@
 .lim02.dnscry.pt
 .lis01.dnscry.pt
 .lis02.dnscry.pt
-.lju01.dnscry.pt
 .llk01.dnscry.pt
 .lon01.dnscry.pt
 .los01.dnscry.pt
@@ -861,7 +862,6 @@
 .per01.dnscry.pt
 .phl01.dnscry.pt
 .phx01.dnscry.pt
-.pmo01.dnscry.pt
 .prg01.dnscry.pt
 .qro01.dnscry.pt
 .rdd01.dnscry.pt
@@ -1601,6 +1601,7 @@
 .agh.kacike.cl
 .adguard.kalyanmudumby.com
 .dns.kamilszczepanski.com
+.adguard.kantinyoyok.xyz
 .dns.kapite.in
 .dns.kapoww.tk
 .dns.karadag.me
@@ -2876,6 +2877,7 @@
 .httpdns.gslb.yy.com
 .dns.yyaan.com
 .dns.yyaan.top
+.adg.yybyy.wiki
 .dns.daemon.za.net
 .adguard.zachitect.com
 .akylah.zapto.org
@@ -2971,6 +2973,7 @@
 .aridia.ru
 .atris.cyou
 .atsilva.link
+.axaxa.fun
 .axistechsupport.com
 .b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 .bancuh.com
