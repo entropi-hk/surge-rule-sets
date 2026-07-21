@@ -276,8 +276,6 @@
 .fr.grandcapital.net
 .www.quantum.groupe.com
 .login.groupsecuritiesdublin.com
-.finanzonline.bmf.gv-at.net
-.finanzonline.at.bmf.gv-uberprufung.com
 .de.gvgmall.com
 .adl.gwrxbt.shop
 .rzycucbupk.gyhjjifm.beauty
@@ -962,7 +960,6 @@
 .air-uposterreich.at
 .air-uposterreich.com
 .airblueuhren.de
-.airferra.com
 .airguncapital.com
 .airjordan.at
 .airmaxsale.de
@@ -1368,6 +1365,7 @@
 .anyvibe.de
 .anzugeshop.com
 .aoc-ottica.it
+.aofeida.com
 .aoshimamodel.com
 .apcsus.shop
 .apelfinancial.com
@@ -2040,7 +2038,6 @@
 .be-aetlcnshop.com
 .beaccustomed.com
 .beachitem.com
-.beachwalkbali.com
 .beambead.com
 .beatricesavoy.de
 .beatusbikes.com
@@ -2501,7 +2498,6 @@
 .bitcoin-everest-ai.fr
 .bitcoin-pharmacy.com
 .bitcoin-trader.net
-.bitcoin-up.io
 .bitcoin-xact.fr
 .bitcoinarchon.com
 .bitcoindecode.io
@@ -2604,7 +2600,6 @@
 .blumenstudioottilia.de
 .blumira.shop
 .blundstonedeutschland.de
-.bluwbery.shop
 .blyss-shop.de
 .bmbgreen.com
 .bmcloth.com
@@ -2947,7 +2942,6 @@
 .byilse.de
 .bykidesigns.com
 .bylola-store.de
-.byluxelane.com
 .bynwatch.de
 .byredowien.com
 .byrix.com
@@ -2958,6 +2952,7 @@
 .c-und-a-austria.com
 .ca-agentur.de
 .caactioncoalition.org
+.caay-berlin.com
 .caballde.com
 .cabbagepets.com
 .cabergbrema.com
@@ -3246,7 +3241,6 @@
 .cheapcharly.de
 .cheapestcosmetic.com
 .cheapmondo.com
-.check-24.cc
 .checkaktiv.de
 .checkdeinhoroskop.com
 .checkproduct.review
@@ -3932,7 +3926,6 @@
 .dealportalstation.com
 .dealseguro.store
 .dealsmia.com
-.dealsonfire.shop
 .dealssilcommerce.shop
 .dealster.store
 .dealsthatcount.com
@@ -4533,6 +4526,7 @@
 .dvdsblurays.com
 .dvepare.com
 .dw-energieholz.de
+.dwellcollect.com
 .dwelldome.com
 .dwellglory.com
 .dwellhavenly.com
@@ -5014,7 +5008,6 @@
 .ersatzteileneu.com
 .ersatzteilerabatt.com
 .erschwinglichwerkzeug.com
-.erstattung-oegk.net
 .ersterkatzenladen.de
 .erstmal-kaffee.com
 .ertops2021.com
@@ -5721,7 +5714,6 @@
 .flixyshop.com
 .flnanzonline.at
 .flnanzonline-gvbmfgv.net
-.flnanzonline-vgbmfgv.net
 .floorprada.com
 .florian-mentoring.com
 .floriansteiner.net
@@ -5801,6 +5793,7 @@
 .forever21-us.com
 .foreverjoy.site
 .forevermarkt.de
+.forexlistenoire.fr
 .forextrada.com
 .forextradition.com
 .forgeboxcontainers.com
@@ -5829,7 +5822,6 @@
 .fortunefx.io
 .foryourwell.com
 .fossilupra.com
-.fosterrefrigerator.de
 .fotbalovyfestival.cz
 .foto-biering.de
 .foto-mundus-sued.de
@@ -5873,6 +5865,7 @@
 .fredperryonlineshop.de
 .fredperryoutlet.de
 .freeacy.com
+.freeavmhzwr.click
 .freedodo.xyz
 .freedomhats.shop
 .freemanagement.de
@@ -6048,7 +6041,6 @@
 .gaborsschweiz.com
 .gaborsuisse.com
 .gaborwien.at
-.gadchet.com
 .gadget4u.shop
 .gadgetgalaxybox.com
 .gadgetgrids.com
@@ -6075,6 +6067,7 @@
 .galeriemodehaus.com
 .galerieoswald.de
 .galeryfile.com
+.galileofx.com
 .galleria-kaufhof.de
 .gambystudios.com
 .game.toys
@@ -6087,6 +6080,7 @@
 .gamertwin.com
 .games-modellbau-shop.com
 .gamesmania.shop
+.gamespoolsgel.com
 .gamestopland.com
 .gametimejerseys.com
 .gameverkauf.de
@@ -6862,8 +6856,6 @@
 .gutumzug.at
 .gv-invest.com
 .gvbmfflnanzonline.info
-.gvflnanz.online
-.gvflnanzonline-erneuern.at
 .gw-style.com
 .gwhs-installationen.at
 .gwosdz-handel.de
@@ -6911,6 +6903,7 @@
 .haircareluxury.com
 .hairive.com
 .hairlinebeautysalon.de
+.hakimrazalan.com
 .halalolsun.com
 .haleybaby.com
 .halipax.com
@@ -7547,6 +7540,7 @@
 .holzwerks.de
 .holzwerkzeugekaufen.com
 .homado.de
+.homanero.com
 .hombreencantador.com
 .home-aytm.com
 .home-gear24.de
@@ -8104,6 +8098,7 @@
 .isoccerkit.com
 .isosmart.de
 .isotrader.cc
+.israelpharm.com
 .issamtransports.com
 .istanha.com
 .isthebabybornyet.com
@@ -8786,10 +8781,8 @@
 .kleversholz.com
 .kley-kanzlei.com
 .klimabonus-2026.net
-.klimabonus-at.com
 .klimabonus2026.at
 .klimageld-2026.cc
-.klimapraemie-2026.cc
 .klimawelts.com
 .klimmotorrad.com
 .klingerdirndl.com
@@ -9124,7 +9117,6 @@
 .lbccnet.com
 .lbsbikes.com
 .lbslepe.de
-.lbtinc.com
 .lbzdzx.com
 .lccontainersupply.com
 .lcfservice.com
@@ -9649,7 +9641,6 @@
 .luvori.de
 .luvyle.com
 .luwander.shop
-.luxcarspace.com
 .luxde.de
 .luxeberlin.de
 .luxeblissliving.com
@@ -10455,6 +10446,7 @@
 .modehausgruber.com
 .modehausmunchen.com
 .modehausravensburg.com
+.modeir-modehaus.de
 .modekonzeptfoeller.de
 .modelaoshima.com
 .modelcaronsales.com
@@ -10813,7 +10805,6 @@
 .myspiritualss.shop
 .myspirituosen.com
 .mysportfisch.de
-.mysticalshops.com
 .mytester.org
 .mytierhimmel.de
 .mytoysde.com
@@ -11953,7 +11944,6 @@
 .penny-at.com
 .pennydiy.com
 .pensionistenausweis.at
-.pensiontradingai.com
 .pepperdyne.com
 .pepperstone.vip
 .pepstore.org
@@ -11972,7 +11962,6 @@
 .perlenzwoelfe.de
 .permatexshop.com
 .perpetualstore.com
-.perseverancechl.com
 .persol.at
 .personaisstore.com
 .personalcaredaily.com
@@ -12126,6 +12115,7 @@
 .pilulky-cz.com
 .pimdy.com
 .pinewoodsell.com
+.pinggona.de
 .pingona.de
 .pinguid.xyz
 .pinkkola.com
@@ -12247,7 +12237,6 @@
 .polenetasche.de
 .politze-bike.de
 .polklabs.click
-.pollenpeck.com
 .polluxer.com
 .polska-ed.com
 .polster-franz.at
@@ -12910,7 +12899,6 @@
 .retourenheld.io
 .retreature.com
 .retrogamingshop.de
-.retrojerseys100.com
 .retrostage.shop
 .retrostages.de
 .retrotrikots.de
@@ -13074,6 +13062,7 @@
 .rohrsanierungen24.de
 .roleo.net
 .rolex-replica.to
+.rolexwanduhr.de
 .rolexyeals.com
 .rolla.store
 .rolladenmeister.at
@@ -13505,7 +13494,6 @@
 .screenmysleep.com
 .screenwithenvy.de
 .scremorques.com
-.scselle.com
 .scuffers-austria.com
 .sculpturk.com
 .sdhguy.com
@@ -13695,7 +13683,6 @@
 .shopanera.com
 .shopapphero.de
 .shopbagwallet.com
-.shopbeemer.store
 .shopbikeclothes.com
 .shopboostx.com
 .shopbuyzone.com
@@ -13895,7 +13882,6 @@
 .skimssuomi.com
 .skina.nu
 .skincarelimit.com
-.skinfleur.ae
 .skinliy.com
 .skinnfitts.com
 .skinnycaps.com
@@ -13912,7 +13898,6 @@
 .skurvorizan.at
 .skvurthalen.at
 .sky-trikot-shop.de
-.skybounce.shop
 .skygarden.digital
 .skylinefx.co
 .skynore.de
@@ -14000,6 +13985,7 @@
 .snowboardprofi.com
 .snowfitgear.com
 .snowhow.shop
+.snugelora.com
 .snugist.com
 .snugvo.com
 .so-hub.com
@@ -14301,7 +14287,6 @@
 .spuelenprofide.com
 .spybulbcamera.de
 .spydersale.de
-.spydiscount24.com
 .spyshop.at
 .spyxe.com
 .squarexchange.com
@@ -14442,6 +14427,7 @@
 .stockwises.com
 .stockyis.com
 .stoertebekkerbeauty.shop
+.stoff-heim.com
 .stoffbiotop.com
 .stoffweltenshop.com
 .stoicdraussen.com
@@ -14612,7 +14598,6 @@
 .sunnyextensions.com
 .sunnyhomedesign.com
 .sunnylas.com
-.sunnyshoppers.com
 .sunplux.com
 .sunsetwell.com
 .sunshinemo.com
@@ -14706,6 +14691,7 @@
 .swixski.de
 .swordofthespiritbookstore.com
 .sxjmzw.shop
+.sydneypools1.net
 .sydpark.de
 .syloviadistri.com
 .sylskillsoft.com
@@ -15096,7 +15082,6 @@
 .thursdaycanada.com
 .tiagocarlosdultrary.shop
 .tickgreen.net
-.tienduhonduras.com
 .tierbedarfshop.com
 .tiercefortange.com
 .tierewelpenhaus.de
@@ -15242,6 +15227,7 @@
 .top-business-deals.com
 .top-lecheng-online.com
 .top-neue-online-casinos.de
+.top-pharmacy-24h.com
 .top-sports-experts.com
 .top-tiantianyingqiu-online.com
 .top-velos.com
@@ -15534,6 +15520,7 @@
 .tryfono.com
 .tryglycogenplus.com
 .trynori.de
+.trypurisaki.com
 .trysoftr.com
 .trysolara.store
 .trysorelle.com
@@ -16874,7 +16861,6 @@
 .zalori.de
 .zaloweb.pro
 .zalvori.com
-.zanardy.com
 .zanevipshop.com
 .zanondo.com
 .zanvon.com
