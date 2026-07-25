@@ -333,7 +333,7 @@
 .tech.vcsa.alcrb.ru
 .dnsnl.alekberg.net
 .odoh-target.alekberg.net
-.odoh-target-se.alekberg.net
+.odoh-target-noads-se.alekberg.net
 .agh.alematho.de
 .diskstation.alexpollard.net
 .management.alexpollard.net
@@ -2240,7 +2240,6 @@
 .tromp.creographix.at
 .vcsa.creographix.at
 .adguard.crestfallen.de
-.dns.criena.net
 .dns.itsec.crolla.net
 .fern.crosbreaker.dev
 .bx3.cdn.gh-pages.cryodome.com
