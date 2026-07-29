@@ -542,6 +542,7 @@
 .xlog16-tmp-normal-useast1a.tiktokv.com
 .frontier.tiktokv-eu.com
 .log-snssdk.tiktokv-us.com
+.mssdk16-normal-no1a.tiktokvapp.eu
 .ads-ie.tiktokw.eu
 .ads-ttp2.tiktokw.eu
 .ads16-normal-useastred.tiktokw.eu
