@@ -171,6 +171,7 @@
 .dnsnl.alekberg.net
 .odoh-target.alekberg.net
 .odoh-target-noads-se.alekberg.net
+.odoh-target-se.alekberg.net
 .agh.alematho.de
 .diskstation.alexpollard.net
 .management.alexpollard.net
@@ -590,6 +591,7 @@
 .dohdot.coxlab.net
 .nrusimha.crabdance.com
 .adguard.crestfallen.de
+.dns.criena.net
 .dns.itsec.crolla.net
 .dns.cryptomize.com
 .ae-agh1.dns.cryptroute.net
@@ -1976,6 +1978,7 @@
 .x210-131-219-118.static.xvps.ne.jp
 .dns.neeb.it
 .adguard.neelyha.tk
+.adguard.neon0404.space
 .dns.aa.net.uk
 .positif4.cross.net.id
 .guard-jkt-225.glosindo.net.id
@@ -2133,7 +2136,6 @@
 .dns.osmenoga.com
 .wireguard.osmenoga.com
 .dns.ostfriese.org
-.dns.oszx.co
 .adguard.ota.moe
 .adguard2.ota.moe
 .adguard3.ota.moe
@@ -3377,7 +3379,6 @@
 .vorlif.org
 .vpnhellings.nl
 .vtcuong.site
-.vuivn.site
 .wallpap.eu
 .wantaquddin.com
 .waydnes.ru
