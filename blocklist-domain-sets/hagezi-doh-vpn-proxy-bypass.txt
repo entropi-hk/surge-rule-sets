@@ -2485,7 +2485,6 @@
 .tromp.creographix.at
 .vcsa.creographix.at
 .adguard.crestfallen.de
-.dns.criena.net
 .dns.itsec.crolla.net
 .fern.crosbreaker.dev
 .bx3.cdn.gh-pages.cryodome.com
@@ -9010,6 +9009,7 @@
 .cloakvpn.com
 .clorvan.ru
 .closetruth.date
+.cloud25075.info
 .cloudbenders.fun
 .cloudbob.fr
 .cloudburstcdn.com
@@ -9030,6 +9030,7 @@
 .cloudssh.net
 .cloudssh.us
 .cloudtimecdn.com
+.clouduhtpv.info
 .cloudvpn.ai
 .cloudvpn.pro
 .clovian.ru
