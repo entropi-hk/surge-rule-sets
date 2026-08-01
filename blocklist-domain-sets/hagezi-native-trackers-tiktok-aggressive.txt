@@ -197,6 +197,7 @@
 .ads-api.tiktok.com
 .ads-frontier.tiktok.com
 .ads-ru.tiktok.com
+.ads-service.tiktok.com
 .ads-sg.tiktok.com
 .analytics.tiktok.com
 .analytics-attribution.tiktok.com
@@ -542,7 +543,6 @@
 .xlog16-tmp-normal-useast1a.tiktokv.com
 .frontier.tiktokv-eu.com
 .log-snssdk.tiktokv-us.com
-.mssdk16-normal-no1a.tiktokvapp.eu
 .ads-ie.tiktokw.eu
 .ads-ttp2.tiktokw.eu
 .ads16-normal-useastred.tiktokw.eu

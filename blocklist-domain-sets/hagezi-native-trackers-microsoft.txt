@@ -39,6 +39,7 @@
 .exo.nel.measure.office.net.cardano.com
 .identity.nel.measure.office.net.cardano.com
 .m365cdn.nel.measure.office.net.cardano.com
+.officehub.nel.measure.office.net.cardano.com
 .spo.nel.measure.office.net.cardano.com
 .teams.nel.measure.office.net.cardano.com
 .insights.cloud.microsoft
