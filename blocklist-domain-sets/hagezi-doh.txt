@@ -1274,7 +1274,6 @@
 .cloud.gqwyq.top
 .adguard.grantbruneau.com
 .cloud.graphicpoint.pl
-.dns.green-ping.lol
 .adguard.green1052.com
 .secure-dns.gridlax.com
 .dns.griffioen.me
@@ -1379,7 +1378,6 @@
 .dns.hotta.page
 .dns.housedenolf.be
 .freemnt.hpitto.com
-.doh.hshkf.com
 .pub.hsuan.ink
 .dnsguard.hte.vn
 .dns.huanmave.cc
@@ -1390,7 +1388,6 @@
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work
-.dns.hussainnabil.de
 .dns.huth.nu
 .v2-1.huwenqiang.xyz
 .ad.huyct.net
@@ -1504,7 +1501,6 @@
 .dns.itwht.com
 .pdns.itxe.net
 .dns.itya.xyz
-.dns1.iwall.cloud
 .ag.iyn.one
 .adg.jabertechnologies.ch
 .securifi.jagalabs.net
@@ -1988,6 +1984,7 @@
 .dns.nhtsky.com
 .d.niaox.com
 .dnsotls.lab.nic.cl
+.dns.nic.in
 .doh.nic.lv
 .odvr.nic.cz
 .dns.niccoli.cc
@@ -3120,7 +3117,6 @@
 .ikarosalpha.xyz
 .imperio.top
 .incaseineeditoneday.com
-.ingenmannsland.online
 .inpssh.online
 .intertop.link
 .ion.pm
