@@ -1582,7 +1582,6 @@
 .dns.kc2wbx.com
 .ad.kccsl.top
 .dns.kebree.fr
-.dns2.keinewerbung.me
 .guard.keiper.net
 .doh.kekew.info
 .doh.kekew.racing
@@ -1724,14 +1723,12 @@
 .dns.mafyuh.io
 .guard.magic-pics.tk
 .dns.mahiro.online
-.adhome.maige.fun
 .dns.mailcastle.in
 .dnsserver.mailchan.eu
 .dns.maitrekuc.fr
 .dns.malhuda.com
 .dns.mandre.dev
 .adguard.manmademagic.com
-.dns.maolaohei.xyz
 .dns.maomaovpn.com
 .adguard.mapor.co
 .dns.marasov.id
