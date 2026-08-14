@@ -322,6 +322,7 @@
 .dns.bitup.de
 .dns-tls.bitwiseshift.net
 .woc.beelstb.biz.id
+.gate.blackboxdynamics.io
 .dns1.blackrandcrf.ru
 .fennec.blackyfox.net
 .doh.de.blahdns.com
@@ -355,6 +356,7 @@
 .dns.bmwhocking.com
 .cloud.boboba.ru
 .dns.bofh.in
+.doh.boje8.me
 .adguard.bonis.de
 .adguard1.bonis.de
 .adguard2.bonis.de
@@ -421,10 +423,12 @@
 .dns.ch295.ru
 .dns.chadeyron.fr
 .dns.chalkychalk.com
+.rdns2.chancetheitguy.com
 .adguard.chanhome.xyz
 .cloudsrv.charitosnet.de
 .adghome.charleschan.net
 .dns.charraud.eu
+.dns.chattalk.link
 .adguard.chaudharyarnav.com
 .dns.chenu.ch
 .adguard.chestnov.ru
@@ -444,6 +448,7 @@
 .dns.circl.lu
 .dns.citrahost.com
 .dns.citystars.cn
+.ns.ciwer.cn
 .alpha.cixy.xyz
 .stella.clae.net
 .dns.clanless.ovh
@@ -538,6 +543,7 @@
 .shinano.anime.com.my
 .test.businessconnect.com.tr
 .dns.ceai.com.tw
+.dns.cloud88.com.au
 .dns.complianceauditores.com.br
 .dns.damlayayinevi.com.tr
 .adguard.doranpierst.com.tr
@@ -600,6 +606,7 @@
 .dns.cybertonic.tech
 .dns2.cybrespace.net
 .dns.cynthialabs.net
+.dns.cysynex.cloud
 .nextcloud.d-alahmad.de
 .dns.d365.in
 .s2.d3mik.ru
@@ -755,11 +762,14 @@
 .ams02.dnscry.pt
 .ams03.dnscry.pt
 .aqx01.dnscry.pt
+.ath01.dnscry.pt
 .atl01.dnscry.pt
+.bcn01.dnscry.pt
 .bei01.dnscry.pt
 .bkk01.dnscry.pt
 .blr01.dnscry.pt
 .bne01.dnscry.pt
+.bog01.dnscry.pt
 .bom02.dnscry.pt
 .bre01.dnscry.pt
 .bts01.dnscry.pt
@@ -786,6 +796,7 @@
 .geg01.dnscry.pt
 .grr01.dnscry.pt
 .gva01.dnscry.pt
+.gye01.dnscry.pt
 .haf01.dnscry.pt
 .han01.dnscry.pt
 .hel01.dnscry.pt
@@ -813,6 +824,7 @@
 .lis02.dnscry.pt
 .llk01.dnscry.pt
 .lon01.dnscry.pt
+.los01.dnscry.pt
 .los02.dnscry.pt
 .mad01.dnscry.pt
 .man01.dnscry.pt
@@ -820,6 +832,7 @@
 .mel01.dnscry.pt
 .mia01.dnscry.pt
 .mil01.dnscry.pt
+.mnl01.dnscry.pt
 .moe01.dnscry.pt
 .mow01.dnscry.pt
 .mrs01.dnscry.pt
@@ -838,6 +851,7 @@
 .pdx01.dnscry.pt
 .ped01.dnscry.pt
 .per01.dnscry.pt
+.phl01.dnscry.pt
 .phx01.dnscry.pt
 .prg01.dnscry.pt
 .rdd01.dnscry.pt
@@ -1031,6 +1045,7 @@
 .adguard.ef67daisuki.club
 .dns.efficientdocuments.com
 .cloud.efreakbnc.net
+.doh.eieidns.com
 .adguard.eischmann.cz
 .dd.elashri.net
 .hole.elbschloss.xyz
@@ -1122,6 +1137,7 @@
 .gsat.familyds.com
 .adguard1.fampopprol.me
 .dns.fancyorg.at
+.dns.farakaft.ir
 .dns.farshidhakimy.de
 .dns.farshmc.ru
 .waterfox-ohttp-relay.fastly-edge.com
@@ -1274,6 +1290,7 @@
 .cloud.gqwyq.top
 .adguard.grantbruneau.com
 .cloud.graphicpoint.pl
+.dns.green-ping.lol
 .adguard.green1052.com
 .secure-dns.gridlax.com
 .dns.griffioen.me
@@ -1378,6 +1395,7 @@
 .dns.hotta.page
 .dns.housedenolf.be
 .freemnt.hpitto.com
+.doh.hshkf.com
 .pub.hsuan.ink
 .dnsguard.hte.vn
 .dns.huanmave.cc
@@ -1388,6 +1406,7 @@
 .dns.hujiayucc.cn
 .doth.huque.com
 .dns.huseynov.work
+.dns.hussainnabil.de
 .dns.huth.nu
 .v2-1.huwenqiang.xyz
 .ad.huyct.net
@@ -1501,6 +1520,7 @@
 .dns.itwht.com
 .pdns.itxe.net
 .dns.itya.xyz
+.dns1.iwall.cloud
 .ag.iyn.one
 .adg.jabertechnologies.ch
 .securifi.jagalabs.net
@@ -1582,6 +1602,7 @@
 .dns.kc2wbx.com
 .ad.kccsl.top
 .dns.kebree.fr
+.dns2.keinewerbung.me
 .guard.keiper.net
 .doh.kekew.info
 .doh.kekew.racing
@@ -1723,12 +1744,14 @@
 .dns.mafyuh.io
 .guard.magic-pics.tk
 .dns.mahiro.online
+.adhome.maige.fun
 .dns.mailcastle.in
 .dnsserver.mailchan.eu
 .dns.maitrekuc.fr
 .dns.malhuda.com
 .dns.mandre.dev
 .adguard.manmademagic.com
+.dns.maolaohei.xyz
 .dns.maomaovpn.com
 .adguard.mapor.co
 .dns.marasov.id
@@ -2236,7 +2259,6 @@
 .vpsus3.pzhg.me
 .home.qbak.net
 .adk.qcloud.work
-.doh.qis.io
 .dns.qkc.fr
 .dns.qpt.one
 .dns2.qpt.one
@@ -3019,7 +3041,7 @@
 .dns4eu.online
 .dns4me.net
 .dns8.org
-.dnsbunker.org
+.dnscity.org
 .dnsdoh.art
 .dnsenc.com
 .dnsforfamily.com
@@ -3114,6 +3136,7 @@
 .ikarosalpha.xyz
 .imperio.top
 .incaseineeditoneday.com
+.ingenmannsland.online
 .inpssh.online
 .intertop.link
 .ion.pm
