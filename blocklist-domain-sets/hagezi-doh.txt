@@ -1010,6 +1010,7 @@
 .doh.e7.work
 .safe.eaccelera.com
 .adguard.easez.net
+.dns.easyhns.com
 .dns.echpochmak-club.ru
 .dns.edc-pws.com
 .dns.eddi.net
@@ -3071,6 +3072,7 @@
 .hg8.asia
 .hgrps.eu
 .hitian.me
+.hnsdoh.com
 .home-server.store
 .home34.su
 .horus-team.com

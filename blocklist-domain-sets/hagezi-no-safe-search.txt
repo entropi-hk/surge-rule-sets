@@ -62,7 +62,6 @@
 .hmsearx.h0meserver.com
 .searx.hardwired.link
 .seeks.hsbp.org
-.search.internetsucks.net
 .search.ipsys.bf
 .search.jpope.org
 .search.kokomo.cloud

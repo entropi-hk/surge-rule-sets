@@ -310,6 +310,12 @@
 .log.tiktokv.com
 .log.tiktokv.us
 .log-boot.tiktokv.com
+.log-dr.tiktokv.com
+.log-dr16-normal-no1a.tiktokv.eu
+.log-dr16-normal-useast1a.tiktokv.com
+.log-dr16-normal-useast5.tiktokv.us
+.log-dr16-normal-useast8.tiktokv.us
+.log-dr16-normal-useastred.tiktokv.eu
 .log-i18n.tiktokv.com
 .log-phx.tiktokv.com
 .log-ru.tiktokv.com
