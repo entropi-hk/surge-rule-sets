@@ -2819,6 +2819,7 @@
 .adguardhome.yavuztutcu.net
 .lion.yazilimatolye.com
 .biba.ydns.eu
+.sg.yepdns.com
 .adguard.ygd.lol
 .ns6.ygy.ru
 .dns.yingroad.top
