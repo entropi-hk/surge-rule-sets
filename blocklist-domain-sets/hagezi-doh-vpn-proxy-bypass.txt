@@ -14303,8 +14303,6 @@
 .sovpn.cc
 .sowhatstory.com
 .spacedns.org
-.spaceship.com
-.spaceship-cdn.com
 .spacevpn.io
 .spbyjzu.cn
 .spedo.co
@@ -15847,6 +15845,7 @@
 .wadsworthyouthbasketball.org
 .waitfree.us
 .waiwangjiasu.net
+.wakou-engineering-univ.site
 .waladunit.com
 .walln.com
 .wallpap.eu
