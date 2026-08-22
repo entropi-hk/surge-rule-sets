@@ -168,6 +168,7 @@
 .eic-ngfts.lge.com
 .eic-qt2-ngfts.lge.com
 .kic-ngfts.lge.com
+.kic-qt2-ngfts.lge.com
 .qt2-ngfts.lge.com
 .ruc-ngfts.lge.com
 .ad.lgsmartad.com
