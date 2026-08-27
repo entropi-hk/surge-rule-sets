@@ -1824,6 +1824,7 @@
 .dns.moraru.net
 .dns.motazhakim.com
 .dns.mrkaran.dev
+.adguard.mrmartian.co
 .dns.msxnet.ru
 .dns.mtoo.vip
 .ns.mtsoln.com
