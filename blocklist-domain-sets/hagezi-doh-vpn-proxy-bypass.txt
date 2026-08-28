@@ -47,7 +47,6 @@
 .dns.23-4.cn
 .t2c.240130034.xyz
 .dns.240527.xyz
-.gate.24starsmarket.ru
 .educational-site.24x7.hk
 .doh003.280blocker.net
 .skynet.2bsafe.info
@@ -68,6 +67,7 @@
 .doh.360.cn
 .dot.360.cn
 .doh.361.best
+.imtproxy-ir.one.98.99.38-82.ir
 .adns.3am.la
 .vbox.3cm.us
 .dns.3dcapitaltrust.net
@@ -459,6 +459,7 @@
 .geeking.arenafernandasselin.com
 .dns.ares-taiwan.com
 .emisjoking.argentinavision2020.com
+.ad1.arixo.shop
 .dns.arkbotech.com
 .nsec.arnor.org
 .shap.arrad.shop
@@ -1919,7 +1920,9 @@
 .haji.assassinationpuma.co.uk
 .boro.bache-jun.co.uk
 .mikhoramet.bache-jun.co.uk
+.ir.billblog.co.uk
 .educationbooks.boxrepublic.co.za
+.dexter.brettanderson.co.uk
 .download.brettanderson.co.uk
 .iran.brettanderson.co.uk
 .dark.canmycheshm.co.uk
@@ -1928,14 +1931,12 @@
 .adguard.cell.co.id
 .dns.chaosen3.co.uk
 .silver.ciaude.co.uk
-.ct1doh.cipherdns.co.za
-.jb1doh.cipherdns.co.za
 .cloud.click-master.co.uk
 .dns-01.computerservices.co.nz
 .dns-02.computerservices.co.nz
-.bezan-roo.connectina.co.uk
 .beer.crona-extra.co.uk
 .love.dasy2k1.co.uk
+.my.dasy2k1.co.uk
 .turk.dasy2k1.co.uk
 .adg.datamatter.co.za
 .pihole.datamatter.co.za
@@ -1950,12 +1951,14 @@
 .me.foltmeingop.co.uk
 .mio.foltmeingop.co.uk
 .you.foltmeingop.co.uk
-.13reasonswhy.foriran.co.uk
+.evo.foriran.co.uk
+.gen.foriran.co.uk
 .s5.foriran.co.uk
 .iran.fourie.co.uk
 .gn-z11.franscois.co.za
 .dns.gayanalysing.co.uk
 .dns.gi.co.id
+.hulk.goaphrodite.co.uk
 .iran-download.goaphrodite.co.uk
 .ai.golgoli1.co.uk
 .irogallery.golgoli1.co.uk
@@ -1973,24 +1976,20 @@
 .api.groundfloorsolutions.co.uk
 .naro.guguli.co.uk
 .focus.utopia.gzone.co.kr
-.noise.hajikalashatelservieshamrahavalcandy.co.uk
 .dns.hashemlabs.co.uk
 .bala.hastim.co.uk
 .ma.hastim.co.uk
 .panel.hook--tehran.co.uk
-.ccc.horizon555.co.uk
-.one.horizon555.co.uk
 .ag.hostme.co.il
 .ixl.math.hsf.co.za
-.support.infinityhalo.co.uk
 .sub.iran-tehran.co.uk
+.rana.irankhodro.co.uk
 .ftp.jinxandjack.co.uk
 .webhook.jinxandjack.co.uk
-.help.joumalanet.co.uk
-.support.joumalanet.co.uk
 .mashti.just-money.co.uk
 .dns.kloiber.co.at
 .dns2.kloiber.co.at
+.batman.konstruktion.co.uk
 .irancell-mci-rightell-adsl.konstruktion.co.uk
 .last.konstruktion.co.uk
 .new.lambforkebeb.co.uk
@@ -2016,10 +2015,10 @@
 .ving.mozitop.co.uk
 .iran.mr-moo.co.uk
 .iran-download.mr-moo.co.uk
+.lashboy.muzanesghy.co.uk
+.new.nchnch.co.uk
 .dns.neilzone.co.uk
 .ns02.nerdytechgeeks.co.za
-.help.nettoyou2.co.uk
-.support.nettoyou2.co.uk
 .1.hide.newflamingodomain.co.uk
 .21.hide.newflamingodomain.co.uk
 .31.hide.newflamingodomain.co.uk
@@ -2040,12 +2039,12 @@
 .lightspeed.qr-code.co.za
 .mathnotes.qr-code.co.za
 .dns.rawalker.co.nz
+.ir.rdenham.co.uk
 .www.royaclinic.co.uk
 .helpdesk.sentinet.co.za
 .iran-download.shentaichiacademy.co.uk
 .dns.skuy.co.id
 .dns.speed-benz.co.uk
-.premium.speed-benz.co.uk
 .uptime.speed-benz.co.uk
 .dns.spil.co.id
 .dns.srinivasrao.co.in
@@ -2071,7 +2070,6 @@
 .webhook.what-ever.co.uk
 .apple1.willemvisser.co.za
 .agh.workfordemo.co.in
-.iran.yhge.co.uk
 .jadid.zhigool.co.uk
 .qadim.zhigool.co.uk
 .10bestvpn.co.uk
@@ -2080,8 +2078,8 @@
 .antidnsvpn.co.cc
 .beest-sellerst.co.uk
 .binhexsolutions.co.uk
-.bo0ji.co.uk
 .buystoryapp.co.uk
+.cipherdns.co.za
 .clearvpn.co.uk
 .croxyproxy.co.in
 .crusnik80.co.za
@@ -2093,6 +2091,8 @@
 .insteadvpn.co.cc
 .justproxy.co.uk
 .lamnia.co.uk
+.lobiamarket.co.uk
+.mizaneshgh2.co.uk
 .my-private-network.co.uk
 .ninjaproxy.co.uk
 .noblocc.co.uk
@@ -2113,9 +2113,7 @@
 .safesurfer.co.nz
 .sbdns.co.in
 .secvpnproxy.co.cc
-.setion-two.co.uk
 .severjadid.co.uk
-.sioms.co.uk
 .sols.co.in
 .speed-speed.co.uk
 .suodbo.co.uk
@@ -2898,6 +2896,7 @@
 .yuudai-shadow.easterndns.com
 .yuzu.easterndns.com
 .dns.easyhns.com
+.node.easyproxy.cfd
 .ajh.eats-logi.lol
 .emis-kf-homework.echofx.com
 .emis-tech.echofx.com
@@ -3296,6 +3295,7 @@
 .dns.beta.gandi.net
 .guide.terms.gatpp.com
 .adguard.gattow.com
+.full-vasl.ir-xyz.gdhbvjshjrf.info
 .learnvcsa.gearenergy.com
 .dns.gearworks.app
 .bg.geek.nz
@@ -4105,7 +4105,6 @@
 .dns.liberador.net
 .dns.libost.xyz
 .us.libost.xyz
-.node2.librava.click
 .dns.lifeym.xyz
 .dns.lightmaster.pw
 .dns.lihj.me
@@ -4249,17 +4248,21 @@
 .httpdnsmultiapivip.meituan.com
 .httpdnsvip.meituan.com
 .00k8j1.ir.ir.ir.meli-n12.info
-.8ollk8j1.ir.ir.ir.meli-n12.info
+.7sak101.ir.ir.ir.meli-n12.info
+.o1801.ir.ir.ir.meli-n12.info
 .s44447n.ir.ir.ir.meli-n12.info
 .s4447n.ir.ir.ir.meli-n12.info
 .s447n.ir.ir.ir.meli-n12.info
 .s47n.ir.ir.ir.meli-n12.info
+.s6ak101.ir.ir.ir.meli-n12.info
 .s7n.ir.ir.ir.meli-n12.info
 .sn.ir.ir.ir.meli-n12.info
+.26ddd1.mmd1.meli-n12.info
+.28ddd1.mmd1.meli-n12.info
 .2d6dd1.mmd1.meli-n12.info
 .2d9dd1.mmd1.meli-n12.info
-.0iiio6k1.ir.meli-n13.info
 .88o6k1.ir.meli-n13.info
+.u2601.ir.meli-n13.info
 .dns.melvin2204.nl
 .recap.utopia.menorahscrazyblog.com
 .t.meow-network.com
@@ -4647,6 +4650,7 @@
 .69-164-251-210.nip.io
 .74-208-174-33.nip.io
 .74-208-64-80.nip.io
+.91-107-147-7.nip.io
 .92-38-177-16.nip.io
 .92-38-177-17.nip.io
 .classroom.learn.nitrojade.com
@@ -4686,9 +4690,9 @@
 .us.novali.date
 .dns.novg.net
 .brain.sci.now-incorporate.com
-.api.nowabst.net
 .dev.nowabst.net
-.lab.nowabst.net
+.ge.nowabst.net
+.gw.nowabst.net
 .best-force-734.nowgg.me
 .fair-tiger-688.nowgg.me
 .great-dark-199.nowgg.me
@@ -5176,6 +5180,7 @@
 .3658729.ritebooks.com
 .dns.rjls.me
 .adguard.rjscho.net
+.relay.rknsosi.shop
 .zetland.rm-ni.uk
 .sudo.rm-rf.cloud
 .adguard.ro0t.us
@@ -6371,6 +6376,7 @@
 .0ms.dev
 .0n0fzcp.online
 .0x3d.lu
+.1-2-3-4-5.ir
 .100802e6778a29189f9aa2c0c3ce026d9a0a7005.com
 .103prxy.com
 .104prxy.com
@@ -6428,6 +6434,7 @@
 .191262.xyz
 .191268.xyz
 .1929.work
+.195-207-44-72.ir
 .1and1-dns.de
 .1aokyqx0.com
 .1b1c907ae99c3b6b9266591365201738.top
@@ -6512,6 +6519,7 @@
 .33253.com
 .33laomao.com
 .33pwyl3u.com
+.33sorryto.ir
 .365ads9.com
 .365ld250904.com
 .365ld87948.me
@@ -7233,6 +7241,7 @@
 .atlasvpn.net
 .atomapi.com
 .atomicspike.art
+.atozd.online
 .atozproxy.com
 .atris.cyou
 .atsilva.link
@@ -8156,6 +8165,7 @@
 .cheapv2.net
 .cheddar-chute.com
 .cheesestorecedarhurst.com
+.cheshmabromeshki.ir
 .chester.run
 .chice.me
 .chik-chirik-app.su
@@ -9616,6 +9626,7 @@
 .fenlavo.ru
 .fenqivo.baby
 .fent.rest
+.ferivip.ir
 .fern.best
 .fernrecatquestionmark.shop
 .ferunat.baby
@@ -9811,6 +9822,7 @@
 .freecodecamp.gq
 .freecodecamp.tk
 .freeconnect.link
+.freeconnect.lol
 .freediddy.buzz
 .freednet.org
 .freedom.cx
@@ -10081,6 +10093,7 @@
 .ghostbrowser.com
 .ghostpath.com
 .gibblets.top
+.giftt.ir
 .gifttrees.us
 .gigatapbot.top
 .gillsonse.com
@@ -12144,6 +12157,7 @@
 .merchvault.xyz
 .merla-vo.ru
 .merlavo.ru
+.meshdrip.ir
 .mesl.cloud
 .mestoro.ru
 .metacubex.one
@@ -13441,7 +13455,6 @@
 .proxking.com
 .proxpn.com
 .proxssl.com
-.proxtstar.live
 .proxtube.com
 .proxy.am
 .proxy.cc
@@ -13687,6 +13700,7 @@
 .qarion.ru
 .qarlovim.hair
 .qasfmp.com
+.qavi-qodrati.ir
 .qavrenio.ru
 .qaxwjqdo.com
 .qaz.tw
@@ -14864,7 +14878,6 @@
 .topman8848.com
 .toppal.tech
 .toppeopleverse.top
-.topproxt.asia
 .topsecure.info
 .topspeedvpn.homes
 .topstudio.one
@@ -15417,6 +15430,8 @@
 .veeejiasu.com
 .veepn.com
 .veepn.org
+.veildrop.ir
+.veilhub.ir
 .velara.buzz
 .velara.cc
 .velmoritax.xyz
@@ -15481,6 +15496,7 @@
 .vilor.site
 .vinny-stinks-like-dudu.com
 .vipanol.app
+.vipd.ir
 .vipdownloadmena.xyz
 .vipfive.xyz
 .vipfour.xyz
@@ -16095,6 +16111,7 @@
 .www-kuaifan.cn
 .www-letsvpn.com
 .www-letsvpn-app.com
+.wwwl0.ir
 .wxxs290.com
 .wyrhub.xyz
 .wyx.cloud
@@ -16364,6 +16381,7 @@
 .yd6n63ptky.com
 .ydtreard.com
 .ydyasrhc.com
+.yekaterinburg.ir
 .yellowproxy.net
 .yemaovp.com
 .yenger84.com
@@ -16373,6 +16391,7 @@
 .yeralin.net
 .yes-taro.ru
 .yestaro.ru
+.yesyesno.ir
 .yexmorio.ru
 .yfn42.net
 .yfntg.net

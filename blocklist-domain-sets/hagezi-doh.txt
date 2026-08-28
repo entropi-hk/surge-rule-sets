@@ -484,8 +484,6 @@
 .teamspeak.adriason.co.uk
 .adguard.cell.co.id
 .dns.chaosen3.co.uk
-.ct1doh.cipherdns.co.za
-.jb1doh.cipherdns.co.za
 .dns-01.computerservices.co.nz
 .dns-02.computerservices.co.nz
 .adg.datamatter.co.za
@@ -520,6 +518,7 @@
 .doh.vpsdns.co.za
 .dns.walshnet.co.uk
 .agh.workfordemo.co.in
+.cipherdns.co.za
 .crusnik80.co.za
 .pooblet.co.za
 .rmdns26.co.uk
