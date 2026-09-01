@@ -753,6 +753,7 @@
 .2bgreen.at
 .2f-kanzlei.com
 .2smart4me.de
+.2wheelshero.com
 .303e.com
 .360reinigungsmittel.com
 .365-pharm.com
@@ -768,7 +769,6 @@
 .3sixteenonline.org
 .4-pfoten-freizeit.de
 .47215.world
-.4bike.net
 .4dmarkt.de
 .4rxofficial.com
 .5-pocketjeans.com
@@ -2309,7 +2309,6 @@
 .bestelektronicshop.de
 .bestellen-ciao-ciao-pf.de
 .bestelnuar.click
-.bestemed.com
 .bestemedikamente.com
 .bestenkaufen.com
 .bestenwahl.de
@@ -2353,6 +2352,7 @@
 .bestreliableremedies.com
 .bestrelocate.com
 .bestsaunakits.com
+.bestselectionforyou.com
 .bestslshop.com
 .bestsoluvs.click
 .bestsoundclub.com
@@ -3082,6 +3082,7 @@
 .camptool-shop.com
 .camuya.shop
 .canada-pharmacy-24h.com
+.canadadrugstore.com
 .canadanewsreport.com
 .canadapharmacypro.com
 .canadapharmacytrust.net
@@ -3211,6 +3212,7 @@
 .casualstreet.de
 .cat2fip.co
 .catalia.de
+.catalunyafarm.com
 .catatic.de
 .cateringvogue.com
 .caterpillar-finland.com
@@ -4130,6 +4132,7 @@
 .deinenergieplan.de
 .deinetierliebe.de
 .deinhandwerkershop.de
+.deini.com
 .deinliebesmensch.de
 .deinlieblingstier.co
 .deinmodetrends.com
@@ -4449,7 +4452,6 @@
 .docjohnson-schritte.com
 .dockersosterreich.at
 .docmatthews.com
-.doctorsolve.com
 .doctriney.com
 .documentarp.com
 .doehlers.com
@@ -6389,7 +6391,6 @@
 .geldermans.com
 .geldpro.ai
 .geldvision.com
-.gelmalls.com
 .gelschuhe.de
 .gelvibe.de
 .gemeinderosengarten.de
@@ -7616,6 +7617,7 @@
 .hokarunnershungary.com
 .hokastyle.com
 .hokaus.shop
+.holapick.com
 .holda-konigsallee.de
 .holdinggb.com
 .holdirwerkzeug.de
@@ -7987,6 +7989,7 @@
 .immediate-coraldex.com
 .immediate-dash.de
 .immediate-direct.com
+.immediate-edge2.com
 .immediate-flik.com
 .immediate-growth.com
 .immediate-momentum.com
@@ -10191,7 +10194,6 @@
 .medimaxstore.de
 .medinelle.com
 .mediplus-berlin.de
-.medirao.com
 .medirezept.net
 .meditatem.com
 .medivita-de.com
@@ -13580,7 +13582,6 @@
 .sbk-hoffmeyer.de
 .sbnaf.shop
 .sboxcontainers.com
-.scannero.io
 .scarpaosterreich.at
 .scarpejoya.com
 .scarpiereingresso.com
@@ -14517,7 +14518,6 @@
 .spuelenprofide.com
 .spybulbcamera.de
 .spydersale.de
-.spydiscount24.com
 .spyshop.at
 .spyxe.com
 .squarexchange.com
@@ -15725,13 +15725,11 @@
 .trupharmacbd.com
 .trust-immo.com
 .trusted-help.com
-.trusted-online-generic.com
 .trustedallovertheworld.com
 .trustedconsumerreview.online
 .trustedcroatian.com
 .trustedmedstore24.com
 .trustednorx.com
-.trustedrxsolutions.com
 .trustedshops.store
 .trustedtablets.online
 .trustedxshop.com
@@ -16337,6 +16335,7 @@
 .vivagopro.com
 .vivaharmoni.com
 .vivaia-schuhe.de
+.vivaiacollection.com
 .vivaiaschuhe.at
 .vivaiaschuhe.com
 .vivaiaschuhe.de

@@ -359,9 +359,6 @@
 .darian.bantengan.xyz
 .uc.barbelfaldfee.com
 .do.barmfellists.com
-.chiyouranai.base.shop
-.tokujiro.base.shop
-.uranai1111.base.shop
 .ah.basothomug.com
 .bv.basquedbeloam.com
 .ck.bastardzingaro.com
@@ -12997,6 +12994,7 @@
 .bartramagynous.com
 .barytemarkup.com
 .barytethynnid.com
+.base.shop
 .baseballletters.com
 .basejudgementquizmaster.com
 .basementunfamiliar.com
@@ -13965,6 +13963,7 @@
 .blancoshrimp.com
 .blandalternative.pro
 .blandapantos.top
+.blandnessproponentradiator.com
 .blank-game.pro
 .blank-respond.pro
 .blank-shift.pro
@@ -25825,6 +25824,7 @@
 .greegaubsis.net
 .greeghupoalrie.net
 .greegt.com
+.greekexternal.com
 .green-culture.pro
 .green-red.com
 .green4762.com
@@ -27038,6 +27038,7 @@
 .highratecpm.com
 .highrevenuecpm.com
 .highrevenuecpmnetwork.com
+.highrevenueformat.com
 .highrevenuegate.com
 .highrevenuenetwork.com
 .highschoolscanada.ca
@@ -39243,6 +39244,7 @@
 .plockcomes.com
 .plodparticularly.com
 .plodroom.com
+.ploppedpipy.cyou
 .plorexdry.com
 .plottersprinters.com
 .ploughplbroch.com
@@ -50412,7 +50414,6 @@
 .vinhomesthanglong.asia
 .vinit.cloud
 .vinouscavish.com
-.vinstigo.com
 .vintagecartruckpartsshop.net
 .vintagerespectful.com
 .vinyl-wallpaper.xyz
