@@ -2783,7 +2783,6 @@
 .dns.yingroad.top
 .appart.yoannchappaz.best
 .com.you-seen.fr
-.net01.youcef.io
 .adguard.youler.com
 .dns.youni.win
 .guard.yps.tw
@@ -2823,7 +2822,6 @@
 .xyz3.zmjflow.com
 .dns.zmobiletech.com
 .online.zotio.ru
-.d.zscale.gq
 .httpdns.zybang.com
 .ams.core.access.zznet.fun
 .hkg.core.access.zznet.fun
@@ -3303,7 +3301,6 @@
 .yovbak.com
 .ys4.de
 .yundun.icu
-.yuvelirtut.website
 .zabolotskikh.dev
 .zakaria.website
 .zaziss.com
