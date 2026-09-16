@@ -1371,6 +1371,7 @@
 .doh.hugang8.cn
 .dns.huizegunsing.nl
 .dns.hujiayucc.cn
+.ads.hunga1k47.com
 .doth.huque.com
 .dns.huth.nu
 .v2-1.huwenqiang.xyz
@@ -1703,6 +1704,7 @@
 .dns.mafyuh.io
 .guard.magic-pics.tk
 .dns.mahiro.online
+.adhome.maige.fun
 .dns.mailcastle.in
 .dnsserver.mailchan.eu
 .dns.maitrekuc.fr
@@ -1766,6 +1768,7 @@
 .dns.mikopono.nl
 .rwkdwpwsyv48.mikopono.nl
 .dns.millernetwork.uk
+.aitkcrev.minhduc.pw
 .dns.mipauns.com
 .guard.miracloud.fr
 .netcup.mismat.ch
@@ -2755,6 +2758,7 @@
 .dns.xivilay.dev
 .dns.xlion.tw
 .doh.xorlet.ru
+.adgh.xrossj.top
 .look.xshentx.org
 .dns.xuming.studio
 .dns.xusqui.com
