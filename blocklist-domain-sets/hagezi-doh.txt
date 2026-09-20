@@ -2805,6 +2805,7 @@
 .dns.yu.dev
 .adguard.yuki2th.xyz
 .httpdns.yunxindns.com
+.dns.yunzheng.space
 .s1.yushuncompany.com
 .dns.yuu-g.net
 .dns.yuyz.net
@@ -2961,6 +2962,7 @@
 .digitallink.be
 .dingdangnao.com
 .disbish.com
+.dltuykfgp.top
 .dns.expert
 .dns.google
 .dns.pub
