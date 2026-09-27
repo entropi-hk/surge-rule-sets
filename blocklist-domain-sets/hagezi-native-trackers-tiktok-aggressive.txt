@@ -296,6 +296,7 @@
 .live-video-log16-normal-alisg.tiktokv.com
 .location.tiktokv.com
 .location.tiktokv.eu
+.location.tiktokv.us
 .location-i18n.tiktokv.com
 .location-ru.tiktokv.com
 .location-sg.tiktokv.com

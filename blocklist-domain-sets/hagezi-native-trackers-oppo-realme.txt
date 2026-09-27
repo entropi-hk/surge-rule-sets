@@ -306,6 +306,7 @@
 .ads-bdapi-ph.heytapmobile.com
 .ads-bdapi-th.heytapmobile.com
 .ads-bdapi-vn.heytapmobile.com
+.ads-cps-in.heytapmobile.com
 .adx-ads-fr.heytapmobile.com
 .adx-ads-ru.heytapmobile.com
 .adx-op-fr.heytapmobile.com

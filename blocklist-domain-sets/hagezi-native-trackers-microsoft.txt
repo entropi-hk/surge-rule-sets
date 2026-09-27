@@ -9,7 +9,6 @@
 .js0.tst.applicationinsights.io
 .js1.tst.applicationinsights.io
 .js2.tst.applicationinsights.io
-.api.applicationinsights.azure.cn
 .dc.applicationinsights.azure.cn
 .dc.applicationinsights.azure.us
 .in.applicationinsights.azure.cn
@@ -264,7 +263,6 @@
 .arc1.msn.com
 .arc2.msn.com
 .arc3.msn.com
-.arc5.msn.com
 .arc9.msn.com
 .confiant.msn.com
 .flex.msn.com
