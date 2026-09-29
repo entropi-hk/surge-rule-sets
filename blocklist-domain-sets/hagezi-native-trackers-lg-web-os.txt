@@ -68,6 +68,7 @@
 .eg-ad-lgsmartad-com.aws-prd.net
 .eg-info-lgsmartad-com.aws-prd.net
 .es-ad-lgsmartad-com.aws-prd.net
+.es-info-lgsmartad-com.aws-prd.net
 .et-ad-lgsmartad-com.aws-prd.net
 .eu7-info-lgsmartad-com.aws-prd.net
 .fi-ad-lgsmartad-com.aws-prd.net
@@ -223,7 +224,7 @@
 .wiseconfig.lgtvcommon.com
 .rdx2.lgtvsdp.com
 .rdx2.nextlgsdp.com
-.h4g3z1-native.lgwebos.web.app
+.h4g3z1-native-lgwebos.web.app
 .alphonso.tv
 .lgads.tv
 .lgsmartad.com

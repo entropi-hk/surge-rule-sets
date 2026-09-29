@@ -1034,6 +1034,7 @@
 .dns.efficientdocuments.com
 .cloud.efreakbnc.net
 .adguard.eischmann.cz
+.dns.ekinao.com
 .dd.elashri.net
 .hole.elbschloss.xyz
 .dns.electrotm.org
@@ -3170,6 +3171,7 @@
 .ntwrkh.pro
 .nwps.fi
 .o1.lt
+.obscuro.top
 .oculta.me
 .okado.online
 .oowo.de

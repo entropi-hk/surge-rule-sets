@@ -434,4 +434,4 @@
 .analytics-ie.tiktokw.eu.ttdns3.com
 .analytics-ttp2.tiktokw.eu.ttdns3.com
 .ad-instantpage.tiktokv.us.ttdns4.com
-.h4g3z1-native.tiktok.web.app
+.h4g3z1-native-tiktok.web.app

@@ -132,4 +132,4 @@
 .nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 .logserver.nzxcloud.cn
 .logservice.vmall.com
-.h4g3z1-native.huawei.web.app
+.h4g3z1-native-huawei.web.app

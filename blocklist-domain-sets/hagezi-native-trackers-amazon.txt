@@ -39,6 +39,7 @@
 .aax-fe.amazon-adsystem.com
 .aax-gamma-us-east.axp.amazon-adsystem.com
 .aax-ott-c2s.amazon-adsystem.com
+.aax-ott-sdk.amazon-adsystem.amazon.com
 .aax-ott-sdk.amazon-adsystem.com
 .aax-ott.amazon-adsystem.amazon.com
 .aax-ott.amazon-adsystem.com
@@ -181,7 +182,7 @@
 .fls-na.amazon.com.mx
 .fls-na.amazon.com
 .forester.a2z.com
-.h4g3z1-native.amazon.web.app
+.h4g3z1-native-amazon.web.app
 .identity.browserapps.amazon.de
 .imdb.amazon-adsystem.com
 .insights.video.a2z.com

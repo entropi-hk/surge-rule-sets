@@ -611,4 +611,4 @@
 .mcs-ie.tiktokw.eu.ttdns3.com
 .mcs-ie2.tiktokw.eu.ttdns3.com
 .ad-instantpage.tiktokv.us.ttdns4.com
-.h4g3z1-native.tiktok.extended.web.app
+.h4g3z1-native-tiktok-extended.web.app
