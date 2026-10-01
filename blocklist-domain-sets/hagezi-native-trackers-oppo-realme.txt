@@ -251,6 +251,7 @@
 .api-id.theme.heytapmobi.com
 .adm-smc-cn.heytapmobi.com
 .ads.heytapmobi.com
+.apisnd.heytapmobi.com
 .dc-dragate-cn.heytapmobi.com
 .dcc-awareness-cn.heytapmobi.com
 .iot-earbuds-cn.heytapmobi.com
