@@ -2173,7 +2173,6 @@
 .dns-privacy.puregeni.us
 .dns-uk.puregeni.us
 .adguard.pushedv.de
-.owa.pvmedia.ru
 .doh.pyry.me
 .at.pzhg.me
 .vpsus3.pzhg.me
@@ -2211,7 +2210,6 @@
 .zouter.zhang3118.qzz.io
 .home.r01.fr
 .resolver.r0cket.net
-.fi.r5acq.com
 .ad.r60.pl
 .resolve2.r9x.cc
 .h.ra3.in
@@ -2227,13 +2225,10 @@
 .emby.rasp.tv
 .ns2.ravdns.com
 .dns.rayanbab.com
-.dns.rayarksb.fun
 .azure.razor1911.xyz
 .dns.rbn.gr
-.searxng.rcxpony.name
 .adguard.rdekuyper.nl
 .dns.readlook.tk
-.agh.realwap.net
 .hk.reaticle.com
 .dns.redroot.cc
 .dns.redvau.lt
