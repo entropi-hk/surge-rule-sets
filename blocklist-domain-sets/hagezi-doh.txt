@@ -2311,7 +2311,6 @@
 .dns.sarilouis.com
 .dns.sark.dev
 .dns.homenet.saschagaspar.net
-.dns.satellite226.cloud
 .dns.sbstructure.ir
 .us.sc92.cn
 .dns.scapetical.com
@@ -2320,7 +2319,6 @@
 .dns.schlagheck.berlin
 .dns.schmidt-zoarn.de
 .moise-et-maurice-gardent-la-maison.schneiderus.org
-.dns1.schooldns.nl
 .dns.scott.ovh
 .dns.scott-smith.us
 .dns.sct-pro.com
@@ -2504,7 +2502,6 @@
 .d51538618.access.telenet.be
 .guard.telesterion.de
 .agh.srv.tenete.net
-.ag.teqilla.tk
 .apne1.dns.terumi.club
 .dns.soldier.terumi.club
 .dns.tesem.dog
@@ -2521,7 +2518,6 @@
 .blocker.thethorsens.org
 .dns.thezudrive.xyz
 .wg.thienhv.com
-.doh.thio.me
 .dns.thiz.top
 .dns.thore.cloud
 .doh.tiar.app
@@ -3182,14 +3178,12 @@
 .shalenkov.dev
 .shanghainese.uk
 .shitblocker.com
-.signsservers.ru
 .sitdns.com
 .skydragoness.com
 .smartcamp.su
 .smirnovfamily.ru
 .solaxy.live
 .spacedns.org
-.squidmall.vip
 .ssh-storage.ru
 .ssytnik.de
 .sterlingharris.com
