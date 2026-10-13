@@ -2576,7 +2576,6 @@
 .adguard.twotigers.xyz
 .dns.txq.life
 .ad.tzockt.beer
-.v1.ufamax.eu
 .blokuj.ujwie.co
 .nitter.ujwie.co
 .adguard.ulbricht.cloud
@@ -2616,7 +2615,6 @@
 .ad.viet.date
 .dns.vietdns.vn
 .kids.vietdns.vn
-.tls.vietguards.cloud
 .adsl.viettel.vn
 .dns2.vinc.me
 .dns.vinnyp.xyz
