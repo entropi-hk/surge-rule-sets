@@ -825,6 +825,7 @@
 .prg01.dnscry.pt
 .rdd01.dnscry.pt
 .rix01.dnscry.pt
+.sao01.dnscry.pt
 .sea01.dnscry.pt
 .sel02.dnscry.pt
 .sgn01.dnscry.pt
