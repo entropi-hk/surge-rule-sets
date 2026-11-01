@@ -38,7 +38,6 @@
 .search.demoniak.ch
 .librex.devol.it
 .searx.devol.it
-.searxng.diadz.de
 .search.disroot.org
 .searx.divided-by-zero.eu
 .search.dojoro.de
@@ -138,7 +137,6 @@
 .alltheinternet.com
 .andisearch.com
 .baidu.com
-.beezboo.com
 .blackle.com
 .boomle.com
 .dogpile.com

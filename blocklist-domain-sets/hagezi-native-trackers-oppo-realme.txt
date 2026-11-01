@@ -317,6 +317,7 @@
 .adx-u-in.heytapmobile.com
 .adx-u-ru.heytapmobile.com
 .adx-u-sg.heytapmobile.com
+.adxh3-op-sg.heytapmobile.com
 .adxu-bigo-sg.heytapmobile.com
 .bdapi-ads-sg.heytapmobile.com
 .browser-api-br.heytapmobile.com
