@@ -1880,7 +1880,6 @@
 .ag.marschi.de
 .dns.marschi.de
 .ddns.martinmore.online
-.adguard.marto.si
 .extra.mask.ad
 .standard.mask.ad
 .doh.maskab.com
@@ -1936,7 +1935,6 @@
 .guard.miracloud.fr
 .netcup.mismat.ch
 .httpdns.browser.miui.com
-.dns.miyun1.com
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mni.li
@@ -1956,7 +1954,6 @@
 .dns.moondip.net
 .dns.moonssif.com
 .dns.moonwx.net
-.akunamatata8888.mooo.com
 .disinformer.mooo.com
 .e23a.mooo.com
 .feellike.mooo.com
@@ -2159,7 +2156,6 @@
 .adguard.niko-sem.com
 .dnx.niko-sem.com
 .dns.ningkelle.id
-.dns.ninhs.org
 .doh.niyawe.de
 .dns.njal.la
 .daemonhunt.no-ip.org
@@ -2280,7 +2276,6 @@
 .dns.pacificmonster.com
 .dns.paesa.es
 .dns.paliska.net
-.adguard.pancybertronics.com
 .adguard.pangerl.it
 .dns.panszelescik.pl
 .dns-ovh.panszelescik.pl
@@ -3395,7 +3390,6 @@
 .mysolod.xyz
 .myv2ray.cn
 .n0.eu
-.n8nmegapixar.online
 .najiakeji.top
 .nelsonleung.org
 .nickcan.xyz
