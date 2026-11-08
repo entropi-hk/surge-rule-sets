@@ -571,7 +571,6 @@
 .cs.penoxal.com
 .cz.penoxal.com
 .at.pkajwb.shop
-.de.plantiter.shop
 .schluesseldienst.platz-1.at
 .media-markt.plumberstore.in
 .user.portal-zone.org
@@ -603,13 +602,11 @@
 .cs.russianpharmacy.net
 .shop.rzerzed.shop
 .jyskonlinemall.sa.com
-.sezaneclothingshop.sa.com
 .weleda.sa.com
 .fr.samtradefx.com
 .amiliah.schlafhalt.com
 .renleigh.schlafhalt.com
 .secure.selure.de
-.store.selvariveta.com
 .a.seven-st.com
 .shop.shinyhair.de
 .shop.shopcider.com
@@ -4704,6 +4701,7 @@
 .disdisbuy.com
 .disignletters.com
 .diskrete-apotheke.de
+.diskrete-apotheke24.de
 .disneykinder.de
 .distanceg.com
 .distant-lands.com
@@ -9015,6 +9013,8 @@
 .jorassicfruit.com
 .jordanat.at
 .jordanmania.de
+.jordanretro4.com
+.jordans-shoes.com
 .jordanstockx.com
 .jorisshop.de
 .josef-gartentechnik.de
@@ -10374,7 +10374,6 @@
 .loggiawelt.com
 .logic-work.com
 .logitechoutlet-eu.shop
-.lohmann-mode.de
 .lohr-treuhand.com
 .lojabrmetaversoline.com
 .lojaeconoshop.com
@@ -11638,6 +11637,7 @@
 .moonbootukstore.com
 .moonetrix.com
 .moongadgets.com
+.moongor.com
 .moonkie.de
 .moonpod.de
 .moontod.com
@@ -13460,7 +13460,6 @@
 .pnzietbd.shop
 .pocketdrugguide.com
 .pocketoption.fr
-.pockoo.de
 .pocrabatt.de
 .pocski.de
 .podomax.de
@@ -13508,7 +13507,6 @@
 .poolina.de
 .poollogin.com
 .poolsaunasupply.com
-.poolslot.org
 .poolzubehors.com
 .popalog.com
 .popcartruck.com
@@ -13560,7 +13558,6 @@
 .powersebike.com
 .powir-ski.shop
 .powitech.com
-.ppifxcxa.shop
 .pqhw.com
 .practs.de
 .praezisionswerkzeugbau.de
@@ -13629,7 +13626,6 @@
 .prikoqueron.com
 .primada.de
 .primalekarna.com
-.primary-markets.com
 .primatop.de
 .primavo24.de
 .prime-analytics.de
@@ -13689,7 +13685,6 @@
 .produkttests-sicherheitskamera.de
 .proeuromeds.com
 .proevery.com
-.prof-vet.com
 .profahrradteile.com
 .profi-entruempelung.at
 .profibaubedarf.com
@@ -13745,7 +13740,6 @@
 .protektorenprofi.shop
 .protetorsolarproacd.com
 .prothermwoodpellets.com
-.protmina.com
 .protosale.com
 .protrailermarkt.com
 .proupwholesale.com
@@ -13824,13 +13818,11 @@
 .qartelshop.com
 .qavelo.com
 .qcificspez.club
-.qddvpkbj.shop
 .qenova.com
 .qgripsearwax.com
 .qidjrs.shop
 .qidjrsgroup.shop
 .qihaobuy.com
-.qkblzvnk.shop
 .qlepy.com
 .qliopbn.forum
 .qnfreerypc.click
@@ -13856,8 +13848,6 @@
 .quantum-banc.world
 .quantumai.fr
 .quantumaiplatform.com
-.quantumprimeprofit.io
-.quantumtrade.co
 .quantumtrade.io
 .quantwise.ai
 .quantx-group.com
@@ -13876,7 +13866,6 @@
 .quellshop.de
 .quendora.com
 .quentisolarveix.de
-.quick-kredit.com
 .quickbills-online.com
 .quickdna.com
 .quickdocumentgenerator.com
@@ -13912,7 +13901,6 @@
 .rabattgabor.de
 .rabatthaustiers.com
 .rabattkorb.de
-.rabattlampen.com
 .rabattleuchten.de
 .rabattlloyd.de
 .rabattloewe.de
@@ -13921,7 +13909,6 @@
 .rabattpalm.de
 .rabattseafolly.de
 .rabattski.com
-.rabattskiausrustung.com
 .rabattskis.de
 .rabattsport.de
 .rabattstoves.de
@@ -13949,7 +13936,6 @@
 .radliebeshop.de
 .radmarkt-schaeler.de
 .radrudel.de
-.radselect.de
 .radsport-viernheim.de
 .radteil.de
 .radteiledeal.com
@@ -14006,7 +13992,6 @@
 .raumduftpflegebedarf.com
 .raumgartenwerk.de
 .raumnote.de
-.raumzauberde.com
 .ravenciax.shop
 .rawaqbeauty.com
 .raybansales.us
@@ -14113,7 +14098,6 @@
 .reings.store
 .reinhard-kanzlei.de
 .reinholdrasenmaher.com
-.reinholzexpress.com
 .reinigungszubehor.com
 .reinpeptid.de
 .reiseklarheit.de
@@ -14174,7 +14158,6 @@
 .replicakaufen.de
 .replicareview.io
 .replicasrelojes.to
-.replicaswatches.vip
 .replicauhren.be
 .replicauhren.kaufen
 .replicauhrenol.de
@@ -14249,7 +14232,6 @@
 .rheumatologie-wien.at
 .rhinoshopield.com
 .rhinoshopsystems.com
-.rhonetal-energieholz.com
 .ri-lieeoodu.com
 .riballi.com
 .ricadihotelspage.com
@@ -14258,7 +14240,6 @@
 .ricemly.com
 .richagloves.com
 .richardcasino-online.de
-.richardkellenbergerlaw.com
 .richardtea.eu
 .richepet.net
 .richmond365.com
@@ -14267,7 +14248,6 @@
 .rickoshop.org
 .rideessence.com
 .ridefusiongear.com
-.ridegefuhl.de
 .ridelbergu.de
 .riderhorsesupplies.com
 .ridersdeals.com
@@ -14284,7 +14264,6 @@
 .riekerschuhe.at
 .rifereestore.shop
 .rigebnqe.shop
-.rigotkamin.com
 .rihilozavoradvisorynet.digital
 .rikoltoy.com
 .rileyheftman.shop
@@ -14342,11 +14321,9 @@
 .roborockosterreich.at
 .roborocks.at
 .roborocks.de
-.robosparkinvestor.de
 .robot-tonde-aspir.com
 .robotikstore.com
 .robottagliaerbascontato.com
-.robottonte.com
 .robotxmarkt.de
 .robozen-fx.com
 .robustwerkzeug.com
@@ -14381,7 +14358,6 @@
 .roiochern.shop
 .roleo.net
 .rolex-replica.to
-.rolexwanduhr.de
 .rolexyeals.com
 .rolla.store
 .rolladen-rudolf.at
@@ -14406,7 +14382,6 @@
 .romebridal.com
 .romeooo.com
 .romodana.de
-.romy-dortmund.de
 .romy-frieder.de
 .ronado.de
 .ronain.com
@@ -14455,7 +14430,6 @@
 .roullei.com
 .roussebois.com
 .routehygge.co
-.routinefashiones.com
 .rovantar.com
 .rovux.co
 .rowentaelektro.com
@@ -14502,10 +14476,8 @@
 .rumplierorbit.click
 .runaivete.com
 .rundfunkbeitrag-portal-online.de
-.rundfunkbeitragonline.de
 .rundfunkbeitragsserviceonline.de
 .rundfunkportal.de
-.rundholzdirekt.de
 .rundumstrikot.de
 .runrigstack.click
 .runstor.shop
@@ -14513,7 +14485,6 @@
 .rupills.com
 .rusin-anwaelte.de
 .rusin-recht.de
-.russellandbromley.de
 .russiannewstoday.com
 .russianpharmacy.org
 .russmohl.de
@@ -14539,7 +14510,6 @@
 .ryderwearjapan.com
 .ryderwearjapann.com
 .ryse-marketing.com
-.rytewerkone.com
 .rzpellet.at
 .s--s--s.com
 .s-gamez.shop
@@ -14681,7 +14651,6 @@
 .sarahrmeyer.com
 .saramaud.com
 .sarasohaus.com
-.sarl-castelmag.com
 .sarlcresmar.com
 .sarlprofildiffusion.com
 .saroni-handel.de
@@ -14790,7 +14759,6 @@
 .schmiedemode.de
 .schmierstoffede.com
 .schmit-mode.com
-.schmodts.shop
 .schmoelzer-appartements.com
 .schmuck-eva.com
 .schmuckbandknopf.shop
@@ -14815,7 +14783,6 @@
 .schoeppe-heizoel.de
 .schokobold.shop
 .scholarathelite.com
-.schonentag.online
 .schoneswetter.de
 .schonique.com
 .schraderbilliger.com
@@ -14836,7 +14803,6 @@
 .schuhewienshoponline.com
 .schuhhaus-greten.de
 .schuhheld.com
-.schuhkomfort.shop
 .schuhwelten.com
 .schulfabrik.shop
 .schulte-boutique.de
@@ -14865,7 +14831,6 @@
 .schwedler-apotheken.de
 .schweibenprofi.com
 .schweiss-shopo.shop
-.schweizer-modewelt.com
 .schwengo-shop.shop
 .schwesterherz-maedchenflohmarkt.de
 .schwfoto.com
@@ -14876,8 +14841,6 @@
 .sciencefactoryshop.de
 .scieriesaugues.de
 .scinpan.com
-.sciponoe.com
-.sciscirc.com
 .scontainer-logististikgmbh.de
 .scooter-chip.de
 .scooterboardwelt.com
@@ -14888,7 +14851,6 @@
 .scoutandspark.shop
 .scpieurope.com
 .screenacy.co
-.screenfreedays.com
 .screenmysleep.com
 .screenwithenvy.de
 .scremorques.com
@@ -14896,7 +14858,6 @@
 .sculpturk.com
 .sdhguy.com
 .sdjiy.shop
-.sdjqepyr.shop
 .sdk-transport.com
 .se-sthqntm-64.com
 .se-vignette-france.com
@@ -14905,11 +14866,9 @@
 .seagulltrans.com
 .seak-store.de
 .sealedawaygaming.com
-.seashepherdstore.shop
 .seasonsbeauty.de
 .sebagoantwerpen.com
 .sebagobruxelles.com
-.sebagodeckshoesireland.com
 .sebagoschoenen.com
 .sebastian-stenzel.de
 .seccshop.com
@@ -14980,7 +14939,6 @@
 .sereneify.com
 .serenitybookshop.com
 .serenitybot.com
-.serenomaison.com
 .serentia-shop.com
 .serndalle.com
 .serolulimited.com
@@ -15157,7 +15115,6 @@
 .shopnavali.com
 .shopofeurope.com
 .shopoutdoorwears.com
-.shopoutletstore.shop
 .shopovia.de
 .shoppalmettomoon.com
 .shoppawsclaws.com
@@ -15205,7 +15162,6 @@
 .shopvivar.ch
 .shopwa.net
 .shopwecro.shop
-.shopwesternhats.com
 .shopwineoutlet.com
 .shopwithme.biz
 .shopyalili.com
@@ -15226,7 +15182,6 @@
 .siaeglisiwoodltd.com
 .siamrose.com
 .siaoryne.com
-.sicher-oel.de
 .sideinstaller.com
 .sidelinejerseys.com
 .sidetableheim.com
@@ -15250,7 +15205,6 @@
 .silksilkyi.com
 .silkstocking.de
 .silkysmoothhobbeautyandbabershop.com
-.silmerthal.com
 .silnymuz.com
 .siltydagger.com
 .silux.shop
@@ -15260,7 +15214,6 @@
 .simonbois.de
 .simpfit.com
 .simple-kool.com
-.simpleartly.com
 .simplecircle.net
 .simplecoffee.ch
 .simpledancing.com
@@ -15331,7 +15284,6 @@
 .skvurthalen.at
 .sky-trikot-shop.de
 .skylinefx.co
-.skynore.de
 .skyrro.com
 .skysupp.com
 .skyvault.ltd
@@ -15535,9 +15487,7 @@
 .solidinvest.co
 .solidmado.shop
 .solilono.shop
-.solisliving.shop
 .solisofswitzerland.shop
-.solisway.shop
 .sollivanshop.com
 .soloctfurniturestore.shop
 .solofa.de
@@ -15552,7 +15502,6 @@
 .solovairchile.net
 .solovairgreece.net
 .solovairschuhe.com
-.solovairschuhede.de
 .solovairshop.com
 .solovairwien.at
 .solroyal-shopo.shop
@@ -15566,7 +15515,6 @@
 .somni-ring.com
 .somnisleepstore.com
 .somviro.com
-.sonetiacrcb.shop
 .soniazagreb.com
 .sonilo.shop
 .sonnenheld.at
@@ -15593,8 +15541,6 @@
 .sorbas-grill.de
 .sorbery.com
 .soreano.de
-.sorelschoenen.com
-.sorelschweiz.com
 .sortyniva.com
 .sorvelutik.com
 .sorvelutik.net
@@ -15630,7 +15576,6 @@
 .spartathleticstore.com
 .sparzinsvergleich.de
 .spazioconcept.com
-.spconnect.shop
 .spd-mossautal.de
 .special-gift.it
 .specialitg.com
@@ -15650,7 +15595,6 @@
 .speculaten.com
 .spedition-thiemann.de
 .spedition-tml.de
-.speditionspellets.com
 .speechfaith.com
 .speed-gaming.com
 .speed-information.com
@@ -15661,7 +15605,6 @@
 .speelgoed-outlet.com
 .speelwereld.shop
 .speichern-fahrrad.com
-.spejdersportolinevip.com
 .sperry-deutschland.com
 .spessirtbrett.com
 .spezialwerkzeug-profi.com
@@ -15684,7 +15627,6 @@
 .spielzeugautosrabatt.com
 .spielzeugautowelt.com
 .spielzeugeneu.de
-.spielzeugopapop.shop
 .spielzeugserie.com
 .spigendeutschlandshop.com
 .spiilispezi.com
@@ -15752,7 +15694,6 @@
 .sppulsar.shop
 .sprachgenie.at
 .sprachreiseshop.de
-.spraygrounds.de
 .sprayitonyou.com
 .spreach.de
 .sprengler-direkt.de
@@ -16342,7 +16283,6 @@
 .teameffekt.de
 .teamstryk.de
 .tebla.de
-.tech-outlet.site
 .tech-solutions.store
 .tech-vitals.com
 .techdachs.de
@@ -17552,6 +17492,7 @@
 .verlagheyno.shop
 .verlinggroup.com
 .vermoegenstreuhand-stuttgart.de
+.vernaschediewelt.com
 .vernixo.info
 .veroshell.com
 .versand-kaufhaus.de
