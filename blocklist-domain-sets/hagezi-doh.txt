@@ -1530,6 +1530,7 @@
 .hr.i81.ru
 .vd.i81.ru
 .aq.iaalai.cn
+.dns.iakovf1.com
 .dns.iamanuragh.in
 .dns.iamninja.ru
 .sec.iamninja.ru
@@ -3341,6 +3342,7 @@
 .larkin.wang
 .lastentarvike.fi
 .le-mesle.fr
+.ledns.eu
 .leecurrylawfirm.com
 .lelux.fi
 .lesuo.top
@@ -3354,7 +3356,9 @@
 .lukscasino-929-tr.xyz
 .lunar-dns.de
 .mabuktogel.business
+.mabuktogel.marketing
 .mabuktogel.properties
+.mabuktogel.solutions
 .maherhost.uk
 .maincloud.ir
 .mak-na.ru
