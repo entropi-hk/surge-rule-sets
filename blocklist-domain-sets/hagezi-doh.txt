@@ -58,7 +58,6 @@
 .xjpdns.354688.xyz
 .doh.360.cn
 .dot.360.cn
-.doh.361.best
 .adns.3am.la
 .dns.3dcapitaltrust.net
 .adg.3k.work
@@ -1100,7 +1099,6 @@
 .rafi.dynns.com
 .adguard.ekhozie.dynu.net
 .ccadguard.dynu.net
-.flyloadguard.dynu.net
 .quangdo92.dynu.net
 .gustamadh.dynv6.net
 .dns.dynx.pro
@@ -1596,7 +1594,6 @@
 .dns.invent.hr
 .dns.dugi.io.vn
 .dns.cloud.ionutl.ro
-.serv0.ingener002.ip-dynamic.org
 .kino.ipcon9886546.space
 .dns.ipoac.nl
 .dns.qiyipic.iqiyi.com
@@ -1862,7 +1859,6 @@
 .mimir.magicaobscura.de
 .dns.mahiro.online
 .adhome.maige.fun
-.dns.mailcastle.in
 .dnsserver.mailchan.eu
 .dns.maitrekuc.fr
 .dns.malhuda.com
@@ -1928,7 +1924,6 @@
 .rwkdwpwsyv48.mikopono.nl
 .dns.millernetwork.uk
 .color.mine.bz
-.nl-nod2.mineweb.cc
 .aitkcrev.minhduc.pw
 .dns.mipauns.com
 .guard.miracloud.fr
@@ -2408,6 +2403,7 @@
 .dns12.quad9.net
 .dns13.quad9.net
 .dns9.quad9.net
+.doh-mullvad.quad9.net
 .dns.quanhd.net
 .dns.quickline.ch
 .doh.quickline.ch
@@ -2444,7 +2440,6 @@
 .adguard.rdekuyper.nl
 .1.rdnls.ru
 .hk.reaticle.com
-.adg.rednetline.com
 .dns.redroot.cc
 .dns.redvau.lt
 .cdn.refined.pro
@@ -2491,7 +2486,6 @@
 .vps-1a.rokian.net
 .vps-1b.rokian.net
 .dns.romain.tech
-.dns.romareyme.online
 .dns.ronc.ru
 .vps1.rootax.org
 .vps2.rootax.org
@@ -3260,10 +3254,8 @@
 .gammesfeld.eu
 .genscorp.es
 .getdnsapi.net
-.gibblets.top
 .gigatapbot.top
 .gl33tch.pro
-.glacius.top
 .globalcloud.ir
 .goldview.in
 .golegana.de
@@ -3294,7 +3286,6 @@
 .ib.systems
 .iij.jp
 .ikarosalpha.xyz
-.imperio.top
 .incaseineeditoneday.com
 .inpssh.online
 .intertop.link
@@ -3356,6 +3347,7 @@
 .lukscasino-929-tr.xyz
 .lunar-dns.de
 .mabuktogel.business
+.mabuktogel.cards
 .mabuktogel.marketing
 .mabuktogel.properties
 .mabuktogel.solutions
