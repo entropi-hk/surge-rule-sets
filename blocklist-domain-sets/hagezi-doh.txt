@@ -1115,6 +1115,7 @@
 .dns.edc-pws.com
 .dns.eddi.net
 .doh.eddi.net
+.dns.edgeburnmedia.com
 .dns.edgeworkssystems.ca
 .doh.edifiels.ru
 .dns.edison42.dev
@@ -1194,7 +1195,6 @@
 .tartanbahn.eu.org
 .v2rich.eu.org
 .yanggan.eu.org
-.vm596152.eurodir.ru
 .exns1.exalto.nu
 .dns.exhome.pl
 .adguard.eximpius.xyz
@@ -1680,7 +1680,6 @@
 .addns.jujuland.net
 .dns.jundev.org
 .dns.jungle-im.ir
-.dns.jupitrdns.com
 .sgs02.just-a-web.com
 .ad.justincounts.com
 .dns.justinnetworkingsolutions.com
@@ -1879,7 +1878,6 @@
 .dns.mateo.ovh
 .dns.mathewakhil.online
 .rasp.matthias-iwer.de
-.dns.matthias-prost.com
 .dns.maybe.icu
 .dns.mayr.ws
 .dns.mbrjun.cn
@@ -1926,7 +1924,6 @@
 .guard.miracloud.fr
 .netcup.mismat.ch
 .httpdns.browser.miui.com
-.dns.miyun1.com
 .doh.mmmalia.com
 .dns.mnet-online.de
 .dns.mni.li
@@ -1946,7 +1943,6 @@
 .dns.moondip.net
 .dns.moonssif.com
 .dns.moonwx.net
-.disinformer.mooo.com
 .e23a.mooo.com
 .feellike.mooo.com
 .helsh0ru5.mooo.com
@@ -2118,7 +2114,6 @@
 .dns.netvpn.net
 .cube.neubsi.at
 .dns.neubsi.at
-.dns.neutopia.org
 .doh.nexen.cloud
 .doh.luigi.nexific.it
 .anycast.nextdns.io
@@ -2297,6 +2292,13 @@
 .dns.pgnhatrang.com
 .dns.phillipjberry.net
 .doh.centraleu.pi-dns.com
+.dot.centraleu.pi-dns.com
+.dot.eastas.pi-dns.com
+.doh.eastau.pi-dns.com
+.dot.eastau.pi-dns.com
+.dot.eastus.pi-dns.com
+.doh.westus.pi-dns.com
+.doh.pi-dns.com
 .adguard.piekacz.pl
 .dns.pierzchlewicz.pl
 .dns.pieterdherde.com
@@ -2446,7 +2448,6 @@
 .dns.reolinks.ru
 .dns.repinger.com
 .dns.repressoh.it
-.wg.req1.fr
 .x.res.wang
 .dns.resoft.org
 .dnspub.restena.lu
@@ -3109,7 +3110,6 @@
 .amazonka7.ru
 .an81dns.ru
 .andrewnw.xyz
-.andrey93rus.ru
 .angrysky.ru
 .anixlab.com
 .applied-privacy.net
@@ -3497,7 +3497,6 @@
 .trovs.ru
 .truta.org
 .tujenasnaszato.xyz
-.tuskythehusky.tech
 .twoncorgi.su
 .typaza.com
 .ublockdns.com
