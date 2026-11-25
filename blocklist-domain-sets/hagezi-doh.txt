@@ -1657,7 +1657,6 @@
 .adguard.jodatacenter.com
 .dns.joey01245.nl
 .dmjp.joeyl.de
-.adguard.johanliebert.top
 .dns.johndave.me
 .child.joindns4.eu
 .child-noads.joindns4.eu
@@ -2293,11 +2292,17 @@
 .dns.phillipjberry.net
 .doh.centraleu.pi-dns.com
 .dot.centraleu.pi-dns.com
+.doh.eastas.pi-dns.com
 .dot.eastas.pi-dns.com
 .doh.eastau.pi-dns.com
 .dot.eastau.pi-dns.com
+.doh.eastus.pi-dns.com
 .dot.eastus.pi-dns.com
+.doh.northeu.pi-dns.com
+.dot.northeu.pi-dns.com
+.doh.westeu.pi-dns.com
 .doh.westus.pi-dns.com
+.dot.westus.pi-dns.com
 .doh.pi-dns.com
 .adguard.piekacz.pl
 .dns.pierzchlewicz.pl
@@ -2681,6 +2686,7 @@
 .dns.sv-zauner.at
 .dns.svoi.dev
 .vps.swhome.by
+.dns.swin.pro
 .dns.switch.ch
 .dns-cache.switch.ch
 .dns-cache2.switch.ch
